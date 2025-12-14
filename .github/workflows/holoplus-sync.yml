@@ -2,8 +2,8 @@ name: Holoplus Sync
 
 on:
   schedule:
-    # 3 分おきに実行
-    - cron: "*/3 * * * *"
+    # 5 分おきに実行
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 permissions:
