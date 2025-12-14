@@ -1,0 +1,1087 @@
+[
+  {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "a9397812-cce8-426a-9630-6c9826168087",
+    "thread": {
+      "id": "a9397812-cce8-426a-9630-6c9826168087",
+      "created_at": 1765686066,
+      "updated_at": 1765731599,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/a9397812-cce8-426a-9630-6c9826168087/original.jpeg"
+      ],
+      "reaction_total": 26154,
+      "reply_count": 66,
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "アレルギー検査衝撃の結果",
+      "body": "アレルギー検査結果発表した切り抜きがあがりました！感想はこちらにまってます⬇️\nhttps://youtube.com/shorts/sozsEQZL0i4?si=MnWYogA5n3N6NUNM",
+      "translations": {
+        "ja": {
+          "title": "アレルギー検査衝撃の結果",
+          "body": "アレルギー検査結果発表した切り抜きがあがりました！感想はこちらにまってます⬇️\nhttps://youtube.com/shorts/sozsEQZL0i4?si=MnWYogA5n3N6NUNM"
+        },
+        "en": {
+          "title": "Shocking Allergy Test Results",
+          "body": "A clip announcing my allergy test results is now up! I'm waiting for your thoughts here ⬇️\nhttps://youtube.com/shorts/sozsEQZL0i4?si=MnWYogA5n3N6NUNM"
+        },
+        "id": {
+          "title": "Hasil Tes Alergi yang Mengejutkan",
+          "body": "Klip yang mengumumkan hasil tes alergi saya sudah tayang! Saya menunggu tanggapan kalian di sini ⬇️\nhttps://youtube.com/shorts/sozsEQZL0i4?si=MnWYogA5n3N6NUNM"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "64DD1923-CD81-432F-B4B8-B4C870373A8B",
+    "channel_name": "ロボ子さん",
+    "thread_id": "15590eb1-d248-40a9-b8a3-3b44106d2ee1",
+    "thread": {
+      "id": "15590eb1-d248-40a9-b8a3-3b44106d2ee1",
+      "created_at": 1765671316,
+      "updated_at": 1765732179,
+      "reaction_total": 32075,
+      "reply_count": 78,
+      "talents": [
+        {
+          "id": "f4574895-c0fe-4b0f-825d-c4199bc6d66f",
+          "name": "ロボ子さん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png",
+          "key_name": "robocosan"
+        }
+      ],
+      "user": {
+        "id": "e6c46d5c-574e-466b-a45f-371ad10aaa02",
+        "name": "ロボ子さん",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "明日はゴリポンゲス侍ー！買い出し……",
+      "body": "なぜか不安になる買い出しがかりのボク\n16日は昼からゴリポンゲス侍で革命クッキング(:3_ヽ)_\n",
+      "translations": {
+        "ja": {
+          "title": "明日はゴリポンゲス侍ー！買い出し……",
+          "body": "なぜか不安になる買い出しがかりのボク\n16日は昼からゴリポンゲス侍で革命クッキング(:3_ヽ)_\n"
+        },
+        "en": {
+          "title": "Tomorrow is Goripon Gesu Samurai! Shopping run...",
+          "body": "For some reason, I, the one in charge of shopping, feel uneasy.\nOn the 16th, from noon, it's 'Goripon Gesu Samurai' for revolutionary cooking (:3_ヽ)_\n"
+        },
+        "id": {
+          "title": "Besok adalah Goripon Gesu Samurai! Belanja...",
+          "body": "Entah kenapa, aku yang bertugas belanja ini merasa cemas.\nTanggal 16, mulai siang, ada 'Goripon Gesu Samurai' untuk masak-masak revolusioner (:3_ヽ)_\n"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/4c94941a-78b3-4c98-a66b-2b61c73849e8.m4a"
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "02695f73-d005-4327-93d2-a614a6e8cb25",
+    "thread": {
+      "id": "02695f73-d005-4327-93d2-a614a6e8cb25",
+      "created_at": 1765619338,
+      "updated_at": 1765729509,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/02695f73-d005-4327-93d2-a614a6e8cb25/original.jpeg"
+      ],
+      "reaction_total": 30259,
+      "reply_count": 90,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "IKURA DON⁉️🤤💕",
+      "body": "I love eating Ikura weather in a gunkan or sashimi, but I always feel like there's not enough...\n\nBut then I found a place that sells Ikura Don!! 🤯🤯\n\nOllie ate happily today 💖✨️",
+      "translations": {
+        "ja": {
+          "title": "いくら丼⁉️🤤💕",
+          "body": "いくらは軍艦でも刺身でも食べるのが大好きなんだけど、いつも足りないって思っちゃうんだよね…\n\nでも、いくら丼を売ってるお店を見つけちゃったの！！🤯🤯\n\n今日はハッピーに食べたよ💖✨️"
+        },
+        "en": {
+          "title": "IKURA DON⁉️🤤💕",
+          "body": "I love eating Ikura weather in a gunkan or sashimi, but I always feel like there's not enough...\n\nBut then I found a place that sells Ikura Don!! 🤯🤯\n\nOllie ate happily today 💖✨️"
+        },
+        "id": {
+          "title": "IKURA DON⁉️🤤💕",
+          "body": "Aku suka makan Ikura, baik itu dalam bentuk gunkan atau sashimi, tapi aku selalu merasa kurang...\n\nTapi kemudian aku menemukan tempat yang menjual Ikura Don!! 🤯🤯\n\nOllie makan dengan senang hati hari ini 💖✨️"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
+    "channel_name": "ときのそら",
+    "thread_id": "80af62d3-204b-4521-b83e-4f43dbaa4e16",
+    "thread": {
+      "id": "80af62d3-204b-4521-b83e-4f43dbaa4e16",
+      "created_at": 1765585894,
+      "updated_at": 1765730229,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/80af62d3-204b-4521-b83e-4f43dbaa4e16/original.jpeg"
+      ],
+      "reaction_total": 40680,
+      "reply_count": 83,
+      "talents": [
+        {
+          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
+          "name": "ときのそら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
+          "key_name": "tokino_sora"
+        }
+      ],
+      "user": {
+        "id": "fba971c0-a958-4d6d-bb6f-21a6e7a04f8b",
+        "name": "ときのそら",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ライブ一般販売はじまった！",
+      "body": "イェーイ！！\n昨日から一般販売はじまったよ💕\n昼夜合わせて\n\n✨１日で40曲くらい\n✨セットリストはほぼ違います\n✨ほとんどの曲振付あります\n✨カバー曲もやれたらいいねの気分\n✨いろんな衣装着たい気分\n\n先着だよ！\nどの公演も2枚までに変わってますー。\n学割席は5150円なのだ‎( `･ㅂ･)و\n\n🎀チェックしてね🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV",
+      "translations": {
+        "ja": {
+          "title": "ライブ一般販売はじまった！",
+          "body": "イェーイ！！\n昨日から一般販売はじまったよ💕\n昼夜合わせて\n\n✨１日で40曲くらい\n✨セットリストはほぼ違います\n✨ほとんどの曲振付あります\n✨カバー曲もやれたらいいねの気分\n✨いろんな衣装着たい気分\n\n先着だよ！\nどの公演も2枚までに変わってますー。\n学割席は5150円なのだ‎( `･ㅂ･)و\n\n🎀チェックしてね🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV"
+        },
+        "en": {
+          "title": "General Ticket Sales for the Live Show Have Begun!",
+          "body": "Yay!!\nGeneral sales started yesterday💕\nFor both day and night shows, expect:\n\n✨Around 40 songs in one day\n✨Setlists are mostly different\n✨Most songs have choreography\n✨Feeling like it'd be nice to do cover songs too\n✨Feeling like I want to wear various outfits\n\nIt's first-come, first-served!\nThe limit has changed to 2 tickets per show.\nStudent discount seats are 5150 yen! ‎( `･ㅂ･)و\n\n🎀Check it out🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV"
+        },
+        "id": {
+          "title": "Penjualan Tiket Umum untuk Konser Sudah Dimulai!",
+          "body": "Yey!!\nPenjualan umum sudah dimulai sejak kemarin💕\nUntuk pertunjukan siang dan malam, akan ada:\n\n✨Sekitar 40 lagu dalam sehari\n✨Setlist sebagian besar berbeda\n✨Sebagian besar lagu ada koreografinya\n✨Merasa senang kalau bisa membawakan lagu cover juga\n✨Merasa ingin memakai berbagai kostum\n\nSiapa cepat dia dapat!\nBatasan tiket sudah berubah jadi 2 lembar per pertunjukan.\nKursi diskon pelajar 5150 yen! ‎( `･ㅂ･)و\n\n🎀Cek ya🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/9644b6ce-02dd-4acc-8c66-97730dfa250c.m4a"
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "8a9c5ad0-caf4-4353-85a1-96dabda57034",
+    "thread": {
+      "id": "8a9c5ad0-caf4-4353-85a1-96dabda57034",
+      "created_at": 1765429710,
+      "updated_at": 1765732179,
+      "reaction_total": 80857,
+      "reply_count": 123,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ホロプラスにて募集中✨️",
+      "body": "お写真募集系にピッタリなホロプラスを早速活用じゃい🦊✨\n現在、【ホロフレ×冬】というテーマにてお写真を募集しております‼️\n\n全タレントのホロフレが対象です✨(๑°ㅁ°๑)✨\n最高の1枚をお待ちしてます👍🌟\n\n私の判断ではございますが最も素晴らしいと思ったお写真には\n優勝商品として白上のホロフレをプレゼント予定です🎁🦊\n\nホロフレとの冬を感じる1枚をよろしくお願いします👏",
+      "translations": {
+        "ja": {
+          "title": "ホロプラスにて募集中✨️",
+          "body": "お写真募集系にピッタリなホロプラスを早速活用じゃい🦊✨\n現在、【ホロフレ×冬】というテーマにてお写真を募集しております‼️\n\n全タレントのホロフレが対象です✨(๑°ㅁ°๑)✨\n最高の1枚をお待ちしてます👍🌟\n\n私の判断ではございますが最も素晴らしいと思ったお写真には\n優勝商品として白上のホロフレをプレゼント予定です🎁🦊\n\nホロフレとの冬を感じる1枚をよろしくお願いします👏"
+        },
+        "en": {
+          "title": "Now Recruiting on holoplus✨️",
+          "body": "I'm immediately making use of holoplus, which is perfect for photo submission events!🦊✨\nCurrently, we are looking for your photos with the theme 'Holofure x Winter'‼️\n\nHolofure of all talents are eligible!✨(๑°ㅁ°๑)✨\nWe're looking forward to your best shot!👍🌟\n\nThough it's my personal judgment, the photo I deem most outstanding will receive Shirakami's Holofure as a prize!🎁🦊\n\nPlease send us a photo that captures the feeling of winter with your Holofure!👏"
+        },
+        "id": {
+          "title": "Sedang Merekrut di holoplus✨️",
+          "body": "Aku langsung memanfaatkan holoplus, yang cocok banget buat event pengumpulan foto!🦊✨\nSaat ini, kami sedang mencari foto-foto kalian dengan tema 'Holofure x Musim Dingin'‼️\n\nHolofure dari semua talent memenuhi syarat!✨(๑°ㅁ°๑)✨\nKami menantikan foto terbaik kalian!👍🌟\n\nMeskipun ini berdasarkan penilaian pribadiku, foto yang menurutku paling luar biasa akan mendapatkan Holofure Shirakami sebagai hadiah!🎁🦊\n\nMohon kirimkan foto yang menangkap nuansa musim dingin bersama Holofure kalian!👏"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "64B4F01C-8906-425D-81A2-268C8E920E64",
+    "channel_name": "風真いろは",
+    "thread_id": "028c4891-801c-40bb-8073-f04aa2d9afd7",
+    "thread": {
+      "id": "028c4891-801c-40bb-8073-f04aa2d9afd7",
+      "created_at": 1765193723,
+      "updated_at": 1765728979,
+      "reaction_total": 75090,
+      "reply_count": 157,
+      "talents": [
+        {
+          "id": "5ef4d51e-d9d6-4582-900c-81d36b5d0576",
+          "name": "風真いろは",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kazama_iroha/icon.png",
+          "key_name": "kazama_iroha"
+        }
+      ],
+      "user": {
+        "id": "804188bc-3e14-417b-844c-964a2ae7b27d",
+        "name": "風真いろは",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kazama_iroha/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "どっちが「風真いろは」を多く出せる？",
+      "body": "[[holoplus_survey_start]]\nA. AZKiの勝ち\nB. 風真いろはの勝ち\nC. 引き分け\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "どっちが「風真いろは」を多く出せる？",
+          "body": "[[holoplus_survey_start]]\nA. AZKiの勝ち\nB. 風真いろはの勝ち\nC. 引き分け\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Who can say \"Kazama Iroha\" more times?",
+          "body": "[[holoplus_survey_start]]\nA. AZKi wins\nB. Kazama Iroha wins\nC. Draw\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Siapa yang bisa menyebut \"Kazama Iroha\" lebih banyak?",
+          "body": "[[holoplus_survey_start]]\nA. AZKi menang\nB. Kazama Iroha menang\nC. Seri\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "DA6633B6-14B7-4FE4-BC1E-6B2BE58B5077",
+    "channel_name": "AZKi",
+    "thread_id": "06bd5fe9-a110-4f79-9446-27ce0a27548f",
+    "thread": {
+      "id": "06bd5fe9-a110-4f79-9446-27ce0a27548f",
+      "created_at": 1765192871,
+      "updated_at": 1765724079,
+      "reaction_total": 68185,
+      "reply_count": 149,
+      "talents": [
+        {
+          "id": "400b93ad-2dd0-4303-acbc-d0207c202118",
+          "name": "AZKi",
+          "img_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png",
+          "key_name": "azki"
+        }
+      ],
+      "user": {
+        "id": "822f4e4b-ecaf-4924-ac0b-39efc951a9fb",
+        "name": "AZKi",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ホロカにゅーすLIVE 第2問　SP推しスキルは？",
+      "body": "[[holoplus_survey_start]]\nA. シャイニングぴかぴかござる\nB. クイックスピードちゃきちゃきござる\nC. アルティメットつよつよござる\nD. デリケートへなへなござる\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "ホロカにゅーすLIVE 第2問　SP推しスキルは？",
+          "body": "[[holoplus_survey_start]]\nA. シャイニングぴかぴかござる\nB. クイックスピードちゃきちゃきござる\nC. アルティメットつよつよござる\nD. デリケートへなへなござる\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Holoca News LIVE - Question 2: What's your SP Oshi Skill?",
+          "body": "[[holoplus_survey_start]]\nA. Shining Sparkling Gozaru\nB. Quick Speed Brisk Gozaru\nC. Ultimate Super Strong Gozaru\nD. Delicate Flimsy Gozaru\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Holoca News LIVE - Pertanyaan 2: Apa Skill Oshi SP-mu?",
+          "body": "[[holoplus_survey_start]]\nA. Berkilau-kilau Gozaru\nB. Kecepatan Cepat Tangkas Gozaru\nC. Ultimate Super Kuat Gozaru\nD. Lembut Lembek Gozaru\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "4AF109EC-FDC3-4070-AFF8-6AEFFFDC396D",
+    "channel_name": "角巻わため",
+    "thread_id": "7e0b0346-9116-4469-83bb-e7a1753b01b1",
+    "thread": {
+      "id": "7e0b0346-9116-4469-83bb-e7a1753b01b1",
+      "created_at": 1765158999,
+      "updated_at": 1765724439,
+      "reaction_total": 135656,
+      "reply_count": 494,
+      "talents": [
+        {
+          "id": "c5a07d80-0d02-4167-89e2-06faeed5bcab",
+          "name": "角巻わため",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png",
+          "key_name": "tsunomaki_watame"
+        }
+      ],
+      "user": {
+        "id": "cbce1653-1882-45a1-b0bb-99ea226e96da",
+        "name": "角巻わため",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "聞いてくれえええええええ",
+      "body": "初のボイス投稿🎙️",
+      "translations": {
+        "ja": {
+          "title": "聞いてくれえええええええ",
+          "body": "初のボイス投稿🎙️"
+        },
+        "en": {
+          "title": "Listen to thisssssssssss",
+          "body": "My first voice post 🎙️"
+        },
+        "id": {
+          "title": "Dengarkan iniiiiiiiiiii",
+          "body": "Unggahan suara pertamaku 🎙️"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/4e451a82-85a3-4269-8ae4-0883a71b3a43.m4a"
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "6ACF69D8-97B8-4B11-9375-F7AEF7B1F059",
+    "channel_name": "さくらみこ",
+    "thread_id": "31e00f84-da6e-4ae4-8479-634aa0f822b0",
+    "thread": {
+      "id": "31e00f84-da6e-4ae4-8479-634aa0f822b0",
+      "created_at": 1764995722,
+      "updated_at": 1765732219,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/31e00f84-da6e-4ae4-8479-634aa0f822b0/original.jpeg"
+      ],
+      "reaction_total": 454638,
+      "reply_count": 1820,
+      "talents": [
+        {
+          "id": "de54958d-3ba2-4539-9cb1-39fd392cf82a",
+          "name": "さくらみこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/sakura_miko/icon_20240918.png",
+          "key_name": "sakura_miko"
+        }
+      ],
+      "user": {
+        "id": "6f459013-fb93-4c51-b740-c8a01d8dedd6",
+        "name": "さくらみこ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/sakura_miko/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "みこといぬちの貴重な日常ボイス投稿①",
+      "body": "部屋の掃除しなきゃいけないが\nいぬちとあそんじゃうんだ…\nいぬちはプピプピ鳴るおもちゃやると絶対マネしちゃうんだ…🐶",
+      "translations": {
+        "ja": {
+          "title": "みこといぬちの貴重な日常ボイス投稿①",
+          "body": "部屋の掃除しなきゃいけないが\nいぬちとあそんじゃうんだ…\nいぬちはプピプピ鳴るおもちゃやると絶対マネしちゃうんだ…🐶"
+        },
+        "en": {
+          "title": "Mikoto & Inuchi's Precious Daily Voice Post ①",
+          "body": "I have to clean my room,\nbut I end up playing with Inuchi...\nInuchi always imitates the squeaky toy...🐶"
+        },
+        "id": {
+          "title": "Post Suara Harian Berharga Mikoto & Inuchi ①",
+          "body": "Aku harus membersihkan kamar,\ntapi malah main sama Inuchi...\nInuchi selalu meniru suara mainan yang berdecit...🐶"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/d3038ebd-0ce1-4548-9928-bb24d088cb64.m4a"
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "625bdc0f-036e-4345-a7de-e8ac23e881b3",
+    "thread": {
+      "id": "625bdc0f-036e-4345-a7de-e8ac23e881b3",
+      "created_at": 1764752491,
+      "updated_at": 1765732169,
+      "reaction_total": 123910,
+      "reply_count": 336,
+      "talents": [
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ポルカから電話です📞これから帰るけどご飯どうする？",
+      "body": "(  📞¯꒳¯ )もしもし\n今日の夜ご飯どうする？",
+      "translations": {
+        "ja": {
+          "title": "ポルカから電話です📞これから帰るけどご飯どうする？",
+          "body": "(  📞¯꒳¯ )もしもし\n今日の夜ご飯どうする？"
+        },
+        "en": {
+          "title": "Call from Polka📞 I'm heading home now, what about dinner?",
+          "body": "(  📞¯꒳¯ ) Hello?\nWhat about dinner tonight?"
+        },
+        "id": {
+          "title": "Telepon dari Polka📞",
+          "body": "(  📞¯꒳¯ ) Halo?\nBagaimana dengan makan malam nanti?"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/79e4e1f4-f1aa-4cb6-8b14-e9bf5c52ecd6.m4a"
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "413E39C0-E2ED-42E8-BA1C-A93B27B60B8A",
+    "channel_name": "雪花ラミィ",
+    "thread_id": "339c893d-d2e5-427a-a599-36c9ee558009",
+    "thread": {
+      "id": "339c893d-d2e5-427a-a599-36c9ee558009",
+      "created_at": 1763721407,
+      "updated_at": 1765724759,
+      "reaction_total": 84266,
+      "reply_count": 327,
+      "talents": [
+        {
+          "id": "7597ae32-5657-4ac3-82fd-2edff2dcf29f",
+          "name": "雪花ラミィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/yukihana_lamy/icon_20250902.png",
+          "key_name": "yukihana_lamy"
+        }
+      ],
+      "user": {
+        "id": "e56620ce-6b72-4aa5-8e3e-5d0a0698b29c",
+        "name": "雪花ラミィ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/yukihana_lamy/icon_20250902.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今日の",
+      "body": "喉の調子！(みーしゃんを添えて)",
+      "translations": {
+        "ja": {
+          "title": "今日の",
+          "body": "喉の調子！(みーしゃんを添えて)"
+        },
+        "en": {
+          "title": "Today's",
+          "body": "My throat's condition! (with Mi-shan)"
+        },
+        "id": {
+          "title": "Hari ini",
+          "body": "Kondisi tenggorokanku! (dengan Mi-shan)"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/ed2bf884-d663-4c93-8442-a3c83fcb6469.m4a"
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "1565A4EC-C8A9-41EE-80E2-35591F59E324",
+    "channel_name": "綺々羅々ヴィヴィ",
+    "thread_id": "19049959-4ef6-49ba-9eb0-c623f2a15d56",
+    "thread": {
+      "id": "19049959-4ef6-49ba-9eb0-c623f2a15d56",
+      "created_at": 1763388271,
+      "updated_at": 1765715730,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/19049959-4ef6-49ba-9eb0-c623f2a15d56/original.jpeg"
+      ],
+      "reaction_total": 52875,
+      "reply_count": 64,
+      "talents": [
+        {
+          "id": "80D80D4A-528E-7045-DF16-E99257309C38",
+          "name": "綺々羅々ヴィヴィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kikirara_vivi/icon.png",
+          "key_name": "kikirara_vivi"
+        }
+      ],
+      "user": {
+        "id": "debad505-36b9-494f-9f2d-42e711a37447",
+        "name": "綺々羅々ヴィヴィ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kikirara_vivi/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ぺこら先輩につっこむヴィヴィ😹",
+      "body": "思わず『うwるwさwいw』とつっこんでしまったヴィヴィを手描きshortsにしてもらいました！！\n\n思い出し笑いしてしまうぐらい好きなシーンです🎬\n\n高評価とコメントぜひお願いします✍️🎶\nhttps://youtube.com/shorts/8sVASaEP6ak?si=SrxySjUGcKF2w4e0\n",
+      "translations": {
+        "ja": {
+          "title": "ぺこら先輩につっこむヴィヴィ😹",
+          "body": "思わず『うwるwさwいw』とつっこんでしまったヴィヴィを手描きshortsにしてもらいました！！\n\n思い出し笑いしてしまうぐらい好きなシーンです🎬\n\n高評価とコメントぜひお願いします✍️🎶\nhttps://youtube.com/shorts/8sVASaEP6ak?si=SrxySjUGcKF2w4e0\n"
+        },
+        "en": {
+          "title": "Vivi Retorts to Pekora-senpai 😹",
+          "body": "Vivi, who couldn't help but retort 'U w r w s w i w', was made into a hand-drawn short!!\n\nIt's a scene I love so much I laugh just thinking about it 🎬\n\nPlease give it a like and comment ✍️🎶\nhttps://youtube.com/shorts/8sVASaEP6ak?si=SrxySjUGcKF2w4e0"
+        },
+        "id": {
+          "title": "Vivi Membalas Pekora-senpai 😹",
+          "body": "Vivi, yang tanpa sadar membalas 'U w r w s w i w', dibuatkan shorts gambar tangan!!\n\nIni adalah adegan favoritku sampai-sampai aku tertawa sendiri saat mengingatnya 🎬\n\nMohon like dan komentarnya ya ✍️🎶\nhttps://youtube.com/shorts/8sVASaEP6ak?si=SrxySjUGcKF2w4e0"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "BDF30EEF-0B68-4EDE-9688-48D7BDA1B840",
+    "channel_name": "アイラニ・イオフィフティーン",
+    "thread_id": "7b7e00b3-0d76-419d-bd04-8f019a83d6c6",
+    "thread": {
+      "id": "7b7e00b3-0d76-419d-bd04-8f019a83d6c6",
+      "created_at": 1763306288,
+      "updated_at": 1765731059,
+      "reaction_total": 50376,
+      "reply_count": 52,
+      "talents": [
+        {
+          "id": "ad45e403-1566-49da-b590-fa95fca334ad",
+          "name": "アイラニ・イオフィフティーン",
+          "img_url": "https://asset.holoplus.com/talents/hololive/airani_iofifteen/icon.png",
+          "key_name": "airani_iofifteen"
+        }
+      ],
+      "user": {
+        "id": "793291f6-c5ae-407b-adf3-d0b62b066fb4",
+        "name": "アイラニ・イオフィフティーン",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/airani_iofifteen/icon.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Thank you!",
+      "body": "Chromatic Future! ",
+      "translations": {
+        "ja": {
+          "title": "ありがとうございます！",
+          "body": "クロマティック・フューチャー！"
+        },
+        "en": {
+          "title": "Thank you!",
+          "body": "Chromatic Future! "
+        },
+        "id": {
+          "title": "Terima kasih!",
+          "body": "Masa Depan Kromatik!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/b85e89dc-b1c3-4d80-8adf-025a6893678e.m4a"
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "BA5D48E5-AC15-47F9-BF10-4543C057B5F2",
+    "channel_name": "ムーナ・ホシノヴァ",
+    "thread_id": "37228652-1d55-4187-b5cc-81f5ad4482c0",
+    "thread": {
+      "id": "37228652-1d55-4187-b5cc-81f5ad4482c0",
+      "created_at": 1763094066,
+      "updated_at": 1765702169,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/37228652-1d55-4187-b5cc-81f5ad4482c0/original.jpeg"
+      ],
+      "reaction_total": 34997,
+      "reply_count": 26,
+      "talents": [
+        {
+          "id": "228bf208-18f4-498b-8b74-ab7398a94ab2",
+          "name": "ムーナ・ホシノヴァ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/moona_hoshinova/icon.png",
+          "key_name": "moona_hoshinova"
+        }
+      ],
+      "user": {
+        "id": "89b35b2f-e0c2-4096-a264-daa2f6771982",
+        "name": "ムーナ・ホシノヴァ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/moona_hoshinova/icon.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "did you just arrived in Indonesia?",
+      "body": "good news! today at 1 PM GMT+7 i will tell you more about indonesia with iofi!!\n\nplease check up my channel on both Youtube and Twitch!!",
+      "translations": {
+        "ja": {
+          "title": "インドネシアに到着したばかりですか？",
+          "body": "良いニュースです！今日の午後1時（GMT+7）に、イオフィと一緒にインドネシアについてもっとお話しします！！\n\nYouTubeとTwitchの両方で私のチャンネルをチェックしてくださいね！！"
+        },
+        "en": {
+          "title": "did you just arrived in Indonesia?",
+          "body": "good news! today at 1 PM GMT+7 i will tell you more about indonesia with iofi!!\n\nplease check up my channel on both Youtube and Twitch!!"
+        },
+        "id": {
+          "title": "Apakah kamu baru saja tiba di Indonesia?",
+          "body": "Kabar baik! Hari ini jam 1 siang GMT+7 aku akan bercerita lebih banyak tentang Indonesia bersama Iofi!!\n\nMohon cek channelku di YouTube dan Twitch ya!!"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "7209BDA9-D1E9-45D5-BFA3-0D4B19451C84",
+    "channel_name": "輪堂千速",
+    "thread_id": "31147c55-2022-4e02-a197-306b443836b8",
+    "thread": {
+      "id": "31147c55-2022-4e02-a197-306b443836b8",
+      "created_at": 1762774408,
+      "updated_at": 1765724429,
+      "reaction_total": 46163,
+      "reply_count": 116,
+      "talents": [
+        {
+          "id": "B4445442-9784-B0D6-AFA0-ADF01359D1DB",
+          "name": "輪堂千速",
+          "img_url": "https://asset.holoplus.com/talents/hololive/rindo_chihaya/icon.png",
+          "key_name": "rindo_chihaya"
+        }
+      ],
+      "user": {
+        "id": "8435e3d9-c92f-463a-87ba-06b238711cf7",
+        "name": "輪堂千速",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/rindo_chihaya/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ホロカにゅーすLIVE 第2問「〇〇がいいさ！」",
+      "body": "[[holoplus_survey_start]]\nA. ニコたんとおおいに笑う\nB. ニコたんの名を呼ぶ\nC. レバーはじっくり火を通す\nD. ニコたんのケツを叩く\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "ホロカにゅーすLIVE 第2問「〇〇がいいさ！」",
+          "body": "[[holoplus_survey_start]]\nA. ニコたんとおおいに笑う\nB. ニコたんの名を呼ぶ\nC. レバーはじっくり火を通す\nD. ニコたんのケツを叩く\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Holoca News LIVE Question 2: 'I prefer 〇〇!'",
+          "body": "[[holoplus_survey_start]]\nA. Laugh heartily with Nikotan\nB. Call Nikotan's name\nC. Cook the liver thoroughly\nD. Spank Nikotan's butt\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Holoca News LIVE Pertanyaan 2: 'Aku lebih suka 〇〇!'",
+          "body": "[[holoplus_survey_start]]\nA. Tertawa lepas bersama Nikotan\nB. Memanggil nama Nikotan\nC. Masak hati (lever) sampai matang sempurn\nD. Menepuk pantat Nikotan\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "7A44D872-B5E3-4411-ADD7-BF30F2CA5EBA",
+    "channel_name": "虎金妃笑虎",
+    "thread_id": "77139ddf-4149-4226-9d5d-147881da3370",
+    "thread": {
+      "id": "77139ddf-4149-4226-9d5d-147881da3370",
+      "created_at": 1762774139,
+      "updated_at": 1765679099,
+      "reaction_total": 39337,
+      "reply_count": 71,
+      "talents": [
+        {
+          "id": "155A65D5-809A-EF7F-D5AC-67AEC0BCB752",
+          "name": "虎金妃笑虎",
+          "img_url": "https://asset.holoplus.com/talents/hololive/koganei_niko/icon.png",
+          "key_name": "koganei_niko"
+        }
+      ],
+      "user": {
+        "id": "aad4dfbb-b539-45dd-bc7b-87551fdd2ef7",
+        "name": "虎金妃笑虎",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/koganei_niko/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ホロカにゅーすLIVE 第1問「〇〇行かない？」",
+      "body": "[[holoplus_survey_start]]\nA. 海までひとっ走り\nB. GIだし今日は競馬場に\nC. 向こう側の景色を見に\nD. これから飲みに\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "ホロカにゅーすLIVE 第1問「〇〇行かない？」",
+          "body": "[[holoplus_survey_start]]\nA. 海までひとっ走り\nB. GIだし今日は競馬場に\nC. 向こう側の景色を見に\nD. これから飲みに\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Holoka News LIVE - Question 1: \"Won't you go to X?\"",
+          "body": "[[holoplus_survey_start]]\nA. A quick trip to the beach\nB. It's a G1 race, so to the racecourse tod\nC. To see the scenery on the other side\nD. To go drinking now\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Holoka News LIVE - Pertanyaan 1: \"Tidak mau pergi ke X?\"",
+          "body": "[[holoplus_survey_start]]\nA. Lari cepat ke pantai\nB. Karena ini G1, jadi ke arena pacuan kuda\nC. Untuk melihat pemandangan di seberang sa\nD. Untuk pergi minum sekarang\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "96C31007-683C-4167-8077-5EFC357A78DC",
+    "channel_name": "パヴォリア・レイネ",
+    "thread_id": "d2a8eea0-f44d-4ebc-9636-a42f58f595f4",
+    "thread": {
+      "id": "d2a8eea0-f44d-4ebc-9636-a42f58f595f4",
+      "created_at": 1762421393,
+      "updated_at": 1765686019,
+      "reaction_total": 45037,
+      "reply_count": 86,
+      "talents": [
+        {
+          "id": "aefea85b-4ca6-435b-a6fc-a94e64fb4080",
+          "name": "パヴォリア・レイネ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/pavolia_reine/icon_20240918.png",
+          "key_name": "pavolia_reine"
+        }
+      ],
+      "user": {
+        "id": "82935bbd-530c-4577-bdbe-6cb6df00b66e",
+        "name": "パヴォリア・レイネ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/pavolia_reine/icon_20240918.png"
+      },
+      "original_language": "id",
+      "is_translated": true,
+      "title": "mana voice notenya pencet apa",
+      "body": "wah ini dia",
+      "translations": {
+        "ja": {
+          "title": "ボイスノートはどこ？どうやって押すの？",
+          "body": "わあ、これだ"
+        },
+        "en": {
+          "title": "Where's the voice note? What do I press?",
+          "body": "Oh, here it is!"
+        },
+        "id": {
+          "title": "mana voice notenya pencet apa",
+          "body": "wah ini dia"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/eacaa9ba-6dcf-44b1-a19e-302ec4ea6dfb.m4a"
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "BA25120D-69CE-43BA-BFD5-3483BC4564DF",
+    "channel_name": "響咲リオナ",
+    "thread_id": "c321d77d-e5e7-4d55-9de1-f9780f5a129b",
+    "thread": {
+      "id": "c321d77d-e5e7-4d55-9de1-f9780f5a129b",
+      "created_at": 1762260032,
+      "updated_at": 1765705549,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/c321d77d-e5e7-4d55-9de1-f9780f5a129b/original.png"
+      ],
+      "reaction_total": 37897,
+      "reply_count": 41,
+      "talents": [
+        {
+          "id": "09A796F4-A892-DA18-3D1F-7848024E2300",
+          "name": "響咲リオナ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/isaki_riona/icon.png",
+          "key_name": "isaki_riona"
+        }
+      ],
+      "user": {
+        "id": "b6fa97e0-4f12-4a09-8491-183bdad1106b",
+        "name": "響咲リオナ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/isaki_riona/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今日の配信っ🫶",
+      "body": "22時から歌雑するよー！\nのんびりしにきてね🫶",
+      "translations": {
+        "ja": {
+          "title": "今日の配信っ🫶",
+          "body": "22時から歌雑するよー！\nのんびりしにきてね🫶"
+        },
+        "en": {
+          "title": "Today's Stream🫶",
+          "body": "I'll be doing a singing chat from 10 PM JST! Come relax with me🫶"
+        },
+        "id": {
+          "title": "Streaming Hari Ini🫶",
+          "body": "Mulai jam 10 malam JST, aku akan melakukan sesi nyanyi santai! Datang dan bersantai ya🫶"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "55B8442E-EDEE-4024-843C-A692F6929964",
+    "channel_name": "鷹嶺ルイ",
+    "thread_id": "7890469d-f551-443a-844b-bbb09da31383",
+    "thread": {
+      "id": "7890469d-f551-443a-844b-bbb09da31383",
+      "created_at": 1760942064,
+      "updated_at": 1765720680,
+      "reaction_total": 111364,
+      "reply_count": 441,
+      "talents": [
+        {
+          "id": "e68478c3-cb8a-4f69-914b-54a98aa83bda",
+          "name": "鷹嶺ルイ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takane_lui/icon_20250902.png",
+          "key_name": "takane_lui"
+        }
+      ],
+      "user": {
+        "id": "ab661796-8891-4a8a-bb50-65725345e120",
+        "name": "鷹嶺ルイ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/takane_lui/icon_20250902.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "初めての…",
+      "body": "スレッド投下！！\n\n･:*+.\\(( °ω° ))/.:+",
+      "translations": {
+        "ja": {
+          "title": "初めての…",
+          "body": "スレッド投下！！\n\n･:*+.\\(( °ω° ))/.:+"
+        },
+        "en": {
+          "title": "First time...",
+          "body": "Posting a thread!!\n\n･:*+.\\(( °ω° ))/.:+"
+        },
+        "id": {
+          "title": "Pertama kalinya...",
+          "body": "Posting thread!!\n\n･:*+.\\(( °ω° ))/.:+"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "3F230E6F-AED6-46E6-9F51-08C185BF70C9",
+    "channel_name": "夏色まつり",
+    "thread_id": "58f3e7fc-83f2-4265-9e89-e21bedf444c0",
+    "thread": {
+      "id": "58f3e7fc-83f2-4265-9e89-e21bedf444c0",
+      "created_at": 1759975067,
+      "updated_at": 1765701869,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/58f3e7fc-83f2-4265-9e89-e21bedf444c0/original.jpeg"
+      ],
+      "reaction_total": 36190,
+      "reply_count": 20,
+      "talents": [
+        {
+          "id": "063d07d8-ac40-4e31-bfaa-5c47cb8a8cae",
+          "name": "夏色まつり",
+          "img_url": "https://asset.holoplus.com/talents/hololive/natsuiro_matsuri/icon_20250902.png",
+          "key_name": "natsuiro_matsuri"
+        }
+      ],
+      "user": {
+        "id": "6aee1eaa-0a00-4da2-81f0-df121b185673",
+        "name": "夏色まつり",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/natsuiro_matsuri/icon_20250902.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "配信始めるよ！",
+      "body": "＼\\🌌崩壊：スターレイル🌌/／\n\n知識0から遊ぶぞ！\n今日はどんなストーリーが待ってるのかな！？\n\n待ち合わせ場所⇩\nhttps://www.youtube.com/live/Yf06ZceO3Js?si=yeleKHuPy3b9v2jp",
+      "translations": {
+        "ja": {
+          "title": "配信始めるよ！",
+          "body": "＼\\🌌崩壊：スターレイル🌌/／\n\n知識0から遊ぶぞ！\n今日はどんなストーリーが待ってるのかな！？\n\n待ち合わせ場所⇩\nhttps://www.youtube.com/live/Yf06ZceO3Js?si=yeleKHuPy3b9v2jp"
+        },
+        "en": {
+          "title": "Starting the stream!",
+          "body": "＼\\🌌Honkai: Star Rail🌌/／\n\nPlaying from zero knowledge!\nWhat kind of story awaits us today!?\n\nMeeting place ⇩\nhttps://www.youtube.com/live/Yf06ZceO3Js?si=yeleKHuPy3b9v2jp"
+        },
+        "id": {
+          "title": "Mulai streaming!",
+          "body": "＼\\🌌Honkai: Star Rail🌌/／\n\nMain dari nol pengetahuan!\nKisah seperti apa yang menanti kita hari ini!?\n\nTempat bertemu ⇩\nhttps://www.youtube.com/live/Yf06ZceO3Js?si=yeleKHuPy3b9v2jp"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "CB9DB284-E157-4E19-AFE0-E06066D55566",
+    "channel_name": "桃鈴ねね",
+    "thread_id": "fdfe9882-acec-46e1-b550-e1bc79ef834b",
+    "thread": {
+      "id": "fdfe9882-acec-46e1-b550-e1bc79ef834b",
+      "created_at": 1759231028,
+      "updated_at": 1765716459,
+      "reaction_total": 62560,
+      "reply_count": 136,
+      "talents": [
+        {
+          "id": "4c4a8925-97fd-4fd6-b5a7-2b0491ec9c40",
+          "name": "桃鈴ねね",
+          "img_url": "https://asset.holoplus.com/talents/hololive/momosuzu_nene/icon.png",
+          "key_name": "momosuzu_nene"
+        }
+      ],
+      "user": {
+        "id": "db8b3e98-b774-48de-8f27-49cc9c3c0ea5",
+        "name": "桃鈴ねね",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/momosuzu_nene/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "22時配信！",
+      "body": "ガチPONアモアスでるよ〜❣️\nねね視点応援しにきてね🥺🧡",
+      "translations": {
+        "ja": {
+          "title": "22時配信！",
+          "body": "ガチPONアモアスでるよ〜❣️\nねね視点応援しにきてね🥺🧡"
+        },
+        "en": {
+          "title": "Streaming at 10 PM!",
+          "body": "I'll be in a serious PON Among Us game~❣️\nCome cheer for Nene's perspective🥺🧡"
+        },
+        "id": {
+          "title": "Streaming jam 22.00!",
+          "body": "Aku bakal main Among Us yang 'PON' serius~❣️\nDatang dan dukung POV Nene ya🥺🧡"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  },
+  {
+    "channel_id": "99FCCAAF-977D-4FFB-AC23-137F82A72C6D",
+    "channel_name": "ベスティア・ゼータ",
+    "thread_id": "d8569970-383e-4d82-8102-06ead815ac27",
+    "thread": {
+      "id": "d8569970-383e-4d82-8102-06ead815ac27",
+      "created_at": 1758711742,
+      "updated_at": 1765717079,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/d8569970-383e-4d82-8102-06ead815ac27/original.jpeg"
+      ],
+      "reaction_total": 98215,
+      "reply_count": 284,
+      "talents": [
+        {
+          "id": "4aef28fc-b18f-4fd8-b08e-5be9be79449a",
+          "name": "ベスティア・ゼータ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20240918.png",
+          "key_name": "vestia_zeta"
+        }
+      ],
+      "user": {
+        "id": "b52e073f-5c0e-4b97-9917-8faa6574e12a",
+        "name": "ベスティア・ゼータ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "😉",
+      "body": "Good evening ladies and gentlemen!\nI'll show you my fish squeaky toy! \n\n",
+      "translations": {
+        "ja": {
+          "title": "😉",
+          "body": "みんなさん、こんばんは！\n私の魚のおもちゃ見せてあげる！\n"
+        },
+        "en": {
+          "title": "😉",
+          "body": "Good evening ladies and gentlemen!\nI'll show you my fish squeaky toy! \n\n"
+        },
+        "id": {
+          "title": "😉",
+          "body": "Malam ges\nIni mainan ikan favoritku\n"
+        }
+      },
+      "type": "normal",
+      "is_favorite": false,
+      "user_reacted_count": 0
+    }
+  }
+]
