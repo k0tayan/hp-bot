@@ -150,59 +150,6 @@
     }
   },
   {
-    "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
-    "channel_name": "ときのそら",
-    "thread_id": "80af62d3-204b-4521-b83e-4f43dbaa4e16",
-    "thread": {
-      "id": "80af62d3-204b-4521-b83e-4f43dbaa4e16",
-      "created_at": 1765585894,
-      "updated_at": 1765730229,
-      "image_urls": [
-        "https://asset.holoplus.com/threads/80af62d3-204b-4521-b83e-4f43dbaa4e16/original.jpeg"
-      ],
-      "reaction_total": 40680,
-      "reply_count": 83,
-      "talents": [
-        {
-          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
-          "name": "ときのそら",
-          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
-          "key_name": "tokino_sora"
-        }
-      ],
-      "user": {
-        "id": "fba971c0-a958-4d6d-bb6f-21a6e7a04f8b",
-        "name": "ときのそら",
-        "role": "talent",
-        "icon_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png"
-      },
-      "original_language": "ja",
-      "is_translated": true,
-      "title": "ライブ一般販売はじまった！",
-      "body": "イェーイ！！\n昨日から一般販売はじまったよ💕\n昼夜合わせて\n\n✨１日で40曲くらい\n✨セットリストはほぼ違います\n✨ほとんどの曲振付あります\n✨カバー曲もやれたらいいねの気分\n✨いろんな衣装着たい気分\n\n先着だよ！\nどの公演も2枚までに変わってますー。\n学割席は5150円なのだ‎( `･ㅂ･)و\n\n🎀チェックしてね🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV",
-      "translations": {
-        "ja": {
-          "title": "ライブ一般販売はじまった！",
-          "body": "イェーイ！！\n昨日から一般販売はじまったよ💕\n昼夜合わせて\n\n✨１日で40曲くらい\n✨セットリストはほぼ違います\n✨ほとんどの曲振付あります\n✨カバー曲もやれたらいいねの気分\n✨いろんな衣装着たい気分\n\n先着だよ！\nどの公演も2枚までに変わってますー。\n学割席は5150円なのだ‎( `･ㅂ･)و\n\n🎀チェックしてね🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV"
-        },
-        "en": {
-          "title": "General Ticket Sales for the Live Show Have Begun!",
-          "body": "Yay!!\nGeneral sales started yesterday💕\nFor both day and night shows, expect:\n\n✨Around 40 songs in one day\n✨Setlists are mostly different\n✨Most songs have choreography\n✨Feeling like it'd be nice to do cover songs too\n✨Feeling like I want to wear various outfits\n\nIt's first-come, first-served!\nThe limit has changed to 2 tickets per show.\nStudent discount seats are 5150 yen! ‎( `･ㅂ･)و\n\n🎀Check it out🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV"
-        },
-        "id": {
-          "title": "Penjualan Tiket Umum untuk Konser Sudah Dimulai!",
-          "body": "Yey!!\nPenjualan umum sudah dimulai sejak kemarin💕\nUntuk pertunjukan siang dan malam, akan ada:\n\n✨Sekitar 40 lagu dalam sehari\n✨Setlist sebagian besar berbeda\n✨Sebagian besar lagu ada koreografinya\n✨Merasa senang kalau bisa membawakan lagu cover juga\n✨Merasa ingin memakai berbagai kostum\n\nSiapa cepat dia dapat!\nBatasan tiket sudah berubah jadi 2 lembar per pertunjukan.\nKursi diskon pelajar 5150 yen! ‎( `･ㅂ･)و\n\n🎀Cek ya🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV"
-        }
-      },
-      "voice_clip": {
-        "url": "https://asset.holoplus.com/voice-clips/9644b6ce-02dd-4acc-8c66-97730dfa250c.m4a"
-      },
-      "type": "normal",
-      "is_favorite": false,
-      "user_reacted_count": 0
-    }
-  },
-  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "8a9c5ad0-caf4-4353-85a1-96dabda57034",
