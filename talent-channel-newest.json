@@ -6,11 +6,11 @@
     "thread": {
       "id": "a9397812-cce8-426a-9630-6c9826168087",
       "created_at": 1765686066,
-      "updated_at": 1765757159,
+      "updated_at": 1765758209,
       "image_urls": [
         "https://asset.holoplus.com/threads/a9397812-cce8-426a-9630-6c9826168087/original.jpeg"
       ],
-      "reaction_total": 27574,
+      "reaction_total": 27674,
       "reply_count": 66,
       "talents": [
         {
@@ -209,8 +209,8 @@
     "thread": {
       "id": "8a9c5ad0-caf4-4353-85a1-96dabda57034",
       "created_at": 1765429710,
-      "updated_at": 1765756369,
-      "reaction_total": 81216,
+      "updated_at": 1765758249,
+      "reaction_total": 81316,
       "reply_count": 123,
       "talents": [
         {
