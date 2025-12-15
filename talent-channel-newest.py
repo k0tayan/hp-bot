@@ -84,6 +84,19 @@ def _collect_threads_for_channel_sync(
     """
     results: List[Dict[str, Any]] = []
 
+    def _sanitize_thread(thread: Dict[str, Any]) -> Dict[str, Any]:
+        """
+        動的なデータ は差分の対象から外したいので、
+        JSON には出力しないよう削除したコピーを返す。
+        """
+        sanitized = dict(thread)
+        sanitized.pop("updated_at", None)
+        sanitized.pop("reaction_total", None)
+        sanitized.pop("reply_count", None)
+        sanitized.pop("is_favorite", None)
+        sanitized.pop("user_reacted_count", None)
+        return sanitized
+
     if all_threads:
         for thread in iter_all_threads(
             auth_token=auth_token,
@@ -95,12 +108,14 @@ def _collect_threads_for_channel_sync(
             if not thread_id:
                 continue
 
+            sanitized_thread = _sanitize_thread(thread)
+
             results.append(
                 {
                     "channel_id": channel_id,
                     "channel_name": channel_name,
                     "thread_id": thread_id,
-                    "thread": thread,
+                    "thread": sanitized_thread,
                 }
             )
     else:
@@ -116,12 +131,13 @@ def _collect_threads_for_channel_sync(
             newest = items[0]
             thread_id = newest.get("id", "")
             if thread_id:
+                sanitized_thread = _sanitize_thread(newest)
                 results.append(
                     {
                         "channel_id": channel_id,
                         "channel_name": channel_name,
                         "thread_id": thread_id,
-                        "thread": newest,
+                        "thread": sanitized_thread,
                     }
                 )
 
@@ -232,9 +248,7 @@ async def _main_async() -> None:
 
     # 既存の JSON に含まれていない thread のみ new.json として保存
     new_results: List[Dict[str, Any]] = [
-        row
-        for row in results
-        if row.get("thread_id") not in existing_thread_ids
+        row for row in results if row.get("thread_id") not in existing_thread_ids
     ]
     new_results.sort(
         key=lambda row: (row.get("thread") or {}).get("created_at", 0),
