@@ -56,8 +56,8 @@
     "thread": {
       "id": "15590eb1-d248-40a9-b8a3-3b44106d2ee1",
       "created_at": 1765671316,
-      "updated_at": 1765761579,
-      "reaction_total": 34153,
+      "updated_at": 1765763089,
+      "reaction_total": 34166,
       "reply_count": 79,
       "talents": [
         {
@@ -156,11 +156,11 @@
     "thread": {
       "id": "80af62d3-204b-4521-b83e-4f43dbaa4e16",
       "created_at": 1765585894,
-      "updated_at": 1765762429,
+      "updated_at": 1765763099,
       "image_urls": [
         "https://asset.holoplus.com/threads/80af62d3-204b-4521-b83e-4f43dbaa4e16/original.jpeg"
       ],
-      "reaction_total": 41441,
+      "reaction_total": 41456,
       "reply_count": 83,
       "talents": [
         {
