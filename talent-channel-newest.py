@@ -122,24 +122,25 @@ def _collect_threads_for_channel_sync(
         data = fetch_newest_threads(
             auth_token=auth_token,
             channel_id=channel_id,
-            limit=1,
+            limit=limit,
             timeout=timeout,
         )
         items = data.get("items") or []
 
-        if items:
-            newest = items[0]
-            thread_id = newest.get("id", "")
-            if thread_id:
-                sanitized_thread = _sanitize_thread(newest)
-                results.append(
-                    {
-                        "channel_id": channel_id,
-                        "channel_name": channel_name,
-                        "thread_id": thread_id,
-                        "thread": sanitized_thread,
-                    }
-                )
+        for thread in items:
+            thread_id = thread.get("id", "")
+            if not thread_id:
+                continue
+
+            sanitized_thread = _sanitize_thread(thread)
+            results.append(
+                {
+                    "channel_id": channel_id,
+                    "channel_name": channel_name,
+                    "thread_id": thread_id,
+                    "thread": sanitized_thread,
+                }
+            )
 
     return results
 
