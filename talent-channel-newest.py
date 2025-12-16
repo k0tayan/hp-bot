@@ -191,6 +191,7 @@ async def _main_async() -> None:
 
     # 既存の talent-channel-newest.json を読み込み、既知の thread_id を集める
     existing_thread_ids: set[str] = set()
+    previous_results: List[Dict[str, Any]] = []
     try:
         with open("talent-channel-newest.json", encoding="utf-8") as f:
             previous_results = json.load(f)
@@ -201,9 +202,11 @@ async def _main_async() -> None:
     except FileNotFoundError:
         # 初回実行などでファイルがなければ、既知のスレッドはなしとみなす
         existing_thread_ids = set()
+        previous_results = []
     except json.JSONDecodeError:
         # 壊れたファイルなどは無視して再生成する
         existing_thread_ids = set()
+        previous_results = []
 
     # チャンネルごとに並列で取得
     tasks: List[asyncio.Task[List[Dict[str, Any]]]] = []
@@ -233,24 +236,34 @@ async def _main_async() -> None:
         item for channel_items in per_channel_results for item in channel_items
     ]
 
-    # thread.created_at でソートして JSON に保存（新しいものを先頭に）
-    results.sort(
+    # 既存の JSON に含まれていない thread のみ抽出（重複は thread_id で排除）
+    new_results: List[Dict[str, Any]] = []
+    for row in results:
+        thread_id = row.get("thread_id")
+        if not isinstance(thread_id, str) or not thread_id:
+            continue
+        if thread_id in existing_thread_ids:
+            continue
+        existing_thread_ids.add(thread_id)
+        new_results.append(row)
+
+    # 既存 + 新規をまとめて thread.created_at でソートして保存（新しいものを先頭に）
+    merged_results: List[Dict[str, Any]] = previous_results + new_results
+    merged_results.sort(
         key=lambda row: (row.get("thread") or {}).get("created_at", 0),
         reverse=True,
     )
 
     with open("talent-channel-newest.json", "w", encoding="utf-8") as f:
-        json.dump(results, f, ensure_ascii=False, indent=2)
+        json.dump(merged_results, f, ensure_ascii=False, indent=2)
 
     print(
-        f"Saved {len(results)} threads to talent-channel-newest.json "
-        f"({'all' if args.all else 'latest per channel'})."
+        f"Saved {len(merged_results)} threads to talent-channel-newest.json "
+        f"(including {len(new_results)} new threads, "
+        f"{'all' if args.all else 'latest per channel'} fetched this run)."
     )
 
-    # 既存の JSON に含まれていない thread のみ new.json として保存
-    new_results: List[Dict[str, Any]] = [
-        row for row in results if row.get("thread_id") not in existing_thread_ids
-    ]
+    # 新規 thread のみ new.json として保存
     new_results.sort(
         key=lambda row: (row.get("thread") or {}).get("created_at", 0),
         reverse=True,
