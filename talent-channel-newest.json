@@ -2,6 +2,57 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "9148f200-f627-4206-8d29-dee8727cb232",
+    "thread": {
+      "id": "9148f200-f627-4206-8d29-dee8727cb232",
+      "created_at": 1766050250,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/9148f200-f627-4206-8d29-dee8727cb232/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "cc9eb596-fd8f-4344-bb42-b7282dbc1e7a",
+          "name": "猫又おかゆ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/nekomata_okayu/icon_20250902.png",
+          "key_name": "nekomata_okayu"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "🔥🔥究極の2択募集🔥🔥",
+      "body": "【朝食で食べるなら？ パンorご飯か】\n【今食べるなら？ きのこorたけのこ】\n【明日世界が滅ぶなら？ 泣くor笑う】\n\nみたいな究極の二択を大募集‼️\n投稿された内容は\n12月21日の配信企画にて使わせて頂きます🙏🏻😃\n\n企画進行の都合により、投稿は\n\n【〇〇なら？〇〇or〇〇】\n\nのみ記入してご投稿をお願いします🙏🏻✨️",
+      "translations": {
+        "ja": {
+          "title": "🔥🔥究極の2択募集🔥🔥",
+          "body": "【朝食で食べるなら？ パンorご飯か】\n【今食べるなら？ きのこorたけのこ】\n【明日世界が滅ぶなら？ 泣くor笑う】\n\nみたいな究極の二択を大募集‼️\n投稿された内容は\n12月21日の配信企画にて使わせて頂きます🙏🏻😃\n\n企画進行の都合により、投稿は\n\n【〇〇なら？〇〇or〇〇】\n\nのみ記入してご投稿をお願いします🙏🏻✨️"
+        },
+        "en": {
+          "title": "🔥🔥Seeking Your Ultimate Two-Choice Questions🔥🔥",
+          "body": "【For breakfast, would you eat? Bread or Rice】\n【If eating now, would you choose? Mushrooms or Bamboo Shoots】\n【If the world ends tomorrow, would you? Cry or Laugh】\n\nWe're looking for your ultimate two-choice questions like these‼️\nSubmitted questions will be used in our stream project on December 21st🙏🏻😃\n\nFor the smooth progression of the project, please submit your entries by only filling in:\n\n【If XX, then XX or XX?】\n\nThank you for your submissions🙏🏻✨️"
+        },
+        "id": {
+          "title": "🔥🔥Mencari Pilihan Dua Arah Ultimatum Kalian🔥🔥",
+          "body": "【Untuk sarapan, kamu pilih? Roti atau Nasi】\n【Kalau makan sekarang, kamu pilih? Jamur atau Rebung】\n【Jika dunia kiamat besok, kamu akan? Menangis atau Tertawa】\n\nKami mencari pertanyaan pilihan dua arah ultimatum kalian seperti ini‼️\nPertanyaan yang dikirimkan akan digunakan dalam proyek streaming kami pada tanggal 21 Desember🙏🏻😃\n\nDemi kelancaran proyek, mohon kirimkan pertanyaan kalian hanya dengan mengisi format:\n\n【Jika XX, maka XX atau XX?】\n\nTerima kasih atas partisipasi kalian🙏🏻✨️"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "d3d275a7-4b86-44e3-9fe3-01d93f8ca5e6",
     "thread": {
       "id": "d3d275a7-4b86-44e3-9fe3-01d93f8ca5e6",
