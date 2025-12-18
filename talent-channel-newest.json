@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
+    "channel_name": "ときのそら",
+    "thread_id": "c1ec2ef0-0c0f-46a1-87d6-f8857a28759a",
+    "thread": {
+      "id": "c1ec2ef0-0c0f-46a1-87d6-f8857a28759a",
+      "created_at": 1766032567,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/c1ec2ef0-0c0f-46a1-87d6-f8857a28759a/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
+          "name": "ときのそら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
+          "key_name": "tokino_sora"
+        }
+      ],
+      "user": {
+        "id": "fba971c0-a958-4d6d-bb6f-21a6e7a04f8b",
+        "name": "ときのそら",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ライブリハー！",
+      "body": "がんばってるよ！！\n現地チケットあるからきてね(｡•ᴗ•｡)♡\n\n🎀現地チケットはこちら🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV",
+      "translations": {
+        "ja": {
+          "title": "ライブリハー！",
+          "body": "がんばってるよ！！\n現地チケットあるからきてね(｡•ᴗ•｡)♡\n\n🎀現地チケットはこちら🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV"
+        },
+        "en": {
+          "title": "Live Rehearsal!",
+          "body": "I'm doing my best!!\nCome if you have a physical ticket (｡•ᴗ•｡)♡\n\n🎀Get your physical tickets here🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV"
+        },
+        "id": {
+          "title": "Latihan Live!",
+          "body": "Aku sedang berusaha keras!!\nDatang ya kalau punya tiket fisik (｡•ᴗ•｡)♡\n\n🎀Dapatkan tiket fisikmu di sini🎀\nhttps://spwn.jp/events/evt_Bqb0YLNmlJJFi1HgEdpV"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/27469ee3-a783-45c6-9ba6-8e59ee77cf78.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "0e58e34e-5814-4408-97ba-464fbf6708be",
