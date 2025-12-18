@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "d3d275a7-4b86-44e3-9fe3-01d93f8ca5e6",
+    "thread": {
+      "id": "d3d275a7-4b86-44e3-9fe3-01d93f8ca5e6",
+      "created_at": 1766043604,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/d3d275a7-4b86-44e3-9fe3-01d93f8ca5e6/original.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ホロフレ×冬 ありがとうございました",
+      "body": "改めまして！募集企画ありがとうございました！\n\nお試しで急遽募集してみようという企画でしたので、期間短くてすみません💦\nまたこういった募集もやっていきますのでよろしくお願いします(∩´∀｀＠)⊃",
+      "translations": {
+        "ja": {
+          "title": "ホロフレ×冬 ありがとうございました",
+          "body": "改めまして！募集企画ありがとうございました！\n\nお試しで急遽募集してみようという企画でしたので、期間短くてすみません💦\nまたこういった募集もやっていきますのでよろしくお願いします(∩´∀｀＠)⊃"
+        },
+        "en": {
+          "title": "HoloFlare x Winter Thank You!",
+          "body": "Once again! Thank you very much for the recruitment project!\n\nIt was a sudden trial recruitment, so I apologize for the short period 💦 We'll be doing more recruitment projects like this in the future, so please look forward to them (∩´∀｀＠)⊃"
+        },
+        "id": {
+          "title": "HoloFlare x Musim Dingin Terima Kasih!",
+          "body": "Sekali lagi! Terima kasih banyak atas partisipasi kalian dalam proyek rekrutmen ini!\n\nKarena ini adalah proyek rekrutmen mendadak sebagai percobaan, saya mohon maaf atas durasi yang singkat 💦 Kami akan mengadakan proyek rekrutmen seperti ini lagi di masa mendatang, jadi mohon dukungannya ya (∩´∀｀＠)⊃"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/80b2012b-8ab1-4115-b272-20d544715782.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
     "channel_name": "ときのそら",
     "thread_id": "c1ec2ef0-0c0f-46a1-87d6-f8857a28759a",
