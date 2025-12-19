@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "7209BDA9-D1E9-45D5-BFA3-0D4B19451C84",
+    "channel_name": "輪堂千速",
+    "thread_id": "a10243eb-5ee6-4e18-be3d-220ffad23465",
+    "thread": {
+      "id": "a10243eb-5ee6-4e18-be3d-220ffad23465",
+      "created_at": 1766140992,
+      "talents": [
+        {
+          "id": "B4445442-9784-B0D6-AFA0-ADF01359D1DB",
+          "name": "輪堂千速",
+          "img_url": "https://asset.holoplus.com/talents/hololive/rindo_chihaya/icon_20251208.png",
+          "key_name": "rindo_chihaya"
+        }
+      ],
+      "user": {
+        "id": "8435e3d9-c92f-463a-87ba-06b238711cf7",
+        "name": "輪堂千速",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/rindo_chihaya/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "超久しぶりの更新になっちゃった！！！！",
+      "body": "今日このあとは #つぼはち で桃鉄！！\nぼたん先輩のchでこのあと20時から！！\n\nhttps://www.youtube.com/live/gPOU7d_QCSg?si=iW22RXzORlZ7dK-l\n\nどでかぼんびーだっけ！？そんな感じのにならないように頑張ります！！！",
+      "translations": {
+        "ja": {
+          "title": "超久しぶりの更新になっちゃった！！！！",
+          "body": "今日このあとは #つぼはち で桃鉄！！\nぼたん先輩のchでこのあと20時から！！\n\nhttps://www.youtube.com/live/gPOU7d_QCSg?si=iW22RXzORlZ7dK-l\n\nどでかぼんびーだっけ！？そんな感じのにならないように頑張ります！！！"
+        },
+        "en": {
+          "title": "It's been an incredibly long time since my last update!!!!",
+          "body": "Later today, I'll be playing Momotetsu with #Tsubohachi!!\nIt'll be on Botan-senpai's channel starting at 8 PM JST!!\n\nhttps://www.youtube.com/live/gPOU7d_QCSg?si=iW22RXzORlZ7dK-l\n\nWas it 'Dodeka Bonby'?! I'll do my best not to let it turn out like that!!!"
+        },
+        "id": {
+          "title": "Sudah lama banget nggak update!!!!",
+          "body": "Nanti setelah ini, aku akan main Momotetsu di #Tsubohachi!!\nDi channel Botan-senpai mulai jam 8 malam JST!!\n\nhttps://www.youtube.com/live/gPOU7d_QCSg?si=iW22RXzORlZ7dK-l\n\nItu 'Dodeka Bonby', ya?! Aku akan berusaha keras agar tidak jadi seperti itu!!!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "3df29325-cdb6-4408-8d93-f9be70189a1e",
