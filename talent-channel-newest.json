@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "247ffafb-510b-4fa1-9ccf-68b50b9423fb",
+    "thread": {
+      "id": "247ffafb-510b-4fa1-9ccf-68b50b9423fb",
+      "created_at": 1766325567,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "IT'S SO COLD...",
+      "body": "we dont have winter in Indonesia but its so cold 🥶🥶",
+      "translations": {
+        "ja": {
+          "title": "寒い…",
+          "body": "インドネシアには冬がないけど、すごく寒い🥶🥶"
+        },
+        "en": {
+          "title": "IT'S SO COLD...",
+          "body": "we dont have winter in Indonesia but its so cold 🥶🥶"
+        },
+        "id": {
+          "title": "DINGIN BANGET...",
+          "body": "kami tidak punya musim dingin di Indonesia tapi dingin banget 🥶🥶"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/834d8e2a-cb10-4aa7-b921-63d057a9342e.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "041C29B5-8381-4A54-A8A1-121906A013B1",
     "channel_name": "常闇トワ",
     "thread_id": "6953b5ac-a8e5-4a76-9740-10d36ff9add1",
