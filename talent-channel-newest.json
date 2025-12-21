@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "041C29B5-8381-4A54-A8A1-121906A013B1",
+    "channel_name": "常闇トワ",
+    "thread_id": "dff1c7b9-223f-4f3b-8675-923541ad06b9",
+    "thread": {
+      "id": "dff1c7b9-223f-4f3b-8675-923541ad06b9",
+      "created_at": 1766338085,
+      "talents": [
+        {
+          "id": "7a060ea1-fbe3-4a55-97fd-486034459cc0",
+          "name": "天音かなた",
+          "img_url": "https://asset.holoplus.com/talents/hololive/amane_kanata/icon.png",
+          "key_name": "amane_kanata"
+        },
+        {
+          "id": "1d9bd178-6425-4deb-9aa5-04fb3fc826ab",
+          "name": "常闇トワ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokoyami_towa/icon_20251208.png",
+          "key_name": "tokoyami_towa"
+        }
+      ],
+      "user": {
+        "id": "d9e583aa-667f-4fc4-9a55-2e2420a32549",
+        "name": "常闇トワ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokoyami_towa/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【質問募集✨】かなトワコラボ💫👾",
+      "body": "今日の19時から\nかなトワ最後の雑談配信します🤛\n\n2人に聞きたいこと、\n伝えたいことあったらどうぞ❕\n\n今日の配信で使うかもしれないから\nよろしくね〜🐤🍁",
+      "translations": {
+        "ja": {
+          "title": "【質問募集✨】かなトワコラボ💫👾",
+          "body": "今日の19時から\nかなトワ最後の雑談配信します🤛\n\n2人に聞きたいこと、\n伝えたいことあったらどうぞ❕\n\n今日の配信で使うかもしれないから\nよろしくね〜🐤🍁"
+        },
+        "en": {
+          "title": "[Asking for Questions✨] KanaTowa Collab💫👾",
+          "body": "Starting today at 7 PM JST,\nwe'll be having the final KanaTowa chat stream🤛\n\nIf you have anything you want to ask us two,\nor anything you want to tell us, please go ahead❕\n\nWe might use them in today's stream, so please send them in~🐤🍁"
+        },
+        "id": {
+          "title": "[Panggilan Pertanyaan✨] Kolaborasi KanaTowa💫👾",
+          "body": "Mulai hari ini jam 7 malam JST,\nkami akan mengadakan stream obrolan KanaTowa terakhir🤛\n\nKalau ada yang ingin kalian tanyakan kepada kami berdua,\natau ada yang ingin kalian sampaikan, silakan ya❕\n\nKami mungkin akan menggunakannya di stream hari ini,\njadi mohon kirimkan ya~🐤🍁"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "c93631f8-7321-413b-9e04-e2b7faf7f849",
