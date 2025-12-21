@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "c93631f8-7321-413b-9e04-e2b7faf7f849",
+    "thread": {
+      "id": "c93631f8-7321-413b-9e04-e2b7faf7f849",
+      "created_at": 1766331373,
+      "talents": [
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今日も一日お疲れ様🎶",
+      "body": "📞おやすみ前にポルカから電話です\n\nホロアースでねぽらぼライブやったよ！\nREPOで遊んだよ！\nメンバーシップ壁紙を配布したよ🎶",
+      "translations": {
+        "ja": {
+          "title": "今日も一日お疲れ様🎶",
+          "body": "📞おやすみ前にポルカから電話です\n\nホロアースでねぽらぼライブやったよ！\nREPOで遊んだよ！\nメンバーシップ壁紙を配布したよ🎶"
+        },
+        "en": {
+          "title": "Good work today, everyone! 🎶",
+          "body": "📞 A call from Polka before you sleep!\n\nWe had a NepoLabo Live on HoloEarth!\nWe played in REPO!\nMembership wallpapers have been distributed! 🎶"
+        },
+        "id": {
+          "title": "Kerja bagus hari ini, semuanya! 🎶",
+          "body": "📞 Telepon dari Polka sebelum tidur!\n\nKami mengadakan NepoLabo Live di HoloEarth!\nKami bermain di REPO!\nWallpaper membership sudah dibagikan! 🎶"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/4e0eae3c-2c18-499b-89ac-3b27abf6e446.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
     "thread_id": "247ffafb-510b-4fa1-9ccf-68b50b9423fb",
