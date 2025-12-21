@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "041C29B5-8381-4A54-A8A1-121906A013B1",
+    "channel_name": "常闇トワ",
+    "thread_id": "6953b5ac-a8e5-4a76-9740-10d36ff9add1",
+    "thread": {
+      "id": "6953b5ac-a8e5-4a76-9740-10d36ff9add1",
+      "created_at": 1766321574,
+      "talents": [
+        {
+          "id": "1d9bd178-6425-4deb-9aa5-04fb3fc826ab",
+          "name": "常闇トワ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokoyami_towa/icon_20251208.png",
+          "key_name": "tokoyami_towa"
+        }
+      ],
+      "user": {
+        "id": "d9e583aa-667f-4fc4-9a55-2e2420a32549",
+        "name": "常闇トワ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokoyami_towa/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "とわさま",
+      "body": "とわさまきた。\n",
+      "translations": {
+        "ja": {
+          "title": "とわさま",
+          "body": "とわさまきた。\n"
+        },
+        "en": {
+          "title": "Towa-sama",
+          "body": "Towa-sama is here."
+        },
+        "id": {
+          "title": "Towa-sama",
+          "body": "Towa-sama sudah datang."
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7209BDA9-D1E9-45D5-BFA3-0D4B19451C84",
     "channel_name": "輪堂千速",
     "thread_id": "a10243eb-5ee6-4e18-be3d-220ffad23465",
