@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "24badf90-d033-40f8-88a1-1b4e4a2273eb",
+    "thread": {
+      "id": "24badf90-d033-40f8-88a1-1b4e4a2273eb",
+      "created_at": 1766396107,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/24badf90-d033-40f8-88a1-1b4e4a2273eb/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "おじさん（CV水宮枢）",
+      "body": "おじさん構文のおっおー歌いながらおどったよhttps://youtube.com/shorts/hl0KlJ_bSro?si=rRzChE8OsFPl-I6d",
+      "translations": {
+        "ja": {
+          "title": "おじさん（CV水宮枢）",
+          "body": "おじさん構文のおっおー歌いながらおどったよhttps://youtube.com/shorts/hl0KlJ_bSro?si=rRzChE8OsFPl-I6d"
+        },
+        "en": {
+          "title": "Ojisan (CV: Kaname Suimiya)",
+          "body": "I danced while singing 'Ohoh' in ojisan-style text. https://youtube.com/shorts/hl0KlJ_bSro?si=rRzChE8OsFPl-I6d"
+        },
+        "id": {
+          "title": "Ojisan (CV: Kaname Suimiya)",
+          "body": "Aku menari sambil menyanyikan 'Ohoh' ala gaya ojisan. https://youtube.com/shorts/hl0KlJ_bSro?si=rRzChE8OsFPl-I6d"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "041C29B5-8381-4A54-A8A1-121906A013B1",
     "channel_name": "常闇トワ",
     "thread_id": "dff1c7b9-223f-4f3b-8675-923541ad06b9",
