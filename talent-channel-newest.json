@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "43480ada-61a1-4fb9-a45d-c6c5f0c3f6fa",
+    "thread": {
+      "id": "43480ada-61a1-4fb9-a45d-c6c5f0c3f6fa",
+      "created_at": 1766447525,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/43480ada-61a1-4fb9-a45d-c6c5f0c3f6fa/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20250902.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20250902.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "初！ホロプラスこんこよ〜！",
+      "body": "ホロプラス初めまして〜！\nholoXのずのー！博衣こよりだよ〜🧪✨\n\nホロプラスへのログイン方法が分かってなかった情弱です！\nやっとログインできた〜〜〜！\n\nみんな、見れてるかな〜？？？\nこんこよしてっ！💗",
+      "translations": {
+        "ja": {
+          "title": "初！ホロプラスこんこよ〜！",
+          "body": "ホロプラス初めまして〜！\nholoXのずのー！博衣こよりだよ〜🧪✨\n\nホロプラスへのログイン方法が分かってなかった情弱です！\nやっとログインできた〜〜〜！\n\nみんな、見れてるかな〜？？？\nこんこよしてっ！💗"
+        },
+        "en": {
+          "title": "First time! Konkoyo on holoplus~!",
+          "body": "Nice to meet you on holoplus for the first time~!\nIt's holoX's brain, Hakui Koyori~🧪✨\n\nI'm a bit of a tech noob who didn't know how to log into holoplus!\nI finally managed to log in~~~!\n\nEveryone, can you see me~???\nSay Konkoyo! 💗"
+        },
+        "id": {
+          "title": "Pertama kali! Konkoyo di holoplus~!",
+          "body": "Senang bertemu kalian di holoplus untuk pertama kalinya~!\nIni otaknya holoX! Hakui Koyori~🧪✨\n\nAku ini si kurang info yang nggak tahu cara login ke holoplus!\nAkhirnya bisa login juga~~~!\n\nSemuanya, bisa lihat aku nggak~???\nKonkoyo dong! 💗"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "24badf90-d033-40f8-88a1-1b4e4a2273eb",
