@@ -2,6 +2,51 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "9a99ab6b-49ef-4d67-9a42-f9f73b853c47",
+    "thread": {
+      "id": "9a99ab6b-49ef-4d67-9a42-f9f73b853c47",
+      "created_at": 1766636215,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/9a99ab6b-49ef-4d67-9a42-f9f73b853c47/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "👑FBKINGDOMステッカー",
+      "body": "沢山の印刷ありがとうございます‼️\n現時点で約9000枚印刷されておりますっ…SUGOI\n一応、期間限定ではありますが\nEXPO＆Fes中にも海外の方向けに印刷登録予定(借り)です‼️\n(ホロライブの施策と重複していなければ…)\nまた新しくシールを増やすかも？🤔\n\n\nコンビニのネットワークプリントにて\n白上手描きイラストのシール印刷🦊✨\n印刷方法をご確認のうえ\nユーザー番号.ＱＲコードをお近くのコンビニプリンターにてご利用ください🌽\n🦊< 〆切は12月31日までです！",
+      "translations": {
+        "ja": {
+          "title": "👑FBKINGDOMステッカー",
+          "body": "沢山の印刷ありがとうございます‼️\n現時点で約9000枚印刷されておりますっ…SUGOI\n一応、期間限定ではありますが\nEXPO＆Fes中にも海外の方向けに印刷登録予定(借り)です‼️\n(ホロライブの施策と重複していなければ…)\nまた新しくシールを増やすかも？🤔\n\n\nコンビニのネットワークプリントにて\n白上手描きイラストのシール印刷🦊✨\n印刷方法をご確認のうえ\nユーザー番号.ＱＲコードをお近くのコンビニプリンターにてご利用ください🌽\n🦊< 〆切は12月31日までです！"
+        },
+        "en": {
+          "title": "👑FBKINGDOM Stickers",
+          "body": "Thank you for so many prints‼️\nApproximately 9000 copies have been printed so far... SUGOI (Amazing)!\nAlthough it's for a limited time,\nwe tentatively plan to register them for printing for overseas fans during EXPO & Fes‼️\n(Provided it doesn't conflict with hololive's official initiatives...)\nWe might even add new stickers? 🤔\n\n\nSticker printing of hand-drawn illustrations on white background at convenience store network print 🦊✨\nPlease check the printing method, then\nuse the user number/QR code at a nearby convenience store printer 🌽\n🦊< The deadline is December 31st!"
+        },
+        "id": {
+          "title": "👑Stiker FBKINGDOM",
+          "body": "Terima kasih banyak untuk cetakannya‼️\nSaat ini sudah sekitar 9000 lembar yang dicetak... SUGOI (Luar biasa)!\nMeskipun ini sementara dan terbatas waktu,\nkami berencana untuk mendaftarkannya (sementara) agar bisa dicetak untuk penggemar di luar negeri selama EXPO & Fes‼️\n(Asalkan tidak tumpang tindih dengan kebijakan hololive...)\nMungkin kami akan menambah stiker baru lagi? 🤔\n\n\nCetak stiker ilustrasi gambar tangan di atas kertas putih melalui layanan cetak jaringan minimarket 🦊✨\nMohon periksa cara mencetaknya, lalu\ngunakan nomor pengguna/kode QR di printer minimarket terdekat 🌽\n🦊< Batas waktunya sampai 31 Desember!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "e63e1984-6e7e-48c8-87ff-b48203f35b89",
     "thread": {
       "id": "e63e1984-6e7e-48c8-87ff-b48203f35b89",
