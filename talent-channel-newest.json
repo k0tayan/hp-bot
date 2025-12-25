@@ -1,5 +1,107 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "e63e1984-6e7e-48c8-87ff-b48203f35b89",
+    "thread": {
+      "id": "e63e1984-6e7e-48c8-87ff-b48203f35b89",
+      "created_at": 1766633624,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/e63e1984-6e7e-48c8-87ff-b48203f35b89/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "de54958d-3ba2-4539-9cb1-39fd392cf82a",
+          "name": "さくらみこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/sakura_miko/icon_20240918.png",
+          "key_name": "sakura_miko"
+        },
+        {
+          "id": "ff2e6a92-89ce-40f0-8771-773a7dbefcfb",
+          "name": "星街すいせい",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hoshimachi_suisei/icon_20250902.png",
+          "key_name": "hoshimachi_suisei"
+        },
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "9330d8b1-d599-4c90-81c9-ec42cda9dbd0",
+          "name": "百鬼あやめ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/nakiri_ayame/icon_20250902.png",
+          "key_name": "nakiri_ayame"
+        },
+        {
+          "id": "25299e77-c314-4fcf-a9fe-13debe52ec53",
+          "name": "大空スバル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20240918.png",
+          "key_name": "oozora_subaru"
+        },
+        {
+          "id": "b3521645-5b78-439b-920f-b685edf69588",
+          "name": "大神ミオ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ookami_mio/icon.png",
+          "key_name": "ookami_mio"
+        },
+        {
+          "id": "cc9eb596-fd8f-4344-bb42-b7282dbc1e7a",
+          "name": "猫又おかゆ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/nekomata_okayu/icon_20250902.png",
+          "key_name": "nekomata_okayu"
+        },
+        {
+          "id": "1d9bd178-6425-4deb-9aa5-04fb3fc826ab",
+          "name": "常闇トワ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokoyami_towa/icon_20251208.png",
+          "key_name": "tokoyami_towa"
+        },
+        {
+          "id": "87561c2f-bcb7-49bb-8c2a-f9e9805cc7af",
+          "name": "獅白ぼたん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shishiro_botan/icon_20240918.png",
+          "key_name": "shishiro_botan"
+        },
+        {
+          "id": "e68478c3-cb8a-4f69-914b-54a98aa83bda",
+          "name": "鷹嶺ルイ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takane_lui/icon_20250902.png",
+          "key_name": "takane_lui"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "✨️✨️メリクリホロパーティ✨️✨️",
+      "body": "¸✧･ﾟ•.サンタがホロに舞い降りる+:｡:✧\n\n/／\n 　✩12月25日21：00✩\n　#メリクリホロパーティ 🎄\n\\＼\n爆笑企画に巻き込まれたサンタ達と一緒にクリスマスを過ごしませんか？🍰\nフブミオサンタからのプレゼント🎁も用意して\nホロサンタ達をお出迎え🎵\n⏬メリクリ⏬\nhttps://m.youtube.com/live/NsueHCfU1Ak?feature=share",
+      "translations": {
+        "ja": {
+          "title": "✨️✨️メリクリホロパーティ✨️✨️",
+          "body": "¸✧･ﾟ•.サンタがホロに舞い降りる+:｡:✧\n\n/／\n 　✩12月25日21：00✩\n　#メリクリホロパーティ 🎄\n\\＼\n爆笑企画に巻き込まれたサンタ達と一緒にクリスマスを過ごしませんか？🍰\nフブミオサンタからのプレゼント🎁も用意して\nホロサンタ達をお出迎え🎵\n⏬メリクリ⏬\nhttps://m.youtube.com/live/NsueHCfU1Ak?feature=share"
+        },
+        "en": {
+          "title": "✨️✨️Merry Christmas HoloParty✨️✨️",
+          "body": "¸✧･ﾟ•.Santa descends upon hololive+:｡:✧\n\n/／\n 　✩December 25th, 21:00 JST✩\n　#MerryChriHoloParty 🎄\n\\＼\nWhy not spend Christmas with the Santas who got caught up in a hilarious project?🍰\nWith gifts from FubuMio Santas prepared,\nlet's welcome the holoSantas!🎵\n⏬Merry Christmas⏬\nhttps://m.youtube.com/live/NsueHCfU1Ak?feature=share"
+        },
+        "id": {
+          "title": "✨️✨️HoloParty Natal Ceria✨️✨️",
+          "body": "¸✧･ﾟ•.Sinterklas turun ke hololive+:｡:✧\n\n/／\n 　✩25 Desember, 21:00 JST✩\n　#HoloPartyNatalCeria 🎄\n\\＼\nMengapa tidak menghabiskan Natal bersama para Sinterklas yang terlibat dalam proyek lucu ini?🍰\nDengan hadiah dari Sinterklas FubuMio yang sudah disiapkan,\nmari sambut para HoloSinterklas!🎵\n⏬Natal Ceria⏬\nhttps://m.youtube.com/live/NsueHCfU1Ak?feature=share"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/4c497893-3165-4283-a3ab-46b4eab39160.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "64DD1923-CD81-432F-B4B8-B4C870373A8B",
     "channel_name": "ロボ子さん",
     "thread_id": "1a7f1e13-7c2d-4fbd-813a-428b4c424422",
