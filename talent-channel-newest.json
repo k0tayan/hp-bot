@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "64DD1923-CD81-432F-B4B8-B4C870373A8B",
+    "channel_name": "ロボ子さん",
+    "thread_id": "1a7f1e13-7c2d-4fbd-813a-428b4c424422",
+    "thread": {
+      "id": "1a7f1e13-7c2d-4fbd-813a-428b4c424422",
+      "created_at": 1766623914,
+      "talents": [
+        {
+          "id": "f4574895-c0fe-4b0f-825d-c4199bc6d66f",
+          "name": "ロボ子さん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png",
+          "key_name": "robocosan"
+        }
+      ],
+      "user": {
+        "id": "e6c46d5c-574e-466b-a45f-371ad10aaa02",
+        "name": "ロボ子さん",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "メリクリサンタだぁよ✨🎅🎄✨",
+      "body": "メリークリスマス〜！！！\nプレゼントどこどこどこどこ\nコメントコメントコメントコメント\nハートハートハートハート♥♥♥♥♥♥\n",
+      "translations": {
+        "ja": {
+          "title": "メリクリサンタだぁよ✨🎅🎄✨",
+          "body": "メリークリスマス〜！！！\nプレゼントどこどこどこどこ\nコメントコメントコメントコメント\nハートハートハートハート♥♥♥♥♥♥\n"
+        },
+        "en": {
+          "title": "Merry Christmas, it's Santa! ✨🎅🎄✨",
+          "body": "Merry Christmas~!!!\nWhere are the presents, presents, presents, presents?\nComments, comments, comments, comments!\nHearts, hearts, hearts, hearts ♥♥♥♥♥♥\n"
+        },
+        "id": {
+          "title": "Selamat Natal, ini Santa! ✨🎅🎄✨",
+          "body": "Selamat Natal~!!!\nHadiahnya di mana, di mana, di mana, di mana?\nKomentar, komentar, komentar, komentar!\nHati, hati, hati, hati ♥♥♥♥♥♥\n"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/0fb1a489-3e23-4320-b93d-a824f984f624.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
     "thread_id": "43480ada-61a1-4fb9-a45d-c6c5f0c3f6fa",
