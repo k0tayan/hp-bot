@@ -2,6 +2,51 @@
   {
     "channel_id": "1565A4EC-C8A9-41EE-80E2-35591F59E324",
     "channel_name": "綺々羅々ヴィヴィ",
+    "thread_id": "bc57cbcb-31f1-4da7-ab9c-c3bf2aadf791",
+    "thread": {
+      "id": "bc57cbcb-31f1-4da7-ab9c-c3bf2aadf791",
+      "created_at": 1766823847,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/bc57cbcb-31f1-4da7-ab9c-c3bf2aadf791/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "80D80D4A-528E-7045-DF16-E99257309C38",
+          "name": "綺々羅々ヴィヴィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kikirara_vivi/icon_20251208.png",
+          "key_name": "kikirara_vivi"
+        }
+      ],
+      "user": {
+        "id": "debad505-36b9-494f-9f2d-42e711a37447",
+        "name": "綺々羅々ヴィヴィ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kikirara_vivi/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "このあと18時から‼️ホロライブ共通テスト✏️",
+      "body": "Xの規制解除されてた🔓！\n\n18時からはホロライブ共通テスト配信やります😽✨\nみんなはもう回答したかな？？\n\n緊張してきた🫨\n\n待機所はこちら⇢https://www.youtube.com/live/WezbhFLhdek?si=NBT-BSYn_KkvlOsi\n　",
+      "translations": {
+        "ja": {
+          "title": "このあと18時から‼️ホロライブ共通テスト✏️",
+          "body": "Xの規制解除されてた🔓！\n\n18時からはホロライブ共通テスト配信やります😽✨\nみんなはもう回答したかな？？\n\n緊張してきた🫨\n\n待機所はこちら⇢https://www.youtube.com/live/WezbhFLhdek?si=NBT-BSYn_KkvlOsi\n　"
+        },
+        "en": {
+          "title": "Starting at 6 PM today!! hololive Common Test ✏️",
+          "body": "X's restrictions have been lifted 🔓!\n\nFrom 6 PM, I'll be doing the hololive Common Test stream 😽✨\nHas everyone answered yet??\n\nI'm getting nervous 🫨\n\nWaiting room here ⇢https://www.youtube.com/live/WezbhFLhdek?si=NBT-BSYn_KkvlOsi"
+        },
+        "id": {
+          "title": "Mulai jam 6 sore nanti!! Ujian Umum hololive ✏️",
+          "body": "Pembatasan X sudah dicabut 🔓!\n\nMulai jam 6 sore, aku akan melakukan streaming Ujian Umum hololive 😽✨\nKalian semua sudah menjawab belum??\n\nAku mulai gugup 🫨\n\nRuang tunggu di sini ⇢https://www.youtube.com/live/WezbhFLhdek?si=NBT-BSYn_KkvlOsi"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "1565A4EC-C8A9-41EE-80E2-35591F59E324",
+    "channel_name": "綺々羅々ヴィヴィ",
     "thread_id": "55c01759-0ab0-43b4-b5c1-80dd3ff0e74a",
     "thread": {
       "id": "55c01759-0ab0-43b4-b5c1-80dd3ff0e74a",
