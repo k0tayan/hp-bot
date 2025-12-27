@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "1565A4EC-C8A9-41EE-80E2-35591F59E324",
+    "channel_name": "綺々羅々ヴィヴィ",
+    "thread_id": "55c01759-0ab0-43b4-b5c1-80dd3ff0e74a",
+    "thread": {
+      "id": "55c01759-0ab0-43b4-b5c1-80dd3ff0e74a",
+      "created_at": 1766805929,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/55c01759-0ab0-43b4-b5c1-80dd3ff0e74a/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "80D80D4A-528E-7045-DF16-E99257309C38",
+          "name": "綺々羅々ヴィヴィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kikirara_vivi/icon_20251208.png",
+          "key_name": "kikirara_vivi"
+        }
+      ],
+      "user": {
+        "id": "debad505-36b9-494f-9f2d-42e711a37447",
+        "name": "綺々羅々ヴィヴィ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kikirara_vivi/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "Xが規制がかかり更新できなくなったよ😭ショートみてね！",
+      "body": "⋱３D✨踊ってみたshorts更新！！⋰\n『わたしにかまって♡かまって♡』\n\nかまってかまって〜\n思わずループしちゃうやろ〜😽\n　\nYouTubeにコメントと高評価もよろしくお願いします💘\n\nhttps://youtube.com/shorts/MRMC8qBoeVc?si=0c0Pgsch9roL1FTf",
+      "translations": {
+        "ja": {
+          "title": "Xが規制がかかり更新できなくなったよ😭ショートみてね！",
+          "body": "⋱３D✨踊ってみたshorts更新！！⋰\n『わたしにかまって♡かまって♡』\n\nかまってかまって〜\n思わずループしちゃうやろ〜😽\n　\nYouTubeにコメントと高評価もよろしくお願いします💘\n\nhttps://youtube.com/shorts/MRMC8qBoeVc?si=0c0Pgsch9roL1FTf"
+        },
+        "en": {
+          "title": "X is restricted and I can't update it 😭 Please watch the short!",
+          "body": "⋱3D✨Dance cover shorts updated!!⋰\n『Pay attention to me ♡ Pay attention to me ♡』\n\nPay attention, pay attention~\nYou'll unconsciously loop it~😽\n\nPlease leave comments and likes on YouTube too 💘\n\nhttps://youtube.com/shorts/MRMC8qBoeVc?si=0c0Pgsch9roL1FTf"
+        },
+        "id": {
+          "title": "X dibatasi dan tidak bisa update 😭 Tonton short-nya ya!",
+          "body": "⋱3D✨Shorts dance cover diperbarui!!⋰\n『Perhatikan aku ♡ Perhatikan aku ♡』\n\nPerhatikan aku, perhatikan aku~\nPasti tanpa sadar kalian akan mengulanginya~😽\n\nMohon komentar dan like di YouTube juga ya 💘\n\nhttps://youtube.com/shorts/MRMC8qBoeVc?si=0c0Pgsch9roL1FTf"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "9a99ab6b-49ef-4d67-9a42-f9f73b853c47",
