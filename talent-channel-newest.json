@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "18492598-ddd4-47bb-b454-0a1e84036164",
+    "thread": {
+      "id": "18492598-ddd4-47bb-b454-0a1e84036164",
+      "created_at": 1767011860,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/18492598-ddd4-47bb-b454-0a1e84036164/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "MICHAEL...",
+      "body": "why do you look like a middle-aged man...\n\nyou dont even work...",
+      "translations": {
+        "ja": {
+          "title": "マイケル…",
+          "body": "なんで中年男性みたいなんだ…\n\n仕事もしてないのに…"
+        },
+        "en": {
+          "title": "MICHAEL...",
+          "body": "why do you look like a middle-aged man...\n\nyou dont even work..."
+        },
+        "id": {
+          "title": "MICHAEL...",
+          "body": "kenapa kamu terlihat seperti pria paruh baya...\n\nkamu bahkan tidak bekerja..."
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "4c092202-797a-4dc6-8296-78ef0acd6a62",
