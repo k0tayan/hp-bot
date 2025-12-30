@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "f3a66b47-fc1f-4b2f-8e85-05218e1ea8b6",
+    "thread": {
+      "id": "f3a66b47-fc1f-4b2f-8e85-05218e1ea8b6",
+      "created_at": 1767057885,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "冬コミスタート‼️",
+      "body": "冬コミの楽しさを共有してくださるお写真おまちしてまーす‼️",
+      "translations": {
+        "ja": {
+          "title": "冬コミスタート‼️",
+          "body": "冬コミの楽しさを共有してくださるお写真おまちしてまーす‼️"
+        },
+        "en": {
+          "title": "Winter Comiket Starts!!",
+          "body": "We're waiting for your photos sharing the fun of Winter Comiket!!"
+        },
+        "id": {
+          "title": "Winter Comiket Dimulai!!",
+          "body": "Kami menantikan foto-foto kalian yang berbagi keseruan Winter Comiket!!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/67fa89fd-74f1-4df0-953e-0183f85d75b8.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
     "thread_id": "18492598-ddd4-47bb-b454-0a1e84036164",
