@@ -2,6 +2,51 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "370ecc36-2dc4-4bbc-9d42-87a5b4df3f15",
+    "thread": {
+      "id": "370ecc36-2dc4-4bbc-9d42-87a5b4df3f15",
+      "created_at": 1767212690,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/370ecc36-2dc4-4bbc-9d42-87a5b4df3f15/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "🎍フブキングダム年賀状🎍",
+      "body": "あけましておめでとうございます！！\n今年１年何卒よろしくお願いします✨️\nまた、皆さんと楽しい１年になれるように活動してまいります🌽\n\n✨️コンビニのネットワークプリントにて実際に年賀はがきを印刷できます！",
+      "translations": {
+        "ja": {
+          "title": "🎍フブキングダム年賀状🎍",
+          "body": "あけましておめでとうございます！！\n今年１年何卒よろしくお願いします✨️\nまた、皆さんと楽しい１年になれるように活動してまいります🌽\n\n✨️コンビニのネットワークプリントにて実際に年賀はがきを印刷できます！"
+        },
+        "en": {
+          "title": "🎍Fubuki Kingdom New Year's Card🎍",
+          "body": "Happy New Year!!\nThank you for your continued support this year ✨️\nI'll continue my activities so we can all have a fun year together 🌽\n\n✨️You can actually print these New Year's postcards at convenience store network print services!"
+        },
+        "id": {
+          "title": "🎍Kartu Tahun Baru Fubuki Kingdom🎍",
+          "body": "Selamat Tahun Baru!!\nMohon dukungannya untuk tahun ini ya ✨️\nSaya akan terus beraktivitas agar kita semua bisa memiliki tahun yang menyenangkan bersama 🌽\n\n✨️Kalian bisa mencetak kartu pos Tahun Baru ini di layanan cetak jaringan minimarket!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "d5f05c7d-bc6b-4c02-93f6-d9eb44b06134",
     "thread": {
       "id": "d5f05c7d-bc6b-4c02-93f6-d9eb44b06134",
