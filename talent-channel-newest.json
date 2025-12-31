@@ -1,5 +1,95 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "d5f05c7d-bc6b-4c02-93f6-d9eb44b06134",
+    "thread": {
+      "id": "d5f05c7d-bc6b-4c02-93f6-d9eb44b06134",
+      "created_at": 1767193457,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/d5f05c7d-bc6b-4c02-93f6-d9eb44b06134/original.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "🎍🌅フブキングダム年賀状",
+      "body": "あけましておめでとうございます！！\n今年１年何卒よろしくお願いします✨️\nまた、皆さんと楽しい１年になれるように活動してまいります🌽\n\n✨️コンビニのネットワークプリントにて実際に年賀はがきを印刷できます！",
+      "translations": {
+        "ja": {
+          "title": "🎍🌅フブキングダム年賀状",
+          "body": "あけましておめでとうございます！！\n今年１年何卒よろしくお願いします✨️\nまた、皆さんと楽しい１年になれるように活動してまいります🌽\n\n✨️コンビニのネットワークプリントにて実際に年賀はがきを印刷できます！"
+        },
+        "en": {
+          "title": "🎍🌅 Fubu Kingdom New Year's Card",
+          "body": "Happy New Year!!\nThank you for your continued support this year ✨️\nI'll continue my activities so we can all have a fun year together 🌽\n\n✨️ You can actually print New Year's postcards using the network print service at convenience stores!"
+        },
+        "id": {
+          "title": "🎍🌅 Kartu Tahun Baru Fubu Kingdom",
+          "body": "Selamat Tahun Baru!!\nMohon dukungannya untuk tahun ini ya ✨️\nAku akan terus beraktivitas agar kita semua bisa memiliki tahun yang menyenangkan bersama 🌽\n\n✨️ Kalian bisa mencetak kartu pos Tahun Baru secara langsung menggunakan layanan cetak jaringan di minimarket!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "7686a6ea-27a7-44c2-8f10-280cd3abfd1d",
+    "thread": {
+      "id": "7686a6ea-27a7-44c2-8f10-280cd3abfd1d",
+      "created_at": 1767193379,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/7686a6ea-27a7-44c2-8f10-280cd3abfd1d/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "👑王国年賀はがき配布開始",
+      "body": "/／\n 🎍王国年賀はがき配布開始\n\\＼\n\n✨️あけましておめでとうございます✨️\nコンビニのネットワークプリントにて手描き年賀はがき印刷開始🦊✨\n\n印刷方法をご確認のうえ\nユーザー番号.ＱＲコードをお近くのコンビニプリンターにてご利用ください🌽\n\n🦊< 〆切は1月15日まで\n #FBKINGDOM",
+      "translations": {
+        "ja": {
+          "title": "👑王国年賀はがき配布開始",
+          "body": "/／\n 🎍王国年賀はがき配布開始\n\\＼\n\n✨️あけましておめでとうございます✨️\nコンビニのネットワークプリントにて手描き年賀はがき印刷開始🦊✨\n\n印刷方法をご確認のうえ\nユーザー番号.ＱＲコードをお近くのコンビニプリンターにてご利用ください🌽\n\n🦊< 〆切は1月15日まで\n #FBKINGDOM"
+        },
+        "en": {
+          "title": "👑 Kingdom New Year's Postcard Distribution Begins",
+          "body": "／／\n 🎍 Kingdom New Year's Postcard Distribution Begins\n＼＼\n\n✨️Happy New Year!✨️\nHand-drawn New Year's postcards are now available for printing via convenience store network print services!🦊✨\n\nPlease check the printing instructions and use the user number/QR code at a nearby convenience store printer🌽\n\n🦊< Deadline is January 15th!\n #FBKINGDOM"
+        },
+        "id": {
+          "title": "👑 Distribusi Kartu Pos Tahun Baru Kerajaan Dimulai",
+          "body": "／／\n 🎍 Distribusi Kartu Pos Tahun Baru Kerajaan Dimulai\n＼＼\n\n✨️Selamat Tahun Baru!✨️\nKartu pos Tahun Baru buatan tangan kini tersedia untuk dicetak melalui layanan cetak jaringan minimarket!🦊✨\n\nMohon periksa petunjuk pencetakan dan gunakan nomor pengguna/kode QR di printer minimarket terdekat🌽\n\n🦊< Batas waktu hingga 15 Januari!\n #FBKINGDOM"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
     "thread_id": "fe0c785f-658c-49b3-9f84-e3c167ca64ed",
