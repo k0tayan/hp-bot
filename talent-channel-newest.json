@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "55f1f264-8094-48e5-9cd9-41cb28684433",
+    "thread": {
+      "id": "55f1f264-8094-48e5-9cd9-41cb28684433",
+      "created_at": 1767168589,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/55f1f264-8094-48e5-9cd9-41cb28684433/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Make us the best sister comedy duo!! ✨",
+      "body": "We’re entering a SHOWDOWN to make you laugh during tonight’s “Yuku holo Kuru holo” program! We have 25 seconds to finish our joke!! Last year we advanced to the finals, but this year we want to WIN 1st PLACE!! 🔥✨ Please vote for us here on holoplus!! BAU BAUー！！🐾",
+      "translations": {
+        "ja": {
+          "title": "私たちを最高の姉妹お笑いコンビにしてください!! ✨",
+          "body": "今夜の「ゆくホロくるホロ」で、みんなを笑わせるためにSHOWDOWNに挑むよ！25秒しかないよ！！去年は決勝まで進んだけど、今年は1位を獲りたいです！！🔥✨ぜひホロプラスでFUWAMOCOに票してね！！BAU BAUー！！🐾"
+        },
+        "en": {
+          "title": "Make us the best sister comedy duo!! ✨",
+          "body": "We’re entering a SHOWDOWN to make you laugh during tonight’s “Yuku holo Kuru holo” program! We have 25 seconds to finish our joke!! Last year we advanced to the finals, but this year we want to WIN 1st PLACE!! 🔥✨ Please vote for us here on holoplus!! BAU BAUー！！🐾"
+        },
+        "id": {
+          "title": "Jadikan kami duo komedi saudari terbaik!! ✨",
+          "body": "Kami akan bertarung habis-habisan untuk membuat kalian tertawa di program “Yuku holo Kuru holo” malam ini! Kami punya 25 detik untuk menyelesaikan lelucon kami!! Tahun lalu kami berhasil masuk final, tapi tahun ini kami ingin MERAIH JUARA 1!! 🔥✨ Mohon vote kami di holoplus ya!! BAU BAUー！！🐾"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "99FCCAAF-977D-4FFB-AC23-137F82A72C6D",
     "channel_name": "ベスティア・ゼータ",
     "thread_id": "bc8c3183-f12a-4278-ac5e-aa6bdc393b8d",
