@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "DA6633B6-14B7-4FE4-BC1E-6B2BE58B5077",
+    "channel_name": "AZKi",
+    "thread_id": "2c9226c3-3d85-4848-a8f5-7033583d372e",
+    "thread": {
+      "id": "2c9226c3-3d85-4848-a8f5-7033583d372e",
+      "created_at": 1767161218,
+      "talents": [
+        {
+          "id": "400b93ad-2dd0-4303-acbc-d0207c202118",
+          "name": "AZKi",
+          "img_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png",
+          "key_name": "azki"
+        }
+      ],
+      "user": {
+        "id": "822f4e4b-ecaf-4924-ac0b-39efc951a9fb",
+        "name": "AZKi",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "良いお年を！",
+      "body": "「ホロライブ\"笑\"ダウン25」がんばったので見てね⚒️🍃\n#年末年始はホロライブと",
+      "translations": {
+        "ja": {
+          "title": "良いお年を！",
+          "body": "「ホロライブ\"笑\"ダウン25」がんばったので見てね⚒️🍃\n#年末年始はホロライブと"
+        },
+        "en": {
+          "title": "Wishing you a good year!",
+          "body": "I worked hard on \"hololive 'Wara' Down 25\", so please check it out! ⚒️🍃\n#NewYearWithHololive"
+        },
+        "id": {
+          "title": "Selamat Tahun Baru!",
+          "body": "Aku sudah berusaha keras untuk \"hololive 'Wara' Down 25\", jadi tolong tonton ya! ⚒️🍃\n#TahunBaruBersamaHololive"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "d6cdc8c8-61cf-4fa8-a35d-8329c5b47459",
