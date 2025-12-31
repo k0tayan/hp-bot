@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "27da7a44-7e4a-467b-8d8a-093f51eefe7c",
+    "thread": {
+      "id": "27da7a44-7e4a-467b-8d8a-093f51eefe7c",
+      "created_at": 1767157227,
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20250902.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20250902.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "2025年ありがとう！2026年もよろしくね！",
+      "body": "大晦日だ〜〜！！✨\n今日このあとのこよの予定は\n\n💃16:00 Shorts投稿！\n🗓️17:52 ゆくホロくるホロ出演\n🎬22:30 2025年振り返り&カウントダウンライブミラー配信\n🍑0:30 新作桃鉄100年耐久\n\nだよ〜！\n寝溜めしておきたかったけど目覚めちゃって作業してる🤣\n\nホロプラスで今年最後のご挨拶ボイスです🎁🐱\n2026年もたくさんみんなに「楽しい」をお届けする予定なので！応援よろしくね！✨\n\n#年末年始はホロライブと",
+      "translations": {
+        "ja": {
+          "title": "2025年ありがとう！2026年もよろしくね！",
+          "body": "大晦日だ〜〜！！✨\n今日このあとのこよの予定は\n\n💃16:00 Shorts投稿！\n🗓️17:52 ゆくホロくるホロ出演\n🎬22:30 2025年振り返り&カウントダウンライブミラー配信\n🍑0:30 新作桃鉄100年耐久\n\nだよ〜！\n寝溜めしておきたかったけど目覚めちゃって作業してる🤣\n\nホロプラスで今年最後のご挨拶ボイスです🎁🐱\n2026年もたくさんみんなに「楽しい」をお届けする予定なので！応援よろしくね！✨\n\n#年末年始はホロライブと"
+        },
+        "en": {
+          "title": "Thank you, 2025! Looking forward to 2026!",
+          "body": "It's New Year's Eve~~!! ✨\nHere's Koyo's schedule for later today:\n\n💃16:00 Shorts upload!\n🗓️17:52 Appearing on 'Yuku Holo Kuru Holo'\n🎬22:30 2025 Year in Review & Countdown Live Mirror Stream\n🍑0:30 New Momotetsu 100-Year Endurance Challenge\n\nThat's it~!\nI wanted to catch up on sleep, but I woke up and now I'm working 🤣\n\nHere's my last greeting voice for the year on holoplus 🎁🐱\nI plan to bring everyone lots of 'fun' in 2026 too! Please continue to support me! ✨\n\n#年末年始はホロライブと"
+        },
+        "id": {
+          "title": "Terima kasih 2025! Mohon dukungannya juga di tahun 2026!",
+          "body": "Ini Malam Tahun Baru~~!! ✨\nBerikut jadwal Koyo nanti hari ini:\n\n💃16:00 Unggah Shorts!\n🗓️17:52 Tampil di 'Yuku Holo Kuru Holo'\n🎬22:30 Kilas Balik 2025 & Streaming Cermin Live Hitung Mundur\n🍑0:30 Tantangan Ketahanan Momotetsu Baru 100 Tahun\n\nItu dia~!\nAku ingin tidur nyenyak, tapi malah terbangun dan sekarang sedang bekerja 🤣\n\nIni adalah suara sapaan terakhirku tahun ini di holoplus 🎁🐱\nAku berencana untuk membawakan banyak 'kesenangan' untuk kalian semua di tahun 2026 juga! Mohon dukungannya ya! ✨\n\n#年末年始はホロライブと"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/03cfb1b2-863e-437e-bdaa-66e96fb77b72.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "f3a66b47-fc1f-4b2f-8e85-05218e1ea8b6",
