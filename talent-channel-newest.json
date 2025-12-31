@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
+    "channel_name": "ときのそら",
+    "thread_id": "205480ed-38e5-41ea-bacc-a62fe9b3914b",
+    "thread": {
+      "id": "205480ed-38e5-41ea-bacc-a62fe9b3914b",
+      "created_at": 1767170754,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/205480ed-38e5-41ea-bacc-a62fe9b3914b/original.png"
+      ],
+      "talents": [
+        {
+          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
+          "name": "ときのそら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
+          "key_name": "tokino_sora"
+        }
+      ],
+      "user": {
+        "id": "fba971c0-a958-4d6d-bb6f-21a6e7a04f8b",
+        "name": "ときのそら",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今日は大晦日！！",
+      "body": "みんなー！！\n今日は大晦日だね！\n\nゆくホロとカウントダウンライブあるよ🩷\nみんなー、一緒に年越ししようね\n\n#年末年始はホロライブと",
+      "translations": {
+        "ja": {
+          "title": "今日は大晦日！！",
+          "body": "みんなー！！\n今日は大晦日だね！\n\nゆくホロとカウントダウンライブあるよ🩷\nみんなー、一緒に年越ししようね\n\n#年末年始はホロライブと"
+        },
+        "en": {
+          "title": "It's New Year's Eve today!!",
+          "body": "Everyone~!!\nIt's New Year's Eve today!\n\nThere's YukuHolo and the Countdown Live 🩷\nEveryone~, let's spend New Year's together\n\n#NewYearswithhololive"
+        },
+        "id": {
+          "title": "Hari ini Malam Tahun Baru!!",
+          "body": "Semuanya~!!\nHari ini Malam Tahun Baru!\n\nAda YukuHolo dan Countdown Live lho 🩷\nSemuanya~, ayo kita rayakan Tahun Baru bersama\n\n#TahunBaruBersamahololive"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/f46754bd-a890-4168-898e-0a9ccd3754ed.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
     "channel_name": "フワモコ",
     "thread_id": "55f1f264-8094-48e5-9cd9-41cb28684433",
