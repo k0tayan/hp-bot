@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "736b3026-4793-4181-8cc5-3bde183d793b",
+    "thread": {
+      "id": "736b3026-4793-4181-8cc5-3bde183d793b",
+      "created_at": 1767178357,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今年1年ありがとうございました！#年末年始はホロライブと ",
+      "body": "ゆくホロくるホロも楽しんでくださいね！\nカウントダウンライブもお楽しみに🦊✨\n",
+      "translations": {
+        "ja": {
+          "title": "今年1年ありがとうございました！#年末年始はホロライブと ",
+          "body": "ゆくホロくるホロも楽しんでくださいね！\nカウントダウンライブもお楽しみに🦊✨\n"
+        },
+        "en": {
+          "title": "Thank you for this past year! #YearEndNewYearWithhololive",
+          "body": "Please enjoy the Year-End & New Year hololive specials too!\nAnd look forward to the Countdown Live! 🦊✨\n"
+        },
+        "id": {
+          "title": "Terima kasih untuk tahun ini! #AkhirTahunAwalTahunBersamahololive",
+          "body": "Mohon nikmati juga spesial hololive akhir tahun & awal tahun!\nDan nantikan Countdown Live! 🦊✨\n"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/851837c9-6a7c-4fb0-be86-9ccdcce61d7c.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "041C29B5-8381-4A54-A8A1-121906A013B1",
     "channel_name": "常闇トワ",
     "thread_id": "6b2f0402-6d95-4a25-a2c8-3ed283b7c384",
