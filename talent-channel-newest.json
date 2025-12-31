@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "041C29B5-8381-4A54-A8A1-121906A013B1",
+    "channel_name": "常闇トワ",
+    "thread_id": "6b2f0402-6d95-4a25-a2c8-3ed283b7c384",
+    "thread": {
+      "id": "6b2f0402-6d95-4a25-a2c8-3ed283b7c384",
+      "created_at": 1767172292,
+      "talents": [
+        {
+          "id": "1d9bd178-6425-4deb-9aa5-04fb3fc826ab",
+          "name": "常闇トワ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokoyami_towa/icon_20251208.png",
+          "key_name": "tokoyami_towa"
+        }
+      ],
+      "user": {
+        "id": "d9e583aa-667f-4fc4-9a55-2e2420a32549",
+        "name": "常闇トワ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokoyami_towa/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "みんな今年もありがとう～～！✨️",
+      "body": "みんな今年もありがとう～～！✨️\n今年最後の出演はこちら！！\n\n「hololive production COUNTDOWN LIVE 2025▷2026」\nhttps://www.youtube.com/watch?v=oKiKqycF-lk\n\nわためと一緒に歌うのでお楽しみに🎤\n\n#年末年始はホロライブと",
+      "translations": {
+        "ja": {
+          "title": "みんな今年もありがとう～～！✨️",
+          "body": "みんな今年もありがとう～～！✨️\n今年最後の出演はこちら！！\n\n「hololive production COUNTDOWN LIVE 2025▷2026」\nhttps://www.youtube.com/watch?v=oKiKqycF-lk\n\nわためと一緒に歌うのでお楽しみに🎤\n\n#年末年始はホロライブと"
+        },
+        "en": {
+          "title": "Thank you everyone for this year too~~! ...",
+          "body": "Thank you everyone for this year too~~! ✨️\nMy last appearance this year is here!!\n\n「hololive production COUNTDOWN LIVE 2025▷2026」\nhttps://www.youtube.com/watch?v=oKiKqycF-lk\n\nI'll be singing with Watame, so please look forward to it 🎤\n\n#NewYearsWithhololive"
+        },
+        "id": {
+          "title": "Terima kasih semuanya untuk tahun ini ju...",
+          "body": "Terima kasih semuanya untuk tahun ini juga~~! ✨️\nPenampilan terakhirku tahun ini ada di sini!!\n\n「hololive production COUNTDOWN LIVE 2025▷2026」\nhttps://www.youtube.com/watch?v=oKiKqycF-lk\n\nAku akan bernyanyi bersama Watame, jadi nantikan ya 🎤\n\n#TahunBaruBersamahololive"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
     "channel_name": "ときのそら",
     "thread_id": "205480ed-38e5-41ea-bacc-a62fe9b3914b",
