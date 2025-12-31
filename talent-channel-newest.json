@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "995fdb65-5b0b-47aa-9e13-8a4da65f9754",
+    "thread": {
+      "id": "995fdb65-5b0b-47aa-9e13-8a4da65f9754",
+      "created_at": 1767165906,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/995fdb65-5b0b-47aa-9e13-8a4da65f9754/original.png"
+      ],
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "BAU BAUー！！🐾🩵🩷",
+      "body": "These twin demon dogs are now here on holoplus!! Let’s have lots of fun together, Ruffians!! 🐾✨ #年末年始はホロライブと",
+      "translations": {
+        "ja": {
+          "title": "BAU BAUー！！🐾🩵🩷",
+          "body": "悪魔犬シスターズがホロプラスに登場！ラフィアンズのみんな、一緒に楽しもうね！🐾✨ #年末年始はホロライブと"
+        },
+        "en": {
+          "title": "BAU BAUー！！🐾🩵🩷",
+          "body": "These twin demon dogs are now here on holoplus!! Let’s have lots of fun together, Ruffians!! 🐾✨ #年末年始はホロライブと"
+        },
+        "id": {
+          "title": "BAU BAUー!! 🐾🩵🩷",
+          "body": "Anjing iblis kembar ini sekarang ada di holoplus!! Ayo bersenang-senang bersama, Ruffians!! 🐾✨ #LiburanAkhirTahunBarenghololive"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "4AF109EC-FDC3-4070-AFF8-6AEFFFDC396D",
     "channel_name": "角巻わため",
     "thread_id": "8dc97246-c3e1-4443-94e4-c240558750cd",
