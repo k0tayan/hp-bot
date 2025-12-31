@@ -1,5 +1,92 @@
 [
   {
+    "channel_id": "99FCCAAF-977D-4FFB-AC23-137F82A72C6D",
+    "channel_name": "ベスティア・ゼータ",
+    "thread_id": "bc8c3183-f12a-4278-ac5e-aa6bdc393b8d",
+    "thread": {
+      "id": "bc8c3183-f12a-4278-ac5e-aa6bdc393b8d",
+      "created_at": 1767167689,
+      "talents": [
+        {
+          "id": "4aef28fc-b18f-4fd8-b08e-5be9be79449a",
+          "name": "ベスティア・ゼータ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20240918.png",
+          "key_name": "vestia_zeta"
+        }
+      ],
+      "user": {
+        "id": "b52e073f-5c0e-4b97-9917-8faa6574e12a",
+        "name": "ベスティア・ゼータ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "🎤",
+      "body": "#年末年始はホロライブと\n",
+      "translations": {
+        "ja": {
+          "title": "🎤",
+          "body": "#年末年始はホロライブと\n"
+        },
+        "en": {
+          "title": "🎤",
+          "body": "#NewYearWithhololive\n"
+        },
+        "id": {
+          "title": "🎤",
+          "body": "#AkhirTahunBersamahololive\n"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/61895f60-da24-422f-872f-fdad3849095b.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "99FCCAAF-977D-4FFB-AC23-137F82A72C6D",
+    "channel_name": "ベスティア・ゼータ",
+    "thread_id": "e9d8d459-97a6-4635-b99c-a78f24cfe9bd",
+    "thread": {
+      "id": "e9d8d459-97a6-4635-b99c-a78f24cfe9bd",
+      "created_at": 1767167432,
+      "talents": [
+        {
+          "id": "4aef28fc-b18f-4fd8-b08e-5be9be79449a",
+          "name": "ベスティア・ゼータ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20240918.png",
+          "key_name": "vestia_zeta"
+        }
+      ],
+      "user": {
+        "id": "b52e073f-5c0e-4b97-9917-8faa6574e12a",
+        "name": "ベスティア・ゼータ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "THANK YOU EVERYONE FOR AN AMAZING UNFORGETTABLE 2025!!!",
+      "body": "2026もよろしくおねがいします！\nThere's lots of programs today so check it out~~~\n\n\n#年末年始はホロライブと\n",
+      "translations": {
+        "ja": {
+          "title": "素晴らしい忘れられない2025年をありがとう、みんな！！！",
+          "body": "2026もよろしくおねがいします！\n今日はたくさんの番組があるから、ぜひチェックしてね〜〜〜\n\n\n#年末年始はホロライブと\n"
+        },
+        "en": {
+          "title": "THANK YOU EVERYONE FOR AN AMAZING UNFORGETTABLE 2025!!!",
+          "body": "2026もよろしくおねがいします！\nThere's lots of programs today so check it out~~~\n\n\n#年末年始はホロライブと\n"
+        },
+        "id": {
+          "title": "TERIMA KASIH  UNTUK TAHUN 2025 YANG LUAR BIASA DAN TAK TERLUPAKAN!!!",
+          "body": "Mohon bantuannya juga di tahun 2026!\nAda banyak program hari ini jadi jangan sampai ketinggalan~~~\n\n\n#AkhirTahunAwalTahunBarengHololive\n"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
     "channel_name": "フワモコ",
     "thread_id": "995fdb65-5b0b-47aa-9e13-8a4da65f9754",
