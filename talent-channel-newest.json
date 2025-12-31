@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "fe0c785f-658c-49b3-9f84-e3c167ca64ed",
+    "thread": {
+      "id": "fe0c785f-658c-49b3-9f84-e3c167ca64ed",
+      "created_at": 1767187717,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/fe0c785f-658c-49b3-9f84-e3c167ca64ed/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "I'm getting hungry... 🤤🤤",
+      "body": "I also want to eat senpai's cooking!!🥩✨️\n#年末年始はホロライブと",
+      "translations": {
+        "ja": {
+          "title": "お腹空いてきた… 🤤🤤",
+          "body": "先輩の手料理も食べたいな！！🥩✨️\n#年末年始はホロライブと"
+        },
+        "en": {
+          "title": "I'm getting hungry... 🤤🤤",
+          "body": "I also want to eat senpai's cooking!!🥩✨️\n#年末年始はホロライブと"
+        },
+        "id": {
+          "title": "Aku mulai lapar... 🤤🤤",
+          "body": "Aku juga mau makan masakan senpai!!🥩✨️\n#TahunBaruBersamahololive"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "736b3026-4793-4181-8cc5-3bde183d793b",
