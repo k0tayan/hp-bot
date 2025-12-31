@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "d6cdc8c8-61cf-4fa8-a35d-8329c5b47459",
+    "thread": {
+      "id": "d6cdc8c8-61cf-4fa8-a35d-8329c5b47459",
+      "created_at": 1767158961,
+      "talents": [
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ボイスあり🎤年末の挨拶 ⋆⸜🧡⸝‍⋆",
+      "body": "今日はこのあと17時からゆくホロくるホロとカウントダウン同時視聴するよーーー！！！そして一緒に年越し！！\n今年もお世話になりました🙇‍♀️\n来年もよろしくお願いいたします🙏\n\n#年末年始はホロライブと",
+      "translations": {
+        "ja": {
+          "title": "ボイスあり🎤年末の挨拶 ⋆⸜🧡⸝‍⋆",
+          "body": "今日はこのあと17時からゆくホロくるホロとカウントダウン同時視聴するよーーー！！！そして一緒に年越し！！\n今年もお世話になりました🙇‍♀️\n来年もよろしくお願いいたします🙏\n\n#年末年始はホロライブと"
+        },
+        "en": {
+          "title": "With Voice 🎤 Year-End Greetings ⋆⸜🧡⸝‍⋆",
+          "body": "Today, starting at 5 PM JST, I'll be simultaneously watching YukuHolo KuruHolo and the countdown!!! Let's ring in the New Year together!!\nThank you for all your support this year 🙇‍♀️\nPlease continue to support me next year too 🙏\n\n#NewYearWithhololive"
+        },
+        "id": {
+          "title": "Ada Suara 🎤 Salam Akhir Tahun ⋆⸜🧡⸝‍⋆",
+          "body": "Hari ini, mulai jam 5 sore JST, aku akan nonton bareng YukuHolo KuruHolo dan hitung mundur!!! Mari kita sambut Tahun Baru bersama!!\nTerima kasih atas dukungan kalian sepanjang tahun ini 🙇‍♀️\nMohon dukungannya juga untuk tahun depan ya 🙏\n\n#TahunBaruBersamahololive"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/c68bcfa4-f048-42b5-a3ac-ee405e82c098.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
     "thread_id": "27da7a44-7e4a-467b-8d8a-093f51eefe7c",
