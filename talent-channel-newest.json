@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "4AF109EC-FDC3-4070-AFF8-6AEFFFDC396D",
+    "channel_name": "角巻わため",
+    "thread_id": "8dc97246-c3e1-4443-94e4-c240558750cd",
+    "thread": {
+      "id": "8dc97246-c3e1-4443-94e4-c240558750cd",
+      "created_at": 1767165528,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/8dc97246-c3e1-4443-94e4-c240558750cd/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "c5a07d80-0d02-4167-89e2-06faeed5bcab",
+          "name": "角巻わため",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png",
+          "key_name": "tsunomaki_watame"
+        }
+      ],
+      "user": {
+        "id": "cbce1653-1882-45a1-b0bb-99ea226e96da",
+        "name": "角巻わため",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今年も大変お世話になりました！",
+      "body": "ゆくホロくるホロ2025とカウントダウンライブ楽しもうね:*:・(*´ω`*)b\n\n#年末年始はホロライブと",
+      "translations": {
+        "ja": {
+          "title": "今年も大変お世話になりました！",
+          "body": "ゆくホロくるホロ2025とカウントダウンライブ楽しもうね:*:・(*´ω`*)b\n\n#年末年始はホロライブと"
+        },
+        "en": {
+          "title": "Thank you very much for your support this year!",
+          "body": "Let's enjoy YukuHolo KuruHolo 2025 and the Countdown Live! :*:・(*´ω`*)b\n\n#NewYearWithHololive"
+        },
+        "id": {
+          "title": "Terima kasih banyak atas dukungan kalian tahun ini!",
+          "body": "Mari kita nikmati YukuHolo KuruHolo 2025 dan Countdown Live! :*:・(*´ω`*)b\n\n#TahunBaruBersamaHololive"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "DA6633B6-14B7-4FE4-BC1E-6B2BE58B5077",
     "channel_name": "AZKi",
     "thread_id": "2c9226c3-3d85-4848-a8f5-7033583d372e",
