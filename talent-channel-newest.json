@@ -2,6 +2,51 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "43f1a749-b3d7-4264-9214-8978122d524a",
+    "thread": {
+      "id": "43f1a749-b3d7-4264-9214-8978122d524a",
+      "created_at": 1767276708,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/43f1a749-b3d7-4264-9214-8978122d524a/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ゆったりなお正月🎍",
+      "body": "今日は五目並べ楽しかったですね！〇⚫️\n負けたのは悔しいですが\nみんなと新年から遊べて楽しかったです✨️\n\n今はゆったりサイン書きしてます✒️\n名探偵津田をみながらなので笑いながら見てます😃\n\n明日は3期生の企画に参加します✨️\n偽ゲマズ楽しむぞーぃ‼️\n皆さんも、よきお正月を❤️",
+      "translations": {
+        "ja": {
+          "title": "ゆったりなお正月🎍",
+          "body": "今日は五目並べ楽しかったですね！〇⚫️\n負けたのは悔しいですが\nみんなと新年から遊べて楽しかったです✨️\n\n今はゆったりサイン書きしてます✒️\n名探偵津田をみながらなので笑いながら見てます😃\n\n明日は3期生の企画に参加します✨️\n偽ゲマズ楽しむぞーぃ‼️\n皆さんも、よきお正月を❤️"
+        },
+        "en": {
+          "title": "Relaxed New Year's Day 🎍",
+          "body": "Gomoku Narabe was fun today, wasn't it! 〇⚫️\nIt's frustrating that I lost,\nbut it was fun to play with everyone from the New Year! ✨️\n\nNow I'm leisurely writing signatures ✒️\nI'm watching 'Meitantei Tsuda' while doing it, so I'm laughing as I watch 😃\n\nTomorrow, I'll be participating in the 3rd Gen's project ✨️\nI'm gonna enjoy the Fake Gamers! ‼️\nEveryone, have a wonderful New Year too ❤️"
+        },
+        "id": {
+          "title": "Tahun Baru yang Santai 🎍",
+          "body": "Gomoku Narabe hari ini seru ya! 〇⚫️\nMeskipun kalah rasanya kesal,\ntapi senang bisa bermain bersama semuanya sejak Tahun Baru! ✨️\n\nSekarang aku lagi santai menulis tanda tangan ✒️\nAku menonton 'Meitantei Tsuda' sambil menulis, jadi aku tertawa saat menontonnya 😃\n\nBesok, aku akan berpartisipasi dalam proyek Generasi ke-3 ✨️\nAkan bersenang-senang dengan Fake Gamers! ‼️\nSemuanya, semoga Tahun Baru kalian juga menyenangkan ❤️"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "370ecc36-2dc4-4bbc-9d42-87a5b4df3f15",
     "thread": {
       "id": "370ecc36-2dc4-4bbc-9d42-87a5b4df3f15",
