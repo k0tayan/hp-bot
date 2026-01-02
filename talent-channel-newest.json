@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "73b1f899-528b-4542-8aac-955ed442241f",
+    "thread": {
+      "id": "73b1f899-528b-4542-8aac-955ed442241f",
+      "created_at": 1767323494,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/73b1f899-528b-4542-8aac-955ed442241f/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "あけおめBAU BAU🎍✨",
+      "body": "✨＼ あけましておめでとうBAU BAU ／✨\n\n今年は新しいことにたくさん挑戦しながら“ウマ”く笑顔を守るようにがんばるよ〜！！成長の1年にするBAU BAUー！！🐾🩵🩷",
+      "translations": {
+        "ja": {
+          "title": "あけおめBAU BAU🎍✨",
+          "body": "✨＼ あけましておめでとうBAU BAU ／✨\n\n今年は新しいことにたくさん挑戦しながら“ウマ”く笑顔を守るようにがんばるよ〜！！成長の1年にするBAU BAUー！！🐾🩵🩷"
+        },
+        "en": {
+          "title": "It’s the start to a NEW YEAR!! 🎍✨",
+          "body": "✨＼ Happy New Year BAU BAU ／✨\n\nWe’re going to do our best to challenge ourselves at new experiences while protecting your smile! It’ll be a big year of growth for us!! BAU BAUー！！🐾🩵🩷"
+        },
+        "id": {
+          "title": "Selamat Tahun Baru BAU BAU🎍✨",
+          "body": "✨＼ Selamat Tahun Baru BAU BAU ／✨\n\nTahun ini, aku akan berusaha keras untuk melindungi senyuman dengan terampil sambil mencoba banyak hal baru~! Aku akan menjadikannya tahun untuk berkembang BAU BAU~!🐾🩵🩷"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "43f1a749-b3d7-4264-9214-8978122d524a",
