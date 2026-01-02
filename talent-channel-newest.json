@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "c027ba5d-8e8b-4dc6-91ff-23f8366b9743",
+    "thread": {
+      "id": "c027ba5d-8e8b-4dc6-91ff-23f8366b9743",
+      "created_at": 1767330759,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/c027ba5d-8e8b-4dc6-91ff-23f8366b9743/original.png"
+      ],
+      "talents": [
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "📞ふにゃふにゃお正月電話",
+      "body": "あけおめ電話🎍🌅🎍\n今年もよろしく通話(  📞 ꒪꒫꒪)♥️",
+      "translations": {
+        "ja": {
+          "title": "📞ふにゃふにゃお正月電話",
+          "body": "あけおめ電話🎍🌅🎍\n今年もよろしく通話(  📞 ꒪꒫꒪)♥️"
+        },
+        "en": {
+          "title": "📞 Mellow New Year's Call",
+          "body": "Happy New Year call🎍🌅🎍\nLooking forward to talking with you this year too ( 📞 ꒪꒫꒪)♥️"
+        },
+        "id": {
+          "title": "📞 Telepon Tahun Baru yang Santai",
+          "body": "Telepon Selamat Tahun Baru🎍🌅🎍\nBerharap bisa ngobrol lagi tahun ini juga ( 📞 ꒪꒫꒪)♥️"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/b5121324-e934-47ad-aa25-f08aa9bda80a.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
     "channel_name": "フワモコ",
     "thread_id": "73b1f899-528b-4542-8aac-955ed442241f",
