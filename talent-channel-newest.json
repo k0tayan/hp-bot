@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "dbcddf29-a998-4d15-a1c0-4be37a64cefb",
+    "thread": {
+      "id": "dbcddf29-a998-4d15-a1c0-4be37a64cefb",
+      "created_at": 1767411340,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/dbcddf29-a998-4d15-a1c0-4be37a64cefb/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "e68478c3-cb8a-4f69-914b-54a98aa83bda",
+          "name": "鷹嶺ルイ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takane_lui/icon_20250902.png",
+          "key_name": "takane_lui"
+        },
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ルイ先輩のホロホーク踊ったよ〜✨️",
+      "body": "かっこいい振付踊りました！感想YouTubeにまってますhttps://youtube.com/shorts/kS7WPwomuQc?si=RwB68hFSxTxUIB7p",
+      "translations": {
+        "ja": {
+          "title": "ルイ先輩のホロホーク踊ったよ〜✨️",
+          "body": "かっこいい振付踊りました！感想YouTubeにまってますhttps://youtube.com/shorts/kS7WPwomuQc?si=RwB68hFSxTxUIB7p"
+        },
+        "en": {
+          "title": "I danced Rui-senpai's Holohawk~✨️",
+          "body": "I danced a cool choreography! I'm waiting for your comments on YouTube! https://youtube.com/shorts/kS7WPwomuQc?si=RwB68hFSxTxUIB7p"
+        },
+        "id": {
+          "title": "Aku menarikan Holohawk-nya Rui-senpai~✨️",
+          "body": "Aku menarikan koreografi yang keren! Aku tunggu komentar kalian di YouTube ya! https://youtube.com/shorts/kS7WPwomuQc?si=RwB68hFSxTxUIB7p"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "c027ba5d-8e8b-4dc6-91ff-23f8366b9743",
