@@ -1,5 +1,77 @@
 [
   {
+    "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
+    "channel_name": "ときのそら",
+    "thread_id": "a75e1407-72cb-464b-9c06-15b147ddcb08",
+    "thread": {
+      "id": "a75e1407-72cb-464b-9c06-15b147ddcb08",
+      "created_at": 1767538828,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/a75e1407-72cb-464b-9c06-15b147ddcb08/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
+          "name": "ときのそら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
+          "key_name": "tokino_sora"
+        },
+        {
+          "id": "f4574895-c0fe-4b0f-825d-c4199bc6d66f",
+          "name": "ロボ子さん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png",
+          "key_name": "robocosan"
+        },
+        {
+          "id": "400b93ad-2dd0-4303-acbc-d0207c202118",
+          "name": "AZKi",
+          "img_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png",
+          "key_name": "azki"
+        },
+        {
+          "id": "de54958d-3ba2-4539-9cb1-39fd392cf82a",
+          "name": "さくらみこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/sakura_miko/icon_20240918.png",
+          "key_name": "sakura_miko"
+        },
+        {
+          "id": "ff2e6a92-89ce-40f0-8771-773a7dbefcfb",
+          "name": "星街すいせい",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hoshimachi_suisei/icon_20250902.png",
+          "key_name": "hoshimachi_suisei"
+        }
+      ],
+      "user": {
+        "id": "fba971c0-a958-4d6d-bb6f-21a6e7a04f8b",
+        "name": "ときのそら",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "個々に輝く個性のメドレー",
+      "body": "そんなキャッチフレーズを作りました！\n0期生はソロのメンバーを集めた特殊な子達なので、それぞれの個性がすごいぞ！的なイメージ！！\nどうかな(๑╹ᆺ╹)？",
+      "translations": {
+        "ja": {
+          "title": "個々に輝く個性のメドレー",
+          "body": "そんなキャッチフレーズを作りました！\n0期生はソロのメンバーを集めた特殊な子達なので、それぞれの個性がすごいぞ！的なイメージ！！\nどうかな(๑╹ᆺ╹)？"
+        },
+        "en": {
+          "title": "A Medley of Individually Shining Personalities",
+          "body": "I came up with that catchphrase!\nThe 0th generation are special kids who came together as solo members, so their individual personalities are amazing! That's the image I'm going for!!\nWhat do you think (๑╹ᆺ╹)?"
+        },
+        "id": {
+          "title": "Medley Kepribadian yang Bersinar Secara Individual",
+          "body": "Aku membuat slogan itu!\nGenerasi ke-0 adalah anak-anak istimewa yang berkumpul sebagai anggota solo, jadi kepribadian masing-masing luar biasa! Begitulah bayanganku!!\nBagaimana menurutmu (๑╹ᆺ╹)?"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/f7ca3be1-0425-4ad1-ba5b-39cf50f04a60.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "2aa8ce4c-39e1-4d61-ba87-6dbeae10d631",
