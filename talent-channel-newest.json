@@ -1,5 +1,62 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "2aa8ce4c-39e1-4d61-ba87-6dbeae10d631",
+    "thread": {
+      "id": "2aa8ce4c-39e1-4d61-ba87-6dbeae10d631",
+      "created_at": 1767520487,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "25299e77-c314-4fcf-a9fe-13debe52ec53",
+          "name": "大空スバル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20240918.png",
+          "key_name": "oozora_subaru"
+        },
+        {
+          "id": "b3521645-5b78-439b-920f-b685edf69588",
+          "name": "大神ミオ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ookami_mio/icon.png",
+          "key_name": "ookami_mio"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "🎍おもてなしホロ正月🎍",
+      "body": "#ホロ正月 準備中なう‼️🌽🚑🌲\nホロメン来てくれるかなー‼️‼️‼️",
+      "translations": {
+        "ja": {
+          "title": "🎍おもてなしホロ正月🎍",
+          "body": "#ホロ正月 準備中なう‼️🌽🚑🌲\nホロメン来てくれるかなー‼️‼️‼️"
+        },
+        "en": {
+          "title": "🎍Holo New Year Hospitality🎍",
+          "body": "#HoloNewYear Preparations underway now‼️🌽🚑🌲\nI wonder if the Holomem will come~!!! "
+        },
+        "id": {
+          "title": "🎍Holo Tahun Baru Penuh Keramahtamahan🎍",
+          "body": "#HoloTahunBaru Sedang persiapan sekarang‼️🌽🚑🌲\nKira-kira Holomem bakal datang nggak ya~!!! "
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/7e19c835-cd39-486a-9438-727780fab5ee.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "dbcddf29-a998-4d15-a1c0-4be37a64cefb",
