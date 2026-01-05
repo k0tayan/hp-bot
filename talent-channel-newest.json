@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "bcbc303d-a8af-4262-be6f-0b06ea47213b",
+    "thread": {
+      "id": "bcbc303d-a8af-4262-be6f-0b06ea47213b",
+      "created_at": 1767627177,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "雑魚ん部のみっなさ〜んwwwww🌽",
+      "body": "今日は対戦ありがとうございました✌️🦊\nまた花札で勝負しましょうね 🎴",
+      "translations": {
+        "ja": {
+          "title": "雑魚ん部のみっなさ〜んwwwww🌽",
+          "body": "今日は対戦ありがとうございました✌️🦊\nまた花札で勝負しましょうね 🎴"
+        },
+        "en": {
+          "title": "To all my Small Fry Squad members~! wwwww🌽",
+          "body": "Thanks for the match today ✌️🦊\nLet's play Hanafuda again sometime 🎴"
+        },
+        "id": {
+          "title": "Halo semua anggota Pasukan Ikan Teri~! wwwww🌽",
+          "body": "Terima kasih atas pertandingannya hari ini ✌️🦊\nAyo kita bertanding Hanafuda lagi ya 🎴"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/761c1096-483d-4132-9d6c-210eefe59118.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "041C29B5-8381-4A54-A8A1-121906A013B1",
     "channel_name": "常闇トワ",
     "thread_id": "a1d30f4f-a304-4c3e-b620-5ef8d89f7616",
