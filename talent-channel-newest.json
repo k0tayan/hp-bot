@@ -2,6 +2,51 @@
   {
     "channel_id": "041C29B5-8381-4A54-A8A1-121906A013B1",
     "channel_name": "常闇トワ",
+    "thread_id": "a1d30f4f-a304-4c3e-b620-5ef8d89f7616",
+    "thread": {
+      "id": "a1d30f4f-a304-4c3e-b620-5ef8d89f7616",
+      "created_at": 1767586898,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/a1d30f4f-a304-4c3e-b620-5ef8d89f7616/original.png"
+      ],
+      "talents": [
+        {
+          "id": "1d9bd178-6425-4deb-9aa5-04fb3fc826ab",
+          "name": "常闇トワ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokoyami_towa/icon_20251208.png",
+          "key_name": "tokoyami_towa"
+        }
+      ],
+      "user": {
+        "id": "d9e583aa-667f-4fc4-9a55-2e2420a32549",
+        "name": "常闇トワ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokoyami_towa/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "✧🖤　新曲「シルベ」記念グッズ&シングルCD発売開始　🖤✧",
+      "body": "『 シルベ 』のシングルCDが発売開始‼️\nシングルCDについてくるカップリングにはなんと✨️\n2ndLIVEのときに歌った『Present Day』の\nLIVE verが収録されています🎤\n\n\n完全生産限定版のみに、シルベのオリジナルTシャツもついてくるので\nぜひチェックしてみてね👆️👾\nシルベのジャケットは描き下ろしイラストなのでチェック、購入必須…⁉️\n\n🔽ホロライブEC限定版\nhttps://shop.hololivepro.com/search?q=single_shirube\n\n🔽各店舗購入リンク\nhttps://cover.lnk.to/Shirube\n\n🔽各配信リンク\nhttps://cover.lnk.to/kWY400\n",
+      "translations": {
+        "ja": {
+          "title": "✧🖤　新曲「シルベ」記念グッズ&シングルCD発売開始　🖤✧",
+          "body": "『 シルベ 』のシングルCDが発売開始‼️\nシングルCDについてくるカップリングにはなんと✨️\n2ndLIVEのときに歌った『Present Day』の\nLIVE verが収録されています🎤\n\n\n完全生産限定版のみに、シルベのオリジナルTシャツもついてくるので\nぜひチェックしてみてね👆️👾\nシルベのジャケットは描き下ろしイラストなのでチェック、購入必須…⁉️\n\n🔽ホロライブEC限定版\nhttps://shop.hololivepro.com/search?q=single_shirube\n\n🔽各店舗購入リンク\nhttps://cover.lnk.to/Shirube\n\n🔽各配信リンク\nhttps://cover.lnk.to/kWY400\n"
+        },
+        "en": {
+          "title": "✧🖤 New Song \"Shirube\" Commemorative Goods & Single CD Now On Sale 🖤✧",
+          "body": "The single CD for \"Shirube\" is now on sale‼️\nAnd guess what's included as a coupling track on the single CD? ✨️\nIt's the LIVE ver of \"Present Day,\" which was sung at the 2nd LIVE! 🎤\n\n\nThe limited production edition also comes with an original \"Shirube\" T-shirt, so be sure to check it out! 👆️👾\nThe \"Shirube\" jacket features a newly drawn illustration, so checking it out and purchasing it is a must... right⁉️\n\n🔽hololive EC Limited Edition\nhttps://shop.hololivepro.com/search?q=single_shirube\n\n🔽Purchase Links for Each Store\nhttps://cover.lnk.to/Shirube\n\n🔽Streaming Links\nhttps://cover.lnk.to/kWY400\n"
+        },
+        "id": {
+          "title": "✧🖤 Barang Peringatan & CD Single Lagu Baru \"Shirube\" Sudah Tersedia 🖤✧",
+          "body": "CD single \"Shirube\" sudah mulai dijual‼️\nDan tahu tidak, lagu coupling yang disertakan dalam CD single ini adalah ✨️\nVersi LIVE dari \"Present Day\" yang dinyanyikan saat 2nd LIVE! 🎤\n\n\nEdisi produksi terbatas juga dilengkapi dengan T-shirt original \"Shirube\", jadi pastikan untuk mengeceknya ya👆️👾\nJaket CD \"Shirube\" menampilkan ilustrasi yang digambar khusus, jadi wajib banget dicek dan dibeli... kan⁉️\n\n🔽Edisi Terbatas hololive EC\nhttps://shop.hololivepro.com/search?q=single_shirube\n\n🔽Tautan Pembelian di Setiap Toko\nhttps://cover.lnk.to/Shirube\n\n🔽Tautan Streaming\nhttps://cover.lnk.to/kWY400\n"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "041C29B5-8381-4A54-A8A1-121906A013B1",
+    "channel_name": "常闇トワ",
     "thread_id": "8f9b1bfc-be01-4716-a220-9ee422ee8c1b",
     "thread": {
       "id": "8f9b1bfc-be01-4716-a220-9ee422ee8c1b",
