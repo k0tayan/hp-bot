@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "041C29B5-8381-4A54-A8A1-121906A013B1",
+    "channel_name": "常闇トワ",
+    "thread_id": "8f9b1bfc-be01-4716-a220-9ee422ee8c1b",
+    "thread": {
+      "id": "8f9b1bfc-be01-4716-a220-9ee422ee8c1b",
+      "created_at": 1767583206,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/8f9b1bfc-be01-4716-a220-9ee422ee8c1b/original.png"
+      ],
+      "talents": [
+        {
+          "id": "1d9bd178-6425-4deb-9aa5-04fb3fc826ab",
+          "name": "常闇トワ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokoyami_towa/icon_20251208.png",
+          "key_name": "tokoyami_towa"
+        }
+      ],
+      "user": {
+        "id": "d9e583aa-667f-4fc4-9a55-2e2420a32549",
+        "name": "常闇トワ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokoyami_towa/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "❄️　6周年記念グッズ発売開始　❄️",
+      "body": "みんなあけましておめでとう～！🎍🌸\n6周年記念LIVEはみてくれたかな⁉️\n見てくれた人はありがとう😊\n見てない人ははやくチェックしてね☑\n\n　📣グッズ紹介\n\n・トワとお揃いジャージ\n・Towavel用のアクスタ\n・ビビハンドストラップ\n\nセット購入で複製サイン入りチェキがついてくるよ🤏🖊️\nまた実写写真が来たらお知らせするね！\n\n期間：本日1月3日(土) 21時05分 ～ 2月9日(月) 18時まで✨\n\n\n👇購入はこちらから\nhttps://shop.hololivepro.com/products/tokoyamitowa_anniversary_6th",
+      "translations": {
+        "ja": {
+          "title": "❄️　6周年記念グッズ発売開始　❄️",
+          "body": "みんなあけましておめでとう～！🎍🌸\n6周年記念LIVEはみてくれたかな⁉️\n見てくれた人はありがとう😊\n見てない人ははやくチェックしてね☑\n\n　📣グッズ紹介\n\n・トワとお揃いジャージ\n・Towavel用のアクスタ\n・ビビハンドストラップ\n\nセット購入で複製サイン入りチェキがついてくるよ🤏🖊️\nまた実写写真が来たらお知らせするね！\n\n期間：本日1月3日(土) 21時05分 ～ 2月9日(月) 18時まで✨\n\n\n👇購入はこちらから\nhttps://shop.hololivepro.com/products/tokoyamitowa_anniversary_6th"
+        },
+        "en": {
+          "title": "❄️ 6th Anniversary Merchandise Release Starts ❄️",
+          "body": "Happy New Year, everyone~! 🎍🌸\nDid you watch the 6th Anniversary Live⁉️\nThank you to those who watched 😊\nIf you haven't, check it out soon ☑\n\n　📣 Merchandise Lineup\n\n・Matching Jersey with Towa\n・Acrylic Stand for Towavel\n・Bibi Hand Strap\n\nPurchase the set to receive a cheki with a replicated autograph 🤏🖊️\nWe'll let you know when we have actual photos!\n\nPeriod: From today, January 3rd (Sat) 9:05 PM JST to February 9th (Mon) 6:00 PM JST ✨\n\n\n👇 Purchase here:\nhttps://shop.hololivepro.com/products/tokoyamitowa_anniversary_6th"
+        },
+        "id": {
+          "title": "❄️ Perilisan Merchandise Peringatan 6 Tahun Dimulai ❄️",
+          "body": "Selamat Tahun Baru semuanya~! 🎍🌸\nSudahkah kalian menonton Live Peringatan 6 Tahun⁉️\nTerima kasih untuk yang sudah menonton 😊\nJika belum, segera cek ya ☑\n\n　📣 Perkenalan Merchandise\n\n・Jersey Kembar dengan Towa\n・Akrilik Stand untuk Towavel\n・Tali Gantung Bibi\n\nPembelian set akan mendapatkan cheki dengan tanda tangan replika 🤏🖊️\nKami akan memberitahukan lagi jika sudah ada foto aslinya!\n\nPeriode: Mulai hari ini, 3 Januari (Sabtu) pukul 21:05 JST hingga 9 Februari (Senin) pukul 18:00 JST ✨\n\n\n👇 Beli di sini:\nhttps://shop.hololivepro.com/products/tokoyamitowa_anniversary_6th"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
     "channel_name": "ときのそら",
     "thread_id": "a75e1407-72cb-464b-9c06-15b147ddcb08",
