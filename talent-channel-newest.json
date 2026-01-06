@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
+    "channel_name": "ときのそら",
+    "thread_id": "1231a190-b62e-4adb-a123-514f2faaaa67",
+    "thread": {
+      "id": "1231a190-b62e-4adb-a123-514f2faaaa67",
+      "created_at": 1767706314,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/1231a190-b62e-4adb-a123-514f2faaaa67/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
+          "name": "ときのそら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
+          "key_name": "tokino_sora"
+        }
+      ],
+      "user": {
+        "id": "fba971c0-a958-4d6d-bb6f-21a6e7a04f8b",
+        "name": "ときのそら",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "満開の絆と努力の天才",
+      "body": "ID1期生へのキャッチフレーズ！\nわたしの中のイメージだよ(｡•ᴗ•｡)♡",
+      "translations": {
+        "ja": {
+          "title": "満開の絆と努力の天才",
+          "body": "ID1期生へのキャッチフレーズ！\nわたしの中のイメージだよ(｡•ᴗ•｡)♡"
+        },
+        "en": {
+          "title": "Blooming Bonds and a Genius of Effort",
+          "body": "Catchphrases for hololive ID 1st Generation!\nThis is my image of them (｡•ᴗ•｡)♡"
+        },
+        "id": {
+          "title": "Ikatan yang Mekar Penuh dan Jenius dalam Berusaha",
+          "body": "Slogan untuk hololive ID Generasi 1!\nIni adalah gambaran mereka menurutku (｡•ᴗ•｡)♡"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/44e05ee1-7bb0-42c1-b6b3-4243363e19fd.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "bcbc303d-a8af-4262-be6f-0b06ea47213b",
