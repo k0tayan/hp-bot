@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "e15845f0-b0e1-41df-bfd6-6efcd30d9dbb",
+    "thread": {
+      "id": "e15845f0-b0e1-41df-bfd6-6efcd30d9dbb",
+      "created_at": 1767749374,
+      "talents": [
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "📞今日は冷えるな",
+      "body": "おはよう座員\n今日は冷えるな\nええ？",
+      "translations": {
+        "ja": {
+          "title": "📞今日は冷えるな",
+          "body": "おはよう座員\n今日は冷えるな\nええ？"
+        },
+        "en": {
+          "title": "📞It's cold today",
+          "body": "Good morning, crew members\nIt's cold today\nEh?"
+        },
+        "id": {
+          "title": "📞Hari ini dingin ya",
+          "body": "Selamat pagi, para kru\nHari ini dingin ya\nEh?"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/549f828f-d286-47ee-a925-074c91bd4015.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
     "channel_name": "ときのそら",
     "thread_id": "1231a190-b62e-4adb-a123-514f2faaaa67",
