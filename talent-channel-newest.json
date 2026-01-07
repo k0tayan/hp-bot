@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "186e5eae-6c21-4f7a-886f-24dd3746a483",
+    "thread": {
+      "id": "186e5eae-6c21-4f7a-886f-24dd3746a483",
+      "created_at": 1767769339,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "JAPANESE BUT JAVANESE???",
+      "body": "ever wondered how Japanese would sound like in an Indonesian accent? 👀",
+      "translations": {
+        "ja": {
+          "title": "日本語だけどジャワ語っぽい？？？",
+          "body": "日本語がインドネシア訛りで聞こえたらどうなるか、考えたことはありますか？👀"
+        },
+        "en": {
+          "title": "JAPANESE BUT JAVANESE???",
+          "body": "ever wondered how Japanese would sound like in an Indonesian accent? 👀"
+        },
+        "id": {
+          "title": "JEPANG TAPI JAWA???",
+          "body": "pernahkah kalian bertanya-tanya bagaimana suara bahasa Jepang jika diucapkan dengan aksen Indonesia? 👀"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/63908da8-3d7b-4d9b-8945-f5cddd48fc2a.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "e15845f0-b0e1-41df-bfd6-6efcd30d9dbb",
