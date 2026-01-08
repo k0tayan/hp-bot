@@ -1,5 +1,77 @@
 [
   {
+    "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
+    "channel_name": "ときのそら",
+    "thread_id": "534e2fd8-5898-4752-8519-7ab2de0982b1",
+    "thread": {
+      "id": "534e2fd8-5898-4752-8519-7ab2de0982b1",
+      "created_at": 1767877125,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/534e2fd8-5898-4752-8519-7ab2de0982b1/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
+          "name": "ときのそら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
+          "key_name": "tokino_sora"
+        },
+        {
+          "id": "ebb39a49-871c-4a9c-b585-5837bdbcafda",
+          "name": "森カリオペ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mori_calliope/icon_20241218.png",
+          "key_name": "mori_calliope"
+        },
+        {
+          "id": "dddf28dc-0166-48c5-a845-88e608121cc0",
+          "name": "小鳥遊キアラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takanashi_kiara/icon.png",
+          "key_name": "takanashi_kiara"
+        },
+        {
+          "id": "38a1da05-9a78-486a-8244-b30b4ca537ee",
+          "name": "一伊那尓栖",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ninomae_ina%27nis/icon_20240918.png",
+          "key_name": "ninomae_ina'nis"
+        },
+        {
+          "id": "f12fe635-f67f-4415-8b5b-4c30360b55b0",
+          "name": "［配信活動終了］ワトソン・アメリア",
+          "img_url": "https://asset.holoplus.com/talents/hololive/watson_amelia/icon.png",
+          "key_name": "watson_amelia"
+        }
+      ],
+      "user": {
+        "id": "fba971c0-a958-4d6d-bb6f-21a6e7a04f8b",
+        "name": "ときのそら",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "世界を染めるクリエイター",
+      "body": "Mythメンバーのブーケです！\nぜひ見てね✩°｡⋆⸜(* ॑꒳ ॑* )⸝",
+      "translations": {
+        "ja": {
+          "title": "ENメンバーのブーケ",
+          "body": "Mythメンバーのブーケです！\nぜひ見てね✩°｡⋆⸜(* ॑꒳ ॑* )⸝"
+        },
+        "en": {
+          "title": "Bouquet for EN Members",
+          "body": "It's a bouquet for the Myth members!\nPlease be sure to check it out! ✩°｡⋆⸜(* ॑꒳ ॑* )⸝"
+        },
+        "id": {
+          "title": "Buket untuk Anggota EN",
+          "body": "Ini buket untuk anggota Myth!\nPasti dilihat ya! ✩°｡⋆⸜(* ॑꒳ ॑* )⸝"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/034fb985-773a-4bf1-8751-cfd34c35e447.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
     "thread_id": "186e5eae-6c21-4f7a-886f-24dd3746a483",
