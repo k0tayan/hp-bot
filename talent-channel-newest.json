@@ -2,6 +2,51 @@
   {
     "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
     "channel_name": "ときのそら",
+    "thread_id": "a546e073-a588-4431-9f8e-ffc37f9b13b1",
+    "thread": {
+      "id": "a546e073-a588-4431-9f8e-ffc37f9b13b1",
+      "created_at": 1767954884,
+      "talents": [
+        {
+          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
+          "name": "ときのそら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
+          "key_name": "tokino_sora"
+        }
+      ],
+      "user": {
+        "id": "fba971c0-a958-4d6d-bb6f-21a6e7a04f8b",
+        "name": "ときのそら",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今日の喉",
+      "body": "わたしの声はトゥルントゥルンかな？",
+      "translations": {
+        "ja": {
+          "title": "今日の喉",
+          "body": "わたしの声はトゥルントゥルンかな？"
+        },
+        "en": {
+          "title": "Today's Throat",
+          "body": "Is my voice smooth and clear?"
+        },
+        "id": {
+          "title": "Tenggorokan Hari Ini",
+          "body": "Apakah suaraku mulus dan jernih?"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/43f03d4b-2c97-447f-8f8e-1449d82f0a08.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
+    "channel_name": "ときのそら",
     "thread_id": "534e2fd8-5898-4752-8519-7ab2de0982b1",
     "thread": {
       "id": "534e2fd8-5898-4752-8519-7ab2de0982b1",
