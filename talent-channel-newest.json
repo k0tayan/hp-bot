@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "21d81bd5-2341-4027-8117-39bcc3b4d186",
+    "thread": {
+      "id": "21d81bd5-2341-4027-8117-39bcc3b4d186",
+      "created_at": 1768032568,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/21d81bd5-2341-4027-8117-39bcc3b4d186/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "懐かしのELECT踊ったよ〜！！",
+      "body": "懐かしいボカロ〜🎶かっこいいので感想YouTubeにまってます💬！https://youtube.com/shorts/OKoqNyPCUWI?si=6tvVQyTei1ndeC2U",
+      "translations": {
+        "ja": {
+          "title": "懐かしのELECT踊ったよ〜！！",
+          "body": "懐かしいボカロ〜🎶かっこいいので感想YouTubeにまってます💬！https://youtube.com/shorts/OKoqNyPCUWI?si=6tvVQyTei1ndeC2U"
+        },
+        "en": {
+          "title": "Danced to the nostalgic ELECT~!!",
+          "body": "Nostalgic Vocaloid~🎶 It's so cool, so I'm waiting for your comments on YouTube💬! https://youtube.com/shorts/OKoqNyPCUWI?si=6tvVQyTei1ndeC2U"
+        },
+        "id": {
+          "title": "Aku menari ELECT yang nostalgia~!!",
+          "body": "Vocaloid nostalgia~🎶 Keren banget, jadi aku tunggu komentar kalian di YouTube💬! https://youtube.com/shorts/OKoqNyPCUWI?si=6tvVQyTei1ndeC2U"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
     "channel_name": "ときのそら",
     "thread_id": "a546e073-a588-4431-9f8e-ffc37f9b13b1",
