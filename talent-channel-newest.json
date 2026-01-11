@@ -2,6 +2,57 @@
   {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
+    "thread_id": "8098fdec-75af-4469-8e84-25b1e5b7c145",
+    "thread": {
+      "id": "8098fdec-75af-4469-8e84-25b1e5b7c145",
+      "created_at": 1768114496,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/8098fdec-75af-4469-8e84-25b1e5b7c145/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png",
+          "key_name": "mizumiya_su"
+        },
+        {
+          "id": "80D80D4A-528E-7045-DF16-E99257309C38",
+          "name": "綺々羅々ヴィヴィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kikirara_vivi/icon_20251208.png",
+          "key_name": "kikirara_vivi"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ヴィヴィすうのお出かけ話",
+      "body": "お出かけの時のイラスト切り抜きshortあがりました！感想💬はYouTubeにまってます https://youtube.com/shorts/CIziap3t7tc?si=bP61z8xUKrbxVpxT",
+      "translations": {
+        "ja": {
+          "title": "ヴィヴィすうのお出かけ話",
+          "body": "お出かけの時のイラスト切り抜きshortあがりました！感想💬はYouTubeにまってます https://youtube.com/shorts/CIziap3t7tc?si=bP61z8xUKrbxVpxT"
+        },
+        "en": {
+          "title": "ViviSuu's Outing Story",
+          "body": "A short video featuring illustrations from our outing is now up! Your comments 💬 are awaited on YouTube https://youtube.com/shorts/CIziap3t7tc?si=bP61z8xUKrbxVpxT"
+        },
+        "id": {
+          "title": "Kisah Jalan-jalan ViviSuu",
+          "body": "Video pendek potongan ilustrasi dari jalan-jalan kami sudah tayang! Komentar 💬 kalian ditunggu di YouTube https://youtube.com/shorts/CIziap3t7tc?si=bP61z8xUKrbxVpxT"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
     "thread_id": "21d81bd5-2341-4027-8117-39bcc3b4d186",
     "thread": {
       "id": "21d81bd5-2341-4027-8117-39bcc3b4d186",
