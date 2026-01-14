@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "dbd521a6-4570-40a8-ba25-fb5fd0672645",
+    "thread": {
+      "id": "dbd521a6-4570-40a8-ba25-fb5fd0672645",
+      "created_at": 1768397840,
+      "talents": [
+        {
+          "id": "ad45e403-1566-49da-b590-fa95fca334ad",
+          "name": "アイラニ・イオフィフティーン",
+          "img_url": "https://asset.holoplus.com/talents/hololive/airani_iofifteen/icon.png",
+          "key_name": "airani_iofifteen"
+        },
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Tonight's gag... 🧟‍♀️🎨",
+      "body": "[EN Translation]\n\n\"I'M SO TIRED I DONT WANT TO WORK ANYMORE AAAAAAA\"\n\n\"Oh you're tired? Want some mommy milkies?\"\n\n\"Yes\"",
+      "translations": {
+        "ja": {
+          "title": "今夜のギャグ... 🧟‍♀️🎨",
+          "body": "「もう疲れた、仕事したくないAAAAAAA」\n\n「あら、疲れたの？ママのミルクいる？」\n\n「うん」"
+        },
+        "en": {
+          "title": "Tonight's gag... 🧟‍♀️🎨",
+          "body": "[EN Translation]\n\n\"I'M SO TIRED I DONT WANT TO WORK ANYMORE AAAAAAA\"\n\n\"Oh you're tired? Want some mommy milkies?\"\n\n\"Yes\""
+        },
+        "id": {
+          "title": "Lelucon malam ini... 🧟‍♀️🎨",
+          "body": "\"AKU SANGAT LELAH AKU TIDAK MAU BEKERJA LAGI AAAAAAA\"\n\n\"Oh kamu lelah? Mau susu mama?\"\n\n\"Ya\""
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/f57e0b99-39a2-4992-9ceb-56b2c6715acf.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "8098fdec-75af-4469-8e84-25b1e5b7c145",
