@@ -1,5 +1,65 @@
 [
   {
+    "channel_id": "413E39C0-E2ED-42E8-BA1C-A93B27B60B8A",
+    "channel_name": "雪花ラミィ",
+    "thread_id": "c657859c-a1d4-44da-8162-390be4e89028",
+    "thread": {
+      "id": "c657859c-a1d4-44da-8162-390be4e89028",
+      "created_at": 1768473877,
+      "talents": [
+        {
+          "id": "7597ae32-5657-4ac3-82fd-2edff2dcf29f",
+          "name": "雪花ラミィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/yukihana_lamy/icon_20250902.png",
+          "key_name": "yukihana_lamy"
+        },
+        {
+          "id": "5ef4d51e-d9d6-4582-900c-81d36b5d0576",
+          "name": "風真いろは",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kazama_iroha/icon.png",
+          "key_name": "kazama_iroha"
+        },
+        {
+          "id": "f132c3c4-afba-46bd-9c5b-330333d745da",
+          "name": "古石ビジュー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/koseki_bijou/icon_20240918.png",
+          "key_name": "koseki_bijou"
+        },
+        {
+          "id": "80D80D4A-528E-7045-DF16-E99257309C38",
+          "name": "綺々羅々ヴィヴィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kikirara_vivi/icon_20251208.png",
+          "key_name": "kikirara_vivi"
+        }
+      ],
+      "user": {
+        "id": "e56620ce-6b72-4aa5-8e3e-5d0a0698b29c",
+        "name": "雪花ラミィ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/yukihana_lamy/icon_20250902.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【ホロニュース】誰の参戦服コーデが1番刺さった！？",
+      "body": "[[holoplus_survey_start]]\nA. 雪花ラミィ\nB. 風間いろは\nC. 古石ビジュー\nD. 綺々羅々ヴィヴィ\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "【ホロニュース】誰の参戦服コーデが1番刺さった！？",
+          "body": "[[holoplus_survey_start]]\nA. 雪花ラミィ\nB. 風間いろは\nC. 古石ビジュー\nD. 綺々羅々ヴィヴィ\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "[Holonews] Whose Battle Outfit Coordination Stood Out the Most!?",
+          "body": "[[holoplus_survey_start]]\nA. Yukihana Lamy\nB. Kazama Iroha\nC. Koseki Bijou\nD. Kikirara Vivy\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Koordinasi Pakaian Pertempuran Siapa yang Paling Menarik Perhatian!?",
+          "body": "[[holoplus_survey_start]]\nA. Yukihana Lamy\nB. Kazama Iroha\nC. Koseki Bijou\nD. Kikirara Vivy\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "38FCD9A4-79DC-41D7-BEF6-F41E4027C530",
     "channel_name": "古石ビジュー",
     "thread_id": "94539796-fadf-4379-a654-2f52857af1d7",
