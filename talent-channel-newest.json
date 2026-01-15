@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "3fcb0f82-42ba-411d-a570-d57e4be6b99d",
+    "thread": {
+      "id": "3fcb0f82-42ba-411d-a570-d57e4be6b99d",
+      "created_at": 1768465185,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/3fcb0f82-42ba-411d-a570-d57e4be6b99d/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "レゼダンス 踊ってみた",
+      "body": "フブキ先輩からリクエストを貰った IRISOUTおどったよーhttps://youtube.com/shorts/YeW_G7eK8BI?si=NmNZQUbQpinuJBYc",
+      "translations": {
+        "ja": {
+          "title": "レゼダンス 踊ってみた",
+          "body": "フブキ先輩からリクエストを貰った IRISOUTおどったよーhttps://youtube.com/shorts/YeW_G7eK8BI?si=NmNZQUbQpinuJBYc"
+        },
+        "en": {
+          "title": "Tried Dancing the Reze Dance",
+          "body": "Got a request from Fubuki-senpai, so I danced IRISOUT~ https://youtube.com/shorts/YeW_G7eK8BI?si=NmNZQUbQpinuJBYc"
+        },
+        "id": {
+          "title": "Coba Menari Reze Dance",
+          "body": "Dapat permintaan dari Fubuki-senpai, jadi aku menari IRISOUT~ https://youtube.com/shorts/YeW_G7eK8BI?si=NmNZQUbQpinuJBYc"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "e495add4-5de6-4a62-b585-e31701b3f103",
