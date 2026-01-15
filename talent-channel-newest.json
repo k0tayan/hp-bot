@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "38FCD9A4-79DC-41D7-BEF6-F41E4027C530",
+    "channel_name": "古石ビジュー",
+    "thread_id": "94539796-fadf-4379-a654-2f52857af1d7",
+    "thread": {
+      "id": "94539796-fadf-4379-a654-2f52857af1d7",
+      "created_at": 1768469026,
+      "talents": [
+        {
+          "id": "f132c3c4-afba-46bd-9c5b-330333d745da",
+          "name": "古石ビジュー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/koseki_bijou/icon_20240918.png",
+          "key_name": "koseki_bijou"
+        }
+      ],
+      "user": {
+        "id": "f7b0c598-aa38-4662-aac6-f4c151b24087",
+        "name": "古石ビジュー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/koseki_bijou/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "biboo",
+      "body": "BIBOO\n",
+      "translations": {
+        "ja": {
+          "title": "biboo",
+          "body": "BIBOO\n"
+        },
+        "en": {
+          "title": "biboo",
+          "body": "BIBOO\n"
+        },
+        "id": {
+          "title": "biboo",
+          "body": "BIBOO\n"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "3fcb0f82-42ba-411d-a570-d57e4be6b99d",
