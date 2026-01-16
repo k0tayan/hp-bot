@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "1fa8fc11-6f05-4807-8fc1-65980a8a7c5c",
+    "thread": {
+      "id": "1fa8fc11-6f05-4807-8fc1-65980a8a7c5c",
+      "created_at": 1768559527,
+      "talents": [
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "おたより募集📻ポルカのラジオ復活記念‼️㊗️",
+      "body": "あのポルカラジオカが帰ってくる！？\n\nラジオ復活にあたって、おたよりをこちらで募集します！\nホロプラス限定で、募集中です！！\n下から何に応募したいか選んで、それに対してここへ書き込んでね💕︎\n\nこちらの4つをホロプラスで募集いただけますでしょうか！\n\n・ふつおた\nリスナーの皆さんから、普通のお便り=「ふつおた」を募集しています\n番組の感想、私へのメッセージ、最近あったこと、ハマっていることなど、なんでも送ってきてください！\n\n・ぽ悩み相談室\n私に聞いてほしい、解決してほしい悩みを送ってきてください\n真剣な悩みからちょっとした悩みまで、なんでも募集しております！\n\n・ポルカ先生に聞いてみよう！\n尾丸幼稚園の先生であるポルカ先生に、いろんな疑問をぶつけてきて下さい！\n例1:じしゃくはなんでくっつくの？\n例2:れいぼうをつけたらさむいし、でもけしたらけしたであついんだよな、というときは、どうしたらいいの？\n\n・これ知らない人おる？ｗｗｗ\nVTuber界の座長を目指すポルカさんは知識も豊富なはず！ポルカさんに答えてほしいクイズを募集します\n例1:世界三大珍味とは、キャビア、フォアグラと、あと一つはなんでしょう？（トリュフ）\n例2:頭に乗せるウシってな〜んだ？（帽子）\n例3:「QRコード」の「QR」とは何という言葉の略でしょう？（クイック・レスポンス）\n\n",
+      "translations": {
+        "ja": {
+          "title": "おたより募集📻ポルカのラジオ復活記念‼️㊗️",
+          "body": "あのポルカラジオカが帰ってくる！？\n\nラジオ復活にあたって、おたよりをこちらで募集します！\nホロプラス限定で、募集中です！！\n下から何に応募したいか選んで、それに対してここへ書き込んでね💕︎\n\nこちらの4つをホロプラスで募集いただけますでしょうか！\n\n・ふつおた\nリスナーの皆さんから、普通のお便り=「ふつおた」を募集しています\n番組の感想、私へのメッセージ、最近あったこと、ハマっていることなど、なんでも送ってきてください！\n\n・ぽ悩み相談室\n私に聞いてほしい、解決してほしい悩みを送ってきてください\n真剣な悩みからちょっとした悩みまで、なんでも募集しております！\n\n・ポルカ先生に聞いてみよう！\n尾丸幼稚園の先生であるポルカ先生に、いろんな疑問をぶつけてきて下さい！\n例1:じしゃくはなんでくっつくの？\n例2:れいぼうをつけたらさむいし、でもけしたらけしたであついんだよな、というときは、どうしたらいいの？\n\n・これ知らない人おる？ｗｗｗ\nVTuber界の座長を目指すポルカさんは知識も豊富なはず！ポルカさんに答えてほしいクイズを募集します\n例1:世界三大珍味とは、キャビア、フォアグラと、あと一つはなんでしょう？（トリュフ）\n例2:頭に乗せるウシってな〜んだ？（帽子）\n例3:「QRコード」の「QR」とは何という言葉の略でしょう？（クイック・レスポンス）\n\n"
+        },
+        "en": {
+          "title": "Listener Mail Call 📻 Commemorating Polka's Radio Revival‼️㊗️",
+          "body": "That Polka Radio is coming back?!?\n\nTo celebrate the radio's revival, we're looking for your listener mail here!\nSubmissions are open exclusively on holoplus!!\nPlease choose what you'd like to submit for below, and then write your message here 💕︎\n\nWe're looking for submissions for these four categories on holoplus!\n\n・General Messages (Futsuota)\nWe're looking for \"futsuota\" — regular messages — from all you listeners!\nFeel free to send in anything: your thoughts on the show, messages for me, things that have happened recently, things you're into, and more!\n\n・Po-Problem Consultation Room\nPlease send in any worries you want me to hear or help solve!\nWe're accepting everything from serious problems to minor concerns!\n\n・Ask Polka-sensei!\nPlease throw all your questions at Polka-sensei, the teacher from Omaru Kindergarten!\nExample 1: Why do magnets stick together?\nExample 2: What should I do when it's cold if I turn on the AC, but hot if I turn it off?\n\n・Are there people who don't know this? lol\nPolka-san, who aims to be the ringleader of the VTuber world, must be full of knowledge! We're looking for quizzes you want Polka-san to answer!\nExample 1: What are the world's three greatest delicacies: caviar, foie gras, and what's the third? (Truffle)\nExample 2: What kind of cow do you put on your head? (Hat)\nExample 3: What do the \"QR\" in \"QR Code\" stand for? (Quick Response)\n"
+        },
+        "id": {
+          "title": "Panggilan Surat Pendengar 📻 Memperingati Kebangkitan Radio Polka‼️㊗️",
+          "body": "Radio Polka itu kembali lagi?!?\n\nDalam rangka kebangkitan radio, kami akan mengumpulkan surat-surat dari pendengar di sini!\nPendaftaran dibuka eksklusif di holoplus!!\nSilakan pilih kategori yang ingin kamu kirimkan di bawah, lalu tulis pesanmu di sini ya 💕︎\n\nKami mencari kiriman untuk empat kategori ini di holoplus!\n\n・Pesan Umum (Futsuota)\nKami mencari \"futsuota\" — pesan biasa — dari semua pendengar!\nJangan ragu untuk mengirimkan apa saja: kesanmu tentang acara, pesan untukku, hal-hal yang terjadi baru-baru ini, hal-hal yang sedang kamu sukai, dan banyak lagi!\n\n・Ruang Konsultasi Masalah Po-chan\nSilakan kirimkan kekhawatiran yang ingin kamu ceritakan atau ingin aku bantu selesaikan!\nKami menerima apa saja, mulai dari masalah serius hingga kekhawatiran kecil!\n\n・Tanya Polka-sensei!\nSilakan ajukan semua pertanyaanmu kepada Polka-sensei, guru dari Taman Kanak-Kanak Omaru!\nContoh 1: Kenapa magnet bisa menempel?\nContoh 2: Apa yang harus kulakukan kalau dingin saat AC dinyalakan, tapi panas saat AC dimatikan?\n\n・Ada yang nggak tahu ini? wkwk\nPolka-san, yang bercita-cita menjadi pemimpin dunia VTuber, pasti punya banyak pengetahuan! Kami mencari kuis yang ingin kamu Polka-san jawab!\nContoh 1: Apa tiga hidangan lezat terbesar di dunia: kaviar, foie gras, dan apa yang ketiga? (Truffle)\nContoh 2: Sapi apa yang kamu pakai di kepala? (Topi)\nContoh 3: \"QR\" dalam \"QR Code\" adalah singkatan dari kata apa? (Quick Response)\n"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "413E39C0-E2ED-42E8-BA1C-A93B27B60B8A",
     "channel_name": "雪花ラミィ",
     "thread_id": "c657859c-a1d4-44da-8162-390be4e89028",
