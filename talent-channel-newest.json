@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "64DD1923-CD81-432F-B4B8-B4C870373A8B",
+    "channel_name": "ロボ子さん",
+    "thread_id": "0c692f33-4590-4797-9ad5-24915d57a2df",
+    "thread": {
+      "id": "0c692f33-4590-4797-9ad5-24915d57a2df",
+      "created_at": 1768653672,
+      "talents": [
+        {
+          "id": "f4574895-c0fe-4b0f-825d-c4199bc6d66f",
+          "name": "ロボ子さん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png",
+          "key_name": "robocosan"
+        }
+      ],
+      "user": {
+        "id": "e6c46d5c-574e-466b-a45f-371ad10aaa02",
+        "name": "ロボ子さん",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "はじめとオフコラボなう🫶",
+      "body": "はじめと一緒🫶\n\n#ろぼばんちょ",
+      "translations": {
+        "ja": {
+          "title": "はじめとオフコラボなう🫶",
+          "body": "はじめと一緒🫶\n\n#ろぼばんちょ"
+        },
+        "en": {
+          "title": "Having an offline collab with Hajime now🫶",
+          "body": "With Hajime🫶\n\n#RoboBancho"
+        },
+        "id": {
+          "title": "Lagi kolaborasi offline bareng Hajime sekarang🫶",
+          "body": "Bareng Hajime🫶\n\n#RoboBancho"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/170f99f9-b157-4e82-bf03-bc1c66dd9dfa.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "1fa8fc11-6f05-4807-8fc1-65980a8a7c5c",
