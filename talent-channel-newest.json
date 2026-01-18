@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "94824904-70e6-4a0e-897f-07778760ddb5",
+    "thread": {
+      "id": "94824904-70e6-4a0e-897f-07778760ddb5",
+      "created_at": 1768734261,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/94824904-70e6-4a0e-897f-07778760ddb5/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Get ready for a FUWAMOCO Wacha⭐︎Wacha Birthday Festival!! 🐾",
+      "body": "We announced that we’re going to be having a very special birthday celebration that spreads across 2 DAYS!! 🎂✨ We’ll be having a silly birthday variety show with lovely guests on January 31st at 3am PT and continuing the fun with our 3D birthday live on the 31st at 7pm PT!! We’ve put so much of ourselves into this… We hope that you’ll be there for all the excitement, to wish us happy birthdays, and so that we can protect your smiles! Of course, there will be surprises as well!! BAU BAUー！！🐾🩵🩷",
+      "translations": {
+        "ja": {
+          "title": "FUWAMOCO Wacha⭐︎Wacha Birthday Festivalが開催決定だー！！🐾",
+          "body": "なんと、2日間にわたる3Dバースデーフェスティバルを開催することになりました！！🎂✨ 1月31日20:00から素敵なゲストさんとのバースデーバラエティーです！そして、2月1日の12:00から3D生誕ライブです！！ダンスも歌もがんばってきたしたくさんの想いをライブに込めています… ぜひ見にきてお祝いしてくれたらとっても嬉しいです！！もちろん、サプライズもありますよ！！BAU BAUー！！🐾🩵🩷"
+        },
+        "en": {
+          "title": "Get ready for a FUWAMOCO Wacha⭐︎Wacha Birthday Festival!! 🐾",
+          "body": "We announced that we’re going to be having a very special birthday celebration that spreads across 2 DAYS!! 🎂✨ We’ll be having a silly birthday variety show with lovely guests on January 31st at 3am PT and continuing the fun with our 3D birthday live on the 31st at 7pm PT!! We’ve put so much of ourselves into this… We hope that you’ll be there for all the excitement, to wish us happy birthdays, and so that we can protect your smiles! Of course, there will be surprises as well!! BAU BAUー！！🐾🩵🩷"
+        },
+        "id": {
+          "title": "Bersiaplah untuk FUWAMOCO Wacha⭐︎Wacha Birthday Festival!! 🐾",
+          "body": "Kami mengumumkan bahwa kami akan mengadakan perayaan ulang tahun yang sangat spesial selama 2 HARI penuh!! 🎂✨ Kami akan mengadakan acara variety show ulang tahun yang lucu dengan tamu-tamu istimewa pada tanggal 31 Januari pukul 3 pagi PT dan melanjutkan keseruannya dengan live 3D ulang tahun kami pada tanggal 31 Januari pukul 7 malam PT!! Kami telah mencurahkan begitu banyak diri kami ke dalam ini… Kami berharap kalian akan hadir untuk semua kegembiraan ini, untuk mengucapkan selamat ulang tahun kepada kami, dan agar kami bisa melindungi senyum kalian! Tentu saja, akan ada kejutan juga!! BAU BAUー！！🐾🩵🩷"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/13b2ff6b-937a-4260-8504-037fbaa0219e.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "0644243d-b9b4-4975-992f-2cd8ecea4f1c",
