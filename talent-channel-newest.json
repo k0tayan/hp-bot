@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "72154545-a9a7-4739-aa67-38c8d648e3b4",
+    "thread": {
+      "id": "72154545-a9a7-4739-aa67-38c8d648e3b4",
+      "created_at": 1768863195,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今後参考にしたいアンケート🌽",
+      "body": "すこん部の皆さんとは配信で欲しいグッズ等をお聞きしてまして\nグッズの参考にさせて頂いております(^・ω・^§)ﾉ\nいつも本当にありがとうございます！\n\n改めて、皆さんが普段から欲しいなぁと思ってる\nよくある推しのグッズアンケートにお答えくださると嬉しいです👀✨\nグッズラインナップの一言メモも書いておきます！\n\n\n✨缶バッジ\n○推しバックが作りやすい、ロゼッタと組み合わせられる。オーロラやラメ加工で映える、顔面アップが多い。\n✨アクリルスタンド\n○飾って並べられる。サイズによっては持ち歩きも可能。オーロラやラメ加工で綺麗。比較的全身が多く立体構造も多い。\n✨アクリルキーホルダー\n○バックに付けやすい、普段使いも出来る、デファルメキャラが多く、ラメや、オーロラ加工が出来る。\n✨ラバーキーホルダー\n○推しバックに付けやすい、普段使いも出来る、デフォルメキャラが多く、色数は少ないがマットでオシャレ。\n\n[[holoplus_survey_start]]\nA. 缶バッジ\nB. アクリルスタンド\nC. アクリルキーホルダー\nD. ラバーキーホルダー\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "今後参考にしたいアンケート🌽",
+          "body": "すこん部の皆さんとは配信で欲しいグッズ等をお聞きしてまして\nグッズの参考にさせて頂いております(^・ω・^§)ﾉ\nいつも本当にありがとうございます！\n\n改めて、皆さんが普段から欲しいなぁと思ってる\nよくある推しのグッズアンケートにお答えくださると嬉しいです👀✨\nグッズラインナップの一言メモも書いておきます！\n\n\n✨缶バッジ\n○推しバックが作りやすい、ロゼッタと組み合わせられる。オーロラやラメ加工で映える、顔面アップが多い。\n✨アクリルスタンド\n○飾って並べられる。サイズによっては持ち歩きも可能。オーロラやラメ加工で綺麗。比較的全身が多く立体構造も多い。\n✨アクリルキーホルダー\n○バックに付けやすい、普段使いも出来る、デファルメキャラが多く、ラメや、オーロラ加工が出来る。\n✨ラバーキーホルダー\n○推しバックに付けやすい、普段使いも出来る、デフォルメキャラが多く、色数は少ないがマットでオシャレ。\n\n[[holoplus_survey_start]]\nA. 缶バッジ\nB. アクリルスタンド\nC. アクリルキーホルダー\nD. ラバーキーホルダー\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "A survey I'd like to reference for future merchandise 🌽",
+          "body": "I've been asking you, my Sukon-bu members, about merchandise you'd like during streams,\nand I've been using your feedback as a reference for goods (^・ω・^§)ﾉ\nThank you so much, always!\n\nOnce again, I'd be happy if you could answer this common merchandise survey about what kind of goods you usually want for your oshi 👀✨\nI'll also include a brief note on the merchandise lineup!\n\n\n✨Can Badges\n○Easy to create an 'oshi bag' (fan bag), can be combined with rosettes. Looks great with aurora or glitter processing, often features close-ups of faces.\n✨Acrylic Stands\n○Can be displayed and lined up. Portable depending on size. Beautiful with aurora or glitter processing. Often features full bodies and many 3D structures.\n✨Acrylic Keychains\n○Easy to attach to bags, can be used daily, often features deformed characters, can have glitter or aurora processing.\n✨Rubber Keychains\n○Easy to attach to 'oshi bags', can be used daily, often features deformed characters, fewer colors but matte and stylish.\n\n[[holoplus_survey_start]]\nA. Can Badges\nB. Acrylic Stands\nC. Acrylic Keychains\nD. Rubber Keychains\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Survei yang ingin saya jadikan referensi untuk merchandise mendatang 🌽",
+          "body": "Saya sudah sering bertanya kepada kalian, para anggota Sukon-bu, tentang merchandise yang kalian inginkan saat streaming,\ndan saya menjadikannya referensi untuk merchandise (^・ω・^§)ﾉ\nTerima kasih banyak selalu!\n\nSekali lagi, saya akan sangat senang jika kalian bisa menjawab survei merchandise umum ini tentang barang-barang oshi apa yang biasanya kalian inginkan 👀✨\nSaya juga akan menyertakan catatan singkat tentang jajaran merchandise!\n\n\n✨Pin Lencana\n○Mudah membuat 'tas oshi' (tas penggemar), bisa digabungkan dengan roset. Terlihat bagus dengan proses aurora atau glitter, sering menampilkan close-up wajah.\n✨Stand Akrilik\n○Bisa dipajang dan dijejerkan. Bisa dibawa-bawa tergantung ukuran. Indah dengan proses aurora atau glitter. Sering menampilkan seluruh tubuh dan banyak struktur 3D.\n✨Gantungan Kunci Akrilik\n○Mudah dipasang di tas, bisa digunakan sehari-hari, sering menampilkan karakter deformasi, bisa memiliki proses glitter atau aurora.\n✨Gantungan Kunci Karet\n○Mudah dipasang di 'tas oshi', bisa digunakan sehari-hari, sering menampilkan karakter deformasi, jumlah warna lebih sedikit tetapi matte dan stylish.\n\n[[holoplus_survey_start]]\nA. Pin Lencana\nB. Stand Akrilik\nC. Gantungan Kunci Akrilik\nD. Gantungan Kunci Karet\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
     "channel_name": "フワモコ",
     "thread_id": "94824904-70e6-4a0e-897f-07778760ddb5",
