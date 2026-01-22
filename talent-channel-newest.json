@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "77b0eaf9-d801-43de-8455-78e2ac8b5d4c",
+    "thread": {
+      "id": "77b0eaf9-d801-43de-8455-78e2ac8b5d4c",
+      "created_at": 1769101642,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png"
+      },
+      "original_language": "id",
+      "is_translated": true,
+      "title": "YAKULT",
+      "body": "Sayangi ususmu!",
+      "translations": {
+        "ja": {
+          "title": "ヤクルト",
+          "body": "腸を大切に！"
+        },
+        "en": {
+          "title": "YAKULT",
+          "body": "Take care of your gut!"
+        },
+        "id": {
+          "title": "YAKULT",
+          "body": "Sayangi ususmu!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "72154545-a9a7-4739-aa67-38c8d648e3b4",
