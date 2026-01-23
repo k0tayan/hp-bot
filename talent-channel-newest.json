@@ -1,5 +1,89 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "76e18907-ecd7-4db8-9957-ae2c0fcac284",
+    "thread": {
+      "id": "76e18907-ecd7-4db8-9957-ae2c0fcac284",
+      "created_at": 1769167454,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ホロカにゅーすLIVE 第2問 【ＳＰ推しスキルは何？】",
+      "body": "[[holoplus_survey_start]]\nA. ギリギリ悪くないよねぇ？\nB. わためは悪くないよねぇ？\nC. そんなに悪くないよねぇ？\nD. わためいとが悪いよねぇ？\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "ホロカにゅーすLIVE 第2問 【ＳＰ推しスキルは何？】",
+          "body": "[[holoplus_survey_start]]\nA. ギリギリ悪くないよねぇ？\nB. わためは悪くないよねぇ？\nC. そんなに悪くないよねぇ？\nD. わためいとが悪いよねぇ？\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Holoca News LIVE - Question 2: What's your SP Oshi Skill?",
+          "body": "[[holoplus_survey_start]]\nA. It's barely not bad, right?\nB. Watame isn't bad, right?\nC. It's not that bad, right?\nD. Watamate is bad, right?\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Holoca News LIVE - Pertanyaan 2: Apa Skill SP Oshi-mu?",
+          "body": "[[holoplus_survey_start]]\nA. Lumayan tidak buruk, kan?\nB. Watame tidak buruk, kan?\nC. Tidak seburuk itu, kan?\nD. Watamate yang buruk, kan?\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "4AF109EC-FDC3-4070-AFF8-6AEFFFDC396D",
+    "channel_name": "角巻わため",
+    "thread_id": "39f51d0f-d061-4703-96f7-f2e852a8bf8f",
+    "thread": {
+      "id": "39f51d0f-d061-4703-96f7-f2e852a8bf8f",
+      "created_at": 1769167221,
+      "talents": [
+        {
+          "id": "c5a07d80-0d02-4167-89e2-06faeed5bcab",
+          "name": "角巻わため",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png",
+          "key_name": "tsunomaki_watame"
+        }
+      ],
+      "user": {
+        "id": "cbce1653-1882-45a1-b0bb-99ea226e96da",
+        "name": "角巻わため",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ホロカにゅーすLIVE 第一問　SP推しスキルは？",
+      "body": "[[holoplus_survey_start]]\nA. フブキ最強！\nB. Hi Friends！\nC. フブキングダム\nD. すこん部愛してるよ\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "ホロカにゅーすLIVE 第一問　SP推しスキルは？",
+          "body": "[[holoplus_survey_start]]\nA. フブキ最強！\nB. Hi Friends！\nC. フブキングダム\nD. すこん部愛してるよ\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Holoca News LIVE First Question: What's your top SP skill?",
+          "body": "[[holoplus_survey_start]]\nA. Fubuki is the strongest!\nB. Hi Friends！\nC. Fubuki Kingdom\nD. I love Sukonbu!\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Holoca News LIVE Pertanyaan Pertama: Apa skill SP favoritmu?",
+          "body": "[[holoplus_survey_start]]\nA. Fubuki yang terkuat!\nB. Hi Friends！\nC. Fubuki Kingdom\nD. Aku sayang Sukonbu!\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
     "thread_id": "77b0eaf9-d801-43de-8455-78e2ac8b5d4c",
