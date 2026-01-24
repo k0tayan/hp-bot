@@ -2,6 +2,51 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "1bc8606d-ddb3-4e6c-9958-72c5b71787e2",
+    "thread": {
+      "id": "1bc8606d-ddb3-4e6c-9958-72c5b71787e2",
+      "created_at": 1769237305,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ゲーム祭り 月チームがんばーるぞぃ",
+      "body": "ﾜｰｲ\\(* ॑꒳ ॑* \\三/ * ॑꒳ ॑*)/ﾜｰｲ",
+      "translations": {
+        "ja": {
+          "title": "ゲーム祭り 月チームがんばーるぞぃ",
+          "body": "ﾜｰｲ\\(* ॑꒳ ॑* \\三/ * ॑꒳ ॑*)/ﾜｰｲ"
+        },
+        "en": {
+          "title": "Game Festival: Moon Team, let's do our best!",
+          "body": "Yay! \\(* ॑꒳ ॑* \\三/ * ॑꒳ ॑*)/ Yay!"
+        },
+        "id": {
+          "title": "Festival Game: Tim Bulan, ayo berikan yang terbaik!",
+          "body": "Hore! \\(* ॑꒳ ॑* \\三/ * ॑꒳ ॑*)/ Hore!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/e2af1a6b-b608-412f-93de-26e4dfc8c285.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "76e18907-ecd7-4db8-9957-ae2c0fcac284",
     "thread": {
       "id": "76e18907-ecd7-4db8-9957-ae2c0fcac284",
