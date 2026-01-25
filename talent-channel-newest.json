@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "33cd10b6-0b37-4653-bf74-25e780cc7148",
+    "thread": {
+      "id": "33cd10b6-0b37-4653-bf74-25e780cc7148",
+      "created_at": 1769371680,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/33cd10b6-0b37-4653-bf74-25e780cc7148/original.png"
+      ],
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Senpai to be extra silly with during our BIRTHDAY!! 🐾",
+      "body": "Our birthday festival starts with some silliness together with our dear senpai! 🎂✨ Fubuki-senpai + Calli-senpai + Poruru-oneechan will be there to celebrate with us during the variety show portion of our FUWAMOCO Wacha Wacha Festival happening on the 31st at 3am PT!! BAU BAUー！！🐾🩵🩷",
+      "translations": {
+        "ja": {
+          "title": "FUWAMOCOの誕生日に先輩たちと一緒にとワチャワチャする！🐾",
+          "body": "FUWAMOCOのWacha Wacha Birthday Festivalに大好きな先輩たちが遊びにきてくれます！🎂✨ フブキ先輩＋カリ先輩＋ぽるるお姉ちゃんがお祝いしてくれます！FUWAMOCO Wacha Wacha Birthday Festivalは31日20:00から始まるから見逃さないように〜！BAU BAUー！！🐾🩵🩷"
+        },
+        "en": {
+          "title": "Senpai to be extra silly with during our BIRTHDAY!! 🐾",
+          "body": "Our birthday festival starts with some silliness together with our dear senpai! 🎂✨ Fubuki-senpai + Calli-senpai + Poruru-oneechan will be there to celebrate with us during the variety show portion of our FUWAMOCO Wacha Wacha Festival happening on the 31st at 3am PT!! BAU BAUー！！🐾🩵🩷"
+        },
+        "id": {
+          "title": "Senpai yang akan ikut seru-seruan di HARI ULANG TAHUN kami!! 🐾",
+          "body": "Festival ulang tahun kami dimulai dengan keseruan bersama senpai-senpai kami tersayang! 🎂✨ Fubuki-senpai + Calli-senpai + Poruru-oneechan akan hadir untuk merayakan bersama kami selama segmen variety show dari FUWAMOCO Wacha Wacha Festival kami yang akan berlangsung pada tanggal 31 jam 3 pagi PT!! BAU BAUー！！🐾🩵🩷"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/e24a7fc0-f349-46cc-9bff-b405fd1b8a72.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "1bc8606d-ddb3-4e6c-9958-72c5b71787e2",
