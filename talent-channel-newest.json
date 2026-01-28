@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "ff5de73e-0a53-41cc-beba-08220ec4285f",
+    "thread": {
+      "id": "ff5de73e-0a53-41cc-beba-08220ec4285f",
+      "created_at": 1769613485,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/ff5de73e-0a53-41cc-beba-08220ec4285f/original.png"
+      ],
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Our best friends + genmates will be at our birthday?!",
+      "body": "Can you believe it?! ⚠️✨ Shiori, Biboo, and Nerissa are going to be singing and dancing as part of our birthday concert on the 31st at 7pm PT!! ✨ Get ready to be blown away by Advent’s performance!! BAU BAUー！！🐾🩵🩷",
+      "translations": {
+        "ja": {
+          "title": "ベストフレンドaka同期が生誕ライブに来てくれるって？！",
+          "body": "信じられるの？！⚠️✨ Adventのシオリちゃん、ビブーちゃん、ネリッサちゃんがFUWAMOCOの生誕ライブに出演してくれるんだって！！✨ びっくりした〜？ すごいステージになるから心の準備をしててね！！BAU BAUー！！🐾🩵🩷"
+        },
+        "en": {
+          "title": "Our best friends + genmates will be at our birthday?!",
+          "body": "Can you believe it?! ⚠️✨ Shiori, Biboo, and Nerissa are going to be singing and dancing as part of our birthday concert on the 31st at 7pm PT!! ✨ Get ready to be blown away by Advent’s performance!! BAU BAUー！！🐾🩵🩷"
+        },
+        "id": {
+          "title": "Sahabat terbaik + genmate kita akan hadir di ulang tahun kita?!",
+          "body": "Kalian percaya nggak?! ⚠️✨ Shiori, Biboo, dan Nerissa akan bernyanyi dan menari sebagai bagian dari konser ulang tahun kita pada tanggal 31 jam 7 malam PT!! ✨ Bersiaplah untuk terpukau oleh penampilan Advent!! BAU BAUー！！🐾🩵🩷"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/df376bb3-38ab-4782-a8e7-7160e2e9ecd5.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "061190ef-fd1d-4f82-bde7-f0af6c693edc",
