@@ -2,6 +2,51 @@
   {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
+    "thread_id": "b33e144a-9458-4975-aa39-9692e0e07912",
+    "thread": {
+      "id": "b33e144a-9458-4975-aa39-9692e0e07912",
+      "created_at": 1769702761,
+      "talents": [
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "✨️尾丸ポルカハッピーバースデー✨️",
+      "body": "お誕生日おめでとうわたし！！！\n今日は21時から3Dライブだよー！\nゲストたくさん！ぜひ見に来てね！",
+      "translations": {
+        "ja": {
+          "title": "✨️尾丸ポルカハッピーバースデー✨️",
+          "body": "お誕生日おめでとうわたし！！！\n今日は21時から3Dライブだよー！\nゲストたくさん！ぜひ見に来てね！"
+        },
+        "en": {
+          "title": "✨️Omaru Polka Happy Birthday✨️",
+          "body": "Happy birthday to me!!!\nTonight from 9 PM JST, I'll have a 3D live!\nLots of guests! Please come watch!"
+        },
+        "id": {
+          "title": "✨️Selamat Ulang Tahun Omaru Polka✨️",
+          "body": "Selamat ulang tahun untukku!!!\nMalam ini mulai jam 21:00 JST, ada live 3D!\nBanyak tamu! Pastikan datang menonton ya!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/91e6ef56-25b5-417e-8424-0150481f02f0.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
     "thread_id": "fa929e54-2633-4dd0-b3a3-170fb84c43ed",
     "thread": {
       "id": "fa929e54-2633-4dd0-b3a3-170fb84c43ed",
