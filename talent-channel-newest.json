@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "fa929e54-2633-4dd0-b3a3-170fb84c43ed",
+    "thread": {
+      "id": "fa929e54-2633-4dd0-b3a3-170fb84c43ed",
+      "created_at": 1769695439,
+      "talents": [
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "もうすぐ誕生日アンケート✨️",
+      "body": "なにかありますか？（圧）",
+      "translations": {
+        "ja": {
+          "title": "もうすぐ誕生日アンケート✨️",
+          "body": "なにかありますか？（圧）"
+        },
+        "en": {
+          "title": "Birthday Survey Coming Soon ✨️",
+          "body": "Any requests? (intense gaze)"
+        },
+        "id": {
+          "title": "Survei Ulang Tahun Segera Hadir ✨️",
+          "body": "Ada ide? (tatapan intens)"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
     "channel_name": "フワモコ",
     "thread_id": "ff5de73e-0a53-41cc-beba-08220ec4285f",
