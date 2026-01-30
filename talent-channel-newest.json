@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "54c7f895-671d-4e24-955c-b2e0e325411b",
+    "thread": {
+      "id": "54c7f895-671d-4e24-955c-b2e0e325411b",
+      "created_at": 1769747189,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "フブちゃん先生のお悩み相談室(保護者の皆様)",
+      "body": "ホロライブ小学校 \n自称担任のフブちゃん先生よー！\n\n今日は22時頃から、日頃生徒を見続けている保護者の皆さんからの\nお悩み相談を予定してます\n生徒の皆さんに対するお悩みや、保護者の皆様自身のお悩みを\nゆるーく募集していくわよー\n\nフブちゃん先生に解決？して欲しい悩みを投稿してちょうだーい✌️",
+      "translations": {
+        "ja": {
+          "title": "フブちゃん先生のお悩み相談室(保護者の皆様)",
+          "body": "ホロライブ小学校 \n自称担任のフブちゃん先生よー！\n\n今日は22時頃から、日頃生徒を見続けている保護者の皆さんからの\nお悩み相談を予定してます\n生徒の皆さんに対するお悩みや、保護者の皆様自身のお悩みを\nゆるーく募集していくわよー\n\nフブちゃん先生に解決？して欲しい悩みを投稿してちょうだーい✌️"
+        },
+        "en": {
+          "title": "Fubuchan-sensei's Advice Session (For Parents)",
+          "body": "It's Fubuchan-sensei, the self-proclaimed homeroom teacher of Hololive Elementary School!\n\nTonight, starting around 10 PM JST, I'll be holding an advice session for all you parents who constantly watch over your students.\nI'll be casually taking submissions for problems you have regarding your students, or even problems you parents are facing yourselves~\n\nPlease send in your problems that you want Fubuchan-sensei to 'solve' for you✌️"
+        },
+        "id": {
+          "title": "Sesi Konsultasi Fubuchan-sensei (Untuk Para Orang Tua)",
+          "body": "Ini Fubuchan-sensei, guru wali kelas Hololive Elementary School yang mengaku-ngaku!\n\nMalam ini, mulai sekitar jam 10 malam JST, aku akan mengadakan sesi konsultasi masalah untuk kalian para orang tua yang selalu mengawasi murid-murid kalian.\nAku akan santai saja menerima curhatan tentang masalah yang kalian hadapi terkait murid-murid kalian, atau bahkan masalah yang kalian para orang tua alami sendiri~\n\nTolong kirimkan masalah yang kalian ingin Fubuchan-sensei 'selesaikan' ya✌️"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "b33e144a-9458-4975-aa39-9692e0e07912",
