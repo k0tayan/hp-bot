@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "5f091de5-1ad2-486d-850b-6e07b9b64a5b",
+    "thread": {
+      "id": "5f091de5-1ad2-486d-850b-6e07b9b64a5b",
+      "created_at": 1769849929,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/5f091de5-1ad2-486d-850b-6e07b9b64a5b/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "The festival starts TONIGHT!! ✨",
+      "body": "Are you ready to WACHA WACHA?! ✨ Only a couple hours now until the big show… Please join us for a lot of firsts for FUWAMOCO and lots of silliness too! BAU BAUー！！🐾🩵🩷",
+      "translations": {
+        "ja": {
+          "title": "今夜からフェスティバルがスタートする！！ ✨",
+          "body": "WACHA WACHAする準備はできてるの〜？！ ✨ 生誕前のバラエティSHOWまであと少しです… ﾄﾞｷﾄﾞｷ💕 FUWAMOCOにとってたくさんの初挑戦とたくさんの楽しいWACHA WACHAもあるので、ぜひ参加してくださいね BAU BAUー！！🐾🩵🩷"
+        },
+        "en": {
+          "title": "The festival starts TONIGHT!! ✨",
+          "body": "Are you ready to WACHA WACHA?! ✨ Only a couple hours now until the big show… Please join us for a lot of firsts for FUWAMOCO and lots of silliness too! BAU BAUー！！🐾🩵🩷"
+        },
+        "id": {
+          "title": "Festival dimulai MALAM INI!! ✨",
+          "body": "Sudah siap untuk WACHA WACHA?! ✨ Tinggal beberapa jam lagi sampai pertunjukan besar… Mohon bergabunglah dengan kami untuk banyak hal pertama bagi FUWAMOCO dan banyak kekonyolan juga! BAU BAUー！！🐾🩵🩷"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/109a3d98-c8e9-450b-855d-47c3e5dcbb84.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "54c7f895-671d-4e24-955c-b2e0e325411b",
