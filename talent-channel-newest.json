@@ -2,6 +2,54 @@
   {
     "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
     "channel_name": "フワモコ",
+    "thread_id": "5d64a448-bde7-47ff-8afb-23121752d564",
+    "thread": {
+      "id": "5d64a448-bde7-47ff-8afb-23121752d564",
+      "created_at": 1769911226,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/5d64a448-bde7-47ff-8afb-23121752d564/original.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Our 3D Birthday Live is about to START!! ✨",
+      "body": "Ruffians!! Are you ready?! ✨✨ We’re so excited, but also soooo nervous!! We’re going to put everything into our performance today!! All our fluff, all our fuzz!! BAU BAUー！！🐾🩵🩷",
+      "translations": {
+        "ja": {
+          "title": "生誕ライブ、まもなくスタート！！✨",
+          "body": "ラフィアンズー！！準備はいい？！✨✨ とっても楽しみだけど、実はすっごく緊張してるの！！bau bau…!! 今日のパフォーマンスに、私たちの全部を込めるよ！！ふわふわも、もふもふも全部だ！！BAU BAUー！！🐾🩵🩷"
+        },
+        "en": {
+          "title": "Our 3D Birthday Live is about to START!! ✨",
+          "body": "Ruffians!! Are you ready?! ✨✨ We’re so excited, but also soooo nervous!! We’re going to put everything into our performance today!! All our fluff, all our fuzz!! BAU BAUー！！🐾🩵🩷"
+        },
+        "id": {
+          "title": "3D Birthday Live kita akan SEGERA DIMULAI!! ✨",
+          "body": "Ruffian!! Kalian siap?! ✨✨ Kami sangat bersemangat, tapi juga sangaaaat gugup!! Kami akan mengerahkan segalanya dalam penampilan kami hari ini!! Semua kelembutan kami, semua kehangatan kami!! BAU BAUー!!🐾🩵🩷"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/fc20f7e6-8b96-4d73-98e4-4d3dbd34902b.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
     "thread_id": "5f091de5-1ad2-486d-850b-6e07b9b64a5b",
     "thread": {
       "id": "5f091de5-1ad2-486d-850b-6e07b9b64a5b",
