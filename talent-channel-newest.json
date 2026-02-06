@@ -1,5 +1,108 @@
 [
   {
+    "channel_id": "DA6633B6-14B7-4FE4-BC1E-6B2BE58B5077",
+    "channel_name": "AZKi",
+    "thread_id": "07c78f12-4344-4cc3-999e-24e5164b1833",
+    "thread": {
+      "id": "07c78f12-4344-4cc3-999e-24e5164b1833",
+      "created_at": 1770365400,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/07c78f12-4344-4cc3-999e-24e5164b1833/original_1770365400_1.jpeg",
+        "https://asset.holoplus.com/threads/07c78f12-4344-4cc3-999e-24e5164b1833/original_1770365400_2.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "400b93ad-2dd0-4303-acbc-d0207c202118",
+          "name": "AZKi",
+          "img_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png",
+          "key_name": "azki"
+        },
+        {
+          "id": "5ef4d51e-d9d6-4582-900c-81d36b5d0576",
+          "name": "風真いろは",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kazama_iroha/icon.png",
+          "key_name": "kazama_iroha"
+        }
+      ],
+      "user": {
+        "id": "822f4e4b-ecaf-4924-ac0b-39efc951a9fb",
+        "name": "AZKi",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "あずいろ食堂、開店！",
+      "body": "からあげ1kg揚げた！ござるクッキーもあるよ🍪\n20時からあずいろ食堂に来てね🩷💚",
+      "translations": {
+        "ja": {
+          "title": "あずいろ食堂、開店！",
+          "body": "からあげ1kg揚げた！ござるクッキーもあるよ🍪\n20時からあずいろ食堂に来てね🩷💚"
+        },
+        "en": {
+          "title": "Azuiro Shokudou, Now Open!",
+          "body": "I fried 1kg of karaage! I've also got Gozaru cookies 🍪\nCome to Azuiro Shokudou from 8 PM 🩷💚"
+        },
+        "id": {
+          "title": "Azuiro Shokudou, Buka Sekarang!",
+          "body": "Aku sudah menggoreng 1kg karaage! Ada juga kue Gozaru 🍪\nDatang ya ke Azuiro Shokudou mulai jam 8 malam 🩷💚"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "64B4F01C-8906-425D-81A2-268C8E920E64",
+    "channel_name": "風真いろは",
+    "thread_id": "3b2110a3-c600-4dbb-8607-9b5a2b145d8a",
+    "thread": {
+      "id": "3b2110a3-c600-4dbb-8607-9b5a2b145d8a",
+      "created_at": 1770365366,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/3b2110a3-c600-4dbb-8607-9b5a2b145d8a/original_1770365367_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "400b93ad-2dd0-4303-acbc-d0207c202118",
+          "name": "AZKi",
+          "img_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png",
+          "key_name": "azki"
+        },
+        {
+          "id": "5ef4d51e-d9d6-4582-900c-81d36b5d0576",
+          "name": "風真いろは",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kazama_iroha/icon.png",
+          "key_name": "kazama_iroha"
+        }
+      ],
+      "user": {
+        "id": "804188bc-3e14-417b-844c-964a2ae7b27d",
+        "name": "風真いろは",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kazama_iroha/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "これはなんですか？",
+      "body": "これはからあげです🍗‪\n",
+      "translations": {
+        "ja": {
+          "title": "これはなんですか？",
+          "body": "これはからあげです🍗‪\n"
+        },
+        "en": {
+          "title": "What is this?",
+          "body": "This is karaage 🍗"
+        },
+        "id": {
+          "title": "Apa ini?",
+          "body": "Ini adalah karaage 🍗"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "70f4497d-8d97-471d-8eeb-ccb2c95673a8",
