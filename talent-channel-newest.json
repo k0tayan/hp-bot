@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "64DD1923-CD81-432F-B4B8-B4C870373A8B",
+    "channel_name": "ロボ子さん",
+    "thread_id": "288dd35e-344b-43ac-827f-0ec080ab09fa",
+    "thread": {
+      "id": "288dd35e-344b-43ac-827f-0ec080ab09fa",
+      "created_at": 1770789482,
+      "talents": [
+        {
+          "id": "f4574895-c0fe-4b0f-825d-c4199bc6d66f",
+          "name": "ロボ子さん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png",
+          "key_name": "robocosan"
+        },
+        {
+          "id": "57d9bc26-485d-443e-9a5d-dc3b186f67e3",
+          "name": "儒烏風亭らでん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/juufuutei_raden/icon_20241218.png",
+          "key_name": "juufuutei_raden"
+        }
+      ],
+      "user": {
+        "id": "e6c46d5c-574e-466b-a45f-371ad10aaa02",
+        "name": "ロボ子さん",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ろぼらでん‼️",
+      "body": "モルディブから ろぼらでん参上∠(　˙-˙ )／\n",
+      "translations": {
+        "ja": {
+          "title": "ろぼらでん‼️",
+          "body": "モルディブから ろぼらでん参上∠(　˙-˙ )／\n"
+        },
+        "en": {
+          "title": "Robo-Raden!!",
+          "body": "Robo-Raden has arrived from Maldives ∠(　˙-˙ )／"
+        },
+        "id": {
+          "title": "Robo-Raden!!",
+          "body": "Robo-Raden telah tiba dari Maladewa ∠(　˙-˙ )／"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/79a3b773-c3bd-4649-b9ea-087c8355d8bc.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BA5D48E5-AC15-47F9-BF10-4543C057B5F2",
     "channel_name": "ムーナ・ホシノヴァ",
     "thread_id": "b41ce4a5-0624-42ff-827d-e8f861332e3f",
