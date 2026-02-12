@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "5c96ee6b-90d5-40da-aeeb-bee9c5fbf0b2",
+    "thread": {
+      "id": "5c96ee6b-90d5-40da-aeeb-bee9c5fbf0b2",
+      "created_at": 1770883705,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/5c96ee6b-90d5-40da-aeeb-bee9c5fbf0b2/original_1770883705_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "f4574895-c0fe-4b0f-825d-c4199bc6d66f",
+          "name": "ロボ子さん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png",
+          "key_name": "robocosan"
+        },
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20251208.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ろぼちをトイレに行かせない水宮",
+      "body": "イラスト切り抜きが上がりました！感想はYouTubeに💬まってます…！https://youtube.com/shorts/dUUNevqtWa8?si=zI-JRxwZThTPlMdj",
+      "translations": {
+        "ja": {
+          "title": "ろぼちをトイレに行かせない水宮",
+          "body": "イラスト切り抜きが上がりました！感想はYouTubeに💬まってます…！https://youtube.com/shorts/dUUNevqtWa8?si=zI-JRxwZThTPlMdj"
+        },
+        "en": {
+          "title": "Mizumiya Who Won't Let Robochi Go to the Toilet",
+          "body": "An illustration clip has been uploaded! Looking forward to your comments on YouTube 💬...! https://youtube.com/shorts/dUUNevqtWa8?si=zI-JRxwZThTPlMdj"
+        },
+        "id": {
+          "title": "Mizumiya yang Tidak Mengizinkan Robochi Pergi ke Toilet",
+          "body": "Klip ilustrasi sudah diunggah! Komentar kalian ditunggu di YouTube 💬...! https://youtube.com/shorts/dUUNevqtWa8?si=zI-JRxwZThTPlMdj"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
     "thread_id": "0b57c44a-fa43-4025-808d-a32c95211a62",
