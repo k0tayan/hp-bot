@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "1dc506c2-3471-4d64-a265-89885863ddd2",
+    "thread": {
+      "id": "1dc506c2-3471-4d64-a265-89885863ddd2",
+      "created_at": 1770870883,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/1dc506c2-3471-4d64-a265-89885863ddd2/original_1770870883_1.png"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20240918.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "[Announcement] ORIGINAL SOBG RELEASE!!",
+      "body": "Shiori~n! 👁️‍🗨️\n\nMy first original song will release on Feb 16th @ 12PM JST! 🎶\n\nSee you then at my super cool music video! 💃",
+      "translations": {
+        "ja": {
+          "title": "【重大発表】オリジナル曲リリース決定！！",
+          "body": "しおり~ん！👁️‍🗨️\n\n私の初オリジナル曲が2月16日12PM JSTにリリースされます！🎶\n\n超カッコウいいミュージックビデオ見に来てね！💃"
+        },
+        "en": {
+          "title": "[Announcement] ORIGINAL SOBG RELEASE!!",
+          "body": "Shiori~n! 👁️‍🗨️\n\nMy first original song will release on Feb 16th @ 12PM JST! 🎶\n\nSee you then at my super cool music video! 💃"
+        },
+        "id": {
+          "title": "[Pengumuman] RILIS LAGU ORIGINAL!!",
+          "body": "Shiori~n! 👁️‍🗨️\n\nLagu original pertamaku akan rilis pada 16 Februari pukul 12PM JST! 🎶\n\nSampai jumpa di video musikku yang super keren nanti! 💃"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "64DD1923-CD81-432F-B4B8-B4C870373A8B",
     "channel_name": "ロボ子さん",
     "thread_id": "288dd35e-344b-43ac-827f-0ec080ab09fa",
