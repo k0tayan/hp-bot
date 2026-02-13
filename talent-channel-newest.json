@@ -1,5 +1,152 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "2e004e81-3450-46fb-bc6a-a65f0d889c50",
+    "thread": {
+      "id": "2e004e81-3450-46fb-bc6a-a65f0d889c50",
+      "created_at": 1770968180,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/2e004e81-3450-46fb-bc6a-a65f0d889c50/original_1770968180_1.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【この画像で一言】",
+      "body": "本日２３時～配信の白上フブキ&尾丸ポルカの深夜チルラジオ内にて一部ご紹介させていただきます。\n\n今回はコチラの尾丸ポルカが何を言っているのか台詞やシチュエーションを募集。\n大喜利となっております。\n\n配信はコチラ⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share",
+      "translations": {
+        "ja": {
+          "title": "【この画像で一言】",
+          "body": "本日２３時～配信の白上フブキ&尾丸ポルカの深夜チルラジオ内にて一部ご紹介させていただきます。\n\n今回はコチラの尾丸ポルカが何を言っているのか台詞やシチュエーションを募集。\n大喜利となっております。\n\n配信はコチラ⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share"
+        },
+        "en": {
+          "title": "【Caption This Image】",
+          "body": "We'll be featuring some of your submissions during Shirakami Fubuki & Omaru Polka's Late Night Chill Radio stream tonight starting at 11 PM JST.\n\nThis time, we're looking for lines or situations for what Omaru Polka in this image might be saying.\nIt's a caption contest!\n\nWatch the stream here⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share"
+        },
+        "id": {
+          "title": "【Beri Satu Kata untuk Gambar Ini】",
+          "body": "Beberapa di antaranya akan kami tampilkan di siaran 'Late Night Chill Radio' Shirakami Fubuki & Omaru Polka yang tayang malam ini mulai pukul 23:00 JST.\n\nKali ini, kami mencari dialog atau situasi yang mungkin diucapkan oleh Omaru Polka di gambar ini.\nIni adalah kontes caption!\n\nTonton siarannya di sini⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "065804e9-8101-43a2-95f4-97ce629479c0",
+    "thread": {
+      "id": "065804e9-8101-43a2-95f4-97ce629479c0",
+      "created_at": 1770968097,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【自由すぎる俳句選手権】",
+      "body": "本日２３時～配信の白上フブキ&尾丸ポルカの深夜チルラジオ\n【狐族密会】内にて一部ご紹介させていただきます。\n\n五・七・五に囚われない自由な俳句をお書きください\n\n（例）明日晴れろ。/月曜はダルイ/等\n\n\n配信はコチラ⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share",
+      "translations": {
+        "ja": {
+          "title": "【自由すぎる俳句選手権】",
+          "body": "本日２３時～配信の白上フブキ&尾丸ポルカの深夜チルラジオ\n【狐族密会】内にて一部ご紹介させていただきます。\n\n五・七・五に囚われない自由な俳句をお書きください\n\n（例）明日晴れろ。/月曜はダルイ/等\n\n\n配信はコチラ⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share"
+        },
+        "en": {
+          "title": "[Too Free Haiku Contest]",
+          "body": "Shirakami Fubuki & Omaru Polka's late-night chill radio stream, airing today from 23:00 JST.\nSome entries will be featured during the 'Kitsune-zoku Mikkai' segment.\n\nPlease write a free haiku, not bound by the 5-7-5 syllable rule.\n\n(Examples) 'May tomorrow be sunny.' / 'Mondays are a drag.' / etc.\n\n\nStream here⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share"
+        },
+        "id": {
+          "title": "[Kontes Haiku Terlalu Bebas]",
+          "body": "Siaran radio santai larut malam Shirakami Fubuki & Omaru Polka, tayang hari ini mulai pukul 23:00 JST.\nBeberapa entri akan kami perkenalkan di segmen 'Kitsune-zoku Mikkai'.\n\nMohon tulis haiku bebas yang tidak terikat aturan 5-7-5 suku kata.\n\n(Contoh) 'Semoga besok cerah.' / 'Hari Senin itu melelahkan.' / dll.\n\n\nStreaming di sini⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "338597e4-4f62-4816-95ec-6030196f0dbc",
+    "thread": {
+      "id": "338597e4-4f62-4816-95ec-6030196f0dbc",
+      "created_at": 1770967982,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【あの頃は良かったな、と思った瞬間】",
+      "body": "本日２３時～配信の白上フブキ&尾丸ポルカの深夜チルラジオ\n【狐族密会】内にて一部ご紹介させていただきます。\n\n過去を少し振り返るコーナー。\n皆さんのあの頃は…をお書きください。\n\n\n配信はコチラ⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share",
+      "translations": {
+        "ja": {
+          "title": "【あの頃は良かったな、と思った瞬間】",
+          "body": "本日２３時～配信の白上フブキ&尾丸ポルカの深夜チルラジオ\n【狐族密会】内にて一部ご紹介させていただきます。\n\n過去を少し振り返るコーナー。\n皆さんのあの頃は…をお書きください。\n\n\n配信はコチラ⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share"
+        },
+        "en": {
+          "title": "【Moments When I Thought, 'Those Were the Good Old Days'】",
+          "body": "We'll be featuring some of your submissions during Shirakami Fubuki & Omaru Polka's Late Night Chill Radio, 'Kitsune-zoku Mitsukai' (Fox Tribe Secret Meeting), streaming tonight from 23:00 JST.\n\nThis is a segment where we look back a little at the past.\nPlease share your 'good old days' moments.\n\nStream here⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share"
+        },
+        "id": {
+          "title": "【Momen Ketika Aku Berpikir, 'Dulu Itu Indah Ya'】",
+          "body": "Kami akan menampilkan beberapa kiriman kalian di 'Kitsune-zoku Mitsukai' (Pertemuan Rahasia Suku Rubah), bagian dari Radio Santai Tengah Malam Shirakami Fubuki & Omaru Polka, yang akan tayang malam ini mulai pukul 23:00 JST.\n\nIni adalah segmen di mana kita sedikit mengenang masa lalu.\nSilakan tuliskan momen 'dulu itu indah ya' kalian.\n\nStreaming di sini⬇️\nhttps://youtube.com/live/irYvrw9pWfY?feature=share"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "5c96ee6b-90d5-40da-aeeb-bee9c5fbf0b2",
