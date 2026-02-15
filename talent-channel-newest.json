@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "8AAF24E7-FAA3-4497-8B6E-B8D6EC822EF3",
+    "channel_name": "星街すいせい",
+    "thread_id": "1a214546-1e81-4ad6-ab47-3a87e3710cd8",
+    "thread": {
+      "id": "1a214546-1e81-4ad6-ab47-3a87e3710cd8",
+      "created_at": 1771141585,
+      "talents": [
+        {
+          "id": "ff2e6a92-89ce-40f0-8771-773a7dbefcfb",
+          "name": "星街すいせい",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hoshimachi_suisei/icon_20250902.png",
+          "key_name": "hoshimachi_suisei"
+        }
+      ],
+      "user": {
+        "id": "ae2677cf-8833-40ab-a2c7-4b9ad688611e",
+        "name": "星街すいせい",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hoshimachi_suisei/icon_20250902.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "すいちゃんの勝負プレイリスト",
+      "body": "ホロプラス初投稿📱\n\nすいちゃんの勝負プレイリストを公開🎵\n2/21はライブ！本番に向けてすいちゃんが己を上げるために聴いている曲を紹介‼️\n\n・NOMELON NOLEMON：どうにかなっちゃいそう！\n・ME:I：THIS IS ME:I\n・Reol：オオエドランヴ feat. nqrse - 十年物 Edition -\n・Penthouse：ナンセンス\n\n#ホロプラス企画",
+      "translations": {
+        "ja": {
+          "title": "すいちゃんの勝負プレイリスト",
+          "body": "ホロプラス初投稿📱\n\nすいちゃんの勝負プレイリストを公開🎵\n2/21はライブ！本番に向けてすいちゃんが己を上げるために聴いている曲を紹介‼️\n\n・NOMELON NOLEMON：どうにかなっちゃいそう！\n・ME:I：THIS IS ME:I\n・Reol：オオエドランヴ feat. nqrse - 十年物 Edition -\n・Penthouse：ナンセンス\n\n#ホロプラス企画"
+        },
+        "en": {
+          "title": "Suisei's Battle Playlist",
+          "body": "First post on holoplus📱\n\nSuisei's battle playlist is now public🎵\nThe live show is on 2/21! Here are the songs Suisei listens to to get herself pumped up for the main event‼️\n\n・NOMELON NOLEMON: Dounikanacchaisou!\n・ME:I: THIS IS ME:I\n・Reol: Ooedoranvu feat. nqrse -10th annual edition-\n・Penthouse: Nonsense\n\n#HoloplusProject"
+        },
+        "id": {
+          "title": "Playlist Pertarungan Suisei",
+          "body": "Postingan pertama di holoplus📱\n\nPlaylist pertarungan Suisei kini telah dirilis🎵\nKonser live pada 2/21! Ini dia lagu-lagu yang Suisei dengarkan untuk membangkitkan semangatnya menjelang acara utama‼️\n\n・NOMELON NOLEMON: Dounikanacchaisou!\n・ME:I: THIS IS ME:I\n・Reol: Ooedo Ranvu feat. nqrse - Junenmono Edition -\n・Penthouse: Nonsense\n\n#ProyekHoloplus"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "15134a21-20e7-4e3d-98c8-7a0e5a1e742f",
