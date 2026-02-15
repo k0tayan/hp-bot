@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "15134a21-20e7-4e3d-98c8-7a0e5a1e742f",
+    "thread": {
+      "id": "15134a21-20e7-4e3d-98c8-7a0e5a1e742f",
+      "created_at": 1771135474,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/15134a21-20e7-4e3d-98c8-7a0e5a1e742f/original_1771135474_1.png"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20240918.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "SEE YOU AT THE PREMIERE!",
+      "body": "👁‍🗨Monsters and Men👁‍🗨\nhttps://youtube.com/watch?v=NX1ZCKJ67dc\nFeb 15th @ 9PM CST  \nFeb 16th @ 12PM JST  \n\nPre-save on Spotify/Apple Music/YT Music: https://cover.lnk.to/Y6ZMPF \n\n🎶#ShiorinTunes",
+      "translations": {
+        "ja": {
+          "title": "プレミア公開で待ってまーす！見に来てね！",
+          "body": "👁‍🗨Monsters and Men👁‍🗨\nhttps://youtube.com/watch?v=NX1ZCKJ67dc\n2月15日 午後9時 CST\n2月16日 正午 JST\n\nSpotify/Apple Music/YT Musicで事前予約はこちらから: https://cover.lnk.to/Y6ZMPF\n\n🎶#ShiorinTunes"
+        },
+        "en": {
+          "title": "SEE YOU AT THE PREMIERE!",
+          "body": "👁‍🗨Monsters and Men👁‍🗨\nhttps://youtube.com/watch?v=NX1ZCKJ67dc\nFeb 15th @ 9PM CST  \nFeb 16th @ 12PM JST  \n\nPre-save on Spotify/Apple Music/YT Music: https://cover.lnk.to/Y6ZMPF \n\n🎶#ShiorinTunes"
+        },
+        "id": {
+          "title": "SAMPAI JUMPA DI PREMIERE!",
+          "body": "👁‍🗨Monsters and Men👁‍🗨\nhttps://youtube.com/watch?v=NX1ZCKJ67dc\n15 Februari pukul 9 malam CST\n16 Februari pukul 12 siang JST\n\nPre-save di Spotify/Apple Music/YT Music: https://cover.lnk.to/Y6ZMPF\n\n🎶#ShiorinTunes"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "2e004e81-3450-46fb-bc6a-a65f0d889c50",
