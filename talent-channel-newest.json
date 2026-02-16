@@ -2,6 +2,90 @@
   {
     "channel_id": "4A3A8C58-351C-4D03-8E27-08B9562597DD",
     "channel_name": "森カリオペ",
+    "thread_id": "989397e5-9f53-4fc2-bd22-af1140fafc89",
+    "thread": {
+      "id": "989397e5-9f53-4fc2-bd22-af1140fafc89",
+      "created_at": 1771241278,
+      "talents": [
+        {
+          "id": "ebb39a49-871c-4a9c-b585-5837bdbcafda",
+          "name": "森カリオペ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mori_calliope/icon_20241218.png",
+          "key_name": "mori_calliope"
+        }
+      ],
+      "user": {
+        "id": "cb5040bf-9bfc-4675-a722-6e496996a706",
+        "name": "森カリオペ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mori_calliope/icon_20241218.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ホロカにゅーすLIVE 第2問 SP推しスキルは？",
+      "body": "[[holoplus_survey_start]]\nA. もこちゃん！\nB. モコちゃん！\nC. Mocoちゃん！\nD. モゴジャ〜〜ン！！\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "ホロカにゅーすLIVE 第2問 SP推しスキルは？",
+          "body": "[[holoplus_survey_start]]\nA. もこちゃん！\nB. モコちゃん！\nC. Mocoちゃん！\nD. モゴジャ〜〜ン！！\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "What's your Oshi Skill?",
+          "body": "[[holoplus_survey_start]]\nA. Moco-cha\nB. Moco-chan\nC. Moco-chan!\nD. Mogojya~~~n!!\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Apa Skill Oshi-mu?",
+          "body": "[[holoplus_survey_start]]\nA. Moco-cha\nB. Moco-chan!\nC. Moco-chan\nD. Mogojya~~~n\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "955240af-e5ec-46da-a4e0-0dcea6dd8b68",
+    "thread": {
+      "id": "955240af-e5ec-46da-a4e0-0dcea6dd8b68",
+      "created_at": 1771240839,
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ホロカにゅーすLIVE 第1問 SP推しスキルは？",
+      "body": "[[holoplus_survey_start]]\nA. ファイナル\nB. クレ\nC. 死神\nD. サラン\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "ホロカにゅーすLIVE 第1問 SP推しスキルは？",
+          "body": "[[holoplus_survey_start]]\nA. ファイナル\nB. クレ\nC. 死神\nD. サラン\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Holocard News LIVE Question 1: What's your SP Oshi Skill?",
+          "body": "[[holoplus_survey_start]]\nA. Final\nB. Kure\nC. Shinigami\nD. Saran\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Holoka News LIVE Pertanyaan 1: Apa Skill Oshi SP-mu?",
+          "body": "[[holoplus_survey_start]]\nA. Final\nB. Kure\nC. Shinigami\nD. Saran\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "4A3A8C58-351C-4D03-8E27-08B9562597DD",
+    "channel_name": "森カリオペ",
     "thread_id": "d9f8d3f8-45fe-4a24-8525-711eae0b3ed0",
     "thread": {
       "id": "d9f8d3f8-45fe-4a24-8525-711eae0b3ed0",
