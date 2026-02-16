@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "9cc189a8-287a-4adb-ad2f-fc8f867ae79b",
+    "thread": {
+      "id": "9cc189a8-287a-4adb-ad2f-fc8f867ae79b",
+      "created_at": 1771211562,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/9cc189a8-287a-4adb-ad2f-fc8f867ae79b/original_1771211562_1.png"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20240918.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "ORIGINAL SONG OUT TODAY!  ",
+      "body": "👁‍🗨Monsters and Men👁‍🗨 \nBeing an archiver sure is a lot of work... \n\n🎧Stream : https://cover.lnk.to/Y6ZMPFCool \n🎥MV: https://www.youtube.com/watch?v=NX1ZCKJ67dc  \n💃MMD animation: https://120.gigafile.nu/0526-b695894d3689f2de881736b5713d911e2",
+      "translations": {
+        "ja": {
+          "title": "オリジナル曲リリースしました！",
+          "body": "👁‍🗨Monsters and Men👁‍🗨 \n収集家って大変な仕事だなぁ….\n\n🎧配信 : https://cover.lnk.to/Y6ZMPFCool \n🎥MV: https://www.youtube.com/watch?v=NX1ZCKJ67dc \n💃MMDアニメーション: https://120.gigafile.nu/0526-b695894d3689f2de881736b5713d911e2"
+        },
+        "en": {
+          "title": "ORIGINAL SONG OUT TODAY!  ",
+          "body": "👁‍🗨Monsters and Men👁‍🗨 \nBeing an archiver sure is a lot of work... \n\n🎧Stream : https://cover.lnk.to/Y6ZMPFCool \n🎥MV: https://www.youtube.com/watch?v=NX1ZCKJ67dc  \n💃MMD animation: https://120.gigafile.nu/0526-b695894d3689f2de881736b5713d911e2"
+        },
+        "id": {
+          "title": "LAGU ORIGINAL RILIS HARI INI!",
+          "body": "👁‍🗨Monsters and Men👁‍🗨 \nJadi pengarsip memang banyak pekerjaannya ya... \n\n🎧Stream : https://cover.lnk.to/Y6ZMPFCool \n🎥MV: https://www.youtube.com/watch?v=NX1ZCKJ67dc \n💃Animasi MMD: https://120.gigafile.nu/0526-b695894d3689f2de881736b5713d911e2"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "8AAF24E7-FAA3-4497-8B6E-B8D6EC822EF3",
     "channel_name": "星街すいせい",
     "thread_id": "1a214546-1e81-4ad6-ab47-3a87e3710cd8",
