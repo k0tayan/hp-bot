@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "4A3A8C58-351C-4D03-8E27-08B9562597DD",
+    "channel_name": "森カリオペ",
+    "thread_id": "d9f8d3f8-45fe-4a24-8525-711eae0b3ed0",
+    "thread": {
+      "id": "d9f8d3f8-45fe-4a24-8525-711eae0b3ed0",
+      "created_at": 1771231732,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/d9f8d3f8-45fe-4a24-8525-711eae0b3ed0/original_1771231733_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "ebb39a49-871c-4a9c-b585-5837bdbcafda",
+          "name": "森カリオペ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mori_calliope/icon_20241218.png",
+          "key_name": "mori_calliope"
+        }
+      ],
+      "user": {
+        "id": "cb5040bf-9bfc-4675-a722-6e496996a706",
+        "name": "森カリオペ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mori_calliope/icon_20241218.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Hey, Dead Beats!!",
+      "body": "MINNA-SAN!!\nI’m on HoloPlus now. \nLooks like we have some fun stuff planned for tonight’s Holocard program so don’t miss out, okay?!",
+      "translations": {
+        "ja": {
+          "title": "やあ、Dead Beatsのみんな！",
+          "body": "みんなー！\nホロプラスにいるよ。\n今夜のホロカードプログラム、楽しいことたくさんありそうだから、見逃さないでね！"
+        },
+        "en": {
+          "title": "Hey, Dead Beats!!",
+          "body": "MINNA-SAN!!\nI’m on HoloPlus now. \nLooks like we have some fun stuff planned for tonight’s Holocard program so don’t miss out, okay?!"
+        },
+        "id": {
+          "title": "Halo, Dead Beats!!",
+          "body": "MINNA-SAN!!\nAku sudah di HoloPlus sekarang.\nSepertinya ada banyak hal seru yang direncanakan untuk program Holocard malam ini, jadi jangan sampai ketinggalan ya?!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "9cc189a8-287a-4adb-ad2f-fc8f867ae79b",
