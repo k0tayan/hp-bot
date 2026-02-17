@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "8AAF24E7-FAA3-4497-8B6E-B8D6EC822EF3",
+    "channel_name": "星街すいせい",
+    "thread_id": "4dd38172-bfb8-4342-af1d-d9f6a94b94b5",
+    "thread": {
+      "id": "4dd38172-bfb8-4342-af1d-d9f6a94b94b5",
+      "created_at": 1771317018,
+      "talents": [
+        {
+          "id": "ff2e6a92-89ce-40f0-8771-773a7dbefcfb",
+          "name": "星街すいせい",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hoshimachi_suisei/icon_20250902.png",
+          "key_name": "hoshimachi_suisei"
+        }
+      ],
+      "user": {
+        "id": "ae2677cf-8833-40ab-a2c7-4b9ad688611e",
+        "name": "星街すいせい",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hoshimachi_suisei/icon_20250902.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ライブまであと少し！",
+      "body": "ライブまであと少し！🔥\nメッセージ録ってみたよ📼\n\n#ホロプラス企画",
+      "translations": {
+        "ja": {
+          "title": "ライブまであと少し！",
+          "body": "ライブまであと少し！🔥\nメッセージ撮ってみたよ📼\n\n#ホロプラス企画"
+        },
+        "en": {
+          "title": "Only a little left until the live show!",
+          "body": "Only a little left until the live show! 🔥\nI tried recording a message! 📼\n\n#holoplusproject"
+        },
+        "id": {
+          "title": "Tinggal sedikit lagi sampai live!",
+          "body": "Tinggal sedikit lagi sampai live! 🔥\nAku coba rekam pesan nih! 📼\n\n#holoplusproject"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/816b44fa-0e33-450b-89e8-5aa440371970.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "4A3A8C58-351C-4D03-8E27-08B9562597DD",
     "channel_name": "森カリオペ",
     "thread_id": "989397e5-9f53-4fc2-bd22-af1140fafc89",
