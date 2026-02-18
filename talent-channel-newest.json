@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "8bf5bca2-4d4f-4324-9dd8-0f520cb77f41",
+    "thread": {
+      "id": "8bf5bca2-4d4f-4324-9dd8-0f520cb77f41",
+      "created_at": 1771399514,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/8bf5bca2-4d4f-4324-9dd8-0f520cb77f41/original_1771399514_1.png"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20240918.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "👁️‍🗨️NEW INKWELL VRChat WINTER WORLD👁️‍🗨️",
+      "body": "The winter themed VRChat world is now available for all! Fun games and activities for everyone to enjoy! \n\n⛄️World link: https://vrchat.com/home/launch?worldId=wrld_c0ee4d4f-d3d2-494a-80d3-5c297f2be26a\n\nCheck out my stream here: https://www.youtube.com/live/_rlVm7PKB68?si=g70hKfDOLqN6wPNv\n\nThank you once again to the team who made this come to life!",
+      "translations": {
+        "ja": {
+          "title": "👁️‍🗨️新しい INKWELL VRChat 冬ワールド👁️‍🗨️",
+          "body": "冬をテーマにしたVRChatワールドが、ついに皆さんにお届けできるようになりました！誰もが楽しめる楽しいゲームやアクティビティが満載です！\n\n⛄️ワールドリンク: https://vrchat.com/home/launch?worldId=wrld_c0ee4d4f-d3d2-494a-80d3-5c297f2be26a\n\nワールドの配信はこちらからチェック: https://www.youtube.com/live/_rlVm7PKB68?si=g70hKfDOLqN6wPNv\n\nこのワールドの制作に関わったチームの皆さんに、改めて感謝です！"
+        },
+        "en": {
+          "title": "👁️‍🗨️NEW INKWELL VRChat WINTER WORLD👁️‍🗨️",
+          "body": "The winter themed VRChat world is now available for all! Fun games and activities for everyone to enjoy! \n\n⛄️World link: https://vrchat.com/home/launch?worldId=wrld_c0ee4d4f-d3d2-494a-80d3-5c297f2be26a\n\nCheck out my stream here: https://www.youtube.com/live/_rlVm7PKB68?si=g70hKfDOLqN6wPNv\n\nThank you once again to the team who made this come to life!"
+        },
+        "id": {
+          "title": "👁️‍🗨️DUNIA MUSIM DINGIN VRChat INKWELL BARU👁️‍🗨️",
+          "body": "Dunia VRChat bertema musim dingin kini tersedia untuk semua! Ada banyak permainan dan aktivitas seru untuk dinikmati semua orang!\n\n⛄️Tautan Dunia: https://vrchat.com/home/launch?worldId=wrld_c0ee4d4f-d3d2-494a-80d3-5c297f2be26a\n\nLihat stream saya di sini: https://www.youtube.com/live/_rlVm7PKB68?si=g70hKfDOLqN6wPNv\n\nTerima kasih sekali lagi kepada tim yang telah mewujudkan ini!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "8AAF24E7-FAA3-4497-8B6E-B8D6EC822EF3",
     "channel_name": "星街すいせい",
     "thread_id": "4dd38172-bfb8-4342-af1d-d9f6a94b94b5",
