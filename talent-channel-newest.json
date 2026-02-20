@@ -1,5 +1,68 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "4569469a-264d-4ef0-9e9a-2548a9674212",
+    "thread": {
+      "id": "4569469a-264d-4ef0-9e9a-2548a9674212",
+      "created_at": 1771560270,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/4569469a-264d-4ef0-9e9a-2548a9674212/original_1771560270_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "79482e2b-585e-41a5-af0a-8daf33ca5264",
+          "name": "不知火フレア",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiranui_flare/icon_20251208.png",
+          "key_name": "shiranui_flare"
+        },
+        {
+          "id": "c5a07d80-0d02-4167-89e2-06faeed5bcab",
+          "name": "角巻わため",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png",
+          "key_name": "tsunomaki_watame"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "✨️バカタレサーカス質問募集✨️",
+      "body": "本日21時配信のバカタレサーカスコラボにてご紹介させていただきます\n配信▶https://youtube.com/live/CtfWhbFQDbE?feature=share\n\n〇募集内容〇\n【4人に聞きたい究極の2択質問】\n\n（例）\nもし、一生食べ続けるとしたら？\n【A.パン】or【B.ごはん】\n\n（例）\n好きなのは？\n【A.猫】【B.犬】\n\n必ず【聞きたいお題】\n【A.〇〇 orB.〇〇】でご記入をお願いします‼️",
+      "translations": {
+        "ja": {
+          "title": "✨️バカタレサーカス質問募集✨️",
+          "body": "本日21時配信のバカタレサーカスコラボにてご紹介させていただきます\n配信▶https://youtube.com/live/CtfWhbFQDbE?feature=share\n\n〇募集内容〇\n【4人に聞きたい究極の2択質問】\n\n（例）\nもし、一生食べ続けるとしたら？\n【A.パン】or【B.ごはん】\n\n（例）\n好きなのは？\n【A.猫】【B.犬】\n\n必ず【聞きたいお題】\n【A.〇〇 orB.〇〇】でご記入をお願いします‼️"
+        },
+        "en": {
+          "title": "✨️Bakatare Circus Question Submission Call✨️",
+          "body": "We will be featuring your questions in today's Bakatare Circus collaboration stream, airing at 9 PM JST.\nStream ▶https://youtube.com/live/CtfWhbFQDbE?feature=share\n\n〇What We're Looking For〇\n【Ultimate Two-Choice Questions to Ask the Four Members】\n\n(Example)\nIf you had to eat one thing for the rest of your life?\n【A. Bread】or【B. Rice】\n\n(Example)\nWhich do you prefer?\n【A. Cats】【B. Dogs】\n\nPlease make sure to submit your questions in the format: 【Your Question】【A. 〇〇 or B. 〇〇】‼️"
+        },
+        "id": {
+          "title": "✨️Panggilan Pengajuan Pertanyaan Bakatare Circus✨️",
+          "body": "Pertanyaan kalian akan kami tampilkan di kolaborasi Bakatare Circus yang tayang hari ini pukul 21:00 JST.\nStreaming ▶https://youtube.com/live/CtfWhbFQDbE?feature=share\n\n〇Detail Pengajuan〇\n【Pertanyaan Pilihan Ganda Pamungkas untuk Ditanyakan kepada Keempat Anggota】\n\n(Contoh)\nJika harus makan satu hal seumur hidup?\n【A. Roti】atau【B. Nasi】\n\n(Contoh)\nMana yang kamu suka?\n【A. Kucing】【B. Anjing】\n\nMohon pastikan untuk mengisi dengan format: 【Pertanyaan yang ingin ditanyakan】【A. 〇〇 atau B. 〇〇】‼️"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "8bf5bca2-4d4f-4324-9dd8-0f520cb77f41",
