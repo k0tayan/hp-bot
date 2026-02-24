@@ -2,6 +2,159 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "b80d41e9-0c32-429c-8e36-881fd608d02c",
+    "thread": {
+      "id": "b80d41e9-0c32-429c-8e36-881fd608d02c",
+      "created_at": 1771924103,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/b80d41e9-0c32-429c-8e36-881fd608d02c/original_1771924103_1.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "狐族密会【狐族密会にホロプラスでやって欲しい事は？】",
+      "body": "25日20時から配信予定の狐族密会 その2にて\nホロプラスからお仕事のご依頼がありアプリ発展の為の募集を決定‼️\nガチめに答えていくぅ🌽🎪✨️\n【募集は全部で3つ】各投稿にて皆さんのコメントを大募集してます\n配信▶https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nこちらは\n【フブポル(狐族密会)二人にホロプラスでやって欲しい事は？】の投稿をお願いします\n\n#ホロプラス企画 #狐族密会",
+      "translations": {
+        "ja": {
+          "title": "狐族密会【狐族密会にホロプラスでやって欲しい事は？】",
+          "body": "25日20時から配信予定の狐族密会 その2にて\nホロプラスからお仕事のご依頼がありアプリ発展の為の募集を決定‼️\nガチめに答えていくぅ🌽🎪✨️\n【募集は全部で3つ】各投稿にて皆さんのコメントを大募集してます\n配信▶https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nこちらは\n【フブポル(狐族密会)二人にホロプラスでやって欲しい事は？】の投稿をお願いします\n\n#ホロプラス企画 #狐族密会"
+        },
+        "en": {
+          "title": "Fox Tribe Secret Meeting: What do you want us to do on holoplus?",
+          "body": "For Fox Tribe Secret Meeting Part 2, scheduled to stream on the 25th at 8 PM JST,\nwe've received a request from holoplus and decided to recruit for app development‼️\nWe'll be answering your suggestions seriously! 🌽🎪✨️\n[There are 3 recruitment posts in total] We're looking for your comments on each post!\nStream ▶ https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nThis particular post is for:\n[What do you want FubuPol (Fox Tribe Secret Meeting) to do on holoplus?]\nPlease share your thoughts in the comments!\n\n#holoplusProject #FoxTribeSecretMeeting"
+        },
+        "id": {
+          "title": "Rapat Rahasia Suku Rubah: Apa yang ingin kalian lakukan di holoplus?",
+          "body": "Untuk Rapat Rahasia Suku Rubah Bagian 2, yang dijadwalkan tayang pada tanggal 25 jam 8 malam JST,\nkami menerima permintaan dari holoplus dan memutuskan untuk merekrut untuk pengembangan aplikasi‼️\nKami akan menjawab saran kalian dengan serius! 🌽🎪✨️\n[Total ada 3 postingan rekrutmen] Kami sangat menantikan komentar kalian di setiap postingan!\nStream ▶ https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nPostingan ini khusus untuk:\n[Apa yang ingin kalian lakukan oleh FubuPol (Rapat Rahasia Suku Rubah) di holoplus?]\nMohon sampaikan komentar kalian!\n\n#holoplusProject #RapatRahasiaSukuRubah"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "e268d774-fdfd-4ceb-baff-6cc023457d0e",
+    "thread": {
+      "id": "e268d774-fdfd-4ceb-baff-6cc023457d0e",
+      "created_at": 1771924064,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/e268d774-fdfd-4ceb-baff-6cc023457d0e/original_1771924064_1.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "狐族密会【ホロプラスに期待してることは？】",
+      "body": "25日20時から配信予定の狐族密会 その2にて\nホロプラスからお仕事のご依頼がありアプリ発展の為の募集を決定‼️\nガチめに答えていくぅ🌽🎪✨️\n【募集は全部で3つ】各投稿にて皆さんのコメントを大募集してます\n配信▶https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nこちらは\n【ホロプラスに今後期待してること】の投稿をお願いします\n\n#ホロプラス企画 #狐族密会",
+      "translations": {
+        "ja": {
+          "title": "狐族密会【ホロプラスに期待してることは？】",
+          "body": "25日20時から配信予定の狐族密会 その2にて\nホロプラスからお仕事のご依頼がありアプリ発展の為の募集を決定‼️\nガチめに答えていくぅ🌽🎪✨️\n【募集は全部で3つ】各投稿にて皆さんのコメントを大募集してます\n配信▶https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nこちらは\n【ホロプラスに今後期待してること】の投稿をお願いします\n\n#ホロプラス企画 #狐族密会"
+        },
+        "en": {
+          "title": "Fox Tribe Secret Meeting【What are you looking forward to in holoplus?】",
+          "body": "For Fox Tribe Secret Meeting Part 2, scheduled to stream on the 25th at 8 PM JST,\nwe received a work request from holoplus and decided to recruit for app development‼️\nI'll be answering seriously🌽🎪✨️\n【There are 3 types of requests in total】We're looking for everyone's comments in each post!\nStream▶https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nThis post is for\nyour comments on 【What you're looking forward to in holoplus in the future】.\n\n#HoloplusProject #FoxTribeSecretMeeting"
+        },
+        "id": {
+          "title": "Pertemuan Rahasia Suku Rubah【Apa yang kalian harapkan dari holoplus?】",
+          "body": "Untuk Pertemuan Rahasia Suku Rubah Bagian 2, yang dijadwalkan tayang pada tanggal 25 jam 8 malam JST,\nkami menerima permintaan kerja dari holoplus dan memutuskan untuk merekrut untuk pengembangan aplikasi‼️\nAku akan menjawab dengan serius🌽🎪✨️\n【Total ada 3 jenis permintaan】Kami sangat menantikan komentar kalian di setiap postingan!\nStream▶https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nPostingan ini adalah untuk\nkomentar kalian tentang 【Apa yang kalian harapkan dari holoplus di masa depan】.\n\n#ProyekHoloplus #PertemuanRahasiaSukuRubah"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "24e66d29-3c61-48dc-bef4-5d99ab342db5",
+    "thread": {
+      "id": "24e66d29-3c61-48dc-bef4-5d99ab342db5",
+      "created_at": 1771923954,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/24e66d29-3c61-48dc-bef4-5d99ab342db5/original_1771923954_1.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "狐族密会【あなたが思うホロプラスの好きなところは？】",
+      "body": "25日20時から配信予定の狐族密会 その2にて\nホロプラスからお仕事のご依頼がありアプリ発展の為の募集を決定‼️\nガチめに答えていくぅ🌽🎪✨️\n【募集は全部で3つ】各投稿にて皆さんのコメントを大募集してます\n配信▶https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nこちらは\n【あなたが思うホロプラスの好きな所】の投稿をお願いします\n\n#ホロプラス企画 #狐族密会",
+      "translations": {
+        "ja": {
+          "title": "狐族密会【あなたが思うホロプラスの好きなところは？】",
+          "body": "25日20時から配信予定の狐族密会 その2にて\nホロプラスからお仕事のご依頼がありアプリ発展の為の募集を決定‼️\nガチめに答えていくぅ🌽🎪✨️\n【募集は全部で3つ】各投稿にて皆さんのコメントを大募集してます\n配信▶https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nこちらは\n【あなたが思うホロプラスの好きな所】の投稿をお願いします\n\n#ホロプラス企画 #狐族密会"
+        },
+        "en": {
+          "title": "Fox Tribe Secret Meeting【What do you like about holoplus?】",
+          "body": "For Fox Tribe Secret Meeting Part 2, scheduled to stream on the 25th at 8 PM JST,\nwe received a request from holoplus and decided to gather feedback for app development‼️\nWe'll be answering seriously🌽🎪✨️\n【There are 3 types of feedback requests in total】We're looking for everyone's comments on each post.\nStream▶https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nThis post is for your comments on 【What you like about holoplus】.\n\n#holoplusProject #FoxTribeSecretMeeting"
+        },
+        "id": {
+          "title": "Pertemuan Rahasia Klan Rubah【Apa yang kamu suka dari holoplus?】",
+          "body": "Untuk Pertemuan Rahasia Klan Rubah Bagian 2, yang dijadwalkan tayang pada tanggal 25 pukul 8 malam JST,\nkami menerima permintaan dari holoplus dan memutuskan untuk mengumpulkan masukan demi pengembangan aplikasi‼️\nKami akan menjawab dengan serius🌽🎪✨️\n【Total ada 3 jenis permintaan masukan】Kami sangat menantikan komentar kalian di setiap postingan.\nStream▶https://youtube.com/live/rI0qxHEWLBE?feature=share\n\nPostingan ini adalah untuk komentar kalian tentang 【Apa yang kamu suka dari holoplus】.\n\n#Proyekholoplus #PertemuanRahasiaKlanRubah"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "a9b399fd-e23d-4933-8280-52e927317909",
     "thread": {
       "id": "a9b399fd-e23d-4933-8280-52e927317909",
