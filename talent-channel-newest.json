@@ -2,6 +2,51 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "a9b399fd-e23d-4933-8280-52e927317909",
+    "thread": {
+      "id": "a9b399fd-e23d-4933-8280-52e927317909",
+      "created_at": 1771916309,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "逃亡犯🐀",
+      "body": "ネズミ駆除部隊のマウスキーパーには気をつけよう！",
+      "translations": {
+        "ja": {
+          "title": "逃亡犯🐀",
+          "body": "ネズミ駆除部隊のマウスキーパーには気をつけよう！"
+        },
+        "en": {
+          "title": "Fugitive Rat 🐀",
+          "body": "Beware of the Mousekeepers from the rat extermination squad!"
+        },
+        "id": {
+          "title": "Tikus Buronan 🐀",
+          "body": "Hati-hati dengan Mousekeeper dari pasukan pembasmi tikus!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/c6335c0f-f0a1-4576-8881-b139bd75cd3c.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "4569469a-264d-4ef0-9e9a-2548a9674212",
     "thread": {
       "id": "4569469a-264d-4ef0-9e9a-2548a9674212",
