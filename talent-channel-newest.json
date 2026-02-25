@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "1ed3398c-d942-4c60-96e9-79c3b15a0f34",
+    "thread": {
+      "id": "1ed3398c-d942-4c60-96e9-79c3b15a0f34",
+      "created_at": 1771989688,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "狐族密会【あなたが考えたホロのことわざを教えて！】",
+      "body": "本日20時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶配信 https://m.youtube.com/watch?v=rI0qxHEWLBE\n\n◾︎募集内容\nホロライブのことわざと意味を考えて教えてください！\nことわざを改変してホロに結びつけてもＯＫです。\n\n（例）\nフブキに釣竿と赤\n意味\n白上フブキに釣竿を与えると赤いなぁと言う\n\n（例）\n急がば回れだが全ツッパ\n意味\n急がずに長く楽しめばいいのに高レートを賭けるしかなくなるホロメンの末路",
+      "translations": {
+        "ja": {
+          "title": "狐族密会【あなたが考えたホロのことわざを教えて！】",
+          "body": "本日20時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶配信 https://m.youtube.com/watch?v=rI0qxHEWLBE\n\n◾︎募集内容\nホロライブのことわざと意味を考えて教えてください！\nことわざを改変してホロに結びつけてもＯＫです。\n\n（例）\nフブキに釣竿と赤\n意味\n白上フブキに釣竿を与えると赤いなぁと言う\n\n（例）\n急がば回れだが全ツッパ\n意味\n急がずに長く楽しめばいいのに高レートを賭けるしかなくなるホロメンの末路"
+        },
+        "en": {
+          "title": "【Tell us your hololive proverb!】",
+          "body": "A radio program scheduled to air today from 8 PM JST 📻\nWe'll be introducing some of your submissions during the Fox Tribe Secret Meeting.\n▶Stream https://m.youtube.com/watch?v=rI0qxHEWLBE\n\n◾︎Submission Details\nPlease think of a hololive proverb and its meaning, and tell us!\nIt's also okay to modify existing proverbs and link them to hololive.\n\n(Example)\nFubuki, a fishing rod, and red\nMeaning:\nIf you give Shirakami Fubuki a fishing rod, she'll say 'It's red~'\n\n(Example)\nHaste makes waste, but go all-in\nMeaning:\nThe fate of holomems who, instead of enjoying things slowly, end up having no choice but to bet at high stakes."
+        },
+        "id": {
+          "title": "【Beritahu kami peribahasa hololive yang kalian buat!】",
+          "body": "Program radio yang dijadwalkan tayang hari ini mulai pukul 20:00 JST 📻\nKami akan memperkenalkan beberapa di antaranya di Pertemuan Rahasia Suku Rubah.\n▶Stream https://m.youtube.com/watch?v=rI0qxHEWLBE\n\n◾︎Detail Pengiriman\nMohon pikirkan peribahasa hololive dan artinya, lalu beritahu kami!\nTidak apa-apa juga untuk memodifikasi peribahasa yang sudah ada dan menghubungkannya dengan hololive.\n\n(Contoh)\nFubuki, pancing, dan merah\nArtinya:\nJika kamu memberi Shirakami Fubuki pancing, dia akan bilang 'Merah ya~'\n\n(Contoh)\nJika terburu-buru, ambil jalan memutar, tapi tetap all-in\nArtinya:\nNasib para Holomem yang seharusnya bisa menikmati perlahan, tapi malah berakhir bertaruh dengan rate tinggi."
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "452063a9-c6b5-4c6d-aa2f-cde77b527c76",
