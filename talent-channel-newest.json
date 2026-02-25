@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "452063a9-c6b5-4c6d-aa2f-cde77b527c76",
+    "thread": {
+      "id": "452063a9-c6b5-4c6d-aa2f-cde77b527c76",
+      "created_at": 1771987483,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/custom_icon/uploaded_1771987556.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今夜20時、続《狐族密会》はじまる！！！",
+      "body": "詳しくはフブちゃんの投稿をみよっ！！！\n《狐族密会》とは？フブキと不定期にやっていこう（としている）ラジオ配信企画である📻\n\nみんなへの質問を受け付けていたり、ホロプラスとの連動企画が盛りだくさん！！！\n今回は無事にチルれることが出来るのか！？\nホロプラスさん！ありがとう！！！\n\n",
+      "translations": {
+        "ja": {
+          "title": "今夜20時、続《狐族密会》はじまる！！！",
+          "body": "詳しくはフブちゃんの投稿をみよっ！！！\n《狐族密会》とは？フブキと不定期にやっていこう（としている）ラジオ配信企画である📻\n\nみんなへの質問を受け付けていたり、ホロプラスとの連動企画が盛りだくさん！！！\n今回は無事にチルれることが出来るのか！？\nホロプラスさん！ありがとう！！！\n\n"
+        },
+        "en": {
+          "title": "Tonight at 8 PM JST, \"Fox Tribe Secret Meeting\" continues!!!",
+          "body": "Check out Fubuki-chan's post for details!!!\nWhat is \"Fox Tribe Secret Meeting\"? It's a radio streaming project that Fubuki and I are trying to do irregularly 📻\n\nWe're accepting questions from everyone, and there are lots of collaborative projects with holoplus!!!\nWill we be able to chill safely this time!?\nThank you, holoplus-san!!!\n\n"
+        },
+        "id": {
+          "title": "Malam ini jam 20:00 JST, \"Rapat Rahasia Suku Rubah\" berlanjut!!!",
+          "body": "Untuk detailnya, lihat postingan Fubuki-chan ya!!!\nApa itu \"Rapat Rahasia Suku Rubah\"? Ini adalah proyek siaran radio yang Fubuki dan aku coba lakukan secara tidak teratur 📻\n\nKami menerima pertanyaan dari semua orang, dan ada banyak proyek kolaborasi dengan holoplus!!!\nApakah kali ini kita bisa bersantai dengan aman!?\nTerima kasih, holoplus-san!!!\n\n"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/7e162d60-1bd1-4732-b3a0-ab1fe506bf60.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "b80d41e9-0c32-429c-8e36-881fd608d02c",
