@@ -2,6 +2,51 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "f360b28c-d0c5-4cfe-8473-5857ee2e352c",
+    "thread": {
+      "id": "f360b28c-d0c5-4cfe-8473-5857ee2e352c",
+      "created_at": 1772184923,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "hololiveSTAGE25 now‼️‼️‼️",
+      "body": "✌️🦊✨ PASSION ENGLISH\ndeeple thx",
+      "translations": {
+        "ja": {
+          "title": "ホロライブSTAGE25、今すぐ‼️‼️‼️",
+          "body": "✌️🦊✨ パッションイングリッシュ\n本当にありがとう"
+        },
+        "en": {
+          "title": "hololiveSTAGE25 now‼️‼️‼️",
+          "body": "✌️🦊✨ PASSION ENGLISH\ndeeple thx"
+        },
+        "id": {
+          "title": "hololiveSTAGE25 sekarang‼️‼️‼️",
+          "body": "✌️🦊✨ PASSION ENGLISH\nterima kasih banyak"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/22675d2b-a014-4f8d-b676-e669e5a3856c.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "1ed3398c-d942-4c60-96e9-79c3b15a0f34",
     "thread": {
       "id": "1ed3398c-d942-4c60-96e9-79c3b15a0f34",
