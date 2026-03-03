@@ -1,5 +1,74 @@
 [
   {
+    "channel_id": "50C04D04-847F-4D08-AF16-D558F5889042",
+    "channel_name": "ネリッサ・レイヴンクロフト",
+    "thread_id": "fa7b1648-d05b-4373-a4c9-3860b680c475",
+    "thread": {
+      "id": "fa7b1648-d05b-4373-a4c9-3860b680c475",
+      "created_at": 1772529989,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/fa7b1648-d05b-4373-a4c9-3860b680c475/original_1772529989_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20240918.png",
+          "key_name": "shiori_novella"
+        },
+        {
+          "id": "f132c3c4-afba-46bd-9c5b-330333d745da",
+          "name": "古石ビジュー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/koseki_bijou/icon_20240918.png",
+          "key_name": "koseki_bijou"
+        },
+        {
+          "id": "ab7885ba-b968-4e61-b568-5d5fd681e336",
+          "name": "ネリッサ・レイヴンクロフト",
+          "img_url": "https://asset.holoplus.com/talents/hololive/nerissa_ravencroft/icon_20240918.png",
+          "key_name": "nerissa_ravencroft"
+        },
+        {
+          "id": "2F2C615D-58D8-6E8C-BB46-BCB7D6ADC37D",
+          "name": "ジジ・ムリン",
+          "img_url": "https://asset.holoplus.com/talents/hololive/gigi_murin/icon_20250902.png",
+          "key_name": "gigi_murin"
+        },
+        {
+          "id": "03E99074-7985-4C7F-A90D-1ADCD89762A5",
+          "name": "セシリア・イマーグリーン",
+          "img_url": "https://asset.holoplus.com/talents/hololive/cecilia_immergreen/icon_20250902.png",
+          "key_name": "cecilia_immergreen"
+        }
+      ],
+      "user": {
+        "id": "405554af-c9dd-4a27-8e34-e92c60f38c00",
+        "name": "ネリッサ・レイヴンクロフト",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/nerissa_ravencroft/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "⚠️⚖️We’re having a Fan Q&A stream on March 5th at 10:00 AM JST⚖️⚠️",
+      "body": "Do you have any burning questions for us?! Go ahead and ask away in the replies~\nhttps://www.youtube.com/live/Co_SBrM-oK0?si=3K0E6aiawPprgBDw\n\nWe're looking for all kinds of questions—from our daily lives to anything you want to know about past EXPOs and Fes!\n\n■ Question Examples: \n-What are your most memorable moments from past EXPOs or fes.? \n-What are you most hyped for at EXPO/fes this year? \n-What’s your most memorable impression of Japan so far?",
+      "translations": {
+        "ja": {
+          "title": "⚠️⚖️3月5日午前10時（JST）にファンQ&A配信を行います⚖️⚠️",
+          "body": "私たちに聞きたいことはありませんか？！ぜひリプライで質問を送ってくださいね〜\nhttps://www.youtube.com/live/Co_SBrM-oK0?si=3K0E6aiawPprgBDw\n\n私たちの日常から、これまでのEXPOやFesについて知りたいことまで、どんな質問でも大歓迎です！\n\n■ 質問例：\n-これまでのEXPOやFesで一番思い出に残っていることは？\n-今年のEXPO/Fesで一番楽しみにしていることは？\n-これまでの日本での一番思い出深い印象は何ですか？"
+        },
+        "en": {
+          "title": "⚠️⚖️We’re having a Fan Q&A stream on March 5th at 10:00 AM JST⚖️⚠️",
+          "body": "Do you have any burning questions for us?! Go ahead and ask away in the replies~\nhttps://www.youtube.com/live/Co_SBrM-oK0?si=3K0E6aiawPprgBDw\n\nWe're looking for all kinds of questions—from our daily lives to anything you want to know about past EXPOs and Fes!\n\n■ Question Examples: \n-What are your most memorable moments from past EXPOs or fes.? \n-What are you most hyped for at EXPO/fes this year? \n-What’s your most memorable impression of Japan so far?"
+        },
+        "id": {
+          "title": "Q&A Penggemar pada tanggal 5 Maret pukul 10:00 pagi JST⚖️⚠️",
+          "body": "Apakah kalian punya pertanyaan penting untuk kami?! Silakan tanyakan di balasan ya~\nhttps://www.youtube.com/live/Co_SBrM-oK0?si=3K0E6aiawPprgBDw\n\nKami mencari berbagai macam pertanyaan—mulai dari kehidupan sehari-hari kami hingga apa pun yang ingin kalian ketahui tentang EXPO dan Fes sebelumnya!\n\n■ Contoh Pertanyaan:\n-Apa momen paling berkesan kalian dari EXPO atau Fes sebelumnya?\n-Apa yang paling kalian nantikan di EXPO/Fes tahun ini?\n-Apa kesan paling berkesan kalian tentang Jepang sejauh ini?"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
     "channel_name": "ときのそら",
     "thread_id": "a2b5c223-bd3e-4f74-9241-52c6e49ac91d",
