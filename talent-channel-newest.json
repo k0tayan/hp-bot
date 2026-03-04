@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "9165f22b-5e09-4ebf-85a2-6ab0e6f32e38",
+    "thread": {
+      "id": "9165f22b-5e09-4ebf-85a2-6ab0e6f32e38",
+      "created_at": 1772612455,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/9165f22b-5e09-4ebf-85a2-6ab0e6f32e38/original_1772612456_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "The Truth",
+      "body": "The truth is... \n\nMy main goal coming to Japan isn't to perform in holofes...\n\nBut to devour all the pudding in Japan... 🍮🦅",
+      "translations": {
+        "ja": {
+          "title": "真実",
+          "body": "真実は…\n\n日本に来た一番の目的は、ホロフェスでパフォーマンスすることじゃない…\n\n日本中のプリンを全部食べ尽くすことなんだ… 🍮🦅"
+        },
+        "en": {
+          "title": "The Truth",
+          "body": "The truth is... \n\nMy main goal coming to Japan isn't to perform in holofes...\n\nBut to devour all the pudding in Japan... 🍮🦅"
+        },
+        "id": {
+          "title": "Kebenaran",
+          "body": "Kebenarannya adalah...\n\nTujuan utamaku datang ke Jepang bukan untuk tampil di holofes...\n\nTapi untuk melahap semua puding di Jepang... 🍮🦅"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "50C04D04-847F-4D08-AF16-D558F5889042",
     "channel_name": "ネリッサ・レイヴンクロフト",
     "thread_id": "fa7b1648-d05b-4373-a4c9-3860b680c475",
