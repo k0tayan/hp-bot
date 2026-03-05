@@ -1,5 +1,209 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "e9c8a01d-cded-46ea-a5a2-f303de787b52",
+    "thread": {
+      "id": "e9c8a01d-cded-46ea-a5a2-f303de787b52",
+      "created_at": 1772750864,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/e9c8a01d-cded-46ea-a5a2-f303de787b52/original_1772750864_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【募集】狐族密会の痕跡を探せ！",
+      "body": "EXPO会場内にある狐族密会の痕跡を撮影して投稿してください！\n\n白上フブキ＆尾丸ポルカのらくがきを是非見つけてください！",
+      "translations": {
+        "ja": {
+          "title": "【募集】狐族密会の痕跡を探せ！",
+          "body": "EXPO会場内にある狐族密会の痕跡を撮影して投稿してください！\n\n白上フブキ＆尾丸ポルカのらくがきを是非見つけてください！"
+        },
+        "en": {
+          "title": "【Wanted】Find the Traces of the Fox Tribe's Secret Meeting!",
+          "body": "Please take photos of the traces of the Fox Tribe's Secret Meeting located within the EXPO venue and post them!\n\nBe sure to find Shirakami Fubuki & Omaru Polka's doodles!"
+        },
+        "id": {
+          "title": "【Dicari】Temukan Jejak Pertemuan Rahasia Suku Rubah!",
+          "body": "Mohon foto dan posting jejak pertemuan rahasia Suku Rubah yang ada di dalam venue EXPO!\n\nPastikan untuk menemukan coretan Shirakami Fubuki & Omaru Polka!"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "be855356-d344-4863-abcf-b9a0fddfb669",
+    "thread": {
+      "id": "be855356-d344-4863-abcf-b9a0fddfb669",
+      "created_at": 1772750714,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/be855356-d344-4863-abcf-b9a0fddfb669/original_1772750714_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【募集】EXPO＆Fesぬい活【ホロスターズ】",
+      "body": "狐族密会の配信内にてご紹介させていただく\n【ホロスターズぬい活】のお写真を募集します！",
+      "translations": {
+        "ja": {
+          "title": "【募集】EXPO＆Fesぬい活【ホロスターズ】",
+          "body": "狐族密会の配信内にてご紹介させていただく\n【ホロスターズぬい活】のお写真を募集します！"
+        },
+        "en": {
+          "title": "Call for Submissions: EXPO & Fes Plushie Activities [HOLOSTARS]",
+          "body": "We are looking for photos of your [HOLOSTARS Plushie Activities] to be featured during the \"Kitsunezoku Mitsukai\" stream!"
+        },
+        "id": {
+          "title": "[Perekrutan] Kegiatan Plushie EXPO & Fes [HOLOSTARS]",
+          "body": "Kami mencari foto-foto [Kegiatan Plushie HOLOSTARS] kalian yang akan kami tampilkan dalam siaran \"Kitsunezoku Mitsukai\"!"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "cb08fa31-6942-4096-84cc-d77515eae6ea",
+    "thread": {
+      "id": "cb08fa31-6942-4096-84cc-d77515eae6ea",
+      "created_at": 1772750689,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/cb08fa31-6942-4096-84cc-d77515eae6ea/original_1772750689_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【狐族密会】EXPO＆Fesぬい活【ホロライブ】",
+      "body": "狐族密会の配信内にてご紹介させていただく\n【ホロライブぬい活】のお写真を募集します！",
+      "translations": {
+        "ja": {
+          "title": "【狐族密会】EXPO＆Fesぬい活【ホロライブ】",
+          "body": "狐族密会の配信内にてご紹介させていただく\n【ホロライブぬい活】のお写真を募集します！"
+        },
+        "en": {
+          "title": "[Fox Tribe Secret Meeting] EXPO & Fes Plushie Activities [hololive]",
+          "body": "We're looking for photos of your [hololive plushie activities] to be featured during the Fox Tribe Secret Meeting stream!"
+        },
+        "id": {
+          "title": "[Pertemuan Rahasia Suku Rubah] Aktivitas Plushie EXPO & Fes [hololive]",
+          "body": "Kami mencari foto-foto [aktivitas plushie hololive] kalian untuk ditampilkan dalam siaran Pertemuan Rahasia Suku Rubah!"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "688496e9-0f8b-42db-b1c4-3d8dd3268779",
+    "thread": {
+      "id": "688496e9-0f8b-42db-b1c4-3d8dd3268779",
+      "created_at": 1772750563,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/688496e9-0f8b-42db-b1c4-3d8dd3268779/original_1772750563_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【お知らせ】ぬい活＆狐族密会を探せ‼️",
+      "body": "EXPO会場内でのぬい活お写真を募集！\n各投稿場所にて是非投稿してください🌽🎪\n\n※こちらはお知らせだけです✨🥹\n\n[[holoplus_survey_start]]\nA. はーい\nB. はいはーい\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "【お知らせ】ぬい活＆狐族密会を探せ‼️",
+          "body": "EXPO会場内でのぬい活お写真を募集！\n各投稿場所にて是非投稿してください🌽🎪\n\n※こちらはお知らせだけです✨🥹\n\n[[holoplus_survey_start]]\nA. はーい\nB. はいはーい\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "【Announcement】Find the Plushie Activities & Fox Tribe Secret Meeting‼️",
+          "body": "We're looking for your plushie activity photos taken inside the EXPO venue!\nPlease post them at each designated submission spot🌽🎪\n\n*This is just an announcement!✨🥹\n\n[[holoplus_survey_start]]\nA. Yes!\nB. Alrighty!\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "【Pengumuman】Temukan Aktivitas Nui & Pertemuan Rahasia Klan Rubah‼️",
+          "body": "Kami mencari foto-foto aktivitas plushie kalian yang diambil di dalam venue EXPO!\nMohon unggah di setiap lokasi pengunggahan yang telah ditentukan🌽🎪\n\n*Ini hanya pengumuman saja ya!✨🥹\n\n[[holoplus_survey_start]]\nA. Siap!\nB. Siap, siap!\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
     "thread_id": "267dde80-fbf8-4f36-93e7-3034f383fe14",
