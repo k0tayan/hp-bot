@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "BA25120D-69CE-43BA-BFD5-3483BC4564DF",
+    "channel_name": "響咲リオナ",
+    "thread_id": "8943f565-1c15-4e79-af92-2b547e0095f1",
+    "thread": {
+      "id": "8943f565-1c15-4e79-af92-2b547e0095f1",
+      "created_at": 1772803087,
+      "talents": [
+        {
+          "id": "09A796F4-A892-DA18-3D1F-7848024E2300",
+          "name": "響咲リオナ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/isaki_riona/icon_20251208.png",
+          "key_name": "isaki_riona"
+        }
+      ],
+      "user": {
+        "id": "b6fa97e0-4f12-4a09-8491-183bdad1106b",
+        "name": "響咲リオナ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/isaki_riona/icon_20251208.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "😽",
+      "body": "😽",
+      "translations": {
+        "ja": {
+          "title": "😽",
+          "body": "😽"
+        },
+        "en": {
+          "title": "😽",
+          "body": "😽"
+        },
+        "id": {
+          "title": "😽",
+          "body": "😽"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/0afbc382-82e1-46ce-b509-437e4c1b359b.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "4AF109EC-FDC3-4070-AFF8-6AEFFFDC396D",
     "channel_name": "角巻わため",
     "thread_id": "67e57a62-19e6-4992-97b1-77f02e1a3d28",
