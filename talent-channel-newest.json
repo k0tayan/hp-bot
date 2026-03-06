@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "72f0ddd8-a5ca-472d-8224-c7b17c194683",
+    "thread": {
+      "id": "72f0ddd8-a5ca-472d-8224-c7b17c194683",
+      "created_at": 1772806567,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【ボイス】STAGE1ありがとうございました！",
+      "body": "また明日ฅ^•ﻌ•^ฅ🎁",
+      "translations": {
+        "ja": {
+          "title": "【ボイス】STAGE1ありがとうございました！",
+          "body": "また明日ฅ^•ﻌ•^ฅ🎁"
+        },
+        "en": {
+          "title": "[Voice] Thank you for STAGE1!",
+          "body": "See you tomorrowฅ^•ﻌ•^ฅ🎁"
+        },
+        "id": {
+          "title": "[Voice] Terima kasih untuk STAGE1!",
+          "body": "Sampai jumpa besokฅ^•ﻌ•^ฅ🎁"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/e80a080b-2562-421f-a419-454745392055.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BA25120D-69CE-43BA-BFD5-3483BC4564DF",
     "channel_name": "響咲リオナ",
     "thread_id": "8943f565-1c15-4e79-af92-2b547e0095f1",
