@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "a9f7603b-3b7f-4007-98f3-c1f3adda1b70",
+    "thread": {
+      "id": "a9f7603b-3b7f-4007-98f3-c1f3adda1b70",
+      "created_at": 1772810312,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/a9f7603b-3b7f-4007-98f3-c1f3adda1b70/original_1772810312_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Thank you for STAGE 1, Ruffians!! 🐾🩵🩷",
+      "body": "Moco-chan is already fast asleep, but…!! 🩵",
+      "translations": {
+        "ja": {
+          "title": "ラフィアンズのみんな、STAGE 1をありがとう！！ 🐾🩵🩷",
+          "body": "モコちゃんはもうぐっすり寝ちゃったけど…！！ 🩵"
+        },
+        "en": {
+          "title": "Thank you for STAGE 1, Ruffians!! 🐾🩵🩷",
+          "body": "Moco-chan is already fast asleep, but…!! 🩵"
+        },
+        "id": {
+          "title": "Terima kasih untuk STAGE 1, Ruffians!! 🐾🩵🩷",
+          "body": "Moco-chan sudah tidur pulas, tapi…!! 🩵"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/d15ddc0d-961e-49df-9321-9ff5a02c6dd4.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "72f0ddd8-a5ca-472d-8224-c7b17c194683",
