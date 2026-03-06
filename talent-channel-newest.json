@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "4AF109EC-FDC3-4070-AFF8-6AEFFFDC396D",
+    "channel_name": "角巻わため",
+    "thread_id": "67e57a62-19e6-4992-97b1-77f02e1a3d28",
+    "thread": {
+      "id": "67e57a62-19e6-4992-97b1-77f02e1a3d28",
+      "created_at": 1772788509,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/67e57a62-19e6-4992-97b1-77f02e1a3d28/original_1772788509_1.png"
+      ],
+      "talents": [
+        {
+          "id": "c5a07d80-0d02-4167-89e2-06faeed5bcab",
+          "name": "角巻わため",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png",
+          "key_name": "tsunomaki_watame"
+        }
+      ],
+      "user": {
+        "id": "cbce1653-1882-45a1-b0bb-99ea226e96da",
+        "name": "角巻わため",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "7th fes.はじまる！！！！",
+      "body": "STAGE1楽しんでいこおおおおお！！！！！！🎉",
+      "translations": {
+        "ja": {
+          "title": "7th fes.はじまる！！！！",
+          "body": "STAGE1楽しんでいこおおおおお！！！！！！🎉"
+        },
+        "en": {
+          "title": "7th fes. is starting!!!!",
+          "body": "Let's enjoy STAGE1 to the fullest!!!!!!!!! 🎉"
+        },
+        "id": {
+          "title": "7th fes. dimulai!!!!",
+          "body": "Ayo kita nikmati STAGE1 sepuasnya!!!!!!!!! 🎉"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "f7161a67-4392-4d42-92e2-59e512977d00",
