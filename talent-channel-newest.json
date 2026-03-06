@@ -1,5 +1,134 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "f7161a67-4392-4d42-92e2-59e512977d00",
+    "thread": {
+      "id": "f7161a67-4392-4d42-92e2-59e512977d00",
+      "created_at": 1772788101,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "9330d8b1-d599-4c90-81c9-ec42cda9dbd0",
+          "name": "百鬼あやめ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/nakiri_ayame/icon_20250902.png",
+          "key_name": "nakiri_ayame"
+        },
+        {
+          "id": "da1b223c-f3d5-4bea-8e4c-63521a6c1dce",
+          "name": "癒月ちょこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/yuzuki_choco/icon.png",
+          "key_name": "yuzuki_choco"
+        },
+        {
+          "id": "cc9eb596-fd8f-4344-bb42-b7282dbc1e7a",
+          "name": "猫又おかゆ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/nekomata_okayu/icon_20250902.png",
+          "key_name": "nekomata_okayu"
+        },
+        {
+          "id": "d53bfba9-1168-4d8c-aa2c-0ca3d981616f",
+          "name": "兎田ぺこら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/usada_pekora/icon_20241218.png",
+          "key_name": "usada_pekora"
+        },
+        {
+          "id": "79482e2b-585e-41a5-af0a-8daf33ca5264",
+          "name": "不知火フレア",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiranui_flare/icon_20251208.png",
+          "key_name": "shiranui_flare"
+        },
+        {
+          "id": "c5a07d80-0d02-4167-89e2-06faeed5bcab",
+          "name": "角巻わため",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png",
+          "key_name": "tsunomaki_watame"
+        },
+        {
+          "id": "7597ae32-5657-4ac3-82fd-2edff2dcf29f",
+          "name": "雪花ラミィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/yukihana_lamy/icon_20250902.png",
+          "key_name": "yukihana_lamy"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        },
+        {
+          "id": "e68478c3-cb8a-4f69-914b-54a98aa83bda",
+          "name": "鷹嶺ルイ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takane_lui/icon_20250902.png",
+          "key_name": "takane_lui"
+        },
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20250902.png",
+          "key_name": "hakui_koyori"
+        },
+        {
+          "id": "4aef28fc-b18f-4fd8-b08e-5be9be79449a",
+          "name": "ベスティア・ゼータ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20240918.png",
+          "key_name": "vestia_zeta"
+        },
+        {
+          "id": "44bce260-3b93-41b4-ad3e-3bb5220cd7da",
+          "name": "こぼ・かなえる",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kobo_kanaeru/icon_20240918.png",
+          "key_name": "kobo_kanaeru"
+        },
+        {
+          "id": "38a1da05-9a78-486a-8244-b30b4ca537ee",
+          "name": "一伊那尓栖",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ninomae_ina%27nis/icon_20240918.png",
+          "key_name": "ninomae_ina'nis"
+        },
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【ボイス】hololive 7th fes. STAGE1 ",
+      "body": "✨️✨️みんなで最高のステージにします✨️✨️",
+      "translations": {
+        "ja": {
+          "title": "【ボイス】hololive 7th fes. STAGE1 ",
+          "body": "✨️✨️みんなで最高のステージにします✨️✨️"
+        },
+        "en": {
+          "title": "[Voice] hololive 7th fes. STAGE1",
+          "body": "✨️✨️Let's make it the best stage together!✨️✨️"
+        },
+        "id": {
+          "title": "[Suara] hololive 7th fes. STAGE1",
+          "body": "✨️✨️Mari kita jadikan panggung terbaik bersama!✨️✨️"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/8fc13099-f5c3-404e-addc-c513f763050b.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "e2471ce5-8ac6-48cb-8f86-511a16c7b34c",
