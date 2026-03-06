@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "e2471ce5-8ac6-48cb-8f86-511a16c7b34c",
+    "thread": {
+      "id": "e2471ce5-8ac6-48cb-8f86-511a16c7b34c",
+      "created_at": 1772765780,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/e2471ce5-8ac6-48cb-8f86-511a16c7b34c/original_1772765780_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20240918.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20240918.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Gotta catch’em all! ",
+      "body": "Shiori~n! 👁️‍🗨️  \n \nI left 8 cries for help around the venue (aka signatures). \n\nSee if you can find them all!  \n\nPost lots of pictures!",
+      "translations": {
+        "ja": {
+          "title": "全部ゲットだぜ！",
+          "body": "しおり〜ん！👁️‍🗨️ \n \n会場に8つのSOS（サインのことだよ）を残してきたよ。\n\n全部見つけられるかな？\n\nたくさん写真アップしてね！"
+        },
+        "en": {
+          "title": "Gotta catch’em all! ",
+          "body": "Shiori~n! 👁️‍🗨️  \n \nI left 8 cries for help around the venue (aka signatures). \n\nSee if you can find them all!  \n\nPost lots of pictures!"
+        },
+        "id": {
+          "title": "Tangkap semuanya!",
+          "body": "Shiori~n! 👁️‍🗨️  \n \nAku meninggalkan 8 'teriakan minta tolong' di sekitar venue (alias tanda tangan).\n\nCoba cari semuanya ya!\n\nPosting banyak foto ya!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "e9c8a01d-cded-46ea-a5a2-f303de787b52",
