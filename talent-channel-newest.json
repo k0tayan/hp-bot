@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "DA6633B6-14B7-4FE4-BC1E-6B2BE58B5077",
+    "channel_name": "AZKi",
+    "thread_id": "a07000ba-b3ef-4f87-8f27-d06437372385",
+    "thread": {
+      "id": "a07000ba-b3ef-4f87-8f27-d06437372385",
+      "created_at": 1772873495,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/a07000ba-b3ef-4f87-8f27-d06437372385/original_1772873495_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "400b93ad-2dd0-4303-acbc-d0207c202118",
+          "name": "AZKi",
+          "img_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png",
+          "key_name": "azki"
+        },
+        {
+          "id": "5ef4d51e-d9d6-4582-900c-81d36b5d0576",
+          "name": "風真いろは",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kazama_iroha/icon.png",
+          "key_name": "kazama_iroha"
+        }
+      ],
+      "user": {
+        "id": "822f4e4b-ecaf-4924-ac0b-39efc951a9fb",
+        "name": "AZKi",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ござるさんいた",
+      "body": "YAGOO商店にござるさんいた🍃",
+      "translations": {
+        "ja": {
+          "title": "ござるさんいた",
+          "body": "YAGOO商店にござるさんいた🍃"
+        },
+        "en": {
+          "title": "Found Gozaru-san",
+          "body": "Gozaru-san was at YAGOO Store 🍃"
+        },
+        "id": {
+          "title": "Ada Gozaru-san",
+          "body": "Gozaru-san ada di YAGOO Store 🍃"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
     "thread_id": "826d8bbb-3046-4b25-8c87-a1dd84ffd997",
