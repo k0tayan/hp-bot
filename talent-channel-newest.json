@@ -1,5 +1,143 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "826d8bbb-3046-4b25-8c87-a1dd84ffd997",
+    "thread": {
+      "id": "826d8bbb-3046-4b25-8c87-a1dd84ffd997",
+      "created_at": 1772854108,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/826d8bbb-3046-4b25-8c87-a1dd84ffd997/original_1772854108_1.png"
+      ],
+      "talents": [
+        {
+          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
+          "name": "ときのそら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
+          "key_name": "tokino_sora"
+        },
+        {
+          "id": "de54958d-3ba2-4539-9cb1-39fd392cf82a",
+          "name": "さくらみこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/sakura_miko/icon_20240918.png",
+          "key_name": "sakura_miko"
+        },
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "25299e77-c314-4fcf-a9fe-13debe52ec53",
+          "name": "大空スバル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20240918.png",
+          "key_name": "oozora_subaru"
+        },
+        {
+          "id": "b3521645-5b78-439b-920f-b685edf69588",
+          "name": "大神ミオ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ookami_mio/icon.png",
+          "key_name": "ookami_mio"
+        },
+        {
+          "id": "21640e19-7c9e-4819-a203-4511f0148972",
+          "name": "白銀ノエル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirogane_noel/icon.png",
+          "key_name": "shirogane_noel"
+        },
+        {
+          "id": "4c4a8925-97fd-4fd6-b5a7-2b0491ec9c40",
+          "name": "桃鈴ねね",
+          "img_url": "https://asset.holoplus.com/talents/hololive/momosuzu_nene/icon.png",
+          "key_name": "momosuzu_nene"
+        },
+        {
+          "id": "87561c2f-bcb7-49bb-8c2a-f9e9805cc7af",
+          "name": "獅白ぼたん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shishiro_botan/icon_20240918.png",
+          "key_name": "shishiro_botan"
+        },
+        {
+          "id": "08a03c6e-3b1a-4948-aa97-4e5ea7988907",
+          "name": "ラプラス・ダークネス",
+          "img_url": "https://asset.holoplus.com/talents/hololive/la%2B_darknesss/icon_20240918.png",
+          "key_name": "la+_darknesss"
+        },
+        {
+          "id": "ad45e403-1566-49da-b590-fa95fca334ad",
+          "name": "アイラニ・イオフィフティーン",
+          "img_url": "https://asset.holoplus.com/talents/hololive/airani_iofifteen/icon.png",
+          "key_name": "airani_iofifteen"
+        },
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20240918.png",
+          "key_name": "kureiji_ollie"
+        },
+        {
+          "id": "dddf28dc-0166-48c5-a845-88e608121cc0",
+          "name": "小鳥遊キアラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takanashi_kiara/icon.png",
+          "key_name": "takanashi_kiara"
+        },
+        {
+          "id": "B1F2D4B4-D5C5-4013-A41C-A640E1B214B4",
+          "name": "エリザベス・ローズ・ブラッドフレイム",
+          "img_url": "https://asset.holoplus.com/talents/hololive/elizabeth_rose_bloodflame/icon_20250902.png",
+          "key_name": "elizabeth_rose_bloodflame"
+        },
+        {
+          "id": "2F2C615D-58D8-6E8C-BB46-BCB7D6ADC37D",
+          "name": "ジジ・ムリン",
+          "img_url": "https://asset.holoplus.com/talents/hololive/gigi_murin/icon_20250902.png",
+          "key_name": "gigi_murin"
+        },
+        {
+          "id": "03E99074-7985-4C7F-A90D-1ADCD89762A5",
+          "name": "セシリア・イマーグリーン",
+          "img_url": "https://asset.holoplus.com/talents/hololive/cecilia_immergreen/icon_20250902.png",
+          "key_name": "cecilia_immergreen"
+        },
+        {
+          "id": "CC9192C9-67AF-DCAA-7F8E-22131C14EFAC",
+          "name": "ラオーラ・パンテーラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/raora_panthera/icon_20250902.png",
+          "key_name": "raora_panthera"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "【STAGE 2】 GET READY HOLOFES 7th!!🔥🔥",
+      "body": "HANG ON TO YOUR SEATS CAUSE WE'RE GOING TO BLOW YOU AWAY WITH OUR PERFORMANCE!!💕💕",
+      "translations": {
+        "ja": {
+          "title": "【STAGE 2】 ホロフェス7thに向けて準備してね!!🔥🔥",
+          "body": "席にしっかり捕まっててね、私たちのパフォーマンスでみんなを圧倒するから!!💕💕"
+        },
+        "en": {
+          "title": "【STAGE 2】 GET READY HOLOFES 7th!!🔥🔥",
+          "body": "HANG ON TO YOUR SEATS CAUSE WE'RE GOING TO BLOW YOU AWAY WITH OUR PERFORMANCE!!💕💕"
+        },
+        "id": {
+          "title": "【STAGE 2】 SIAP-SIAP HOLOFES KE-7!!🔥🔥",
+          "body": "PEGANGAN YANG ERAT KARENA KAMI AKAN MEMBUAT KALIAN TERPESONA DENGAN PENAMPILAN KAMI!!💕💕"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/f66a4a8a-56f8-40d4-bd84-61f9eea7fb3f.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "DA6633B6-14B7-4FE4-BC1E-6B2BE58B5077",
     "channel_name": "AZKi",
     "thread_id": "c41c96c6-2c2c-4e3b-9266-495ecaae3ae2",
