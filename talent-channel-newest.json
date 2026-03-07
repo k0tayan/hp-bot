@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "DA6633B6-14B7-4FE4-BC1E-6B2BE58B5077",
+    "channel_name": "AZKi",
+    "thread_id": "c41c96c6-2c2c-4e3b-9266-495ecaae3ae2",
+    "thread": {
+      "id": "c41c96c6-2c2c-4e3b-9266-495ecaae3ae2",
+      "created_at": 1772853305,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/c41c96c6-2c2c-4e3b-9266-495ecaae3ae2/original_1772853305_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "400b93ad-2dd0-4303-acbc-d0207c202118",
+          "name": "AZKi",
+          "img_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png",
+          "key_name": "azki"
+        }
+      ],
+      "user": {
+        "id": "822f4e4b-ecaf-4924-ac0b-39efc951a9fb",
+        "name": "AZKi",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "雨男開拓者くんvs晴れ女あずきち",
+      "body": "💥ファイッ💥\n\n☀☀☀快晴☀☀☀\n\n勝者、晴れ女あずきち！\n\n今日もEXPO＆fes楽しんでいこううううう📣\n\n開拓者のみんな、STAGE3の応援よろしくね💗",
+      "translations": {
+        "ja": {
+          "title": "雨男開拓者くんvs晴れ女あずきち",
+          "body": "💥ファイッ💥\n\n☀☀☀快晴☀☀☀\n\n勝者、晴れ女あずきち！\n\n今日もEXPO＆fes楽しんでいこううううう📣\n\n開拓者のみんな、STAGE3の応援よろしくね💗"
+        },
+        "en": {
+          "title": "Rain Man Trailblazer-kun vs Sunny Girl Azu-kichi",
+          "body": "💥Fight!💥\n\n☀☀☀Super clear skies!☀☀☀\n\nWinner, Sunny Girl Azu-kichi!\n\nLet's all enjoy EXPO & fes todayyyyy📣\n\nTo all the Trailblazers, please cheer for STAGE3 💗"
+        },
+        "id": {
+          "title": "Trailblazer-kun Si Pembawa Hujan vs Azu-kichi Si Pembawa Cerah",
+          "body": "💥Fight!💥\n\n☀☀☀Cuaca cerah ceria!☀☀☀\n\nPemenangnya, Azu-kichi Si Pembawa Cerah!\n\nAyo kita nikmati EXPO & fes hari iniiiiii📣\n\nUntuk semua Trailblazer, mohon dukungannya untuk STAGE3 ya💗"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
     "channel_name": "フワモコ",
     "thread_id": "a9f7603b-3b7f-4007-98f3-c1f3adda1b70",
