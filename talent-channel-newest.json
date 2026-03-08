@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "8aeef361-f9b3-44be-9b2c-9a1eb5cc0ed0",
+    "thread": {
+      "id": "8aeef361-f9b3-44be-9b2c-9a1eb5cc0ed0",
+      "created_at": 1772963630,
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Having fun with holomem!! 🌸",
+      "body": "We’re having so much silly fun!! ❤️ WE LOVE HOLOLIVE!! BAU BAU〜！！🐾",
+      "translations": {
+        "ja": {
+          "title": "ホロメンと楽しんでるよ〜🌸",
+          "body": "とっても楽しい時間を過ごしてるよ！❤️ ホロライブ大好きだー！！BAU BAU〜🐾"
+        },
+        "en": {
+          "title": "Having fun with holomem!! 🌸",
+          "body": "We’re having so much silly fun!! ❤️ WE LOVE HOLOLIVE!! BAU BAU〜！！🐾"
+        },
+        "id": {
+          "title": "Bersenang-senang dengan holomem!! 🌸",
+          "body": "Kami bersenang-senang banget!! ❤️ KAMI CINTA HOLOLIVE!! BAU BAU〜！！🐾"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/2f1e8893-6ae7-4f75-aaae-8bd36f943d7e.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "DA6633B6-14B7-4FE4-BC1E-6B2BE58B5077",
     "channel_name": "AZKi",
     "thread_id": "a07000ba-b3ef-4f87-8f27-d06437372385",
