@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "80ced36b-0c16-4159-81e4-5cae52bd9e1c",
+    "thread": {
+      "id": "80ced36b-0c16-4159-81e4-5cae52bd9e1c",
+      "created_at": 1773202588,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20240918.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20240918.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "狐族密会【小学生の頃にやってたあるあるな事】",
+      "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/sLAzeRWOGqo?feature=share\n◾︎募集内容\nあなたが小学生の頃にやってた「あるあるな事」を教えてください\n（例）\n横断歩道の白線を踏んで帰る、はみ出たら死ぬ\n\n（例）\n布団の中で隠れてゲームをする",
+      "translations": {
+        "ja": {
+          "title": "狐族密会【小学生の頃にやってたあるあるな事】",
+          "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/sLAzeRWOGqo?feature=share\n◾︎募集内容\nあなたが小学生の頃にやってた「あるあるな事」を教えてください\n（例）\n横断歩道の白線を踏んで帰る、はみ出たら死ぬ\n\n（例）\n布団の中で隠れてゲームをする"
+        },
+        "en": {
+          "title": "Fox Clan Secret Meeting: [Relatable Things You Did in Elementary School]",
+          "body": "A radio program scheduled to air today from 22:00 JST 📻\nWe'll be featuring some of your submissions on Fox Clan Secret Meeting.\n▶https://youtube.com/live/sLAzeRWOGqo?feature=share\n◾︎What we're looking for:\nPlease tell us about 'relatable things' you used to do when you were in elementary school!\n(Example)\nWalking home by only stepping on the white lines of the crosswalk; if you step off, you die.\n\n(Example)\nPlaying games secretly hidden under your futon."
+        },
+        "id": {
+          "title": "Pertemuan Rahasia Klan Rubah: [Hal-hal Umum yang Kalian Lakukan Saat SD]",
+          "body": "Program radio yang dijadwalkan tayang hari ini mulai pukul 22:00 WIB 📻\nKami akan menampilkan beberapa di antaranya di Pertemuan Rahasia Klan Rubah.\n▶https://youtube.com/live/sLAzeRWOGqo?feature=share\n◾︎Yang kami cari:\nTolong ceritakan 'hal-hal umum' yang biasa kalian lakukan saat masih SD!\n(Contoh)\nPulang sekolah dengan menginjak garis putih penyeberangan saja, kalau keluar garis berarti mati.\n\n(Contoh)\nBermain game sembunyi-sembunyi di bawah selimut."
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
     "channel_name": "フワモコ",
     "thread_id": "8aeef361-f9b3-44be-9b2c-9a1eb5cc0ed0",
