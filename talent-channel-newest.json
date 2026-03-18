@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "23c32022-a2a7-42ea-84fe-65a02948d96c",
+    "thread": {
+      "id": "23c32022-a2a7-42ea-84fe-65a02948d96c",
+      "created_at": 1773797980,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/23c32022-a2a7-42ea-84fe-65a02948d96c/original_1773797980_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "It's my office plushie - K9.",
+      "body": "It's my office plushie - K9. \nWhen I brought it to the studio, some of the staff found it amusing.\nI made him sit nearby while recording for work.",
+      "translations": {
+        "ja": {
+          "title": "私のオフィスぬいぐるみ、K9だよ。",
+          "body": "私のオフィスぬいぐるみ、K9だよ。\nスタジオに連れて行ったら、スタッフの何人かが面白がってくれたんだ。\n仕事の録音中、近くに座らせておいたよ。"
+        },
+        "en": {
+          "title": "It's my office plushie - K9.",
+          "body": "It's my office plushie - K9. \nWhen I brought it to the studio, some of the staff found it amusing.\nI made him sit nearby while recording for work."
+        },
+        "id": {
+          "title": "Ini boneka kantor saya - K9.",
+          "body": "Ini boneka kantor saya - K9.\nKetika saya membawanya ke studio, beberapa staf merasa terhibur.\nSaya mendudukkannya di dekat saya saat rekaman untuk bekerja."
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "64B4F01C-8906-425D-81A2-268C8E920E64",
     "channel_name": "風真いろは",
     "thread_id": "9f5b8d1d-eb1c-44f7-9227-21a78f6289f8",
