@@ -1,5 +1,97 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "c405b9b3-ec5c-4331-857d-c76124669b66",
+    "thread": {
+      "id": "c405b9b3-ec5c-4331-857d-c76124669b66",
+      "created_at": 1773886732,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/c405b9b3-ec5c-4331-857d-c76124669b66/original_1773886732_1.jpeg",
+        "https://asset.holoplus.com/threads/c405b9b3-ec5c-4331-857d-c76124669b66/original_1773886732_2.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Shiori~n Travel Thoughts",
+      "body": "Shiori~n Travel Thoughts\n\nAh, the window seat - a most coveted seat by those with a bladder of steel. \n\nI lamented my seating arrangement for I fall in the category of 'weak bladdered babies'. \n\nInstead of waking the sleeping woman next to me to ask her if I could pass through, I jumped over her. (Okay, maybe I was too shy to ask her politely.)\n\nUnsurprisingly, she woke up, but I scrambled out of the aisle as fast as possible to avoid any awkwardness. \n\nI did this a few more times to really drive in the fact that I will piss myself if she doesn't move out of my way, and eventually she asked a flight attendant if she could be moved to another empty seat. \n\nMy plan, as convoluted as it was, resulted in extra free space. I was now by a window with an empty seat occupied by my plushie. \n",
+      "translations": {
+        "ja": {
+          "title": "しおりんの旅の思ひ",
+          "body": "しおりんの旅の思ひ\n\nああ、窓側の席――膀胱が鋼鉄のように強い人にとっては、最も憧れの席だ。\n\n私は自分の座席配置を嘆いた。なぜなら私は「膀胱が弱い赤ちゃん」の部類に入るからだ。\n\n隣で眠っている女性を起こして「通してくれませんか」と頼む代わりに、私は彼女を飛び越えた。（まあ、丁寧に頼むのが恥ずかしすぎたのかもしれない。）\n\n案の定、彼女は目を覚ましたけれど、私は気まずさを避けるためにできるだけ早く通路に駆け出した。\n\n彼女がどいてくれないと漏らしてしまうという事実を本当に理解してもらうために、これをあと数回繰り返したところ、ついに彼女は客室乗務員に、別の空いている席に移動できないかと尋ねた。\n\n私の計画は、複雑ではあったけれど、結果として余分な自由空間をもたらした。私は今、窓際にいて、隣の空席には私のぬいぐるみが座っている。"
+        },
+        "en": {
+          "title": "Shiori~n Travel Thoughts",
+          "body": "Shiori~n Travel Thoughts\n\nAh, the window seat - a most coveted seat by those with a bladder of steel. \n\nI lamented my seating arrangement for I fall in the category of 'weak bladdered babies'. \n\nInstead of waking the sleeping woman next to me to ask her if I could pass through, I jumped over her. (Okay, maybe I was too shy to ask her politely.)\n\nUnsurprisingly, she woke up, but I scrambled out of the aisle as fast as possible to avoid any awkwardness. \n\nI did this a few more times to really drive in the fact that I will piss myself if she doesn't move out of my way, and eventually she asked a flight attendant if she could be moved to another empty seat. \n\nMy plan, as convoluted as it was, resulted in extra free space. I was now by a window with an empty seat occupied by my plushie. \n"
+        },
+        "id": {
+          "title": "Catatan Perjalanan Shiori~n",
+          "body": "Catatan Perjalanan Shiori~n\n\nAh, kursi dekat jendela – kursi yang paling didambakan oleh mereka yang punya kandung kemih sekuat baja.\n\nSaya menyesali pengaturan tempat duduk saya karena saya termasuk dalam kategori 'bayi berkandung kemih lemah'.\n\nDaripada membangunkan wanita yang tidur di sebelah saya untuk bertanya apakah saya bisa lewat, saya melompati dia. (Oke, mungkin saya terlalu malu untuk bertanya dengan sopan.)\n\nTidak mengherankan, dia terbangun, tapi saya buru-buru keluar dari lorong secepat mungkin untuk menghindari kecanggungan.\n\nSaya melakukan ini beberapa kali lagi untuk benar-benar menekankan fakta bahwa saya akan ngompol jika dia tidak menyingkir, dan akhirnya dia bertanya kepada pramugari apakah dia bisa dipindahkan ke kursi kosong lainnya.\n\nRencana saya, serumit apa pun itu, menghasilkan ruang kosong tambahan. Sekarang saya berada di dekat jendela dengan kursi kosong yang ditempati oleh boneka saya."
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "874e9324-9111-42bf-9209-d28e0d2e03d8",
+    "thread": {
+      "id": "874e9324-9111-42bf-9209-d28e0d2e03d8",
+      "created_at": 1773886689,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/874e9324-9111-42bf-9209-d28e0d2e03d8/original_1773886689_1.jpeg",
+        "https://asset.holoplus.com/threads/874e9324-9111-42bf-9209-d28e0d2e03d8/original_1773886689_2.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Shiori~n Travel Thoughts",
+      "body": "Shiori~n Travel Thoughts\n\nAh, the window seat - a most coveted seat by those with a bladder of steel. \n\nI lamented my seating arrangement for I fall in the category of 'weak bladdered babies'. \n\nInstead of waking the sleeping woman next to me to ask her if I could pass through, I jumped over her. (Okay, maybe I was too shy to ask her politely.)\n\nUnsurprisingly, she woke up, but I scrambled out of the aisle as fast as possible to avoid any awkwardness. \n\nI did this a few more times to really drive in the fact that I will piss myself if she doesn't move out of my way, and eventually she asked a flight attendant if she could be moved to another empty seat. \n\nMy plan, as convoluted as it was, resulted in extra free space. I was now by a window with an empty seat occupied by my plushie. \n",
+      "translations": {
+        "ja": {
+          "title": "しおりんの旅の思ひ",
+          "body": "しおりんの旅の思ひ\n\nああ、窓側の席――膀胱が鋼鉄のように強い人にとっては、最も憧れの席だ。\n\n私は自分の座席配置を嘆いた。なぜなら私は「膀胱が弱い赤ちゃん」の部類に入るからだ。\n\n隣で眠っている女性を起こして「通してくれませんか」と頼む代わりに、私は彼女を飛び越えた。（まあ、丁寧に頼むのが恥ずかしすぎたのかもしれない。）\n\n案の定、彼女は目を覚ましたけれど、私は気まずさを避けるためにできるだけ早く通路に駆け出した。\n\n彼女がどいてくれないと漏らしてしまうという事実を本当に理解してもらうために、これをあと数回繰り返したところ、ついに彼女は客室乗務員に、別の空いている席に移動できないかと尋ねた。\n\n私の計画は、複雑ではあったけれど、結果として余分な自由空間をもたらした。私は今、窓際にいて、隣の空席には私のぬいぐるみが座っている。"
+        },
+        "en": {
+          "title": "Shiori~n Travel Thoughts",
+          "body": "Shiori~n Travel Thoughts\n\nAh, the window seat - a most coveted seat by those with a bladder of steel. \n\nI lamented my seating arrangement for I fall in the category of 'weak bladdered babies'. \n\nInstead of waking the sleeping woman next to me to ask her if I could pass through, I jumped over her. (Okay, maybe I was too shy to ask her politely.)\n\nUnsurprisingly, she woke up, but I scrambled out of the aisle as fast as possible to avoid any awkwardness. \n\nI did this a few more times to really drive in the fact that I will piss myself if she doesn't move out of my way, and eventually she asked a flight attendant if she could be moved to another empty seat. \n\nMy plan, as convoluted as it was, resulted in extra free space. I was now by a window with an empty seat occupied by my plushie. \n"
+        },
+        "id": {
+          "title": "Catatan Perjalanan Shiori~n",
+          "body": "Catatan Perjalanan Shiori~n\n\nAh, kursi dekat jendela – kursi yang paling didambakan oleh mereka yang punya kandung kemih sekuat baja.\n\nSaya menyesali pengaturan tempat duduk saya karena saya termasuk dalam kategori 'bayi berkandung kemih lemah'.\n\nDaripada membangunkan wanita yang tidur di sebelah saya untuk bertanya apakah saya bisa lewat, saya melompati dia. (Oke, mungkin saya terlalu malu untuk bertanya dengan sopan.)\n\nTidak mengherankan, dia terbangun, tapi saya buru-buru keluar dari lorong secepat mungkin untuk menghindari kecanggungan.\n\nSaya melakukan ini beberapa kali lagi untuk benar-benar menekankan fakta bahwa saya akan ngompol jika dia tidak menyingkir, dan akhirnya dia bertanya kepada pramugari apakah dia bisa dipindahkan ke kursi kosong lainnya.\n\nRencana saya, serumit apa pun itu, menghasilkan ruang kosong tambahan. Sekarang saya berada di dekat jendela dengan kursi kosong yang ditempati oleh boneka saya."
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "4AF109EC-FDC3-4070-AFF8-6AEFFFDC396D",
     "channel_name": "角巻わため",
     "thread_id": "c47b9b48-1acf-4f15-b9c5-f7a3ebd4ed95",
