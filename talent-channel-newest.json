@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "4A3A8C58-351C-4D03-8E27-08B9562597DD",
+    "channel_name": "森カリオペ",
+    "thread_id": "97640d23-ebe6-46f0-82e6-dd246016fa81",
+    "thread": {
+      "id": "97640d23-ebe6-46f0-82e6-dd246016fa81",
+      "created_at": 1773930697,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/97640d23-ebe6-46f0-82e6-dd246016fa81/original_1773930697_1.png"
+      ],
+      "talents": [
+        {
+          "id": "ebb39a49-871c-4a9c-b585-5837bdbcafda",
+          "name": "森カリオペ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mori_calliope/icon_20260311.png",
+          "key_name": "mori_calliope"
+        }
+      ],
+      "user": {
+        "id": "cb5040bf-9bfc-4675-a722-6e496996a706",
+        "name": "森カリオペ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mori_calliope/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "₊✩‧!! BIG ANNOUNCEMENT !!₊✩‧",
+      "body": "₊✩‧!! BIG ANNOUNCEMENT !!₊✩‧\n\n I was in charge of the opening theme of \"Patlabor EZY\" releasing very soon!! You can hear some of the song here! I'm so very honored!! :} \n\n『機動警察パトレイバー EZY』のオープニングテーマを担当させていただきました！！本当に光栄です!!\n",
+      "translations": {
+        "ja": {
+          "title": "₊✩‧!! BIG ANNOUNCEMENT !!₊✩‧",
+          "body": "₊✩‧!! BIG ANNOUNCEMENT !!₊✩‧\n\n近日公開の『機動警察パトレイバー EZY』のオープニングテーマを担当させていただきました！！楽曲の一部はこちらで聴けます！本当に光栄です!! :}"
+        },
+        "en": {
+          "title": "₊✩‧!! BIG ANNOUNCEMENT !!₊✩‧",
+          "body": "₊✩‧!! BIG ANNOUNCEMENT !!₊✩‧\n\n I was in charge of the opening theme of \"Patlabor EZY\" releasing very soon!! You can hear some of the song here! I'm so very honored!! :} \n\n『機動警察パトレイバー EZY』のオープニングテーマを担当させていただきました！！本当に光栄です!!\n"
+        },
+        "id": {
+          "title": "₊✩‧!! PENGUMUMAN BESAR !!₊✩‧",
+          "body": "₊✩‧!! PENGUMUMAN BESAR !!₊✩‧\n\n Aku bertanggung jawab atas lagu tema pembuka \"Patlabor EZY\" yang akan segera rilis!! Kalian bisa dengar sebagian lagunya di sini! Aku sangat merasa terhormat!! :}"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "6ACF69D8-97B8-4B11-9375-F7AEF7B1F059",
     "channel_name": "さくらみこ",
     "thread_id": "05b972f9-26cf-4255-9b19-a34a9a0a7939",
