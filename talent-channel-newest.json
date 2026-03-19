@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "8a63018e-75a3-4cd8-ba07-645123382f03",
+    "thread": {
+      "id": "8a63018e-75a3-4cd8-ba07-645123382f03",
+      "created_at": 1773899466,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/8a63018e-75a3-4cd8-ba07-645123382f03/original_1773899466_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon_20260311.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Time to share some donuts!! 🌸",
+      "body": "We got our paws on Mister Donut’s new limited edition sakura mochi flavor donuts! ✨ They’re all super yummy, but our favorite is the red one! It’s super mochi mochi!! BAU BAU〜！！🐾🩵🩷 #ホロプラス企画",
+      "translations": {
+        "ja": {
+          "title": "ドーナツ時間だよ！🌸",
+          "body": "ミスタードーナツの新しい期間限定桜もちっとドーナツをゲットできたよ！✨ どれもすごくおいしいけど、お気に入りは赤い春かおるいちご風のドーナツ！食感が超もちもちだよ！！BAU BAU〜！！🐾🩵🩷 #ホロプラス企画"
+        },
+        "en": {
+          "title": "Time to share some donuts!! 🌸",
+          "body": "We got our paws on Mister Donut’s new limited edition sakura mochi flavor donuts! ✨ They’re all super yummy, but our favorite is the red one! It’s super mochi mochi!! BAU BAU〜！！🐾🩵🩷 #ホロプラス企画"
+        },
+        "id": {
+          "title": "Waktunya berbagi donat!! 🌸",
+          "body": "Kami berhasil mendapatkan donat rasa sakura mochi edisi terbatas terbaru dari Mister Donut! ✨ Semuanya super enak, tapi favorit kami yang merah! Ini super kenyal!! BAU BAU〜！！🐾🩵🩷 #HoloplusProject"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/83768461-135c-4469-9b6e-ea728382647f.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "c405b9b3-ec5c-4331-857d-c76124669b66",
