@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "234ec4cc-e086-42a1-8e36-1a3823269936",
+    "thread": {
+      "id": "234ec4cc-e086-42a1-8e36-1a3823269936",
+      "created_at": 1773911505,
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "次のこよプラスはいつ！？",
+      "body": "ホロプラスがPCからも使えるようになったらしい～～～！✨\n\nこよ、SNSは1種類、1アカウントに全集中することしかできない女なので（だからXのサブ垢も作ってない😂）\nホロプラスもなかなか使えずにいるのだけれど・・・🥺\n\nこれですこし使いやすくなる・・・かな！？？？\nということで！\n\n次のこよのホロプラス投稿はいつ！？？\n当たったらHappyな気持ちになれる・・・かも！\n\n[[holoplus_survey_start]]\nA. ～3日後\nB. ～1週間後\nC. ～2週間後\nD. ～1か月後\nE. 1か月以上あく\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "次のこよプラスはいつ！？",
+          "body": "ホロプラスがPCからも使えるようになったらしい～～～！✨\n\nこよ、SNSは1種類、1アカウントに全集中することしかできない女なので（だからXのサブ垢も作ってない😂）\nホロプラスもなかなか使えずにいるのだけれど・・・🥺\n\nこれですこし使いやすくなる・・・かな！？？？\nということで！\n\n次のこよのホロプラス投稿はいつ！？？\n当たったらHappyな気持ちになれる・・・かも！\n\n[[holoplus_survey_start]]\nA. ～3日後\nB. ～1週間後\nC. ～2週間後\nD. ～1か月後\nE. 1か月以上あく\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "When's Koyoplus next!?",
+          "body": "Apparently, HoloPlus can now be used from PC~~~! ✨\n\nKoyo is a girl who can only fully concentrate on one type of SNS, one account (that's why I haven't even made an X sub-account 😂)\nSo I haven't really been able to use HoloPlus much... 🥺\n\nWill this make it a little easier to use... maybe!???\nSo!\n\nWhen will Koyo's next HoloPlus post be!???\nIf you guess correctly, I might feel happy... maybe!\n\n[[holoplus_survey_start]]\nA. ~3 days later\nB. ~1 week later\nC. ~2 weeks later\nD. ~1 month later\nE. More than 1 month later\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Kapan Koyoplus selanjutnya!?",
+          "body": "Katanya HoloPlus sekarang bisa dipakai dari PC juga~~~! ✨\n\nKoyo ini tipe cewek yang cuma bisa fokus total ke satu jenis SNS, satu akun (makanya aku nggak bikin akun X cadangan 😂)\nJadi aku belum terlalu sering pakai HoloPlus... 🥺\n\nApakah ini akan membuatnya sedikit lebih mudah dipakai... ya!???\nJadi!\n\nKapan postingan HoloPlus Koyo berikutnya!???\nKalau tebakanmu benar, aku mungkin akan senang... mungkin!\n\n[[holoplus_survey_start]]\nA. ~3 hari lagi\nB. ~1 minggu lagi\nC. ~2 minggu lagi\nD. ~1 bulan lagi\nE. Lebih dari 1 bulan lagi\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "029b6f8c-c530-41d8-ab3f-35d7000e0836",
