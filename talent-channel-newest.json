@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "4AF109EC-FDC3-4070-AFF8-6AEFFFDC396D",
+    "channel_name": "角巻わため",
+    "thread_id": "c47b9b48-1acf-4f15-b9c5-f7a3ebd4ed95",
+    "thread": {
+      "id": "c47b9b48-1acf-4f15-b9c5-f7a3ebd4ed95",
+      "created_at": 1773881593,
+      "talents": [
+        {
+          "id": "c5a07d80-0d02-4167-89e2-06faeed5bcab",
+          "name": "角巻わため",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png",
+          "key_name": "tsunomaki_watame"
+        }
+      ],
+      "user": {
+        "id": "cbce1653-1882-45a1-b0bb-99ea226e96da",
+        "name": "角巻わため",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "まだ起きてるのはここだけの秘密だよ…hehe",
+      "body": "まだ起きてるのはここだけの秘密だよ…hehe",
+      "translations": {
+        "ja": {
+          "title": "まだ起きてるのはここだけの秘密だよ…hehe",
+          "body": "まだ起きてるのはここだけの秘密だよ…hehe"
+        },
+        "en": {
+          "title": "It's a secret just between us that I'm s...",
+          "body": "It's a secret just between us that I'm still awake...hehe"
+        },
+        "id": {
+          "title": "Ini rahasia kita saja kalau aku masih ba...",
+          "body": "Ini rahasia kita saja kalau aku masih bangun...hehe"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "23c32022-a2a7-42ea-84fe-65a02948d96c",
