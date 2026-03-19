@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "3F230E6F-AED6-46E6-9F51-08C185BF70C9",
+    "channel_name": "夏色まつり",
+    "thread_id": "df6623be-ad77-450a-b3d9-0eefa3a2385f",
+    "thread": {
+      "id": "df6623be-ad77-450a-b3d9-0eefa3a2385f",
+      "created_at": 1773916224,
+      "talents": [
+        {
+          "id": "063d07d8-ac40-4e31-bfaa-5c47cb8a8cae",
+          "name": "夏色まつり",
+          "img_url": "https://asset.holoplus.com/talents/hololive/natsuiro_matsuri/icon_20260311.png",
+          "key_name": "natsuiro_matsuri"
+        }
+      ],
+      "user": {
+        "id": "6aee1eaa-0a00-4da2-81f0-df121b185673",
+        "name": "夏色まつり",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/natsuiro_matsuri/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "久しぶりの浮上なのでたくさん♡押してくだ...",
+      "body": "久しぶりの浮上なのでたくさん♡押してください\n\n",
+      "translations": {
+        "ja": {
+          "title": "久しぶりの浮上なのでたくさん♡押してくだ...",
+          "body": "久しぶりの浮上なのでたくさん♡押してください\n\n"
+        },
+        "en": {
+          "title": "It's been a while since I've surfaced, s...",
+          "body": "It's been a while since I've surfaced, so please hit that ♡ a lot!"
+        },
+        "id": {
+          "title": "Sudah lama tidak muncul, jadi tolong ber...",
+          "body": "Sudah lama tidak muncul, jadi tolong berikan banyak ♡ ya!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
     "thread_id": "234ec4cc-e086-42a1-8e36-1a3823269936",
