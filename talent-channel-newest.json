@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "855EE873-0E84-48BD-B9C4-14D2BD4F8B54",
+    "channel_name": "一伊那尓栖",
+    "thread_id": "8b9c068a-d39f-4a42-8002-d4e552c654c8",
+    "thread": {
+      "id": "8b9c068a-d39f-4a42-8002-d4e552c654c8",
+      "created_at": 1773977434,
+      "talents": [
+        {
+          "id": "38a1da05-9a78-486a-8244-b30b4ca537ee",
+          "name": "一伊那尓栖",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ninomae_ina%27nis/icon_20260311.png",
+          "key_name": "ninomae_ina'nis"
+        }
+      ],
+      "user": {
+        "id": "afca9d49-70a0-4ca4-a53d-e695997fd816",
+        "name": "一伊那尓栖",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/ninomae_ina%27nis/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "WAH! Hello! Ninomae Ina'nis here to TAKO...",
+      "body": "WAH! Hello! Ninomae Ina'nis here to TAKOVER holoplus!! 🐙\nGot a question for me?! You can...ASK ME ANYTHING!!!!! and maybe I'll answer your question on March 22nd!! \nIt's a holoplus exclusive AMA so send in your questions here! kukuku\n\n#holoplus Exclusive!",
+      "translations": {
+        "ja": {
+          "title": "WAH! こんにちは！にのまえいなニスがホロ...",
+          "body": "WAH! こんにちは！にのまえいなニスがホロプラスをTAKOVERするよ！！🐙\n私に質問がある？！何でも聞いてね!!!!! 3月22日に答えるかも？！\nホロプラス限定のAMAだから、ここに質問を送ってね！くくく\n\n#ホロプラス限定！"
+        },
+        "en": {
+          "title": "WAH! Hello! Ninomae Ina'nis here to TAKO...",
+          "body": "WAH! Hello! Ninomae Ina'nis here to TAKOVER holoplus!! 🐙\nGot a question for me?! You can...ASK ME ANYTHING!!!!! and maybe I'll answer your question on March 22nd!! \nIt's a holoplus exclusive AMA so send in your questions here! kukuku\n\n#holoplus Exclusive!"
+        },
+        "id": {
+          "title": "WAH! Halo! Ninomae Ina'nis di sini untuk...",
+          "body": "WAH! Halo! Ninomae Ina'nis di sini untuk TAKOVER holoplus!! 🐙\nPunya pertanyaan untukku?! Kalian bisa...TANYA AKU APA SAJA!!!!! dan mungkin aku akan menjawab pertanyaan kalian pada tanggal 22 Maret!!\nIni adalah AMA eksklusif holoplus jadi kirimkan pertanyaan kalian di sini! kukuku\n\n#holoplus Eksklusif!"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "4A3A8C58-351C-4D03-8E27-08B9562597DD",
     "channel_name": "森カリオペ",
     "thread_id": "97640d23-ebe6-46f0-82e6-dd246016fa81",
