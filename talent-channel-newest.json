@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "413E39C0-E2ED-42E8-BA1C-A93B27B60B8A",
+    "channel_name": "雪花ラミィ",
+    "thread_id": "39d5096c-7a60-40e6-9cc4-dd9563d71723",
+    "thread": {
+      "id": "39d5096c-7a60-40e6-9cc4-dd9563d71723",
+      "created_at": 1773984438,
+      "talents": [
+        {
+          "id": "7597ae32-5657-4ac3-82fd-2edff2dcf29f",
+          "name": "雪花ラミィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/yukihana_lamy/icon_20260311.png",
+          "key_name": "yukihana_lamy"
+        }
+      ],
+      "user": {
+        "id": "e56620ce-6b72-4aa5-8e3e-5d0a0698b29c",
+        "name": "雪花ラミィ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/yukihana_lamy/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "祝日をお知らせ",
+      "body": "祝日をお知らせ",
+      "translations": {
+        "ja": {
+          "title": "祝日をお知らせ",
+          "body": "祝日をお知らせ"
+        },
+        "en": {
+          "title": "Public Holiday Announcement",
+          "body": "Public Holiday Announcement"
+        },
+        "id": {
+          "title": "Pengumuman Hari Libur Nasional",
+          "body": "Pengumuman Hari Libur Nasional"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/7bbddc3b-0792-4c75-877e-e5e774604fcf.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "855EE873-0E84-48BD-B9C4-14D2BD4F8B54",
     "channel_name": "一伊那尓栖",
     "thread_id": "8b9c068a-d39f-4a42-8002-d4e552c654c8",
