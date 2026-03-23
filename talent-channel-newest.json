@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "139a4e8b-8c58-4b31-9d5a-bcdb3c73e04f",
+    "thread": {
+      "id": "139a4e8b-8c58-4b31-9d5a-bcdb3c73e04f",
+      "created_at": 1774241739,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/139a4e8b-8c58-4b31-9d5a-bcdb3c73e04f/original_1774241740_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Shiori~n Travel Thoughts",
+      "body": "Shiori~n Travel Thoughts\n\nWhen I went to an airport lounge for the first time, I had to muster up the courage to talk to the person in charge of the breakfast buffet. After obtaining then eating my meal - an attendant came to pick up my empty plate.\n\nShe wiped the table clean then told me, 'Have a good day', which I  somehow thought meant to 'get the hell out' since I wasn't ready to leave!\n\nIt apparently does NOT mean she wanted me to leave now, and she was just using customer service speech...",
+      "translations": {
+        "ja": {
+          "title": "しおり〜んの旅のあれこれ",
+          "body": "しおり〜んの旅のあれこれ\n\n初めて空港のラウンジに行った時、朝食ビュッフェの担当者さんに話しかけるのに勇気を振り絞りました。食事を済ませていたら、係の人が空いたお皿を下げに来てくれて。\n\nテーブルを拭いてくれて、「良い一日を」って言われたんだけど、まだ帰りたくなかったのに、なぜか「早く出て行け」って言われてるのかと思ったんだよね！\n\nどうやら、今すぐ出て行ってほしいという意味じゃなくて、ただの接客用語だったみたい…"
+        },
+        "en": {
+          "title": "Shiori~n Travel Thoughts",
+          "body": "Shiori~n Travel Thoughts\n\nWhen I went to an airport lounge for the first time, I had to muster up the courage to talk to the person in charge of the breakfast buffet. After obtaining then eating my meal - an attendant came to pick up my empty plate.\n\nShe wiped the table clean then told me, 'Have a good day', which I  somehow thought meant to 'get the hell out' since I wasn't ready to leave!\n\nIt apparently does NOT mean she wanted me to leave now, and she was just using customer service speech..."
+        },
+        "id": {
+          "title": "Catatan Perjalanan Shiori~n",
+          "body": "Catatan Perjalanan Shiori~n\n\nSaat pertama kali pergi ke lounge bandara, aku harus mengumpulkan keberanian untuk bicara dengan petugas prasmanan sarapan. Setelah mengambil dan menyantap makananku, seorang petugas datang mengambil piring kosongku.\n\nDia membersihkan meja lalu bilang, 'Semoga harimu menyenangkan', yang entah kenapa kupikir berarti 'cepat pergi dari sini' karena aku belum siap untuk pergi!\n\nTernyata itu BUKAN berarti dia ingin aku segera pergi, dan dia hanya menggunakan ucapan layanan pelanggan..."
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "413E39C0-E2ED-42E8-BA1C-A93B27B60B8A",
     "channel_name": "雪花ラミィ",
     "thread_id": "39d5096c-7a60-40e6-9cc4-dd9563d71723",
