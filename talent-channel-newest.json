@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "33E7427D-6682-4CBB-B7AC-AA8A5F0267D6",
+    "channel_name": "小鳥遊キアラ",
+    "thread_id": "d6e5469b-5add-4feb-a606-9aef009245d0",
+    "thread": {
+      "id": "d6e5469b-5add-4feb-a606-9aef009245d0",
+      "created_at": 1774499316,
+      "talents": [
+        {
+          "id": "dddf28dc-0166-48c5-a845-88e608121cc0",
+          "name": "小鳥遊キアラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takanashi_kiara/icon_20260311.png",
+          "key_name": "takanashi_kiara"
+        }
+      ],
+      "user": {
+        "id": "a6708028-98e2-4b93-a637-7743f4c9516d",
+        "name": "小鳥遊キアラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/takanashi_kiara/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "KIKKERIKIIIIIIIIII HOLOPLUS!",
+      "body": "KIKKERIKIIIIIIIIII HOLOPLUS!\nSomehow i managed to break into here. \nAre you guys excited for DRAWN TO DAWN?! ✨💃\nDon't miss it!\n\nThere will be a banner takeover happening on holoPlus EN so make sure to go check that out too! \n#holoplus Exclusive!",
+      "translations": {
+        "ja": {
+          "title": "KIKKERIKIIIIIIIIII ホロプラス！",
+          "body": "KIKKERIKIIIIIIIIII ホロプラス！\nなぜかここに侵入しちゃいました。\nDRAWN TO DAWN、楽しみですか？！✨💃\nお見逃しなく！\n\nholoPlus ENでバナージャックも開催されるので、そちらもぜひチェックしてくださいね！\n#holoplus 限定！"
+        },
+        "en": {
+          "title": "KIKKERIKIIIIIIIIII HOLOPLUS!",
+          "body": "KIKKERIKIIIIIIIIII HOLOPLUS!\nSomehow i managed to break into here. \nAre you guys excited for DRAWN TO DAWN?! ✨💃\nDon't miss it!\n\nThere will be a banner takeover happening on holoPlus EN so make sure to go check that out too! \n#holoplus Exclusive!"
+        },
+        "id": {
+          "title": "KIKKERIKIIIIIIIIII HOLOPLUS!",
+          "body": "KIKKERIKIIIIIIIIII HOLOPLUS!\nEntah bagaimana aku berhasil menyusup ke sini.\nKalian semangat untuk DRAWN TO DAWN?! ✨💃\nJangan sampai ketinggalan!\n\nAkan ada banner takeover di holoPlus EN, jadi pastikan untuk memeriksanya juga!\n#holoplus Eksklusif!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "855EE873-0E84-48BD-B9C4-14D2BD4F8B54",
     "channel_name": "一伊那尓栖",
     "thread_id": "37be10d2-d03e-4424-a03b-66af556d97ba",
