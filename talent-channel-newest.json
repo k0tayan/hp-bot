@@ -2,6 +2,51 @@
   {
     "channel_id": "855EE873-0E84-48BD-B9C4-14D2BD4F8B54",
     "channel_name": "一伊那尓栖",
+    "thread_id": "d8ca52cb-9314-47c5-971c-1f129822171d",
+    "thread": {
+      "id": "d8ca52cb-9314-47c5-971c-1f129822171d",
+      "created_at": 1774595782,
+      "talents": [
+        {
+          "id": "38a1da05-9a78-486a-8244-b30b4ca537ee",
+          "name": "一伊那尓栖",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ninomae_ina%27nis/icon_20260311.png",
+          "key_name": "ninomae_ina'nis"
+        }
+      ],
+      "user": {
+        "id": "afca9d49-70a0-4ca4-a53d-e695997fd816",
+        "name": "一伊那尓栖",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/ninomae_ina%27nis/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Drawn to Dawn Day!!!!!",
+      "body": "It’s past midnight here in LA… so it’s officially Drawn to Dawn day!!!\nThank you everyone for all your support and love for us!!\nLet’s make this an unforgettable two days!!!!!\nSee you on stage!!! WAH!!!!",
+      "translations": {
+        "ja": {
+          "title": "Drawn to Dawn Day!!!!!",
+          "body": "LAではもう深夜を過ぎたよ…だから正式にDrawn to Dawn Dayだね！！！\n皆さんのたくさんのサポートと愛に感謝します！！\n忘れられない2日間にしようね！！！！！\nステージで会おうね！！！WAH!!!!"
+        },
+        "en": {
+          "title": "Drawn to Dawn Day!!!!!",
+          "body": "It’s past midnight here in LA… so it’s officially Drawn to Dawn day!!!\nThank you everyone for all your support and love for us!!\nLet’s make this an unforgettable two days!!!!!\nSee you on stage!!! WAH!!!!"
+        },
+        "id": {
+          "title": "Drawn to Dawn Day!!!!!",
+          "body": "Sudah lewat tengah malam di LA… jadi ini resmi Drawn to Dawn Day!!!\nTerima kasih semuanya atas semua dukungan dan cinta kalian untuk kami!!\nAyo kita jadikan dua hari ini tak terlupakan!!!!!\nSampai jumpa di panggung!!! WAH!!!!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/707aa38d-d53b-4d28-8a56-25780754c0e5.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "855EE873-0E84-48BD-B9C4-14D2BD4F8B54",
+    "channel_name": "一伊那尓栖",
     "thread_id": "f6cda034-4afc-41bb-8db5-3249aba53688",
     "thread": {
       "id": "f6cda034-4afc-41bb-8db5-3249aba53688",
