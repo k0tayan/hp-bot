@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "855EE873-0E84-48BD-B9C4-14D2BD4F8B54",
+    "channel_name": "一伊那尓栖",
+    "thread_id": "f6cda034-4afc-41bb-8db5-3249aba53688",
+    "thread": {
+      "id": "f6cda034-4afc-41bb-8db5-3249aba53688",
+      "created_at": 1774576524,
+      "talents": [
+        {
+          "id": "dddf28dc-0166-48c5-a845-88e608121cc0",
+          "name": "小鳥遊キアラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takanashi_kiara/icon_20260311.png",
+          "key_name": "takanashi_kiara"
+        },
+        {
+          "id": "38a1da05-9a78-486a-8244-b30b4ca537ee",
+          "name": "一伊那尓栖",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ninomae_ina%27nis/icon_20260311.png",
+          "key_name": "ninomae_ina'nis"
+        }
+      ],
+      "user": {
+        "id": "afca9d49-70a0-4ca4-a53d-e695997fd816",
+        "name": "一伊那尓栖",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/ninomae_ina%27nis/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "WAH!!! It’s time for a TakoTori takeove...",
+      "body": "WAH!!! It’s time for a TakoTori takeover of holoPlus!!! Are you excited for Drawn to Dawn!?\nMake sure to check it out!!!\n\nWe’re also taking over the banners on holoPlus so don’t miss it!!!\n\n#holoPlus exclusive!",
+      "translations": {
+        "ja": {
+          "title": "WAH!!! holoPlusがタコトリにジャックされ...",
+          "body": "WAH!!! holoPlusがタコトリにジャックされる時間だよ！！！Drawn to Dawn、楽しみにしてる！？\n絶対チェックしてね！！！\n\nholoPlusのバナーもジャックするから見逃さないでね！！！\n\n#holoPlus限定！"
+        },
+        "en": {
+          "title": "WAH!!! It’s time for a TakoTori takeove...",
+          "body": "WAH!!! It’s time for a TakoTori takeover of holoPlus!!! Are you excited for Drawn to Dawn!?\nMake sure to check it out!!!\n\nWe’re also taking over the banners on holoPlus so don’t miss it!!!\n\n#holoPlus exclusive!"
+        },
+        "id": {
+          "title": "WAH!!! Saatnya TakoTori mengambil alih h...",
+          "body": "WAH!!! Saatnya TakoTori mengambil alih holoPlus!!! Kalian semangat untuk Drawn to Dawn!?\nPastikan untuk melihatnya ya!!!\n\nKami juga akan mengambil alih banner di holoPlus jadi jangan sampai ketinggalan ya!!!\n\n#EksklusifholoPlus!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "0d4e1423-82d8-44c9-8db4-7d92fe71bd92",
