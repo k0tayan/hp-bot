@@ -1,5 +1,89 @@
 [
   {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "255e0dc1-aea6-4d8e-ac0a-fb01355f877c",
+    "thread": {
+      "id": "255e0dc1-aea6-4d8e-ac0a-fb01355f877c",
+      "created_at": 1774661275,
+      "talents": [
+        {
+          "id": "400b93ad-2dd0-4303-acbc-d0207c202118",
+          "name": "AZKi",
+          "img_url": "https://asset.holoplus.com/talents/hololive/azki/icon.png",
+          "key_name": "azki"
+        },
+        {
+          "id": "de54958d-3ba2-4539-9cb1-39fd392cf82a",
+          "name": "さくらみこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/sakura_miko/icon_20260311.png",
+          "key_name": "sakura_miko"
+        },
+        {
+          "id": "cc9eb596-fd8f-4344-bb42-b7282dbc1e7a",
+          "name": "猫又おかゆ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/nekomata_okayu/icon_20260311.png",
+          "key_name": "nekomata_okayu"
+        },
+        {
+          "id": "47c88d2d-a1ec-4b75-bf4a-351f5780f7b0",
+          "name": "宝鐘マリン",
+          "img_url": "https://asset.holoplus.com/talents/hololive/houshou_marine/icon_20260311.png",
+          "key_name": "houshou_marine"
+        },
+        {
+          "id": "c5a07d80-0d02-4167-89e2-06faeed5bcab",
+          "name": "角巻わため",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tsunomaki_watame/icon.png",
+          "key_name": "tsunomaki_watame"
+        },
+        {
+          "id": "7597ae32-5657-4ac3-82fd-2edff2dcf29f",
+          "name": "雪花ラミィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/yukihana_lamy/icon_20260311.png",
+          "key_name": "yukihana_lamy"
+        },
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        },
+        {
+          "id": "f8ae44b1-0eee-48d2-8c91-15fb3c22308b",
+          "name": "一条莉々華",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ichijou_ririka/icon_20260311.png",
+          "key_name": "ichijou_ririka"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "本日20時！新3Dお披露目な生誕ゲームソングLive開催🎉",
+      "body": "もともと可愛い3Dが、更に更に可愛い新3Dに生まれ変わります！！\n\nライブコンセプトは「ゲームソング」🎮✨\n\n大好きなゲームへの想いをいっぱい詰めこんで\nめちゃめちゃこだわって準備したので、是非観てください！🥰\n\nゲストで出てくださるホロメンを関連に紐づけたよ～！\nあと、にじさんじのペトラグリンお姉ちゃん＆五十嵐梨花さん、歌手のSuaraさん、助手くんがゲスト参戦です！✨\n\nお楽しみに❣\n\n🔽配信場所🔽\nhttps://www.youtube.com/watch?v=yGN0gj0o1GU",
+      "translations": {
+        "ja": {
+          "title": "本日20時！新3Dお披露目な生誕ゲームソングLive開催🎉",
+          "body": "もともと可愛い3Dが、更に更に可愛い新3Dに生まれ変わります！！\n\nライブコンセプトは「ゲームソング」🎮✨\n\n大好きなゲームへの想いをいっぱい詰めこんで\nめちゃめちゃこだわって準備したので、是非観てください！🥰\n\nゲストで出てくださるホロメンを関連に紐づけたよ～！\nあと、にじさんじのペトラグリンお姉ちゃん＆五十嵐梨花さん、歌手のSuaraさん、助手くんがゲスト参戦です！✨\n\nお楽しみに❣\n\n🔽配信場所🔽\nhttps://www.youtube.com/watch?v=yGN0gj0o1GU"
+        },
+        "en": {
+          "title": "Today at 8 PM JST! Birthday Game Song Live with New 3D Reveal 🎉",
+          "body": "My already cute 3D model is being reborn as an even cuter new 3D!!\n\nThe live concept is \"Game Songs\" 🎮✨\n\nI've poured all my love for my favorite games into this,\nand prepared it with so much care, so please come watch! 🥰\n\nI've linked the holomems appearing as guests in the related section!\nAlso, Nijisanji's Petra Gurin-oneechan & Igarashi Rika-san, singer Suara-san, and Assistant-kun are joining as guests! ✨\n\nLook forward to it! ❣\n\n🔽Stream Link🔽\nhttps://www.youtube.com/watch?v=yGN0gj0o1GU"
+        },
+        "id": {
+          "title": "20:00 JST! Live Lagu Game Ulang Tahun dengan Pengungkapan 3D Baru🎉",
+          "body": "Model 3D-ku yang sudah imut akan terlahir kembali menjadi 3D baru yang jauh lebih imut!!\n\nKonsep live-nya adalah \"Lagu Game\" 🎮✨\n\nAku sudah mencurahkan semua cintaku pada game-game favoritku\ndan mempersiapkannya dengan sangat teliti, jadi tolong tonton ya! 🥰\n\nAku sudah menautkan holomem yang akan tampil sebagai tamu di bagian terkait!\nSelain itu, Petra Gurin-oneechan & Igarashi Rika-san dari Nijisanji, penyanyi Suara-san, dan Assistant-kun akan ikut bergabung sebagai tamu! ✨\n\nNantikan ya! ❣\n\n🔽Link Streaming🔽\nhttps://www.youtube.com/watch?v=yGN0gj0o1GU"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "855EE873-0E84-48BD-B9C4-14D2BD4F8B54",
     "channel_name": "一伊那尓栖",
     "thread_id": "d8ca52cb-9314-47c5-971c-1f129822171d",
