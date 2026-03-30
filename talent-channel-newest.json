@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "badeb301-42b0-4761-8d59-c6c1a0fdaaf3",
+    "thread": {
+      "id": "badeb301-42b0-4761-8d59-c6c1a0fdaaf3",
+      "created_at": 1774837626,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/badeb301-42b0-4761-8d59-c6c1a0fdaaf3/original_1774837627_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Shiori~n Thoughts",
+      "body": "Shiori~n Thoughts\n\nI'm browsing through some photos and found one I took at a busy street corner .\n\nI remember it being a warm day, and there was a man surrounded by dancing stuffed animals as he played the saxophone.\n\nThe toys were for sale, and I was considering buying one but talked myself out of purchasing it (I was trying to be responsible.)\n\nI was thinking I want one of these dancing toys again, and maybe have it dance on my desk while streaming!",
+      "translations": {
+        "ja": {
+          "title": "しおり〜んのつぶやき",
+          "body": "しおり〜んのつぶやき\n\n写真をいくつか見ていたら、賑やかな街角で撮った写真を見つけました。\n\n暖かかった日だったのを覚えています。サックスを演奏している男性が、踊るぬいぐるみたちに囲まれていました。\n\nそのおもちゃは売り物で、買おうか迷ったけど、結局やめてしまいました（責任感を発揮しようとしていたんです）。\n\nまたあの踊るおもちゃが欲しいなと思っていて、配信中にデスクの上で踊らせたいなと考えていました！"
+        },
+        "en": {
+          "title": "Shiori~n Thoughts",
+          "body": "Shiori~n Thoughts\n\nI'm browsing through some photos and found one I took at a busy street corner .\n\nI remember it being a warm day, and there was a man surrounded by dancing stuffed animals as he played the saxophone.\n\nThe toys were for sale, and I was considering buying one but talked myself out of purchasing it (I was trying to be responsible.)\n\nI was thinking I want one of these dancing toys again, and maybe have it dance on my desk while streaming!"
+        },
+        "id": {
+          "title": "Pemikiran Shiori~n",
+          "body": "Pemikiran Shiori~n\n\nAku sedang melihat-lihat beberapa foto dan menemukan satu yang kuambil di sudut jalan yang ramai.\n\nAku ingat hari itu hangat, dan ada seorang pria yang dikelilingi boneka-boneka menari sambil memainkan saksofon.\n\nMainan-mainan itu dijual, dan aku sempat berpikir untuk membelinya, tapi akhirnya tidak jadi (aku mencoba untuk bertanggung jawab).\n\nAku jadi berpikir ingin punya salah satu mainan menari itu lagi, dan mungkin bisa membuatnya menari di mejaku saat streaming!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
     "thread_id": "255e0dc1-aea6-4d8e-ac0a-fb01355f877c",
