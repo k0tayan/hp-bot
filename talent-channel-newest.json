@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "08341af8-fc41-4769-a38f-2bd50fde5a63",
+    "thread": {
+      "id": "08341af8-fc41-4769-a38f-2bd50fde5a63",
+      "created_at": 1775031785,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/08341af8-fc41-4769-a38f-2bd50fde5a63/original_1775031785_1.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "cc9eb596-fd8f-4344-bb42-b7282dbc1e7a",
+          "name": "猫又おかゆ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/nekomata_okayu/icon_20260311.png",
+          "key_name": "nekomata_okayu"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【募集】皆さん助けてください!!大変です!!【企画】",
+      "body": "白上フブキのマネージャーです。\nエイプリールフール企画を予定していたのですが\n\nフブキさんとおかゆさんが人間だった頃を忘れてしまいました。\n配信方法等は覚えてるみたいですが\n人間達の事がわからなくなってしまいました\n\nなので\n【人間社会の常識や知識】を募集致します。\n皆さんで、2人に人間の世界を教えてあげてください！\n\nどんな些細な嘘…ではなく！\n内容でも大丈夫です。\n\nよろしくお願い致します。\n募集した知識は配信にてご紹介させていただきます\n\n▶ ︎https://www.youtube.com/live/-yv-HGl_dCQ?si=EvAiPct42cw_Uqvp\n\n何卒よろしくお願い致します。",
+      "translations": {
+        "ja": {
+          "title": "【募集】皆さん助けてください!!大変です!!【企画】",
+          "body": "白上フブキのマネージャーです。\nエイプリールフール企画を予定していたのですが\n\nフブキさんとおかゆさんが人間だった頃を忘れてしまいました。\n配信方法等は覚えてるみたいですが\n人間達の事がわからなくなってしまいました\n\nなので\n【人間社会の常識や知識】を募集致します。\n皆さんで、2人に人間の世界を教えてあげてください！\n\nどんな些細な嘘…ではなく！\n内容でも大丈夫です。\n\nよろしくお願い致します。\n募集した知識は配信にてご紹介させていただきます\n\n▶ ︎https://www.youtube.com/live/-yv-HGl_dCQ?si=EvAiPct42cw_Uqvp\n\n何卒よろしくお願い致します。"
+        },
+        "en": {
+          "title": "【URGENT CALL】Everyone, Please Help!! It's a Big Problem!!【Project】",
+          "body": "This is Shirakami Fubuki's manager.\nWe were planning an April Fool's project, but...\n\nFubuki-san and Okayu-san have forgotten what it was like to be human!\nThey seem to remember how to stream and such, but they've completely forgotten about humans.\n\nSo, we are looking for [common sense and knowledge of human society]!\nEveryone, please teach them about the human world!\n\nEven the most trivial lies... no, I mean! Any content is fine.\n\nThank you in advance for your cooperation.\nThe knowledge you share will be introduced during the stream.\n\n▶ ︎https://www.youtube.com/live/-yv-HGl_dCQ?si=EvAiPct42cw_Uqvp\n\nWe sincerely appreciate your help."
+        },
+        "id": {
+          "title": "【PANGGILAN MENDESAK】Semuanya, Tolong Bantu!! Gawat Darurat!!【Proyek】",
+          "body": "Ini manajer Shirakami Fubuki.\nKami sedang merencanakan proyek April Mop, tapi...\n\nFubuki-san dan Okayu-san lupa bagaimana rasanya menjadi manusia!\nMereka sepertinya ingat cara streaming dan sebagainya, tapi mereka benar-benar lupa tentang manusia.\n\nJadi, kami mencari [akal sehat dan pengetahuan tentang masyarakat manusia]!\nSemuanya, tolong ajari mereka tentang dunia manusia!\n\nBahkan kebohongan sekecil apa pun... bukan! Konten apa pun boleh.\n\nTerima kasih sebelumnya atas kerja sama kalian.\nPengetahuan yang terkumpul akan kami perkenalkan di siaran langsung.\n\n▶ ︎https://www.youtube.com/live/-yv-HGl_dCQ?si=EvAiPct42cw_Uqvp\n\nKami sangat menghargai bantuan kalian."
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "badeb301-42b0-4761-8d59-c6c1a0fdaaf3",
