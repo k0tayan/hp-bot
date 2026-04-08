@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "e43069d3-cefb-49a6-9a4f-a39bb821c1a7",
+    "thread": {
+      "id": "e43069d3-cefb-49a6-9a4f-a39bb821c1a7",
+      "created_at": 1775613964,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/e43069d3-cefb-49a6-9a4f-a39bb821c1a7/original_1775613964_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "These are my slippers! They're a little ...",
+      "body": "These are my slippers! They're a little loose on me, but I wear them anyway since they're just meant for home use.\n\nYour feet goes behind it - not into its mouth! (Unless you're freaky I guess.)\n\nI like how derpy the eyes are. \nWhen I first saw it, I immediately thought, 'MUST BUY'! \nThe sight fills me with much whimsy and glee...",
+      "translations": {
+        "ja": {
+          "title": "これ、私のスリッパなの！ちょっとゆるいん...",
+          "body": "これ、私のスリッパなの！ちょっとゆるいんだけど、家で使うだけだから気にせず履いてるよ。\n\n足は口の中じゃなくて、後ろに入れるんだよ！(変な人じゃなければね！)\n\nこの間の抜けた目が好きなんだよね。\n初めて見た時、「絶対買う！」って即決したの！\nこれを見ると、なんだか楽しくてウキウキしちゃうんだよね…"
+        },
+        "en": {
+          "title": "These are my slippers! They're a little ...",
+          "body": "These are my slippers! They're a little loose on me, but I wear them anyway since they're just meant for home use.\n\nYour feet goes behind it - not into its mouth! (Unless you're freaky I guess.)\n\nI like how derpy the eyes are. \nWhen I first saw it, I immediately thought, 'MUST BUY'! \nThe sight fills me with much whimsy and glee..."
+        },
+        "id": {
+          "title": "Ini sandal rumahku! Agak longgar sih di ...",
+          "body": "Ini sandal rumahku! Agak longgar sih di kakiku, tapi aku tetap pakai karena cuma buat di rumah aja.\n\nKakimu masuknya di belakang ya – jangan ke mulutnya! (Kecuali kalau kamu aneh, sih.)\n\nAku suka banget matanya yang bloon itu.\nWaktu pertama kali lihat, aku langsung mikir, 'WAJIB BELI'!\nPemandangan ini bikin aku senang dan ceria banget..."
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "08341af8-fc41-4769-a38f-2bd50fde5a63",
