@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
+    "channel_name": "フワモコ",
+    "thread_id": "5ed3d12e-ea90-4e99-b312-6480aaffbdba",
+    "thread": {
+      "id": "5ed3d12e-ea90-4e99-b312-6480aaffbdba",
+      "created_at": 1776344232,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/5ed3d12e-ea90-4e99-b312-6480aaffbdba/original_1776344232_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "8346f015-dcc8-4502-9a2a-764de41ede44",
+          "name": "フワモコ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon_20260311.png",
+          "key_name": "fuwamoco"
+        }
+      ],
+      "user": {
+        "id": "7fdeb05a-74c6-4f09-b786-256dd5047c71",
+        "name": "フワモコ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/fuwamoco/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Fuwawa in the Hospital 🏥🩵",
+      "body": "BAU BAUー！！🐾✨\nIt feels like I’ve been stuck in the hospital for so long… Is it getting hot outside now, Ruffians? Is it starting to feel like summer? ☀️ It’s been so long since I last had a pon-de-ring that I feel like I’m forgetting how delicious it is… What does the doghouse look like again… I miss being free and having fun with you so so much, Ruffians!! 🐾🩵 bau bau…!! \n\n\n(if you listen to the voice message you can hear how loud and obnoxious the wall clock in my hospital room is… ⏰💦)",
+      "translations": {
+        "ja": {
+          "title": "フワワ in 病院🏥🩵",
+          "body": "BAU BAUー！！🐾✨\n入院してからもうずいぶん時間が経った気がする…外はもう暑くなってる？ラフィアンズのみんな、外の世界はもう夏って感じなの？☀️ ポン・デ・リングを最後に食べたのがいつだったか思い出せないくらいずーっとここにいる気がする… もうどんな味だったか忘れちゃいそう… ドッグハウスもどんな感じだったっけ… ラフィアンズのみんなと自由に楽しく過ごすのが本当に本当に恋しいよ！！早く会いたい！！🐾🩵 bau bau…！！\n\n\n（ボイスメッセージをよく聞くと、病室の壁掛け時計がどれくらいうるさいか分かるよ… ⏰💦）"
+        },
+        "en": {
+          "title": "Fuwawa in the Hospital 🏥🩵",
+          "body": "BAU BAUー！！🐾✨\nIt feels like I’ve been stuck in the hospital for so long… Is it getting hot outside now, Ruffians? Is it starting to feel like summer? ☀️ It’s been so long since I last had a pon-de-ring that I feel like I’m forgetting how delicious it is… What does the doghouse look like again… I miss being free and having fun with you so so much, Ruffians!! 🐾🩵 bau bau…!! \n\n\n(if you listen to the voice message you can hear how loud and obnoxious the wall clock in my hospital room is… ⏰💦)"
+        },
+        "id": {
+          "title": "Fuwawa di Rumah Sakit 🏥🩵",
+          "body": "BAU BAUー！！🐾✨\nRasanya sudah lama sekali aku terjebak di rumah sakit… Apa di luar sudah mulai panas sekarang, Ruffian? Apa sudah mulai terasa seperti musim panas? ☀️ Sudah lama sekali sejak terakhir aku makan pon-de-ring sampai rasanya aku lupa betapa lezatnya itu… Rumah anjing itu seperti apa lagi ya… Aku sangat sangat merindukan kebebasan dan bersenang-senang bersama kalian, Ruffian!! 🐾🩵 bau bau…!!\n\n\n(kalau kalian dengarkan pesan suara, kalian bisa dengar betapa berisik dan mengganggunya jam dinding di kamar rumah sakitku… ⏰💦)"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/6c2eeb03-4a85-4a5e-84fb-210db6a37496.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "855EE873-0E84-48BD-B9C4-14D2BD4F8B54",
     "channel_name": "一伊那尓栖",
     "thread_id": "856c6a1a-9384-485d-a25b-77fa13179b90",
