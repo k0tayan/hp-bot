@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "855EE873-0E84-48BD-B9C4-14D2BD4F8B54",
+    "channel_name": "一伊那尓栖",
+    "thread_id": "856c6a1a-9384-485d-a25b-77fa13179b90",
+    "thread": {
+      "id": "856c6a1a-9384-485d-a25b-77fa13179b90",
+      "created_at": 1776301648,
+      "talents": [
+        {
+          "id": "38a1da05-9a78-486a-8244-b30b4ca537ee",
+          "name": "一伊那尓栖",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ninomae_ina%27nis/icon_20260311.png",
+          "key_name": "ninomae_ina'nis"
+        }
+      ],
+      "user": {
+        "id": "afca9d49-70a0-4ca4-a53d-e695997fd816",
+        "name": "一伊那尓栖",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/ninomae_ina%27nis/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "my voice is slowly coming back but i sti...",
+      "body": "my voice is slowly coming back but i still sound like a grandma!!!! 👵 \ni’ll be back soon!! i think i should be well enough by next week…! yoshaaa!!!!",
+      "translations": {
+        "ja": {
+          "title": "声はゆっくり戻ってきてるんだけど、まだお...",
+          "body": "声はゆっくり戻ってきてるんだけど、まだおばあちゃんみたいな声なの!!!! 👵\nすぐ戻ってくるからね！！来週には元気になってるはず…！よっしゃー!!!!"
+        },
+        "en": {
+          "title": "my voice is slowly coming back but i sti...",
+          "body": "my voice is slowly coming back but i still sound like a grandma!!!! 👵 \ni’ll be back soon!! i think i should be well enough by next week…! yoshaaa!!!!"
+        },
+        "id": {
+          "title": "suaraku pelan-pelan kembali tapi masih k...",
+          "body": "suaraku pelan-pelan kembali tapi masih kedengaran kayak nenek-nenek!!!! 👵\nAku akan segera kembali!! Kurasa aku sudah akan pulih minggu depan…! yoshaaa!!!!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/33ff4e20-f205-4f70-a39b-f5543cb5dc9b.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "1959e87f-f24d-4d25-8534-5d7ff6ca075e",
