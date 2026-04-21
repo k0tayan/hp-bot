@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "d95c274f-7713-4e0e-9ba0-8f4b0675fedf",
+    "thread": {
+      "id": "d95c274f-7713-4e0e-9ba0-8f4b0675fedf",
+      "created_at": 1776761878,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "b3521645-5b78-439b-920f-b685edf69588",
+          "name": "大神ミオ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ookami_mio/icon.png",
+          "key_name": "ookami_mio"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "フブミオに聞きたい『究極の二択』",
+      "body": "本日20時から配信予定フブミオ重大告知にて\nいくつかご紹介させていただきます。\n▶https://youtube.com/live/uUFOhSEntNQ?feature=share\n◾︎募集内容\nフブミオに選んで欲しい究極の二択\n（例）\n朝ごはんは？　A,パン　B,ご飯\nゲーム配信するなら？　A,RPG　B.アクション\n\n「例題　AorB」でご記入をおねがいします",
+      "translations": {
+        "ja": {
+          "title": "フブミオに聞きたい『究極の二択』",
+          "body": "本日20時から配信予定フブミオ重大告知にて\nいくつかご紹介させていただきます。\n▶https://youtube.com/live/uUFOhSEntNQ?feature=share\n◾︎募集内容\nフブミオに選んで欲しい究極の二択\n（例）\n朝ごはんは？　A,パン　B,ご飯\nゲーム配信するなら？　A,RPG　B.アクション\n\n「例題　AorB」でご記入をおねがいします"
+        },
+        "en": {
+          "title": "FubuMio's 'Ultimate Two-Choice Questions'",
+          "body": "We'll be introducing some of them during the FubuMio Major Announcement stream scheduled for today at 8 PM JST!\n▶https://youtube.com/live/uUFOhSEntNQ?feature=share\n◾︎ Submission Details\nUltimate two-choice questions you want FubuMio to choose from\n(Example)\nWhat's for breakfast? A. Bread B. Rice\nIf you stream games, what genre? A. RPG B. Action\n\nPlease submit using the format 'Your Question A or B'."
+        },
+        "id": {
+          "title": "『Dua Pilihan Ultimatum』 untuk FubuMio",
+          "body": "Kami akan memperkenalkan beberapa di antaranya pada pengumuman penting FubuMio yang dijadwalkan tayang hari ini pukul 20:00 JST!\n▶https://youtube.com/live/uUFOhSEntNQ?feature=share\n◾︎ Isi Perekrutan\nDua pilihan ultimatum yang ingin kalian FubuMio pilih\n(Contoh)\nSarapan apa? A. Roti B. Nasi\nJika melakukan streaming game? A. RPG B. Aksi\n\nMohon isi dengan format 'Pertanyaanmu A atau B'."
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "26A5B2F0-E734-450A-91E5-6C60E95211F2",
     "channel_name": "フワモコ",
     "thread_id": "5ed3d12e-ea90-4e99-b312-6480aaffbdba",
