@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "9b5bf403-86c2-469a-8547-2cb3a165ebb4",
+    "thread": {
+      "id": "9b5bf403-86c2-469a-8547-2cb3a165ebb4",
+      "created_at": 1776854062,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/9b5bf403-86c2-469a-8547-2cb3a165ebb4/original_1776854062_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "For those in Japan, I have a future vide...",
+      "body": "For those in Japan, I have a future video idea and need some help with some research! \n\nCould you tell me THREE fashionable menswear clothing brands / shopping locations in Tokyo with prices across these tiers?\n\nAffordable \nMid-range\nExpensive quality \n\nThank you!",
+      "translations": {
+        "ja": {
+          "title": "日本にお住まいの皆さんへ、今後の動画のア...",
+          "body": "日本にお住まいの皆さんへ、今後の動画のアイデアがあり、リサーチにご協力いただけると嬉しいです！\n\n東京にある、以下の価格帯でファッショナブルなメンズ服ブランド／ショッピングスポットを3つ教えていただけますか？\n\nお手頃価格\n中価格帯\n高品質・高価格帯\n\nよろしくお願いいたします！"
+        },
+        "en": {
+          "title": "For those in Japan, I have a future vide...",
+          "body": "For those in Japan, I have a future video idea and need some help with some research! \n\nCould you tell me THREE fashionable menswear clothing brands / shopping locations in Tokyo with prices across these tiers?\n\nAffordable \nMid-range\nExpensive quality \n\nThank you!"
+        },
+        "id": {
+          "title": "Untuk kalian yang di Jepang, aku punya i...",
+          "body": "Untuk kalian yang di Jepang, aku punya ide video ke depan dan butuh bantuan riset!\n\nBisakah kalian memberitahuku TIGA merek pakaian pria / lokasi belanja yang modis di Tokyo dengan harga di kategori ini?\n\nTerjangkau\nMenengah\nKualitas mahal\n\nTerima kasih!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "8d5bf0f1-8266-4de0-a537-549faaa4ca3c",
