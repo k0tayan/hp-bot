@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "bfb38718-a872-4882-b50a-8a67c91f451f",
+    "thread": {
+      "id": "bfb38718-a872-4882-b50a-8a67c91f451f",
+      "created_at": 1776850260,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/custom_icon/uploaded_1771987556.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ポルカから電話です",
+      "body": "ポルカから電話です",
+      "translations": {
+        "ja": {
+          "title": "ポルカから電話です",
+          "body": "ポルカから電話です"
+        },
+        "en": {
+          "title": "Call from Polka.",
+          "body": "Call from Polka."
+        },
+        "id": {
+          "title": "Panggilan dari Polka.",
+          "body": "Panggilan dari Polka."
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/459040ea-21b7-4048-ba2d-0d1efbaae146.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "3b4bd258-b00e-40be-a76a-4bffdb76bddf",
