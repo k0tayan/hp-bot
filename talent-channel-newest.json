@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "8d5bf0f1-8266-4de0-a537-549faaa4ca3c",
+    "thread": {
+      "id": "8d5bf0f1-8266-4de0-a537-549faaa4ca3c",
+      "created_at": 1776853344,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "このあと！狐族密会 みーてねー＼(^o^)／",
+      "body": "このあと！狐族密会 みーてねー＼(^o^)／",
+      "translations": {
+        "ja": {
+          "title": "このあと！狐族密会 みーてねー＼(^o^)／",
+          "body": "このあと！狐族密会 みーてねー＼(^o^)／"
+        },
+        "en": {
+          "title": "Soon! Fox Tribe Secret Meeting, watch it...",
+          "body": "Soon! Fox Tribe Secret Meeting, watch it~＼(^o^)／"
+        },
+        "id": {
+          "title": "Sebentar lagi! Pertemuan Rahasia Suku Ru...",
+          "body": "Sebentar lagi! Pertemuan Rahasia Suku Rubah, tonton ya~＼(^o^)／"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/f41bd6ce-ccaf-45a9-a1b6-f60352740bed.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "bfb38718-a872-4882-b50a-8a67c91f451f",
