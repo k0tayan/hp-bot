@@ -2,6 +2,159 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "5a7b1c1e-743b-4e23-959b-56a002e4fbef",
+    "thread": {
+      "id": "5a7b1c1e-743b-4e23-959b-56a002e4fbef",
+      "created_at": 1776828370,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/5a7b1c1e-743b-4e23-959b-56a002e4fbef/original_1776828370_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【狐族密会募集】春だから許してやったエピソード",
+      "body": "本日20時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎募集内容\n「春だから許してやったエピソード」を募集します",
+      "translations": {
+        "ja": {
+          "title": "【狐族密会募集】春だから許してやったエピソード",
+          "body": "本日20時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎募集内容\n「春だから許してやったエピソード」を募集します"
+        },
+        "en": {
+          "title": "Episodes You Forgave Because It's Spring",
+          "body": "The radio program scheduled to be broadcast from 8 PM JST today 📻\nWe will introduce some of your submissions on Fox Clan Secret Meeting.\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎Submission Theme:\nWe are looking for 'Episodes You Forgave Because It's Spring'."
+        },
+        "id": {
+          "title": "Episode yang Kamu Maafkan Karena Musim Semi",
+          "body": "Program radio yang dijadwalkan tayang mulai pukul 20:00 WIB hari ini 📻\nKami akan memperkenalkan beberapa di antaranya di Pertemuan Rahasia Klan Rubah.\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎Tema Kiriman:\nKami mencari 'Episode yang Kamu Maafkan Karena Musim Semi'."
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "0583e3ca-ae5b-416a-b9df-8a956e65869a",
+    "thread": {
+      "id": "0583e3ca-ae5b-416a-b9df-8a956e65869a",
+      "created_at": 1776828296,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/0583e3ca-ae5b-416a-b9df-8a956e65869a/original_1776828296_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【狐族密会募集】三日坊主」のエピソード",
+      "body": "本日20時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎募集内容\nこれまであった「三日坊主」のエピソードを募集します\n\n（例）\nダイエットをはじめたがすぐ終わった…等",
+      "translations": {
+        "ja": {
+          "title": "【狐族密会募集】三日坊主」のエピソード",
+          "body": "本日20時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎募集内容\nこれまであった「三日坊主」のエピソードを募集します\n\n（例）\nダイエットをはじめたがすぐ終わった…等"
+        },
+        "en": {
+          "title": "[Fox Clan Secret Meeting Recruitment] Episodes of \"Three-Day Monk\"",
+          "body": "Our radio program 📻, scheduled to air today from 8 PM JST,\nwill feature some of your submissions in the Fox Clan Secret Meeting.\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎Recruitment Details\nWe are looking for episodes where you've been a \"three-day monk\" (i.e., started something but quickly gave up).\n\n(Example)\nStarted a diet but it ended quickly... etc."
+        },
+        "id": {
+          "title": "Episode \"Tukang Berhenti di Tengah Jalan\"",
+          "body": "Program radio kami 📻, yang dijadwalkan tayang hari ini mulai pukul 20:00 JST,\nakan menampilkan beberapa kiriman kalian di Pertemuan Rahasia Klan Rubah.\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎Detail Perekrutan\nKami mencari episode di mana kalian menjadi \"tukang berhenti di tengah jalan\" (misalnya, memulai sesuatu tapi cepat menyerah).\n\n(Contoh)\nMulai diet tapi cepat selesai... dll."
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "13e80c7d-92cd-4e9f-aa5e-367082dec5c5",
+    "thread": {
+      "id": "13e80c7d-92cd-4e9f-aa5e-367082dec5c5",
+      "created_at": 1776828179,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/13e80c7d-92cd-4e9f-aa5e-367082dec5c5/original_1776828179_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【狐族密会募集】「小さな幸」を教えてください",
+      "body": "本日20時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎募集内容\n最近感じた「小さな幸」を教えてください\n\n（例）\n外へ出かけたら晴れだった　等",
+      "translations": {
+        "ja": {
+          "title": "【狐族密会募集】「小さな幸」を教えてください",
+          "body": "本日20時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎募集内容\n最近感じた「小さな幸」を教えてください\n\n（例）\n外へ出かけたら晴れだった　等"
+        },
+        "en": {
+          "title": "[Kitsune-zoku Mitsukai Submissions] Tell us your 'Small Joys'",
+          "body": "Radio program scheduled to stream today from 8 PM JST 📻\nWe'll be introducing some of your submissions on Kitsune-zoku Mitsukai.\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎Submission Details\nPlease tell us about the 'small joys' you've recently felt.\n\n(Example)\nIt was sunny when I went outside, etc."
+        },
+        "id": {
+          "title": "[Perekrutan Kitsune-zoku Mitsukai] Ceritakan 'Kebahagiaan Kecil' kalian",
+          "body": "Program radio yang dijadwalkan tayang hari ini mulai pukul 20:00 JST 📻\nKami akan memperkenalkan beberapa di antaranya di Kitsune-zoku Mitsukai.\n▶https://youtube.com/live/c_qfG21MCOc?feature=share\n◾︎Detail Perekrutan\nCeritakan 'kebahagiaan kecil' yang baru-baru ini kalian rasakan.\n\n(Contoh)\nSaat keluar rumah cuacanya cerah, dll."
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "d95c274f-7713-4e0e-9ba0-8f4b0675fedf",
     "thread": {
       "id": "d95c274f-7713-4e0e-9ba0-8f4b0675fedf",
