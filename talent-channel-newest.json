@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "62067207-5268-4ed3-88bd-84852b233a21",
+    "thread": {
+      "id": "62067207-5268-4ed3-88bd-84852b233a21",
+      "created_at": 1776861779,
+      "talents": [
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/custom_icon/uploaded_1771987556.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今日もお疲れ様💓",
+      "body": "今日もお疲れ様💓",
+      "translations": {
+        "ja": {
+          "title": "今日もお疲れ様💓",
+          "body": "今日もお疲れ様💓"
+        },
+        "en": {
+          "title": "Good work today, too! 💓",
+          "body": "Good work today, too! 💓"
+        },
+        "id": {
+          "title": "Kerja bagus hari ini juga! 💓",
+          "body": "Kerja bagus hari ini juga! 💓"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/a00164e0-3b5b-4870-ac90-732b2a57e532.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "44f8ff2c-dbdb-489f-84f9-ef0c89f7764f",
