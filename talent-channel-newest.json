@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "44f8ff2c-dbdb-489f-84f9-ef0c89f7764f",
+    "thread": {
+      "id": "44f8ff2c-dbdb-489f-84f9-ef0c89f7764f",
+      "created_at": 1776861507,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "狐族密会配信ありがとうございましたー！✨️",
+      "body": "狐族密会配信ありがとうございましたー！✨️\n",
+      "translations": {
+        "ja": {
+          "title": "狐族密会配信ありがとうございましたー！✨️",
+          "body": "狐族密会配信ありがとうございましたー！✨️\n"
+        },
+        "en": {
+          "title": "Thank you for the Kitsune Tribe Secret M...",
+          "body": "Thank you for the Kitsune Tribe Secret Meeting stream! ✨"
+        },
+        "id": {
+          "title": "Terima kasih banyak atas streaming Perte...",
+          "body": "Terima kasih banyak atas streaming Pertemuan Rahasia Suku Kitsune! ✨"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/3144197c-1e9b-422b-a500-130ef81d59e7.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "9b5bf403-86c2-469a-8547-2cb3a165ebb4",
