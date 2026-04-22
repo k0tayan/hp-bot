@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "3b4bd258-b00e-40be-a76a-4bffdb76bddf",
+    "thread": {
+      "id": "3b4bd258-b00e-40be-a76a-4bffdb76bddf",
+      "created_at": 1776835556,
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "I'M DYING..",
+      "body": " (in Dark Souls 2) -Praises sun and dies- \n\nhttps://youtube.com/shorts/ZX2q3rR3cYw?si=zn9MpYDXvFaVeX7D",
+      "translations": {
+        "ja": {
+          "title": "死ぬ…",
+          "body": "（ダークソウル2で）-太陽を賛美して死ぬ- \n\nhttps://youtube.com/shorts/ZX2q3rR3cYw?si=zn9MpYDXvFaVeX7D"
+        },
+        "en": {
+          "title": "I'M DYING..",
+          "body": " (in Dark Souls 2) -Praises sun and dies- \n\nhttps://youtube.com/shorts/ZX2q3rR3cYw?si=zn9MpYDXvFaVeX7D"
+        },
+        "id": {
+          "title": "AKU MATI..",
+          "body": " (di Dark Souls 2) -Memuji matahari dan mati- \n\nhttps://youtube.com/shorts/ZX2q3rR3cYw?si=zn9MpYDXvFaVeX7D"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "5a7b1c1e-743b-4e23-959b-56a002e4fbef",
