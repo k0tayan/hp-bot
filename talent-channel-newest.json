@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
+    "channel_name": "ときのそら",
+    "thread_id": "61bff3db-1dce-49b3-80e6-3a7c8fd4d543",
+    "thread": {
+      "id": "61bff3db-1dce-49b3-80e6-3a7c8fd4d543",
+      "created_at": 1777029422,
+      "talents": [
+        {
+          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
+          "name": "ときのそら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
+          "key_name": "tokino_sora"
+        },
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "fba971c0-a958-4d6d-bb6f-21a6e7a04f8b",
+        "name": "ときのそら",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/custom_icon/uploaded_1772442546.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ホロカにゅーすLIVE 第1問 【「AIこより」のアーツ名を答えよ】",
+      "body": "[[holoplus_survey_start]]\nA. 1.ハッピーグラス\nB. 2.ハッピーローズ\nC. 3.ハッピーリース\nD. 4.ハッピーリーフ\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "ホロカにゅーすLIVE 第1問 【「AIこより」のアーツ名を答えよ】",
+          "body": "[[holoplus_survey_start]]\nA. 1.ハッピーグラス\nB. 2.ハッピーローズ\nC. 3.ハッピーリース\nD. 4.ハッピーリーフ\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "HolocaNEWS LIVE Question 1: 【Name AI Koyori's Arts】",
+          "body": "[[holoplus_survey_start]]\nA. 1. Happy Glass\nB. 2. Happy Rose\nC. 3. Happy Wreath\nD. 4. Happy Leaf\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "HolocaNEWS LIVE Pertanyaan 1: 【Sebutkan Nama Arts 'AI Koyori'】",
+          "body": "[[holoplus_survey_start]]\nA. 1. Happy Glass\nB. 2. Happy Rose\nC. 3. Happy Wreath\nD. 4. Happy Leaf\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
     "thread_id": "b5421a48-0396-4dcd-96d3-23210c915846",
