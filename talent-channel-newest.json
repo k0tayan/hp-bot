@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "1914dc09-19a0-4bd2-b0e0-1e0ae1e6092b",
+    "thread": {
+      "id": "1914dc09-19a0-4bd2-b0e0-1e0ae1e6092b",
+      "created_at": 1777029631,
+      "talents": [
+        {
+          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
+          "name": "ときのそら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
+          "key_name": "tokino_sora"
+        },
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ホロカにゅーすLIVE 第2問【SP推しスキルはなに？】",
+      "body": "[[holoplus_survey_start]]\nA. ホロライブのレジスタンスだと名乗ったから\nB. ホロライブの強者を倒そうとしたから\nC. 秘密結社のメンバーだと名乗ったから\nD. ちょうど機嫌が悪いタイミングだったから\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "ホロカにゅーすLIVE 第2問【SP推しスキルはなに？】",
+          "body": "[[holoplus_survey_start]]\nA. ホロライブのレジスタンスだと名乗ったから\nB. ホロライブの強者を倒そうとしたから\nC. 秘密結社のメンバーだと名乗ったから\nD. ちょうど機嫌が悪いタイミングだったから\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Holoca News LIVE Question 2: 【What is the SP Oshi Skill?】",
+          "body": "[[holoplus_survey_start]]\nA. Because they claimed to be a hololive re\nB. Because they tried to defeat a strong ho\nC. Because they claimed to be a member of a\nD. Because it was just bad timing (they wer\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Holoca News LIVE Pertanyaan 2: 【Apa itu SP Oshi Skill?】",
+          "body": "[[holoplus_survey_start]]\nA. Karena mereka mengaku sebagai anggota pe\nB. Karena mereka mencoba mengalahkan anggot\nC. Karena mereka mengaku sebagai anggota or\nD. Karena kebetulan suasana hati mereka sed\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
     "channel_name": "ときのそら",
     "thread_id": "61bff3db-1dce-49b3-80e6-3a7c8fd4d543",
