@@ -2,6 +2,48 @@
   {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
+    "thread_id": "bfc8e999-7b4b-4421-b73f-761e16808311",
+    "thread": {
+      "id": "bfc8e999-7b4b-4421-b73f-761e16808311",
+      "created_at": 1777032301,
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "好きな麺料理は？ラーメン派？パスタ派？",
+      "body": "[[holoplus_survey_start]]\nA. ラーメン派！\nB. パスタ派！\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "好きな麺料理は？ラーメン派？パスタ派？",
+          "body": "[[holoplus_survey_start]]\nA. ラーメン派！\nB. パスタ派！\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "What's your favorite noodle dish? Are you Team Ramen or Team Pasta?",
+          "body": "[[holoplus_survey_start]]\nA. Team Ramen!\nB. Team Pasta!\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Apa hidangan mi favoritmu? Tim Ramen atau Tim Pasta?",
+          "body": "[[holoplus_survey_start]]\nA. Tim Ramen!\nB. Tim Pasta!\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
     "thread_id": "fe6fde96-b8ce-4f03-868e-e4e598a62111",
     "thread": {
       "id": "fe6fde96-b8ce-4f03-868e-e4e598a62111",
