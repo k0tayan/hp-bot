@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "b5421a48-0396-4dcd-96d3-23210c915846",
+    "thread": {
+      "id": "b5421a48-0396-4dcd-96d3-23210c915846",
+      "created_at": 1777019975,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/b5421a48-0396-4dcd-96d3-23210c915846/original_1777019975_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今日は20:00からホロカの公式番組に出るよ...",
+      "body": "今日は20:00からホロカの公式番組に出るよ〜〜〜！！！\nホロプラスをめっっっちゃ活用するっぽいので、チェックできるようにしておいてね！✨",
+      "translations": {
+        "ja": {
+          "title": "今日は20:00からホロカの公式番組に出るよ...",
+          "body": "今日は20:00からホロカの公式番組に出るよ〜〜〜！！！\nホロプラスをめっっっちゃ活用するっぽいので、チェックできるようにしておいてね！✨"
+        },
+        "en": {
+          "title": "Today from 20:00 JST, I'll be appearing ...",
+          "body": "Today from 20:00 JST, I'll be appearing on the official HoloCard program!!!\nIt seems like we'll be making extensive use of HoloPlus, so make sure you're ready to check it out! ✨"
+        },
+        "id": {
+          "title": "Hari ini mulai jam 20:00 JST, aku akan t...",
+          "body": "Hari ini mulai jam 20:00 JST, aku akan tampil di program resmi HoloCard!!!\nSepertinya kita akan memanfaatkan HoloPlus secara maksimal, jadi pastikan kalian siap untuk mengeceknya ya! ✨"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "62067207-5268-4ed3-88bd-84852b233a21",
