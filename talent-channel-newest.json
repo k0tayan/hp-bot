@@ -2,6 +2,132 @@
   {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
+    "thread_id": "fe6fde96-b8ce-4f03-868e-e4e598a62111",
+    "thread": {
+      "id": "fe6fde96-b8ce-4f03-868e-e4e598a62111",
+      "created_at": 1777031541,
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "じゃあ、こよと何しよっか？？",
+      "body": "[[holoplus_survey_start]]\nA. 海で思いっきり泳ぐ！\nB. 夏祭りデート♡\nC. ホロカでガチ対戦！\nD. ホロカの新情報が見たいです！！\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "じゃあ、こよと何しよっか？？",
+          "body": "[[holoplus_survey_start]]\nA. 海で思いっきり泳ぐ！\nB. 夏祭りデート♡\nC. ホロカでガチ対戦！\nD. ホロカの新情報が見たいです！！\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "So, what should we do with Koyori??",
+          "body": "[[holoplus_survey_start]]\nA. Swim to our heart's content at the beach\nB. Summer festival date ♡\nC. Serious battle with HoloCard!\nD. I want to see new HoloCard info!!\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Jadi, kita mau ngapain sama Koyo??",
+          "body": "[[holoplus_survey_start]]\nA. Berenang sepuasnya di pantai!\nB. Kencan festival musim panas ♡\nC. Pertarungan serius dengan HoloCard!\nD. Aku ingin melihat info baru HoloCard!!\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "d229ff56-dc0f-4eae-a52c-f4fff41e80ce",
+    "thread": {
+      "id": "d229ff56-dc0f-4eae-a52c-f4fff41e80ce",
+      "created_at": 1777031480,
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "誰といくの？？もちろんこよと行きたいよね〜？？",
+      "body": "[[holoplus_survey_start]]\nA. もちろんこよと！\nB. 友達と！\nC. ホロカ仲間と！\nD. ホロカの新情報ありますか？\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "誰といくの？？もちろんこよと行きたいよね〜？？",
+          "body": "[[holoplus_survey_start]]\nA. もちろんこよと！\nB. 友達と！\nC. ホロカ仲間と！\nD. ホロカの新情報ありますか？\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Who are you going with?? You want to go with Koyo, right~??",
+          "body": "[[holoplus_survey_start]]\nA. Of course with Koyo!\nB. With friends!\nC. With Holoka buddies!\nD. Any new Holoka info?\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Kamu mau pergi sama siapa?? Tentu saja kamu mau pergi sama Koyo, kan~??",
+          "body": "[[holoplus_survey_start]]\nA. Tentu saja sama Koyo!\nB. Sama teman!\nC. Sama teman Holoka!\nD. Ada info baru Holoka?\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "eacf53df-4b6b-406e-a2bf-c9075c906459",
+    "thread": {
+      "id": "eacf53df-4b6b-406e-a2bf-c9075c906459",
+      "created_at": 1777031419,
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "みんなはこの夏どうするか決めてるの？",
+      "body": "[[holoplus_survey_start]]\nA. 夏祭りが楽しみ！\nB. ホロカのイベント！！\nC. 海に行くぞ〜〜！\nD. ホロカの新情報は？？\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "みんなはこの夏どうするか決めてるの？",
+          "body": "[[holoplus_survey_start]]\nA. 夏祭りが楽しみ！\nB. ホロカのイベント！！\nC. 海に行くぞ〜〜！\nD. ホロカの新情報は？？\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Have you all decided what you're doing this summer?",
+          "body": "[[holoplus_survey_start]]\nA. Looking forward to summer festivals!\nB. hololive card game events!!\nC. Going to the beach~!\nD. Any new info on the hololive card game??\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Apakah kalian semua sudah memutuskan mau melakukan apa musim panas ini?",
+          "body": "[[holoplus_survey_start]]\nA. Tidak sabar menanti festival musim panas\nB. Acara hololive card game!!\nC. Mau pergi ke pantai~~!\nD. Ada info baru tentang hololive card game\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
     "thread_id": "1914dc09-19a0-4bd2-b0e0-1e0ae1e6092b",
     "thread": {
       "id": "1914dc09-19a0-4bd2-b0e0-1e0ae1e6092b",
