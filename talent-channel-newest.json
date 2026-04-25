@@ -1,5 +1,167 @@
 [
   {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "988152b9-efe4-474a-9a4b-483470cea2e3",
+    "thread": {
+      "id": "988152b9-efe4-474a-9a4b-483470cea2e3",
+      "created_at": 1777082953,
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "holoXライブ前に、",
+      "body": "holoXライブ前に、\nレアなこよりがホロプラスに参上～～～！！！\n\nholoXのみんなが怪しい封筒をもらっていると聞いて\n調査しに来たよー！\n\nと思ったらこよのところにも見慣れない封筒が・・・！？😳\n中には「V」・・・？\n\n#ホロプラス企画",
+      "translations": {
+        "ja": {
+          "title": "holoXライブ前に、",
+          "body": "holoXライブ前に、\nレアなこよりがホロプラスに参上～～～！！！\n\nholoXのみんなが怪しい封筒をもらっていると聞いて\n調査しに来たよー！\n\nと思ったらこよのところにも見慣れない封筒が・・・！？😳\n中には「V」・・・？\n\n#ホロプラス企画"
+        },
+        "en": {
+          "title": "Before the holoX live,",
+          "body": "Before the holoX live,\nRare Koyori makes an appearance on holoplus~~~!!!\n\nI heard everyone in holoX received suspicious envelopes,\nso I came to investigate!\n\nBut then, an unfamiliar envelope appeared for Koyo too...!?😳\nInside was 'V'...?\n\n#HoloplusProject"
+        },
+        "id": {
+          "title": "Sebelum live holoX,",
+          "body": "Sebelum live holoX,\nKoyori yang langka muncul di holoplus~~~!!!\n\nAku dengar semua orang di holoX menerima amplop mencurigakan,\njadi aku datang untuk menyelidiki!\n\nTapi kemudian, amplop asing juga muncul untuk Koyo...!?😳\nDi dalamnya ada 'V'...?\n\n#ProyekHoloplus"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "55B8442E-EDEE-4024-843C-A692F6929964",
+    "channel_name": "鷹嶺ルイ",
+    "thread_id": "d87d6ed6-74a4-4821-b177-f10ac4726205",
+    "thread": {
+      "id": "d87d6ed6-74a4-4821-b177-f10ac4726205",
+      "created_at": 1777082767,
+      "talents": [
+        {
+          "id": "08a03c6e-3b1a-4948-aa97-4e5ea7988907",
+          "name": "ラプラス・ダークネス",
+          "img_url": "https://asset.holoplus.com/talents/hololive/la%2B_darknesss/icon_20260311.png",
+          "key_name": "la+_darknesss"
+        },
+        {
+          "id": "e68478c3-cb8a-4f69-914b-54a98aa83bda",
+          "name": "鷹嶺ルイ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takane_lui/icon_20260311.png",
+          "key_name": "takane_lui"
+        },
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        },
+        {
+          "id": "5ef4d51e-d9d6-4582-900c-81d36b5d0576",
+          "name": "風真いろは",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kazama_iroha/icon.png",
+          "key_name": "kazama_iroha"
+        }
+      ],
+      "user": {
+        "id": "ab661796-8891-4a8a-bb50-65725345e120",
+        "name": "鷹嶺ルイ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/takane_lui/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "First MISSIONに向けて",
+      "body": "First MISSIONに向けて \n今日もダンスレッスン頑張ったよ！\nところでさっき 「I」って書かれたカードが届いんたんだよね。 \nholoXerのみんなへのヒントらしいんだけれど、何か知ってる？\n\n#ホロプラス企画",
+      "translations": {
+        "ja": {
+          "title": "First MISSIONに向けて",
+          "body": "First MISSIONに向けて \n今日もダンスレッスン頑張ったよ！\nところでさっき 「I」って書かれたカードが届いんたんだよね。 \nholoXerのみんなへのヒントらしいんだけれど、何か知ってる？\n\n#ホロプラス企画"
+        },
+        "en": {
+          "title": "Towards the First MISSION",
+          "body": "Towards the First MISSION\nI worked hard at dance lessons today too!\nBy the way, a card with \"I\" written on it just arrived.\nIt seems to be a hint for all the holoXers, but do any of you know anything about it?\n\n#holoplusProject"
+        },
+        "id": {
+          "title": "Menuju First MISSION",
+          "body": "Menuju First MISSION\nHari ini aku juga berlatih menari dengan giat!\nNgomong-ngomong, barusan ada kartu bertuliskan \"I\" yang datang.\nKatanya itu petunjuk untuk semua holoXer, tapi kalian tahu sesuatu nggak?"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "C59D74B1-87FD-467D-9D3A-0144C166D88A",
+    "channel_name": "ラプラス・ダークネス",
+    "thread_id": "625629a9-9202-4843-ba97-2a37b87230e0",
+    "thread": {
+      "id": "625629a9-9202-4843-ba97-2a37b87230e0",
+      "created_at": 1777082682,
+      "talents": [
+        {
+          "id": "08a03c6e-3b1a-4948-aa97-4e5ea7988907",
+          "name": "ラプラス・ダークネス",
+          "img_url": "https://asset.holoplus.com/talents/hololive/la%2B_darknesss/icon_20260311.png",
+          "key_name": "la+_darknesss"
+        },
+        {
+          "id": "e68478c3-cb8a-4f69-914b-54a98aa83bda",
+          "name": "鷹嶺ルイ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takane_lui/icon_20260311.png",
+          "key_name": "takane_lui"
+        },
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        },
+        {
+          "id": "5ef4d51e-d9d6-4582-900c-81d36b5d0576",
+          "name": "風真いろは",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kazama_iroha/icon.png",
+          "key_name": "kazama_iroha"
+        }
+      ],
+      "user": {
+        "id": "26d1cf5b-badb-4d47-8fd3-fef826d4a0d4",
+        "name": "ラプラス・ダークネス",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/la%2B_darknesss/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ついにホロプラスに参上！",
+      "body": "ついにホロプラスに参上！\n貴様らFirst MISSIONに向けて準備はいいかー！？\n吾輩は今日もばっちり特訓に励んだよ！\nそういえばさっき ホロプラスの運営チームから変な手紙が来てたんだけど！\n「L」…？吾輩のイニシャルか…？\n\n#ホロプラス企画",
+      "translations": {
+        "ja": {
+          "title": "ついにホロプラスに参上！",
+          "body": "ついにホロプラスに参上！\n貴様らFirst MISSIONに向けて準備はいいかー！？\n吾輩は今日もばっちり特訓に励んだよ！\nそういえばさっき ホロプラスの運営チームから変な手紙が来てたんだけど！\n「L」…？吾輩のイニシャルか…？\n\n#ホロプラス企画"
+        },
+        "en": {
+          "title": "Finally making my grand appearance on ho...",
+          "body": "Finally making my grand appearance on holoplus!\nAre you lot ready for the First MISSION!?\nI've been diligently training today too!\nSpeaking of which, I just got a strange letter from the holoplus operations team!\n\"L\"...? Is that my initial...?\n\n#holoplusProject"
+        },
+        "id": {
+          "title": "Akhirnya aku muncul di holoplus!",
+          "body": "Akhirnya aku muncul di holoplus!\nKalian sudah siap untuk First MISSION!?\nAku sudah berlatih keras hari ini juga!\nNgomong-ngomong, tadi aku dapat surat aneh dari tim operasional holoplus!\n\"L\"...? Apakah itu inisialku...?\n\n#Proyekholoplus"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "64B4F01C-8906-425D-81A2-268C8E920E64",
     "channel_name": "風真いろは",
     "thread_id": "a395308f-7272-4516-bb50-56a21b9357d8",
