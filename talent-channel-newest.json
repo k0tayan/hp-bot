@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "64B4F01C-8906-425D-81A2-268C8E920E64",
+    "channel_name": "風真いろは",
+    "thread_id": "a395308f-7272-4516-bb50-56a21b9357d8",
+    "thread": {
+      "id": "a395308f-7272-4516-bb50-56a21b9357d8",
+      "created_at": 1777082414,
+      "talents": [
+        {
+          "id": "5ef4d51e-d9d6-4582-900c-81d36b5d0576",
+          "name": "風真いろは",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kazama_iroha/icon.png",
+          "key_name": "kazama_iroha"
+        }
+      ],
+      "user": {
+        "id": "804188bc-3e14-417b-844c-964a2ae7b27d",
+        "name": "風真いろは",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kazama_iroha/custom_icon/uploaded_1773758878.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "もうすぐFIRST MISSION ('ω'乂)",
+      "body": "もうすぐFIRST MISSION ('ω'乂)\n皆さん予習は完璧ですか❔\n\nそういえばレッスン終わりに\nホロプラスの運営チームから\n「E」って書かれたカードを渡されたでござる💭\n\nなんか特別なミッションを開催中らしい(  '-'   )\n\n#ホロプラス企画\n",
+      "translations": {
+        "ja": {
+          "title": "もうすぐFIRST MISSION ('ω'乂)",
+          "body": "もうすぐFIRST MISSION ('ω'乂)\n皆さん予習は完璧ですか❔\n\nそういえばレッスン終わりに\nホロプラスの運営チームから\n「E」って書かれたカードを渡されたでござる💭\n\nなんか特別なミッションを開催中らしい(  '-'   )\n\n#ホロプラス企画\n"
+        },
+        "en": {
+          "title": "FIRST MISSION is coming soon ('ω'乂)",
+          "body": "FIRST MISSION is coming soon ('ω'乂)\nIs everyone perfectly prepared? ❔\n\nSpeaking of which, after my lesson,\nthe holoplus operations team\nhanded me a card with 'E' written on it 💭\n\nApparently, there's some special mission going on ( '- ' )\n\n#holoplusProject"
+        },
+        "id": {
+          "title": "FIRST MISSION sebentar lagi ('ω'乂)",
+          "body": "FIRST MISSION sebentar lagi ('ω'乂)\nApakah kalian semua sudah siap? ❔\n\nNgomong-ngomong, setelah pelajaran,\ntim operasional holoplus\nmemberiku kartu bertuliskan 'E' 💭\n\nSepertinya ada misi spesial yang sedang berlangsung ( '- ' )\n\n#ProyekHoloplus"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/f23e570e-7b14-4d93-b82e-dd0056b2438d.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
     "thread_id": "bfc8e999-7b4b-4421-b73f-761e16808311",
