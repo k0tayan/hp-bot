@@ -1,5 +1,68 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "30cca95a-c896-4ccf-ae8e-29cc1d10e71c",
+    "thread": {
+      "id": "30cca95a-c896-4ccf-ae8e-29cc1d10e71c",
+      "created_at": 1777472079,
+      "talents": [
+        {
+          "id": "7597ae32-5657-4ac3-82fd-2edff2dcf29f",
+          "name": "雪花ラミィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/yukihana_lamy/icon_20260311.png",
+          "key_name": "yukihana_lamy"
+        },
+        {
+          "id": "4c4a8925-97fd-4fd6-b5a7-2b0491ec9c40",
+          "name": "桃鈴ねね",
+          "img_url": "https://asset.holoplus.com/talents/hololive/momosuzu_nene/icon.png",
+          "key_name": "momosuzu_nene"
+        },
+        {
+          "id": "87561c2f-bcb7-49bb-8c2a-f9e9805cc7af",
+          "name": "獅白ぼたん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shishiro_botan/icon_20260311.png",
+          "key_name": "shishiro_botan"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/custom_icon/uploaded_1771987556.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ねぽらぼから電話だよ📞",
+      "body": "今日はラミィのところでねぽらぼ集まったよ！\nせっかくだしおやすみボイスを録音してもらったよ💓\n静かなところで聞いてね💓\n追記:ポルカの頭皮のにおいは〇〇……！？配信見てね✋",
+      "translations": {
+        "ja": {
+          "title": "ねぽらぼから電話だよ📞",
+          "body": "今日はラミィのところでねぽらぼ集まったよ！\nせっかくだしおやすみボイスを録音してもらったよ💓\n静かなところで聞いてね💓\n追記:ポルカの頭皮のにおいは〇〇……！？配信見てね✋"
+        },
+        "en": {
+          "title": "A call from Nepolabo📞",
+          "body": "Nepolabo gathered at Lamy's place today!\nSince we were all here, we recorded some goodnight voices💓\nPlease listen in a quiet place💓\nP.S. Polka's scalp smells like 〇〇...!? Watch the stream✋"
+        },
+        "id": {
+          "title": "Telepon dari Nepolabo📞",
+          "body": "Hari ini Nepolabo berkumpul di tempat Lamy!\nMumpung lagi kumpul, kami merekam suara ucapan selamat tidur💓\nTolong dengarkan di tempat yang tenang ya💓\nTambahan: Bau kulit kepala Polka itu 〇〇...!? Tonton stream-nya ya✋"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/f8e7b0d5-0e6f-4c71-b4c0-c46ca2bfac13.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "9d3142a3-1a3d-4d22-b7d2-01d3bd9bfb0f",
