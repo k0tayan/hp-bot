@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "9d3142a3-1a3d-4d22-b7d2-01d3bd9bfb0f",
+    "thread": {
+      "id": "9d3142a3-1a3d-4d22-b7d2-01d3bd9bfb0f",
+      "created_at": 1777458094,
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今日の配信は22時30〜BLEACH！",
+      "body": "今日の配信は22時30〜BLEACH！\nhttps://www.youtube.com/live/dZy-2opi6i4?si=0QHgm8kmjs3JNVTV\nこうゆうときホロプラスあると皆の反応こっちでみれるから嬉しい👀",
+      "translations": {
+        "ja": {
+          "title": "今日の配信は22時30〜BLEACH！",
+          "body": "今日の配信は22時30〜BLEACH！\nhttps://www.youtube.com/live/dZy-2opi6i4?si=0QHgm8kmjs3JNVTV\nこうゆうときホロプラスあると皆の反応こっちでみれるから嬉しい👀"
+        },
+        "en": {
+          "title": "Today's stream is BLEACH from 22:30 JST!",
+          "body": "Today's stream is BLEACH from 22:30 JST!\nhttps://www.youtube.com/live/dZy-2opi6i4?si=0QHgm8kmjs3JNVTV\nIt's great to have holoplus at times like these, so I can see everyone's reactions here 👀"
+        },
+        "id": {
+          "title": "Stream hari ini adalah BLEACH mulai puku...",
+          "body": "Stream hari ini adalah BLEACH mulai pukul 22:30 JST!\nhttps://www.youtube.com/live/dZy-2opi6i4?si=0QHgm8kmjs3JNVTV\nSenang sekali ada holoplus di saat seperti ini, jadi aku bisa melihat reaksi kalian semua di sini 👀"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BA25120D-69CE-43BA-BFD5-3483BC4564DF",
     "channel_name": "響咲リオナ",
     "thread_id": "c1e76d5c-40b0-426e-bbf7-929dda076add",
