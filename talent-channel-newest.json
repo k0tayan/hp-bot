@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
+    "channel_name": "ときのそら",
+    "thread_id": "273daedb-8070-4ead-bbd0-55380da5199e",
+    "thread": {
+      "id": "273daedb-8070-4ead-bbd0-55380da5199e",
+      "created_at": 1777513321,
+      "talents": [
+        {
+          "id": "c9d67e5d-2ef2-407c-ab6c-97f7c3e5c662",
+          "name": "ときのそら",
+          "img_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/icon.png",
+          "key_name": "tokino_sora"
+        }
+      ],
+      "user": {
+        "id": "fba971c0-a958-4d6d-bb6f-21a6e7a04f8b",
+        "name": "ときのそら",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/tokino_sora/custom_icon/uploaded_1772442546.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "リリイベでホロプラスでもボイス聞きたいな...",
+      "body": "リリイベでホロプラスでもボイス聞きたいなーって言ってた子がいたので！\n上げてみました！！！",
+      "translations": {
+        "ja": {
+          "title": "リリイベでホロプラスでもボイス聞きたいな...",
+          "body": "リリイベでホロプラスでもボイス聞きたいなーって言ってた子がいたので！\n上げてみました！！！"
+        },
+        "en": {
+          "title": "Since there was a fan at the release eve...",
+          "body": "Since there was a fan at the release event who said they wanted to hear my voice on holoplus!\nI went ahead and uploaded it!!!"
+        },
+        "id": {
+          "title": "Karena ada penggemar di acara rilis yang...",
+          "body": "Karena ada penggemar di acara rilis yang bilang ingin mendengar suaraku di holoplus!\nJadi aku mengunggahnya!!!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/5445d295-c89f-40f5-8d3e-61ad8a467f74.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "30cca95a-c896-4ccf-ae8e-29cc1d10e71c",
