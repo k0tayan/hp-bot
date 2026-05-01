@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "f5297912-1f2a-4466-85e0-4cef552a4457",
+    "thread": {
+      "id": "f5297912-1f2a-4466-85e0-4cef552a4457",
+      "created_at": 1777601531,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/f5297912-1f2a-4466-85e0-4cef552a4457/original_1777601531_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "IT'S MY BIRTHDAY SOON!!",
+      "body": "You'll bring presents, right? 🎂\n\nRSVP below! #partyvella2026\nhttps://www.youtube.com/shorts/9hO9y0ir6y4",
+      "translations": {
+        "ja": {
+          "title": "もうすぐ誕生日だよ！！",
+          "body": "プレゼント持ってきてくれるよね？ 🎂\n\nRSVP(返事）してね！ #partyvella2026\nhttps://www.youtube.com/shorts/9hO9y0ir6y4"
+        },
+        "en": {
+          "title": "IT'S MY BIRTHDAY SOON!!",
+          "body": "You'll bring presents, right? 🎂\n\nRSVP below! #partyvella2026\nhttps://www.youtube.com/shorts/9hO9y0ir6y4"
+        },
+        "id": {
+          "title": "SEBENTAR LAGI AKU ULANG TAHUN!!",
+          "body": "Kalian bakal bawa hadiah, kan? 🎂\n\nRSVP di bawah ya! #partyvella2026\nhttps://www.youtube.com/shorts/9hO9y0ir6y4"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "5B0DCEC5-1F88-4EF5-BAF0-0530537F8B58",
     "channel_name": "ときのそら",
     "thread_id": "273daedb-8070-4ead-bbd0-55380da5199e",
