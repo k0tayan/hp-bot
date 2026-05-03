@@ -2,6 +2,51 @@
   {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "6b1dd6dd-8a85-4c5b-a852-71c9be699eba",
+    "thread": {
+      "id": "6b1dd6dd-8a85-4c5b-a852-71c9be699eba",
+      "created_at": 1777777871,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/6b1dd6dd-8a85-4c5b-a852-71c9be699eba/original_1777777872_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "I Made a Vlog!",
+      "body": "I made another vlog! Yippie! \nHere's a list of places I went to while visiting Japan!\nIt has Japanese and Korean subtitles!\n\n▶️ https://youtu.be/GGGt6VIRF10",
+      "translations": {
+        "ja": {
+          "title": "Vlogを作りました！",
+          "body": "またVlogを作りました！やったー！\n日本を訪れた時に行った場所のリストです！\n日本語と韓国語の字幕付き！\n\n▶️ https://youtu.be/GGGt6VIRF10"
+        },
+        "en": {
+          "title": "I Made a Vlog!",
+          "body": "I made another vlog! Yippie! \nHere's a list of places I went to while visiting Japan!\nIt has Japanese and Korean subtitles!\n\n▶️ https://youtu.be/GGGt6VIRF10"
+        },
+        "id": {
+          "title": "Aku Bikin Vlog!",
+          "body": "Aku bikin vlog lagi! Yippie! \nIni daftar tempat yang aku kunjungi saat di Jepang!\nAda subtitle Jepang dan Korea!\n\n▶️ https://youtu.be/GGGt6VIRF10"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
     "thread_id": "f5297912-1f2a-4466-85e0-4cef552a4457",
     "thread": {
       "id": "f5297912-1f2a-4466-85e0-4cef552a4457",
