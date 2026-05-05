@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "16bd2134-ed3f-4ac0-b97d-2fffa2b5f1f3",
+    "thread": {
+      "id": "16bd2134-ed3f-4ac0-b97d-2fffa2b5f1f3",
+      "created_at": 1777983533,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/16bd2134-ed3f-4ac0-b97d-2fffa2b5f1f3/original_1777983533_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "新オリジナル曲「NaN GAME」リリースしました！🎶",
+      "body": "作詞フロクロさん、作編曲Aiobahn +81さんによる\n超クセになる電波曲ができました！！！\n\n▼配信サイトはこちらから！▼\nhttps://cover.lnk.to/cXUAjX\n\nこよりの楽曲の中でも、また今までに無いサウンドになっています。\n\nMVは5/6(水)AM11:00～の【桃鉄2 54年ハンデ戦】配信クリア後に公開‼\n初めてのハンデ戦の100年達成を見守って、そのままMVもご覧ください✨\n\nGW一生ゲームやっていた、ゲーム好きなこよりならではのオタクカルチャーソングです🎶",
+      "translations": {
+        "ja": {
+          "title": "新オリジナル曲「NaN GAME」リリースしました！🎶",
+          "body": "作詞フロクロさん、作編曲Aiobahn +81さんによる\n超クセになる電波曲ができました！！！\n\n▼配信サイトはこちらから！▼\nhttps://cover.lnk.to/cXUAjX\n\nこよりの楽曲の中でも、また今までに無いサウンドになっています。\n\nMVは5/6(水)AM11:00～の【桃鉄2 54年ハンデ戦】配信クリア後に公開‼\n初めてのハンデ戦の100年達成を見守って、そのままMVもご覧ください✨\n\nGW一生ゲームやっていた、ゲーム好きなこよりならではのオタクカルチャーソングです🎶"
+        },
+        "en": {
+          "title": "New Original Song \"NaN GAME\" Has Been Released! 🎶",
+          "body": "A super catchy, unique electronic song has been created by Furokuro-san (lyrics) and Aiobahn +81-san (composition/arrangement)!!!\n\n▼Stream it here!▼\nhttps://cover.lnk.to/cXUAjX\n\nAmong Koyori's songs, this one has a sound unlike anything before.\n\nThe MV will be released after the stream of 【Momotetsu 2: 54-Year Handicap Match】 clears on May 6th (Wed) at 11:00 AM (JST)‼\nPlease watch me achieve 100 years in my first handicap match, and then enjoy the MV right after! ✨\n\nThis is an otaku culture song unique to Koyori, who loves games and spent all of Golden Week playing them 🎶"
+        },
+        "id": {
+          "title": "Lagu Orisinal Baru \"NaN GAME\" Telah Dirilis! 🎶",
+          "body": "Lagu elektronik yang super adiktif dan unik telah tercipta berkat Furokuro-san (lirik) dan Aiobahn +81-san (komposisi/aransemen)!!!\n\n▼Situs streaming di sini!▼\nhttps://cover.lnk.to/cXUAjX\n\nDi antara lagu-lagu Koyori, ini memiliki suara yang belum pernah ada sebelumnya.\n\nMV akan dirilis setelah streaming 【Momotetsu 2: Pertandingan Handicap 54 Tahun】 selesai pada 6 Mei (Rabu) pukul 11:00 AM (JST)‼\nSaksikan aku mencapai 100 tahun dalam pertandingan handicap pertamaku, lalu tonton MV-nya setelah itu! ✨\n\nIni adalah lagu budaya otaku yang khas Koyori, yang sangat suka game dan menghabiskan seluruh Golden Week bermain game 🎶"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "eb9d00bd-c164-46f0-b1c6-ca21614453d9",
