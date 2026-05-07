@@ -2,6 +2,51 @@
   {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
+    "thread_id": "2da2fdeb-421d-4fae-8030-91c04938a148",
+    "thread": {
+      "id": "2da2fdeb-421d-4fae-8030-91c04938a148",
+      "created_at": 1778173662,
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "❕❕❕❕",
+      "body": "❕❕❕❕",
+      "translations": {
+        "ja": {
+          "title": "❕❕❕❕",
+          "body": "❕❕❕❕"
+        },
+        "en": {
+          "title": "❕❕❕❕",
+          "body": "❕❕❕❕"
+        },
+        "id": {
+          "title": "❕❕❕❕",
+          "body": "❕❕❕❕"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/2b3b62e2-2d48-434e-b958-58ecaae123a6.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
     "thread_id": "9e653add-4667-48eb-a18e-df95b1557fbe",
     "thread": {
       "id": "9e653add-4667-48eb-a18e-df95b1557fbe",
