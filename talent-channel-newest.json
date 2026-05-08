@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "78ac4692-5931-48b3-8f96-27cb55cb725c",
+    "thread": {
+      "id": "78ac4692-5931-48b3-8f96-27cb55cb725c",
+      "created_at": 1778244379,
+      "talents": [
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/custom_icon/uploaded_1771987556.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ポルカから着信",
+      "body": "ポルカから着信",
+      "translations": {
+        "ja": {
+          "title": "ポルカから着信",
+          "body": "ポルカから着信"
+        },
+        "en": {
+          "title": "Incoming call from Polka",
+          "body": "Incoming call from Polka"
+        },
+        "id": {
+          "title": "Panggilan masuk dari Polka",
+          "body": "Panggilan masuk dari Polka"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/47164db5-21bf-42b2-b03a-ded013af2878.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "8b6653ab-13e6-47f0-a948-07473e8efb24",
