@@ -2,6 +2,57 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "fe9a35be-eaf4-47f2-9907-debcb602566c",
+    "thread": {
+      "id": "fe9a35be-eaf4-47f2-9907-debcb602566c",
+      "created_at": 1778224846,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/fe9a35be-eaf4-47f2-9907-debcb602566c/original_1778224846_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【狐族密会募集】俺が先に〇〇だったのに！",
+      "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎募集内容\nみなさんが感じた事のある「俺が先に〇〇だったのに！」を募集します\n\n例\n俺のほうが先に好きだったのに！　等",
+      "translations": {
+        "ja": {
+          "title": "【狐族密会募集】俺が先に〇〇だったのに！",
+          "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎募集内容\nみなさんが感じた事のある「俺が先に〇〇だったのに！」を募集します\n\n例\n俺のほうが先に好きだったのに！　等"
+        },
+        "en": {
+          "title": "【Kitsune-zoku Mitsukai Recruitment】But I was the one who XX first!",
+          "body": "A radio program scheduled for broadcast today from 22:00 📻\nWe'll be introducing some of your submissions on Kitsune-zoku Mitsukai.\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎What we're looking for\nWe're recruiting stories about times you've felt, 'But I was the one who XX first!'\n\nExample:\nLike, 'But I was the one who liked it first!'"
+        },
+        "id": {
+          "title": "【Rekrutmen Kitsune-zoku Mitsukai】Padahal aku yang duluan XX!",
+          "body": "Program radio yang dijadwalkan tayang hari ini mulai pukul 22:00 📻\nKami akan memperkenalkan beberapa di antaranya di Kitsune-zoku Mitsukai.\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎Isi Rekrutmen\nKami mencari pengalaman kalian yang pernah merasa, 'Padahal aku yang duluan XX!'\n\nContoh:\nMisalnya, 'Padahal aku yang duluan suka!'"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "b5dec9f5-d7f4-4012-b5f8-2bf1b69d3688",
     "thread": {
       "id": "b5dec9f5-d7f4-4012-b5f8-2bf1b69d3688",
