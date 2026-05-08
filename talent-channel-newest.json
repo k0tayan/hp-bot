@@ -1,5 +1,107 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "b5dec9f5-d7f4-4012-b5f8-2bf1b69d3688",
+    "thread": {
+      "id": "b5dec9f5-d7f4-4012-b5f8-2bf1b69d3688",
+      "created_at": 1778224766,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/b5dec9f5-d7f4-4012-b5f8-2bf1b69d3688/original_1778224766_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【狐族密会募集】ギリギリ豆知識披露宴",
+      "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎募集内容\nみなさんが知っている「ギリギリ使える豆知識」を募集します",
+      "translations": {
+        "ja": {
+          "title": "【狐族密会募集】ギリギリ豆知識披露宴",
+          "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎募集内容\nみなさんが知っている「ギリギリ使える豆知識」を募集します"
+        },
+        "en": {
+          "title": "【Fox Clan Secret Meeting Recruitment】Barely Useful Trivia Showcase",
+          "body": "A radio program scheduled to air today at 22:00 JST 📻\nWe'll be introducing some trivia on Fox Clan Secret Meeting.\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎Recruitment Details\nWe are looking for 'barely useful trivia' that you know."
+        },
+        "id": {
+          "title": "Pameran Trivia yang Hampir Berguna",
+          "body": "Program radio yang dijadwalkan tayang hari ini pukul 22:00 JST 📻\nKami akan memperkenalkan beberapa trivia di Pertemuan Rahasia Klan Rubah.\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎Detail Rekrutmen\nKami mencari 'trivia yang hampir berguna' yang kalian ketahui."
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "20128779-0071-4497-ab89-e9aa8dba185c",
+    "thread": {
+      "id": "20128779-0071-4497-ab89-e9aa8dba185c",
+      "created_at": 1778224449,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/20128779-0071-4497-ab89-e9aa8dba185c/original_1778224449_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【狐族密会募集】GWの思ひ出",
+      "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎募集内容\n「GWの思ひ出」を募集します\n\n",
+      "translations": {
+        "ja": {
+          "title": "【狐族密会募集】GWの思ひ出",
+          "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎募集内容\n「GWの思ひ出」を募集します\n\n"
+        },
+        "en": {
+          "title": "[Recruiting for Fox Clan Secret Meeting] Golden Week Memories",
+          "body": "The radio program scheduled to air today from 22:00 JST 📻\nWe'll be featuring some submissions on \"Fox Clan Secret Meeting.\"\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎Recruitment Details\nWe are looking for your \"Golden Week Memories\"!"
+        },
+        "id": {
+          "title": "[Perekrutan Pertemuan Rahasia Klan Rubah] Kenangan Golden Week",
+          "body": "Program radio yang dijadwalkan tayang hari ini mulai pukul 22:00 JST 📻\nKami akan menampilkan beberapa kiriman di \"Pertemuan Rahasia Klan Rubah\".\n▶ https://youtube.com/live/tB-SEYVNjqU?feature=share\n◾︎Detail Perekrutan\nKami mencari \"Kenangan Golden Week\" kalian!"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "2da2fdeb-421d-4fae-8030-91c04938a148",
