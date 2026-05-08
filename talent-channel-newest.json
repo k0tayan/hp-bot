@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "8b6653ab-13e6-47f0-a948-07473e8efb24",
+    "thread": {
+      "id": "8b6653ab-13e6-47f0-a948-07473e8efb24",
+      "created_at": 1778225478,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/8b6653ab-13e6-47f0-a948-07473e8efb24/original_1778225478_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "❗️REMOVABLE DRESS❗️",
+      "body": "The official Chibivella plushie is currently on sale, and you can dress her up in your own style!  \n\nCustomize her to your liking with all sorts of cute / cool outfits! Don't forget to take pictures to share them when she finally arrives at your door!\n\nBuy here: https://shop.hololivepro.com/products/shiorinovella_birthday_2026",
+      "translations": {
+        "ja": {
+          "title": "❗️着せ替え可能だと❗️",
+          "body": "知っている！？\n今発売中のChibivellaぬいぐるみを自分だけのスタイルで着せ替えをできるって！\n\nいろんな可愛い/クールな衣装で、自分好みにカスタマイズしてね！手元に届いたらどんな衣装を着させるか見るのが楽しみ！いっぱい写真シェアしてね！\n\n購入はこちら: https://shop.hololivepro.com/products/shiorinovella_birthday_2026"
+        },
+        "en": {
+          "title": "❗️REMOVABLE DRESS❗️",
+          "body": "The official Chibivella plushie is currently on sale, and you can dress her up in your own style!  \n\nCustomize her to your liking with all sorts of cute / cool outfits! Don't forget to take pictures to share them when she finally arrives at your door!\n\nBuy here: https://shop.hololivepro.com/products/shiorinovella_birthday_2026"
+        },
+        "id": {
+          "title": "❗️PAKAIAN BISA DILEPAS❗️",
+          "body": "Plushie resmi Chibivella sedang dalam masa penjualan, dan kamu bisa mendandaninya dengan gayamu sendiri!  \n\nSesuaikan dia sesukamu dengan berbagai macam pakaian lucu/keren! Jangan lupa untuk mengambil foto dan membagikannya saat dia akhirnya tiba di rumahmu!\n\nBeli di sini: https://shop.hololivepro.com/products/shiorinovella_birthday_2026"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "fe9a35be-eaf4-47f2-9907-debcb602566c",
