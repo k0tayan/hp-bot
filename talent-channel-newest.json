@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "e69212e5-5b90-43c9-b11d-4d3a9fa9e40c",
+    "thread": {
+      "id": "e69212e5-5b90-43c9-b11d-4d3a9fa9e40c",
+      "created_at": 1778584065,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/e69212e5-5b90-43c9-b11d-4d3a9fa9e40c/original_1778584065_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "バンジージャンプが体重で飛べない？！？",
+      "body": "バンジージャンプが体重で飛べない？！？\nイラスト切り抜きあがってます⬇️\nhttps://youtube.com/shorts/Bar3h3tnETQ?si=C3cU6-OrsF_f094C",
+      "translations": {
+        "ja": {
+          "title": "バンジージャンプが体重で飛べない？！？",
+          "body": "バンジージャンプが体重で飛べない？！？\nイラスト切り抜きあがってます⬇️\nhttps://youtube.com/shorts/Bar3h3tnETQ?si=C3cU6-OrsF_f094C"
+        },
+        "en": {
+          "title": "Can't bungee jump because of weight?!?!",
+          "body": "Can't bungee jump because of weight?!?!\nAn illustration clip is up⬇️\nhttps://youtube.com/shorts/Bar3h3tnETQ?si=C3cU6-OrsF_f094C"
+        },
+        "id": {
+          "title": "Tidak bisa bungee jump karena berat bada...",
+          "body": "Tidak bisa bungee jump karena berat badan?!?!\nKlip ilustrasi sudah tayang⬇️\nhttps://youtube.com/shorts/Bar3h3tnETQ?si=C3cU6-OrsF_f094C"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "c5d02f6c-f75a-4b9f-9b79-bcedbf66c761",
