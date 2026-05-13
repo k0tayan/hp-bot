@@ -2,6 +2,51 @@
   {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
+    "thread_id": "6ae03800-06fc-4433-88c5-d7e4924c308a",
+    "thread": {
+      "id": "6ae03800-06fc-4433-88c5-d7e4924c308a",
+      "created_at": 1778701005,
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ステップを踏んだ水宮さん",
+      "body": "ステップを踏んだ水宮さん\nおわり〜😴",
+      "translations": {
+        "ja": {
+          "title": "ステップを踏んだ水宮さん",
+          "body": "ステップを踏んだ水宮さん\nおわり〜😴"
+        },
+        "en": {
+          "title": "Mizumiya-san who took her steps",
+          "body": "Mizumiya-san who took her steps\nFinished~😴"
+        },
+        "id": {
+          "title": "Mizumiya-san yang sudah melangkah",
+          "body": "Mizumiya-san yang sudah melangkah\nSelesai~😴"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/51ff9d5e-6522-4374-8a70-42a362afadc1.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
     "thread_id": "5fb3d43e-8bf2-4d0d-8ecc-5fcfc96affb7",
     "thread": {
       "id": "5fb3d43e-8bf2-4d0d-8ecc-5fcfc96affb7",
