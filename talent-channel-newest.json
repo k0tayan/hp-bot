@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "d94c6f2d-d514-420c-adb4-5514e332a09e",
+    "thread": {
+      "id": "d94c6f2d-d514-420c-adb4-5514e332a09e",
+      "created_at": 1778749811,
+      "talents": [
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/custom_icon/uploaded_1771987556.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ポルカからの発表は……",
+      "body": "ポルカからの発表は……",
+      "translations": {
+        "ja": {
+          "title": "ポルカからの発表は……",
+          "body": "ポルカからの発表は……"
+        },
+        "en": {
+          "title": "Polka's announcement is...",
+          "body": "Polka's announcement is..."
+        },
+        "id": {
+          "title": "Pengumuman dari Polka adalah...",
+          "body": "Pengumuman dari Polka adalah..."
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/4198b9bc-5944-4a0d-8abe-8646a2727f96.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "855EE873-0E84-48BD-B9C4-14D2BD4F8B54",
     "channel_name": "一伊那尓栖",
     "thread_id": "8c288b9e-4bde-4336-bfed-eab961010c88",
