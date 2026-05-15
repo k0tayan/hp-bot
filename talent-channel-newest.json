@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "cee1822b-54ed-446e-891e-6d2acd145e57",
+    "thread": {
+      "id": "cee1822b-54ed-446e-891e-6d2acd145e57",
+      "created_at": 1778824915,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "SDVXのコントローラーを引っ張り出してきて...",
+      "body": "SDVXのコントローラーを引っ張り出してきてカチャカチャ",
+      "translations": {
+        "ja": {
+          "title": "SDVXのコントローラーを引っ張り出してきて...",
+          "body": "SDVXのコントローラーを引っ張り出してきてカチャカチャ"
+        },
+        "en": {
+          "title": "Pulled out my SDVX controller and starte...",
+          "body": "Pulled out my SDVX controller and started clicking away."
+        },
+        "id": {
+          "title": "Mengeluarkan kontroler SDVX dan mulai kl...",
+          "body": "Mengeluarkan kontroler SDVX dan mulai klik-klik."
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/d991481e-579d-4f0b-b30f-5593b3cf6034.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "d94c6f2d-d514-420c-adb4-5514e332a09e",
