@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "33E7427D-6682-4CBB-B7AC-AA8A5F0267D6",
+    "channel_name": "小鳥遊キアラ",
+    "thread_id": "b01ca3e6-c14d-4a9c-92f2-19429e4481d4",
+    "thread": {
+      "id": "b01ca3e6-c14d-4a9c-92f2-19429e4481d4",
+      "created_at": 1778849544,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/b01ca3e6-c14d-4a9c-92f2-19429e4481d4/original_1778849544_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "dddf28dc-0166-48c5-a845-88e608121cc0",
+          "name": "小鳥遊キアラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takanashi_kiara/icon_20260311.png",
+          "key_name": "takanashi_kiara"
+        }
+      ],
+      "user": {
+        "id": "a6708028-98e2-4b93-a637-7743f4c9516d",
+        "name": "小鳥遊キアラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/takanashi_kiara/custom_icon/uploaded_1776288474.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "HoloEN REWIND第二回！やっとやります！",
+      "body": "大変お待たせしました！！！！\n\nJP視聴者のために考えた企画、HoloEN REWIND第二回目をやっと\n5月１９日に配信します！！🥳\n\n相変わらず皆さんの知らなさそうなＥＮの豆知識や流行ってる事と不思議な行為を説明していこうと思いますので\nお見逃しなく！\n\n🔽待機場\nhttps://youtube.com/live/rN33gIdVEkE?feature=share\n",
+      "translations": {
+        "ja": {
+          "title": "HoloEN REWIND第二回！やっとやります！",
+          "body": "大変お待たせしました！！！！\n\nJP視聴者のために考えた企画、HoloEN REWIND第二回目をやっと\n5月１９日に配信します！！🥳\n\n相変わらず皆さんの知らなさそうなＥＮの豆知識や流行ってる事と不思議な行為を説明していこうと思いますので\nお見逃しなく！\n\n🔽待機場\nhttps://youtube.com/live/rN33gIdVEkE?feature=share\n"
+        },
+        "en": {
+          "title": "HoloEN REWIND Part 2! It's finally happening!",
+          "body": "Thank you so much for your patience!!!!\n\nThe second installment of HoloEN REWIND, a project I came up with for JP viewers, will finally be streamed on May 19th!! 🥳\n\nAs always, I'll be explaining EN trivia you might not know, popular trends, and some curious behaviors, so don't miss it!\n\n🔽 Waiting Room\nhttps://youtube.com/live/rN33gIdVEkE?feature=share\n"
+        },
+        "id": {
+          "title": "HoloEN REWIND Bagian 2! Akhirnya akan dilaksanakan!",
+          "body": "Terima kasih banyak atas kesabaran kalian!!!!\n\nBagian kedua dari HoloEN REWIND, sebuah proyek yang saya pikirkan untuk penonton JP, akhirnya akan disiarkan pada tanggal 19 Mei!! 🥳\n\nSeperti biasa, saya akan menjelaskan trivia EN yang mungkin tidak kalian ketahui, tren populer, dan beberapa perilaku aneh, jadi jangan sampai ketinggalan!\n\n🔽 Ruang Tunggu\nhttps://youtube.com/live/rN33gIdVEkE?feature=share\n"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "cee1822b-54ed-446e-891e-6d2acd145e57",
