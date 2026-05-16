@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "33E7427D-6682-4CBB-B7AC-AA8A5F0267D6",
+    "channel_name": "小鳥遊キアラ",
+    "thread_id": "abf37058-5c3d-45ee-b6eb-97e5fd3e7622",
+    "thread": {
+      "id": "abf37058-5c3d-45ee-b6eb-97e5fd3e7622",
+      "created_at": 1778928353,
+      "talents": [
+        {
+          "id": "dddf28dc-0166-48c5-a845-88e608121cc0",
+          "name": "小鳥遊キアラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takanashi_kiara/icon_20260311.png",
+          "key_name": "takanashi_kiara"
+        }
+      ],
+      "user": {
+        "id": "a6708028-98e2-4b93-a637-7743f4c9516d",
+        "name": "小鳥遊キアラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/takanashi_kiara/custom_icon/uploaded_1776288474.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【JPファン参加型！】",
+      "body": "キッケリキー！！\n\n昨日holoEN REWINDについて書いたばっかりですが！\nholoQとコラボで新コーナー今回スタートします！\n\n日本視聴者！　ENメンバーの\n・不思議に思うこと\n・疑問\n・理解できないミーム、発言\n\nありますか！？！？！\n\nキアラが説明しますので、\n何かあれば！！！！\n投稿してください！",
+      "translations": {
+        "ja": {
+          "title": "【JPファン参加型！】",
+          "body": "キッケリキー！！\n\n昨日holoEN REWINDについて書いたばっかりですが！\nholoQとコラボで新コーナー今回スタートします！\n\n日本視聴者！　ENメンバーの\n・不思議に思うこと\n・疑問\n・理解できないミーム、発言\n\nありますか！？！？！\n\nキアラが説明しますので、\n何かあれば！！！！\n投稿してください！"
+        },
+        "en": {
+          "title": "[JP Fan Participation Event!]",
+          "body": "Kikkeriki!!\n\nI just wrote about holoEN REWIND yesterday, but!\nThis time, we're starting a new corner in collaboration with holoQ!\n\nJapanese viewers! Do you have any of these regarding EN members:\n・Things you find strange\n・Questions\n・Memes or statements you don't understand\n\nDo you have any!?!?!?! \n\nKiara will explain, so,\nIf you have anything!!!!\nPlease post it!"
+        },
+        "id": {
+          "title": "[Acara Partisipasi Penggemar JP!]",
+          "body": "Kikkeriki!!\n\nAku baru saja menulis tentang holoEN REWIND kemarin, tapi!\nKali ini, kita akan memulai segmen baru berkolaborasi dengan holoQ!\n\nPenonton Jepang! Apakah kalian punya hal-hal berikut mengenai anggota EN:\n・Hal-hal yang kalian anggap aneh\n・Pertanyaan\n・Meme atau pernyataan yang tidak kalian mengerti\n\nApakah kalian punya!?!?!?! \n\nKiara akan menjelaskannya, jadi,\nJika kalian punya sesuatu!!!!\nSilakan posting!"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "ce02a8dc-22ea-4098-96ef-a4198c34e165",
