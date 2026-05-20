@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "d8b46ad1-9ca6-4254-b6fa-d90bb61cf35e",
+    "thread": {
+      "id": "d8b46ad1-9ca6-4254-b6fa-d90bb61cf35e",
+      "created_at": 1779303598,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "ANSWERING YOUR QUESTIONS",
+      "body": "Do you have concerns? Need advice? Or just want to ask Ollie questions?\n\nI'll be answering your holoQs in 7 hours on stream! See you✨️",
+      "translations": {
+        "ja": {
+          "title": "質問に答えます",
+          "body": "悩みがありますか？アドバイスが必要ですか？それとも、ただOllieに質問したいだけですか？\n\n7時間後の配信で、みんなのホロQに答えます！またね✨️"
+        },
+        "en": {
+          "title": "ANSWERING YOUR QUESTIONS",
+          "body": "Do you have concerns? Need advice? Or just want to ask Ollie questions?\n\nI'll be answering your holoQs in 7 hours on stream! See you✨️"
+        },
+        "id": {
+          "title": "MENJAWAB PERTANYAAN KALIAN",
+          "body": "Punya kekhawatiran? Butuh saran? Atau cuma mau tanya-tanya ke Ollie?\n\nAku bakal jawab holoQ kalian 7 jam lagi di stream! Sampai jumpa✨️"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "8585223A-AFE4-4F14-BC76-18A2EBACAE70",
     "channel_name": "大空スバル",
     "thread_id": "2462d23d-efd7-4014-b2d4-1c8b0e279b07",
