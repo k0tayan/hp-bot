@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "8585223A-AFE4-4F14-BC76-18A2EBACAE70",
+    "channel_name": "大空スバル",
+    "thread_id": "2462d23d-efd7-4014-b2d4-1c8b0e279b07",
+    "thread": {
+      "id": "2462d23d-efd7-4014-b2d4-1c8b0e279b07",
+      "created_at": 1779275194,
+      "talents": [
+        {
+          "id": "25299e77-c314-4fcf-a9fe-13debe52ec53",
+          "name": "大空スバル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png",
+          "key_name": "oozora_subaru"
+        }
+      ],
+      "user": {
+        "id": "c0606e9e-2c06-4d83-92b3-ea8987f71ab2",
+        "name": "大空スバル",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "好きな飲み物は？カレー派？お酒派？？",
+      "body": "[[holoplus_survey_start]]\nA. カレー派\nB. お酒派\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "好きな飲み物は？カレー派？お酒派？？",
+          "body": "[[holoplus_survey_start]]\nA. カレー派\nB. お酒派\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "What's your favorite drink? Are you team Curry? Or team Alcohol??",
+          "body": "[[holoplus_survey_start]]\nA. Team Curry\nB. Team Alcohol\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Apa minuman favoritmu? Tim Kari? Atau tim Alkohol??",
+          "body": "[[holoplus_survey_start]]\nA. Tim Kari\nB. Tim Alkohol\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "413E39C0-E2ED-42E8-BA1C-A93B27B60B8A",
     "channel_name": "雪花ラミィ",
     "thread_id": "982fadee-dfe9-452d-96fe-142e07e045ea",
