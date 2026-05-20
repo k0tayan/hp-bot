@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "413E39C0-E2ED-42E8-BA1C-A93B27B60B8A",
+    "channel_name": "雪花ラミィ",
+    "thread_id": "982fadee-dfe9-452d-96fe-142e07e045ea",
+    "thread": {
+      "id": "982fadee-dfe9-452d-96fe-142e07e045ea",
+      "created_at": 1779272447,
+      "talents": [
+        {
+          "id": "25299e77-c314-4fcf-a9fe-13debe52ec53",
+          "name": "大空スバル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png",
+          "key_name": "oozora_subaru"
+        },
+        {
+          "id": "7597ae32-5657-4ac3-82fd-2edff2dcf29f",
+          "name": "雪花ラミィ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/yukihana_lamy/icon_20260311.png",
+          "key_name": "yukihana_lamy"
+        }
+      ],
+      "user": {
+        "id": "e56620ce-6b72-4aa5-8e3e-5d0a0698b29c",
+        "name": "雪花ラミィ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/yukihana_lamy/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【ホロカ ツインウエハース開封バトル】勝敗予想！",
+      "body": "[[holoplus_survey_start]]\nA. 大空スバル勝利\nB. 雪花ラミィ勝利\nC. 引き分け\nD. どっちも勝利\nE. どっちも負け\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "【ホロカ ツインウエハース開封バトル】勝敗予想！",
+          "body": "[[holoplus_survey_start]]\nA. 大空スバル勝利\nB. 雪花ラミィ勝利\nC. 引き分け\nD. どっちも勝利\nE. どっちも負け\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "[HoloCard Twin Wafer Unboxing Battle] Predict the Winner!",
+          "body": "[[holoplus_survey_start]]\nA. Oozora Subaru wins\nB. Yukihana Lamy wins\nC. Draw\nD. Both win\nE. Both lose\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "[Pertarungan Pembukaan Wafer Kembar HoloCard] Prediksi Pemenang!",
+          "body": "[[holoplus_survey_start]]\nA. Oozora Subaru menang\nB. Yukihana Lamy menang\nC. Seri\nD. Keduanya menang\nE. Keduanya kalah\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "8585223A-AFE4-4F14-BC76-18A2EBACAE70",
     "channel_name": "大空スバル",
     "thread_id": "851f4a8d-bf51-45e2-8be8-e837c9c5153a",
