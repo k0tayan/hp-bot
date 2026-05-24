@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "64DD1923-CD81-432F-B4B8-B4C870373A8B",
+    "channel_name": "ロボ子さん",
+    "thread_id": "026f081d-2a91-4d5b-9bb4-8a65b844eed3",
+    "thread": {
+      "id": "026f081d-2a91-4d5b-9bb4-8a65b844eed3",
+      "created_at": 1779587510,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/026f081d-2a91-4d5b-9bb4-8a65b844eed3/original_1779587510_1.png",
+        "https://asset.holoplus.com/threads/026f081d-2a91-4d5b-9bb4-8a65b844eed3/original_1779587510_2.png",
+        "https://asset.holoplus.com/threads/026f081d-2a91-4d5b-9bb4-8a65b844eed3/original_1779587510_3.png",
+        "https://asset.holoplus.com/threads/026f081d-2a91-4d5b-9bb4-8a65b844eed3/original_1779587510_4.png",
+        "https://asset.holoplus.com/threads/026f081d-2a91-4d5b-9bb4-8a65b844eed3/original_1779587510_5.png",
+        "https://asset.holoplus.com/threads/026f081d-2a91-4d5b-9bb4-8a65b844eed3/original_1779587510_6.png",
+        "https://asset.holoplus.com/threads/026f081d-2a91-4d5b-9bb4-8a65b844eed3/original_1779587510_7.png"
+      ],
+      "talents": [
+        {
+          "id": "f4574895-c0fe-4b0f-825d-c4199bc6d66f",
+          "name": "ロボ子さん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png",
+          "key_name": "robocosan"
+        }
+      ],
+      "user": {
+        "id": "e6c46d5c-574e-466b-a45f-371ad10aaa02",
+        "name": "ロボ子さん",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "🎂お誕生日🎂",
+      "body": "🎂ロボ子さん 誕生日記念2026🎂\nお誕生日ガールからのお知らせ〜🩷ྀི🩷ྀི\n拘りまくって考えた…\n10才のボクのグッズは…‼️\n・サイリウムに付けれるぬいぐるみ\n・はげーぼールームライト✨️\n・Tシャツ\n・アクリルジオラマスタンド\n・ASMRボイス だよー！！\n\nリアイベ＆お家用にぜひお迎えしてくだたい💕\n\n■販売ページURL\nhttps://shop.hololivepro.com/products/robocosan_birthday_2026\n■グッズ販売期間\n6月29日(月) 18時00分",
+      "translations": {
+        "ja": {
+          "title": "🎂お誕生日🎂",
+          "body": "🎂ロボ子さん 誕生日記念2026🎂\nお誕生日ガールからのお知らせ〜🩷ྀི🩷ྀི\n拘りまくって考えた…\n10才のボクのグッズは…‼️\n・サイリウムに付けれるぬいぐるみ\n・はげーぼールームライト✨️\n・Tシャツ\n・アクリルジオラマスタンド\n・ASMRボイス だよー！！\n\nリアイベ＆お家用にぜひお迎えしてくだたい💕\n\n■販売ページURL\nhttps://shop.hololivepro.com/products/robocosan_birthday_2026\n■グッズ販売期間\n6月29日(月) 18時00分"
+        },
+        "en": {
+          "title": "🎂Birthday🎂",
+          "body": "🎂Robocosan Birthday Celebration 2026🎂\nAn announcement from the birthday girl~🩷ྀི🩷ྀི\nI put a lot of thought into it...\nMy 10-year-old self's merchandise is...‼️\n・Plushie that can be attached to a penlight\n・Hage-bo Room Light✨️\n・T-shirt\n・Acrylic Diorama Stand\n・ASMR Voice!!\n\nPlease get them for real-life events & for your home💕\n\n■Sales Page URL\nhttps://shop.hololivepro.com/products/robocosan_birthday_2026\n■Merchandise Sales Period\nJune 29th (Mon) 18:00"
+        },
+        "id": {
+          "title": "🎂Ulang Tahun🎂",
+          "body": "🎂Perayaan Ulang Tahun Robocosan 2026🎂\nPengumuman dari gadis ulang tahun~🩷ྀི🩷ྀི\nAku sudah memikirkannya dengan sangat detail...\nMerchandise untuk diriku yang berumur 10 tahun adalah...‼️\n・Boneka yang bisa dipasang di penlight\n・Lampu Kamar Hage-bo✨️\n・T-shirt\n・Stand Diorama Akrilik\n・ASMR Voice!!\n\nYuk dapatkan untuk acara langsung & untuk di rumah💕\n\n■URL Halaman Penjualan\nhttps://shop.hololivepro.com/products/robocosan_birthday_2026\n■Periode Penjualan Merchandise\n29 Juni (Senin) pukul 18.00"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "323591a1-ea5b-44e9-a17d-af71b1a0894b",
