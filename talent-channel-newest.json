@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "9271448a-da9e-48a8-be34-712f74b7df79",
+    "thread": {
+      "id": "9271448a-da9e-48a8-be34-712f74b7df79",
+      "created_at": 1779983136,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/9271448a-da9e-48a8-be34-712f74b7df79/original_1779983136_1.png"
+      ],
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "メン限の晩酌配信での質問を募集するよ〜",
+      "body": "メン限の晩酌配信での質問を募集するよ〜\n💙土曜日の22時30https://www.youtube.com/live/lCmrfSg61Xc?si=murJ5ejeu_jnRVsa",
+      "translations": {
+        "ja": {
+          "title": "メン限の晩酌配信での質問を募集するよ〜",
+          "body": "メン限の晩酌配信での質問を募集するよ〜\n💙土曜日の22時30https://www.youtube.com/live/lCmrfSg61Xc?si=murJ5ejeu_jnRVsa"
+        },
+        "en": {
+          "title": "I'm looking for questions for my members...",
+          "body": "I'm looking for questions for my members-only drinking stream~\n💙Saturday at 22:30 https://www.youtube.com/live/lCmrfSg61Xc?si=murJ5ejeu_jnRVsa"
+        },
+        "id": {
+          "title": "Aku lagi ngumpulin pertanyaan untuk stre...",
+          "body": "Aku lagi ngumpulin pertanyaan untuk stream minum-minum khusus member~\n💙Sabtu pukul 22:30 https://www.youtube.com/live/lCmrfSg61Xc?si=murJ5ejeu_jnRVsa"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "64DD1923-CD81-432F-B4B8-B4C870373A8B",
     "channel_name": "ロボ子さん",
     "thread_id": "026f081d-2a91-4d5b-9bb4-8a65b844eed3",
