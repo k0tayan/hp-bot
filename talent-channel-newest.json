@@ -2,6 +2,174 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "f1e95f79-2228-43bf-a149-06066d720bcc",
+    "thread": {
+      "id": "f1e95f79-2228-43bf-a149-06066d720bcc",
+      "created_at": 1780058245,
+      "talents": [
+        {
+          "id": "de54958d-3ba2-4539-9cb1-39fd392cf82a",
+          "name": "さくらみこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/sakura_miko/icon_20260311.png",
+          "key_name": "sakura_miko"
+        },
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "063d07d8-ac40-4e31-bfaa-5c47cb8a8cae",
+          "name": "夏色まつり",
+          "img_url": "https://asset.holoplus.com/talents/hololive/natsuiro_matsuri/icon_20260311.png",
+          "key_name": "natsuiro_matsuri"
+        },
+        {
+          "id": "da1b223c-f3d5-4bea-8e4c-63521a6c1dce",
+          "name": "癒月ちょこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/yuzuki_choco/icon.png",
+          "key_name": "yuzuki_choco"
+        },
+        {
+          "id": "cc9eb596-fd8f-4344-bb42-b7282dbc1e7a",
+          "name": "猫又おかゆ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/nekomata_okayu/icon_20260311.png",
+          "key_name": "nekomata_okayu"
+        },
+        {
+          "id": "79482e2b-585e-41a5-af0a-8daf33ca5264",
+          "name": "不知火フレア",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiranui_flare/icon_20260311.png",
+          "key_name": "shiranui_flare"
+        },
+        {
+          "id": "08a03c6e-3b1a-4948-aa97-4e5ea7988907",
+          "name": "ラプラス・ダークネス",
+          "img_url": "https://asset.holoplus.com/talents/hololive/la%2B_darknesss/icon_20260311.png",
+          "key_name": "la+_darknesss"
+        },
+        {
+          "id": "c90c0a49-4a54-4f00-a742-0682fe4b6220",
+          "name": "音乃瀬奏",
+          "img_url": "https://asset.holoplus.com/talents/hololive/otonose_kanade/icon_20260311.png",
+          "key_name": "otonose_kanade"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【hololive Dreams チーム対抗ゲーム企画】課題曲は！？",
+      "body": "[[holoplus_survey_start]]\nA. Shiny Smily Story (2022 ver.)\nB. キラメキライダー☆\nC. Prism Melody\nD. Our Bright Parade\nE. Capture the Moment\nF. Color Rise Harmony\nG. Ridin' on Dreams\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "【hololive Dreams チーム対抗ゲーム企画】課題曲は！？",
+          "body": "[[holoplus_survey_start]]\nA. Shiny Smily Story (2022 ver.)\nB. キラメキライダー☆\nC. Prism Melody\nD. Our Bright Parade\nE. Capture the Moment\nF. Color Rise Harmony\nG. Ridin' on Dreams\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "hololive Dreams  What's the Challenge Song!?",
+          "body": "[[holoplus_survey_start]]\nA. Shiny Smily Story (2022 ver.)\nB. Sparkle Rider☆\nC. Prism Melody\nD. Our Bright Parade\nE. Capture the Moment\nF. Color Rise Harmony\nG. Ridin' on Dreams\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "【Proyek Game Kompetisi Tim hololive Dreams】Apa Lagu Tantangannya!?",
+          "body": "[[holoplus_survey_start]]\nA. Shiny Smily Story (2022 ver.)\nB. Sparkle Rider☆\nC. Prism Melody\nD. Our Bright Parade\nE. Capture the Moment\nF. Color Rise Harmony\nG. Ridin' on Dreams\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "538ed493-98f2-402e-b598-d0f5d6f74c71",
+    "thread": {
+      "id": "538ed493-98f2-402e-b598-d0f5d6f74c71",
+      "created_at": 1780057998,
+      "talents": [
+        {
+          "id": "de54958d-3ba2-4539-9cb1-39fd392cf82a",
+          "name": "さくらみこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/sakura_miko/icon_20260311.png",
+          "key_name": "sakura_miko"
+        },
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "063d07d8-ac40-4e31-bfaa-5c47cb8a8cae",
+          "name": "夏色まつり",
+          "img_url": "https://asset.holoplus.com/talents/hololive/natsuiro_matsuri/icon_20260311.png",
+          "key_name": "natsuiro_matsuri"
+        },
+        {
+          "id": "da1b223c-f3d5-4bea-8e4c-63521a6c1dce",
+          "name": "癒月ちょこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/yuzuki_choco/icon.png",
+          "key_name": "yuzuki_choco"
+        },
+        {
+          "id": "cc9eb596-fd8f-4344-bb42-b7282dbc1e7a",
+          "name": "猫又おかゆ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/nekomata_okayu/icon_20260311.png",
+          "key_name": "nekomata_okayu"
+        },
+        {
+          "id": "79482e2b-585e-41a5-af0a-8daf33ca5264",
+          "name": "不知火フレア",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiranui_flare/icon_20260311.png",
+          "key_name": "shiranui_flare"
+        },
+        {
+          "id": "08a03c6e-3b1a-4948-aa97-4e5ea7988907",
+          "name": "ラプラス・ダークネス",
+          "img_url": "https://asset.holoplus.com/talents/hololive/la%2B_darknesss/icon_20260311.png",
+          "key_name": "la+_darknesss"
+        },
+        {
+          "id": "c90c0a49-4a54-4f00-a742-0682fe4b6220",
+          "name": "音乃瀬奏",
+          "img_url": "https://asset.holoplus.com/talents/hololive/otonose_kanade/icon_20260311.png",
+          "key_name": "otonose_kanade"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【hololive Dreams チーム対抗ゲーム企画】勝利予想！！",
+      "body": "[[holoplus_survey_start]]\nA. お姉さんチーム\nB. お子さまチーム\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "【hololive Dreams チーム対抗ゲーム企画】勝利予想！！",
+          "body": "[[holoplus_survey_start]]\nA. お姉さんチーム\nB. お子さまチーム\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "【hololive Dreams Team Battle Game Project】Predict the Winner!!",
+          "body": "[[holoplus_survey_start]]\nA. Big Sister Team\nB. Kids Team\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "【Proyek Game Pertarungan Tim hololive Dreams】Prediksi Pemenang!!",
+          "body": "[[holoplus_survey_start]]\nA. Tim Kakak Perempuan\nB. Tim Anak-anak\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "a96648a8-44bd-467c-b304-e2d76c131ce6",
     "thread": {
       "id": "a96648a8-44bd-467c-b304-e2d76c131ce6",
