@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "64DD1923-CD81-432F-B4B8-B4C870373A8B",
+    "channel_name": "ロボ子さん",
+    "thread_id": "28bd1e19-1bf2-4e51-994b-8d0926b66bd1",
+    "thread": {
+      "id": "28bd1e19-1bf2-4e51-994b-8d0926b66bd1",
+      "created_at": 1780094366,
+      "talents": [
+        {
+          "id": "f4574895-c0fe-4b0f-825d-c4199bc6d66f",
+          "name": "ロボ子さん",
+          "img_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png",
+          "key_name": "robocosan"
+        }
+      ],
+      "user": {
+        "id": "e6c46d5c-574e-466b-a45f-371ad10aaa02",
+        "name": "ロボ子さん",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/robocosan/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "続く単語はーーーーー？？？",
+      "body": "おはーーーーーーーー？？\n",
+      "translations": {
+        "ja": {
+          "title": "続く単語はーーーーー？？？",
+          "body": "おはーーーーーーーー？？\n"
+        },
+        "en": {
+          "title": "What's the next wordーーーーー???",
+          "body": "Good moーーーーーーーーrning??\n"
+        },
+        "id": {
+          "title": "Kata selanjutnya adalahーーーーー???",
+          "body": "Selamat paーーーーーーーーgi??\n"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/ee29c6e8-a3f9-4cd1-9355-efbd3c4132f5.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7209BDA9-D1E9-45D5-BFA3-0D4B19451C84",
     "channel_name": "輪堂千速",
     "thread_id": "31a9cd02-4d6c-4c16-a31a-31ee8c63c2d1",
