@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "7209BDA9-D1E9-45D5-BFA3-0D4B19451C84",
+    "channel_name": "輪堂千速",
+    "thread_id": "31a9cd02-4d6c-4c16-a31a-31ee8c63c2d1",
+    "thread": {
+      "id": "31a9cd02-4d6c-4c16-a31a-31ee8c63c2d1",
+      "created_at": 1780062916,
+      "talents": [
+        {
+          "id": "B4445442-9784-B0D6-AFA0-ADF01359D1DB",
+          "name": "輪堂千速",
+          "img_url": "https://asset.holoplus.com/talents/hololive/rindo_chihaya/icon_20260311.png",
+          "key_name": "rindo_chihaya"
+        }
+      ],
+      "user": {
+        "id": "8435e3d9-c92f-463a-87ba-06b238711cf7",
+        "name": "輪堂千速",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/rindo_chihaya/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "配信したすぎるみんなと話したすぎる",
+      "body": "配信したすぎるみんなと話したすぎる",
+      "translations": {
+        "ja": {
+          "title": "配信したすぎるみんなと話したすぎる",
+          "body": "配信したすぎるみんなと話したすぎる"
+        },
+        "en": {
+          "title": "I want to stream so badly, I want to tal...",
+          "body": "I want to stream so badly, I want to talk to everyone so badly."
+        },
+        "id": {
+          "title": "Aku pengen banget streaming, pengen bang...",
+          "body": "Aku pengen banget streaming, pengen banget ngobrol sama semuanya."
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/3b2e8fb2-a803-463d-83a7-7a00a328451f.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "f1e95f79-2228-43bf-a149-06066d720bcc",
