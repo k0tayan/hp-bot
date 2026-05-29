@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "a96648a8-44bd-467c-b304-e2d76c131ce6",
+    "thread": {
+      "id": "a96648a8-44bd-467c-b304-e2d76c131ce6",
+      "created_at": 1780040057,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "フブちゃんはー？",
+      "body": "🦊\n\n[[holoplus_survey_start]]\nA. 王様！\nB. KAWAII！\nC. おい、金策マイクラ職業ギャンブラーあるぞ\nD. バナナ\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "フブちゃんはー？",
+          "body": "🦊\n\n[[holoplus_survey_start]]\nA. 王様！\nB. KAWAII！\nC. おい、金策マイクラ職業ギャンブラーあるぞ\nD. バナナ\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "What about Fubu-chan?",
+          "body": "🦊\n\n[[holoplus_survey_start]]\nA. King!\nB. KAWAII!\nC. Hey, there's a money-making Minecraft pr\nD. Banana\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Bagaimana dengan Fubu-chan?",
+          "body": "🦊\n\n[[holoplus_survey_start]]\nA. Raja!\nB. KAWAII!\nC. Hei, ada penjudi profesional Minecraft p\nD. Pisang\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BA25120D-69CE-43BA-BFD5-3483BC4564DF",
     "channel_name": "響咲リオナ",
     "thread_id": "0494287a-8944-4ed1-ae73-6ff4370faf62",
