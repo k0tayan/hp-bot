@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "BA25120D-69CE-43BA-BFD5-3483BC4564DF",
+    "channel_name": "響咲リオナ",
+    "thread_id": "0494287a-8944-4ed1-ae73-6ff4370faf62",
+    "thread": {
+      "id": "0494287a-8944-4ed1-ae73-6ff4370faf62",
+      "created_at": 1780039409,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/0494287a-8944-4ed1-ae73-6ff4370faf62/original_1780039410_1.png"
+      ],
+      "talents": [
+        {
+          "id": "09A796F4-A892-DA18-3D1F-7848024E2300",
+          "name": "響咲リオナ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/isaki_riona/icon_20260311.png",
+          "key_name": "isaki_riona"
+        }
+      ],
+      "user": {
+        "id": "b6fa97e0-4f12-4a09-8491-183bdad1106b",
+        "name": "響咲リオナ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/isaki_riona/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今日はリオナの誕生日🎂",
+      "body": "📢ˊ˗お知らせ 📢⋆\n\n／\n\n響咲リオナ\"初生誕祭″ 3DLIVE.ᐟ.ᐟ⭐️\n５／２９　⏰２０：００〜 開催🎉\n\n＼\n\nタイトルは「THE ONE & ONLY」\n唯一無二のステージをお届けします💃\n\n⬇️通知ONにしてくれると嬉しいな☺️\nhttps://www.youtube.com/live/gvGDJyWKHbk?si=4ryYyEIIoXLIl-KP\n",
+      "translations": {
+        "ja": {
+          "title": "今日はリオナの誕生日🎂",
+          "body": "📢ˊ˗お知らせ 📢⋆\n\n／\n\n響咲リオナ\"初生誕祭″ 3DLIVE.ᐟ.ᐟ⭐️\n５／２９　⏰２０：００〜 開催🎉\n\n＼\n\nタイトルは「THE ONE & ONLY」\n唯一無二のステージをお届けします💃\n\n⬇️通知ONにしてくれると嬉しいな☺️\nhttps://www.youtube.com/live/gvGDJyWKHbk?si=4ryYyEIIoXLIl-KP\n"
+        },
+        "en": {
+          "title": "Today is Riona's Birthday 🎂",
+          "body": "📢ˊ˗Announcement 📢⋆\n\n／\n\nHibiki Riona's \"First Birthday Festival\" 3D LIVE.ᐟ.ᐟ⭐️\nMay 29th ⏰ 20:00 JST ~ Held 🎉\n\n＼\n\nThe title is \"THE ONE & ONLY\"\nWe will deliver a one-of-a-kind stage 💃\n\n⬇️I'd be happy if you turn on notifications☺️\nhttps://www.youtube.com/live/gvGDJyWKHbk?si=4ryYyEIIoXLIl-KP\n"
+        },
+        "id": {
+          "title": "Hari ini ulang tahun Riona 🎂",
+          "body": "📢ˊ˗Pengumuman 📢⋆\n\n／\n\nHibiki Riona \"Perayaan Ulang Tahun Pertama\" 3D LIVE.ᐟ.ᐟ⭐️\n29 Mei ⏰ 20:00 JST ~ Diselenggarakan 🎉\n\n＼\n\nJudulnya adalah \"THE ONE & ONLY\"\nKami akan menyuguhkan panggung yang unik dan tak tertandingi 💃\n\n⬇️Aku senang kalau kalian nyalakan notifikasi☺️\nhttps://www.youtube.com/live/gvGDJyWKHbk?si=4ryYyEIIoXLIl-KP\n"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "9271448a-da9e-48a8-be34-712f74b7df79",
