@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "7209BDA9-D1E9-45D5-BFA3-0D4B19451C84",
+    "channel_name": "輪堂千速",
+    "thread_id": "66c72fd2-a6d1-435b-a609-6bf1d5f01e11",
+    "thread": {
+      "id": "66c72fd2-a6d1-435b-a609-6bf1d5f01e11",
+      "created_at": 1780148537,
+      "talents": [
+        {
+          "id": "B4445442-9784-B0D6-AFA0-ADF01359D1DB",
+          "name": "輪堂千速",
+          "img_url": "https://asset.holoplus.com/talents/hololive/rindo_chihaya/icon_20260311.png",
+          "key_name": "rindo_chihaya"
+        }
+      ],
+      "user": {
+        "id": "8435e3d9-c92f-463a-87ba-06b238711cf7",
+        "name": "輪堂千速",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/rindo_chihaya/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "鼻が詰まってないってさいこー！！！",
+      "body": "鼻が詰まってないってさいこー！！！",
+      "translations": {
+        "ja": {
+          "title": "鼻が詰まってないってさいこー！！！",
+          "body": "鼻が詰まってないってさいこー！！！"
+        },
+        "en": {
+          "title": "Not having a stuffy nose is the best!!!",
+          "body": "Not having a stuffy nose is the best!!!"
+        },
+        "id": {
+          "title": "Hidung tidak mampet itu yang terbaik!!!",
+          "body": "Hidung tidak mampet itu yang terbaik!!!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/d42dbc13-832b-4915-831b-d5ace61e35fe.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "9c645d94-ac6a-4be6-8db0-8bc7e852b809",
