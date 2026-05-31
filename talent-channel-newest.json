@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "3ebea350-028b-4632-9cde-7b60386bc0a4",
+    "thread": {
+      "id": "3ebea350-028b-4632-9cde-7b60386bc0a4",
+      "created_at": 1780242654,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/3ebea350-028b-4632-9cde-7b60386bc0a4/original_1780242654_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "8Anniversary🌽🦊✨",
+      "body": "8Anniversary🌽🦊✨",
+      "translations": {
+        "ja": {
+          "title": "8周年🌽🦊✨",
+          "body": "8周年🌽🦊✨"
+        },
+        "en": {
+          "title": "8Anniversary🌽🦊✨",
+          "body": "8Anniversary🌽🦊✨"
+        },
+        "id": {
+          "title": "Ulang Tahun ke-8🌽🦊✨",
+          "body": "Ulang Tahun ke-8🌽🦊✨"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/7a004f64-13bc-4810-a01f-f02f51d6216a.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7209BDA9-D1E9-45D5-BFA3-0D4B19451C84",
     "channel_name": "輪堂千速",
     "thread_id": "66c72fd2-a6d1-435b-a609-6bf1d5f01e11",
