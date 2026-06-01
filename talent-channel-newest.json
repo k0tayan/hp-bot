@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "18e0cf3d-b3d9-4090-9101-80ef5d58b76b",
+    "thread": {
+      "id": "18e0cf3d-b3d9-4090-9101-80ef5d58b76b",
+      "created_at": 1780330872,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "holoQ stream: Questions Submission!",
+      "body": "Answering questions from you guys is fun! Come and send me more, I'll read them tomorrow at 11:00 JST,  June 2nd, 2026\n\nDo you have problems? Concerns? Something you're curious about? Send them my way!💕",
+      "translations": {
+        "ja": {
+          "title": "holoQ配信：質問募集中！",
+          "body": "みんなからの質問に答えるのって楽しい！もっと送ってね。2026年6月2日11:00 JSTに読むよ。\n\n悩み事や心配事、気になることはある？何でも送ってね！💕"
+        },
+        "en": {
+          "title": "holoQ stream: Questions Submission!",
+          "body": "Answering questions from you guys is fun! Come and send me more, I'll read them tomorrow at 11:00 JST,  June 2nd, 2026\n\nDo you have problems? Concerns? Something you're curious about? Send them my way!💕"
+        },
+        "id": {
+          "title": "Stream holoQ: Pengumpulan Pertanyaan!",
+          "body": "Menjawab pertanyaan dari kalian itu seru! Ayo kirimkan lebih banyak lagi, aku akan membacanya besok pukul 11:00 JST, 2 Juni 2026.\n\nApakah kalian punya masalah? Kekhawatiran? Atau sesuatu yang membuat kalian penasaran? Kirimkan saja padaku!💕"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "3ebea350-028b-4632-9cde-7b60386bc0a4",
