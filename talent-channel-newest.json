@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "720624f8-255d-4065-ba06-ab52b08c5337",
+    "thread": {
+      "id": "720624f8-255d-4065-ba06-ab52b08c5337",
+      "created_at": 1780567742,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "良き音質でのボイステスト！！",
+      "body": "良き音質でのボイステスト！！",
+      "translations": {
+        "ja": {
+          "title": "良き音質でのボイステスト！！",
+          "body": "良き音質でのボイステスト！！"
+        },
+        "en": {
+          "title": "Voice test with great sound quality!!",
+          "body": "Voice test with great sound quality!!"
+        },
+        "id": {
+          "title": "Tes suara dengan kualitas audio yang bag...",
+          "body": "Tes suara dengan kualitas audio yang bagus!!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/164a6775-4011-45c9-a438-966508fbd6c0.mp4"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
     "thread_id": "18e0cf3d-b3d9-4090-9101-80ef5d58b76b",
