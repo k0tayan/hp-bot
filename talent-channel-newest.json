@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "530dc51e-e20f-4822-8016-3cce0b301355",
+    "thread": {
+      "id": "530dc51e-e20f-4822-8016-3cce0b301355",
+      "created_at": 1780756674,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "🍕",
+      "body": "🍕",
+      "translations": {
+        "ja": {
+          "title": "🍕",
+          "body": "🍕"
+        },
+        "en": {
+          "title": "🍕",
+          "body": "🍕"
+        },
+        "id": {
+          "title": "🍕",
+          "body": "🍕"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/75a3cd93-b2cb-40e8-975d-7bbf03937bd5.mp4"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "d97457f7-1125-4102-bef0-e2d218d2e15a",
