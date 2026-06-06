@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "d97457f7-1125-4102-bef0-e2d218d2e15a",
+    "thread": {
+      "id": "d97457f7-1125-4102-bef0-e2d218d2e15a",
+      "created_at": 1780716780,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/d97457f7-1125-4102-bef0-e2d218d2e15a/original_1780716781_1.jpeg",
+        "https://asset.holoplus.com/threads/d97457f7-1125-4102-bef0-e2d218d2e15a/original_1780716781_2.jpeg",
+        "https://asset.holoplus.com/threads/d97457f7-1125-4102-bef0-e2d218d2e15a/original_1780716781_3.jpeg",
+        "https://asset.holoplus.com/threads/d97457f7-1125-4102-bef0-e2d218d2e15a/original_1780716781_4.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Last call for birthday merch orders!",
+      "body": "Last call for birthday merch orders!\nThe staff dressed Chibivella up in some of their own clothes!\n\nLink: https://shop.hololivepro.com/products/shiorinovella_birthday_2026",
+      "translations": {
+        "ja": {
+          "title": "バースデーグッズの注文受付はこれが最後で...",
+          "body": "誕生日グッズの注文受付は間もなく終了！\nスタッフさんがちびヴェラに可愛い服を着せてくれたよ！\n\nリンク: https://shop.hololivepro.com/products/shiorinovella_birthday_2026"
+        },
+        "en": {
+          "title": "Last call for birthday merch orders!",
+          "body": "Last call for birthday merch orders!\nThe staff dressed Chibivella up in some of their own clothes!\n\nLink: https://shop.hololivepro.com/products/shiorinovella_birthday_2026"
+        },
+        "id": {
+          "title": "Kesempatan terakhir untuk memesan mercha...",
+          "body": "Kesempatan terakhir untuk memesan merchandise ulang tahun!\nStaf mendandani Chibivella dengan pakaian mereka sendiri!\n\nTautan: https://shop.hololivepro.com/products/shiorinovella_birthday_2026"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "720624f8-255d-4065-ba06-ab52b08c5337",
