@@ -2,6 +2,51 @@
   {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
+    "thread_id": "62b98d83-63bb-4f0f-b89b-efa1bb55d728",
+    "thread": {
+      "id": "62b98d83-63bb-4f0f-b89b-efa1bb55d728",
+      "created_at": 1780900272,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/62b98d83-63bb-4f0f-b89b-efa1bb55d728/original_1780900272_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "6/9「朝こよ！」#284教えて！こよりチャン！お便り募集📮",
+      "body": "お試しでやってみます！✨\n\n・最近のホロライブで気になることについて\n（朝こよリークとは別です！世間話や時事ニュースなど）\n・配信者に質問してみたいこと\n・ホロメンに対して調査してほしいこと（対1人、対全員どちらもOK）\n\n返信でお答えください！🥳",
+      "translations": {
+        "ja": {
+          "title": "6/9「朝こよ！」#284教えて！こよりチャン！お便り募集📮",
+          "body": "お試しでやってみます！✨\n\n・最近のホロライブで気になることについて\n（朝こよリークとは別です！世間話や時事ニュースなど）\n・配信者に質問してみたいこと\n・ホロメンに対して調査してほしいこと（対1人、対全員どちらもOK）\n\n返信でお答えください！🥳"
+        },
+        "en": {
+          "title": "6/9 \"AsaKoyo!\" #284 Tell Me! Koyori-chan! Call for Letters📮",
+          "body": "Trying this out as a test!✨\n\n・Things you're curious about in hololive lately\n(Separate from AsaKoyo leaks! Small talk, current events, etc.)\n・Questions you'd like to ask a streamer\n・Things you want me to investigate regarding holomembers (Can be about one person or everyone!)\n\nPlease reply with your answers!🥳"
+        },
+        "id": {
+          "title": "6/9 \"AsaKoyo!\" #284 Beritahu Aku! Koyori-chan! Menerima Kiriman Pesan📮",
+          "body": "Aku coba lakukan ini sebagai percobaan ya!✨\n\n・Hal yang membuatmu penasaran tentang hololive akhir-akhir ini\n(Terpisah dari bocoran AsaKoyo! Bisa obrolan santai, berita terkini, dll.)\n・Pertanyaan yang ingin kamu tanyakan kepada streamer\n・Hal yang ingin kamu minta aku selidiki tentang para holomember (Bisa untuk 1 orang atau semuanya!)\n\nSilakan jawab melalui balasan ya!🥳"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
     "thread_id": "d2e8714b-0582-433a-8af2-2a0446b5159b",
     "thread": {
       "id": "d2e8714b-0582-433a-8af2-2a0446b5159b",
