@@ -1,5 +1,89 @@
 [
   {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "a2bfa8bb-dc56-45f2-9004-aff3e2184f72",
+    "thread": {
+      "id": "a2bfa8bb-dc56-45f2-9004-aff3e2184f72",
+      "created_at": 1780897170,
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "「朝こよ！」リニューアル✨アンケートその2",
+      "body": "Q2.\n新コーナー「お便りコーナー：教えてこよちゃん！」を開設しようと考えています。\nマシュマロ配信みたいな普通の質問を募集したり、テーマを決めたお便りを募集するものではありません！\n情報番組の「朝こよ！」らしく、常時\n・最近のホロライブで気になることについて（朝こよリークとは別で、世間話や時事ニュースなど）\n・配信者に質問してみたいこと\n・ホロメンに対して調査してほしいこと（対1人、対全員どちらもOK）\nを募集するお便りコーナーです。\n毎回1通採用していきたいと思っています。\n\nこのコーナーに関してどう思うかを答えてほしいです！\n\n[[holoplus_survey_start]]\nA. 追加してみてほしい！\nB. いらないかも…\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "「朝こよ！」リニューアル✨アンケートその2",
+          "body": "Q2.\n新コーナー「お便りコーナー：教えてこよちゃん！」を開設しようと考えています。\nマシュマロ配信みたいな普通の質問を募集したり、テーマを決めたお便りを募集するものではありません！\n情報番組の「朝こよ！」らしく、常時\n・最近のホロライブで気になることについて（朝こよリークとは別で、世間話や時事ニュースなど）\n・配信者に質問してみたいこと\n・ホロメンに対して調査してほしいこと（対1人、対全員どちらもOK）\nを募集するお便りコーナーです。\n毎回1通採用していきたいと思っています。\n\nこのコーナーに関してどう思うかを答えてほしいです！\n\n[[holoplus_survey_start]]\nA. 追加してみてほしい！\nB. いらないかも…\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "\"AsaKoyo!\" Renewal ✨ Survey Part 2",
+          "body": "Q2.\nI'm thinking of starting a new segment called \"Letters: Tell Me, Koyo-chan!\"\nThis won't be for regular questions like in a Marshmallow stream, or for letters based on a specific theme!\nIn the style of the news program \"AsaKoyo!\", I'll be taking submissions for:\n・Things you're curious about in Hololive lately (separate from AsaKoyo Leaks, like general chatter or current events)\n・Things you want to ask the streamer\n・Things you want me to investigate regarding Holomembers (can be about one person or the whole group)\n\nI'm planning to pick one letter to feature each time.\n\nLet me know what you think about this segment!\n\n[[holoplus_survey_start]]\nA. I'd love for you to add it!\nB. Maybe not...\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Pembaruan \"AsaKoyo!\" ✨ Survei Bagian 2",
+          "body": "Q2.\nAku berencana membuka segmen baru bernama \"Sudut Surat: Beritahu Koyo-chan!\"\nIni bukan untuk mengumpulkan pertanyaan biasa seperti di stream Marshmallow, atau surat berdasarkan tema tertentu!\nSesuai dengan gaya program berita \"AsaKoyo!\", aku akan menerima surat tentang:\n・Hal-hal yang membuatmu penasaran tentang Hololive akhir-akhir ini (terpisah dari bocoran AsaKoyo, seperti obrolan santai atau berita terkini)\n・Hal yang ingin ditanyakan kepada streamer\n・Hal yang ingin kalian minta untuk diselidiki tentang Holomember (bisa tentang satu orang atau semuanya)\n\nAku berencana untuk memilih satu surat setiap kalinya.\n\nBeri tahu aku pendapat kalian tentang segmen ini!\n\n[[holoplus_survey_start]]\nA. Tambahkan saja!\nB. Mungkin tidak perlu...\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "e36b1914-842a-40f8-9209-fd76a7b86358",
+    "thread": {
+      "id": "e36b1914-842a-40f8-9209-fd76a7b86358",
+      "created_at": 1780896734,
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "「朝こよ！」リニューアルアンケート✨その１",
+      "body": "今後の「朝こよ！」を更に面白く、こよりの準備負担も下げるため、リニューアルを考えています！\nどう変えるのがいいか？むしろ変えないほうがいいか？を調査したく、アンケートをいくつかとらせてください！\n\nQ1.\n「Koyori's Hot News」、今までは一定のルールの上で該当するニュースは全てお知らせしてきました。\nこのままでいくか、「こよりの気になるニュース」をピックアップしてトーク重視にするか、\nどちらがいいでしょうか？\n\n[[holoplus_survey_start]]\nA. 今まで通り全ニュースをお知らせしてほしい\nB. 気になるニュースピックアップにしてほしい\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "「朝こよ！」リニューアルアンケート✨その１",
+          "body": "今後の「朝こよ！」を更に面白く、こよりの準備負担も下げるため、リニューアルを考えています！\nどう変えるのがいいか？むしろ変えないほうがいいか？を調査したく、アンケートをいくつかとらせてください！\n\nQ1.\n「Koyori's Hot News」、今までは一定のルールの上で該当するニュースは全てお知らせしてきました。\nこのままでいくか、「こよりの気になるニュース」をピックアップしてトーク重視にするか、\nどちらがいいでしょうか？\n\n[[holoplus_survey_start]]\nA. 今まで通り全ニュースをお知らせしてほしい\nB. 気になるニュースピックアップにしてほしい\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "\"AsaKoyo!\" Renewal Survey ✨ Part 1",
+          "body": "I'm thinking about renewing \"AsaKoyo!\" to make it even more fun and to reduce my preparation workload! \nI'd like to conduct a few surveys to see how I should change things—or if I should change them at all!\n\nQ1.\nFor \"Koyori's Hot News,\" I've been reporting all relevant news based on a set of rules.\nShould I keep it this way, or would you prefer I pick out the news that interests me most and focus more on the talk segment?\n\n[[holoplus_survey_start]]\nA. Keep reporting all news as usual\nB. Pick out news that interests you\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Survei Pembaruan \"AsaKoyo!\" ✨ Bagian 1",
+          "body": "Aku sedang memikirkan untuk memperbarui \"AsaKoyo!\" agar lebih seru dan juga untuk mengurangi beban persiapanku!\nAku ingin melakukan beberapa survei untuk mengetahui bagaimana sebaiknya aku mengubahnya—atau apakah lebih baik tidak diubah sama sekali!\n\nQ1.\nUntuk \"Koyori's Hot News\", selama ini aku selalu mengabarkan semua berita yang relevan berdasarkan aturan tertentu.\nApakah sebaiknya tetap seperti ini, atau kalian lebih suka aku memilih berita yang menarik perhatianku saja dan lebih fokus pada sesi bincang-bincang?\n\n[[holoplus_survey_start]]\nA. Tetap kabarkan semua berita seperti bias\nB. Pilih berita yang menarik perhatianmu sa\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "64B4F01C-8906-425D-81A2-268C8E920E64",
     "channel_name": "風真いろは",
     "thread_id": "2aaf9f32-1201-4ac9-8ae9-cba27785833e",
