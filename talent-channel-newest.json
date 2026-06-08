@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "3d0e6619-7362-474f-a34c-e10cbe171bff",
+    "thread": {
+      "id": "3d0e6619-7362-474f-a34c-e10cbe171bff",
+      "created_at": 1780914242,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/3d0e6619-7362-474f-a34c-e10cbe171bff/original_1780914243_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【募集】白上フブキを褒めちぎれ！！【白上フブキ８周年】",
+      "body": "6月8日21:00から配信予定の\n白上フブキ８周年記念祭にて使用させていただきます\n配信▷https://youtube.com/live/AOI7ZIuH30g?feature=share\n\n\n活動８周年を迎える白上フブキの\nココを褒めたい！！という所がありましたらご投稿をおねがいします！\nどんな事でも構いません。こういう所が好き…というのをお待ちしてます。",
+      "translations": {
+        "ja": {
+          "title": "【募集】白上フブキを褒めちぎれ！！【白上フブキ８周年】",
+          "body": "6月8日21:00から配信予定の\n白上フブキ８周年記念祭にて使用させていただきます\n配信▷https://youtube.com/live/AOI7ZIuH30g?feature=share\n\n\n活動８周年を迎える白上フブキの\nココを褒めたい！！という所がありましたらご投稿をおねがいします！\nどんな事でも構いません。こういう所が好き…というのをお待ちしてます。"
+        },
+        "en": {
+          "title": "[Call for Submissions] Shower Shirakami Fubuki with Praise!! [8th]",
+          "body": "I will be using your submissions during the Shirakami Fubuki 8th Anniversary Festival, streaming on June 8th at 21:00 JST.\nStream link ▷ https://youtube.com/live/AOI7ZIuH30g?feature=share\n\n\nAs Shirakami Fubuki celebrates her 8th anniversary, please send in your submissions about what you want to praise her for!!\nAnything is welcome. I'm looking forward to hearing what you love about her!"
+        },
+        "id": {
+          "title": "[Panggilan] Puji Shirakami Fubuki Sebanyak-banyaknya!! [8 Tahun]",
+          "body": "Saya akan menggunakan kiriman kalian dalam Festival Perayaan 8 Tahun Shirakami Fubuki yang dijadwalkan tayang pada 8 Juni pukul 21:00 JST.\nLink streaming ▷ https://youtube.com/live/AOI7ZIuH30g?feature=share\n\n\nDalam rangka merayakan 8 tahun aktivitas Shirakami Fubuki,\nsilakan kirimkan hal-hal yang ingin kalian puji darinya!!\nApa pun boleh. Saya menunggu cerita tentang hal-hal yang kalian sukai darinya."
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
     "thread_id": "62b98d83-63bb-4f0f-b89b-efa1bb55d728",
