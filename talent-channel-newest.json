@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "33E7427D-6682-4CBB-B7AC-AA8A5F0267D6",
+    "channel_name": "小鳥遊キアラ",
+    "thread_id": "b3572ea0-69f8-4fcb-9637-dd87e3afccd2",
+    "thread": {
+      "id": "b3572ea0-69f8-4fcb-9637-dd87e3afccd2",
+      "created_at": 1780954279,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/b3572ea0-69f8-4fcb-9637-dd87e3afccd2/original_1780954279_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "dddf28dc-0166-48c5-a845-88e608121cc0",
+          "name": "小鳥遊キアラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/takanashi_kiara/icon_20260311.png",
+          "key_name": "takanashi_kiara"
+        }
+      ],
+      "user": {
+        "id": "a6708028-98e2-4b93-a637-7743f4c9516d",
+        "name": "小鳥遊キアラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/takanashi_kiara/custom_icon/uploaded_1776288474.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "キッケリキー！！",
+      "body": "キッケリキー！！\n\n今回1日遅くなりますが6月10日にENreco中心にしたholoEN REWINDがあります！\n最近ENの企画、ENrecoって内容とか気になりましたか！？\n英語わからない視聴者にとって、何が起きてるかわからないだろうと思い　\n今回特に理解できなかった、気になってる事件やキャラ設定などあれば\n詳しく教えますので！！！\nここで質問投稿してくださいね～！！\n\nでは、6月10日、夜10時にお会いしましょう！",
+      "translations": {
+        "ja": {
+          "title": "キッケリキー！！",
+          "body": "キッケリキー！！\n\n今回1日遅くなりますが6月10日にENreco中心にしたholoEN REWINDがあります！\n最近ENの企画、ENrecoって内容とか気になりましたか！？\n英語わからない視聴者にとって、何が起きてるかわからないだろうと思い　\n今回特に理解できなかった、気になってる事件やキャラ設定などあれば\n詳しく教えますので！！！\nここで質問投稿してくださいね～！！\n\nでは、6月10日、夜10時にお会いしましょう！"
+        },
+        "en": {
+          "title": "Kikkerikii!!",
+          "body": "Kikkerikii!!\n\nIt'll be one day late, but on June 10th, I'll be hosting a holoEN REWIND focusing on ENreco!\nHave you been curious about the content of recent EN projects or ENreco lately!?\nI thought that for viewers who don't understand English, it might be hard to follow what's going on.\nSo, if there are any events or character settings you didn't quite understand or are curious about, I'll explain them in detail!!!\nPlease post your questions here!!\n\nSee you all on June 10th at 10:00 PM!"
+        },
+        "id": {
+          "title": "Kikkerikii!!",
+          "body": "Kikkerikii!!\n\nMeski telat sehari, pada tanggal 10 Juni nanti akan ada holoEN REWIND yang berfokus pada ENreco!\nApakah kalian penasaran dengan konten proyek EN atau ENreco belakangan ini!?\nAku pikir bagi penonton yang tidak mengerti bahasa Inggris, mungkin sulit untuk mengikuti apa yang sedang terjadi.\nJadi, kalau ada kejadian atau latar belakang karakter yang tidak kalian mengerti atau buat kalian penasaran, aku akan jelaskan secara detail!!!\nSilakan kirim pertanyaan kalian di sini ya!!\n\nSampai jumpa tanggal 10 Juni, pukul 10 malam!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "3d0e6619-7362-474f-a34c-e10cbe171bff",
