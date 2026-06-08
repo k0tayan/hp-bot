@@ -2,6 +2,48 @@
   {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
+    "thread_id": "d2e8714b-0582-433a-8af2-2a0446b5159b",
+    "thread": {
+      "id": "d2e8714b-0582-433a-8af2-2a0446b5159b",
+      "created_at": 1780897447,
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "「朝こよ！」リニューアル✨アンケートその3",
+      "body": "Q3.\n朝こよリニューアルするなら、\n「こんなことやってほしい！」「こんなコーナーがあったらどう？」という内容を送ってください！\n\n正直、ニュースとリークだけだと、リークの種類が足りない時（確認必須のホロメンの場合は返信が間に合わない、とかもあるので…！）に準備が結構大変でした😭\nコーナー数を増やすことで、紹介したいリークの数に応じて時間配分を調整できると考えています。\n\n朝こよの特性として、「こよりの助手くん」が楽しいコーナーではなく、「ホロリス」の皆さんが楽しめるコーナーを追加したいと思っています。\nよろしくお願いいたします！",
+      "translations": {
+        "ja": {
+          "title": "「朝こよ！」リニューアル✨アンケートその3",
+          "body": "Q3.\n朝こよリニューアルするなら、\n「こんなことやってほしい！」「こんなコーナーがあったらどう？」という内容を送ってください！\n\n正直、ニュースとリークだけだと、リークの種類が足りない時（確認必須のホロメンの場合は返信が間に合わない、とかもあるので…！）に準備が結構大変でした😭\nコーナー数を増やすことで、紹介したいリークの数に応じて時間配分を調整できると考えています。\n\n朝こよの特性として、「こよりの助手くん」が楽しいコーナーではなく、「ホロリス」の皆さんが楽しめるコーナーを追加したいと思っています。\nよろしくお願いいたします！"
+        },
+        "en": {
+          "title": "\"AsaKoyo!\" Renewal ✨ Survey Part 3",
+          "body": "Q3.\nIf we're renewing AsaKoyo, what kind of segments would you like to see? Please send in your ideas!\n\nTo be honest, with just news and leaks, it was quite tough to prepare when there weren't enough leaks (sometimes I can't get replies in time for Holomembers who need verification...!).\nBy increasing the number of segments, I think I'll be able to adjust the time allocation depending on how many leaks I have to introduce.\n\nAs a characteristic of AsaKoyo, I don't want to add segments that are just fun for \"Koyori's Joshu-kun,\" but rather segments that all of you \"Hololisteners\" can enjoy.\nThank you for your support!"
+        },
+        "id": {
+          "title": "Pembaruan \"AsaKoyo!\" ✨ Survei Bagian 3",
+          "body": "Q3.\nJika AsaKoyo diperbarui, hal apa yang ingin kalian lihat? Tolong kirimkan ide-ide kalian!\n\nSejujurnya, kalau cuma berita dan bocoran, persiapannya cukup sulit saat jenis bocorannya kurang (terkadang aku tidak bisa mendapatkan balasan tepat waktu untuk Holomember yang perlu verifikasi...!).\nDengan menambah jumlah segmen, aku rasa aku bisa menyesuaikan alokasi waktu tergantung pada berapa banyak bocoran yang ingin aku perkenalkan.\n\nSebagai karakteristik AsaKoyo, aku tidak ingin menambahkan segmen yang hanya menyenangkan bagi \"Joshu-kun Koyori\", melainkan segmen yang bisa dinikmati oleh kalian semua para \"Hololistener\".\nTerima kasih atas dukungannya!"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
     "thread_id": "a2bfa8bb-dc56-45f2-9004-aff3e2184f72",
     "thread": {
       "id": "a2bfa8bb-dc56-45f2-9004-aff3e2184f72",
