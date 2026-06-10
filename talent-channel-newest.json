@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "49386170-C337-437C-AF7F-BB4C87C70FE3",
+    "channel_name": "ハコス・ベールズ",
+    "thread_id": "fa2769cf-e145-41b6-a733-cc81fe2b6788",
+    "thread": {
+      "id": "fa2769cf-e145-41b6-a733-cc81fe2b6788",
+      "created_at": 1781072499,
+      "talents": [
+        {
+          "id": "3722fd96-4ec2-4ae3-b31e-c76ab24b0c31",
+          "name": "ハコス・ベールズ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakos_baelz/icon_20260311.png",
+          "key_name": "hakos_baelz"
+        }
+      ],
+      "user": {
+        "id": "b6a7f3a4-a004-4294-a7eb-563520f1fa24",
+        "name": "ハコス・ベールズ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakos_baelz/custom_icon/uploaded_1781072020.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "hello world",
+      "body": "WHERE AM I?!",
+      "translations": {
+        "ja": {
+          "title": "ハローワールド",
+          "body": "ここはどこ！？"
+        },
+        "en": {
+          "title": "hello world",
+          "body": "WHERE AM I?!"
+        },
+        "id": {
+          "title": "halo dunia",
+          "body": "DI MANA AKU?!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/fce52b58-d05a-4113-8d4e-750d68a4813c.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "6ACF69D8-97B8-4B11-9375-F7AEF7B1F059",
     "channel_name": "さくらみこ",
     "thread_id": "96738dfe-83ef-479d-9d87-c716ca65ad72",
