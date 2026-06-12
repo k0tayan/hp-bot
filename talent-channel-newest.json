@@ -2,6 +2,54 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "3850d3ce-4ff1-4c48-9c8a-ffcb6b380922",
+    "thread": {
+      "id": "3850d3ce-4ff1-4c48-9c8a-ffcb6b380922",
+      "created_at": 1781252434,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "25299e77-c314-4fcf-a9fe-13debe52ec53",
+          "name": "大空スバル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png",
+          "key_name": "oozora_subaru"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【敗北者】ホロカ対決罰ゲームアンケート【敗北者】",
+      "body": "大空スバル敗北罰ゲームアンケートです\nヘリウムガスを吸って行います✌️🦊\n\n[[holoplus_survey_start]]\nA. デビュー時のX読み上げ\nB. ホロカ効果を全力叫び\nC. スバ友に愛を囁く\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "【敗北者】ホロカ対決罰ゲームアンケート【敗北者】",
+          "body": "大空スバル敗北罰ゲームアンケートです\nヘリウムガスを吸って行います✌️🦊\n\n[[holoplus_survey_start]]\nA. デビュー時のX読み上げ\nB. ホロカ効果を全力叫び\nC. スバ友に愛を囁く\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "[Loser] HoloCa Battle Punishment Game Poll [Loser]",
+          "body": "This is a punishment game poll for Subaru Oozora's defeat.\nI'll be doing it while inhaling helium gas! ✌️🦊\n\n[[holoplus_survey_start]]\nA. Reading my debut tweet\nB. Shouting out HoloCa effects at full volu\nC. Whispering sweet nothings to Subatomos\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "[Pecundang] Polling Hukuman Duel HoloCa [Pecundang]",
+          "body": "Ini adalah polling hukuman untuk kekalahan Subaru Oozora.\nAku akan melakukannya sambil menghirup gas helium! ✌️🦊\n\n[[holoplus_survey_start]]\nA. Membacakan tweet debutku\nB. Meneriakkan efek kartu HoloCa sekuat ten\nC. Membisikkan kata-kata manis untuk Subato\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "b82852c4-efc6-4faf-9bee-846ae9b23972",
     "thread": {
       "id": "b82852c4-efc6-4faf-9bee-846ae9b23972",
