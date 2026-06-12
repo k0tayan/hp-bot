@@ -1,5 +1,95 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "4bd10e37-394f-470a-bd0e-967229753bb2",
+    "thread": {
+      "id": "4bd10e37-394f-470a-bd0e-967229753bb2",
+      "created_at": 1781245419,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "25299e77-c314-4fcf-a9fe-13debe52ec53",
+          "name": "大空スバル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png",
+          "key_name": "oozora_subaru"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "まさかのホロカの公式番組の収録なうです",
+      "body": "まさかのホロカの公式番組の収録なうです\nスバルと初心者ホロカガチ対決がはじまーる🔥\nライブスタートデッキ触ってみたかったから楽しみです(^・ω・^§)ﾉ\n後日収録は公開されるのでよろしくじゃーい✌️🦊\n\nなんかありよりのアリゲーターを各白上に付けるといいらしい？🤔✨\nテッテレー＼＼\\\\٩( 'ω' )و //／／",
+      "translations": {
+        "ja": {
+          "title": "まさかのホロカの公式番組の収録なうです",
+          "body": "まさかのホロカの公式番組の収録なうです\nスバルと初心者ホロカガチ対決がはじまーる🔥\nライブスタートデッキ触ってみたかったから楽しみです(^・ω・^§)ﾉ\n後日収録は公開されるのでよろしくじゃーい✌️🦊\n\nなんかありよりのアリゲーターを各白上に付けるといいらしい？🤔✨\nテッテレー＼＼\\\\٩( 'ω' )و //／／"
+        },
+        "en": {
+          "title": "I'm currently at the recording for the o...",
+          "body": "I'm currently at the recording for the official HoloCa program! \nSubaru and I are about to have a serious beginner's HoloCa showdown🔥\nI've been wanting to try out the Live Start Deck, so I'm really looking forward to this! (^・ω・^§)ﾉ\nThe recording will be released at a later date, so please look forward to it! ✌️🦊\n\nApparently, it's good to attach 'Ari-yori-no-Alligator' to each Fubuki card? 🤔✨\nTetteree! ＼＼\\\\٩( 'ω' )و //／／"
+        },
+        "id": {
+          "title": "Lagi rekaman program resmi HoloCa nih!",
+          "body": "Lagi rekaman program resmi HoloCa nih!\nAku dan Subaru bakal mulai duel serius HoloCa buat pemula🔥\nAku sudah pengen banget nyobain Live Start Deck, jadi nggak sabar! (^・ω・^§)ﾉ\nRekamannya bakal dirilis nanti, jadi tungguin ya! ✌️🦊\n\nKatanya bagus ya kalau masang 'Ari-yori-no-Alligator' ke setiap kartu Fubuki? 🤔✨\nTetteree! ＼＼\\\\٩( 'ω' )و //／／"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "8585223A-AFE4-4F14-BC76-18A2EBACAE70",
+    "channel_name": "大空スバル",
+    "thread_id": "4e58eb4c-fd0c-40c9-8975-787e50fce560",
+    "thread": {
+      "id": "4e58eb4c-fd0c-40c9-8975-787e50fce560",
+      "created_at": 1781245370,
+      "talents": [
+        {
+          "id": "25299e77-c314-4fcf-a9fe-13debe52ec53",
+          "name": "大空スバル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png",
+          "key_name": "oozora_subaru"
+        }
+      ],
+      "user": {
+        "id": "c0606e9e-2c06-4d83-92b3-ea8987f71ab2",
+        "name": "大空スバル",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "これからホロカの公式番組の収録するぞ！(...",
+      "body": "これからホロカの公式番組の収録するぞ！(後日公開だよ～🥳)\nなんと、フブちゃんとホロカガチ対決に挑戦✨\nプレイに困ったらホロプラスで相談するので\nチャットで助けてねー！✨🚑",
+      "translations": {
+        "ja": {
+          "title": "これからホロカの公式番組の収録するぞ！(...",
+          "body": "これからホロカの公式番組の収録するぞ！(後日公開だよ～🥳)\nなんと、フブちゃんとホロカガチ対決に挑戦✨\nプレイに困ったらホロプラスで相談するので\nチャットで助けてねー！✨🚑"
+        },
+        "en": {
+          "title": "About to record for the official HoloCa ...",
+          "body": "About to record for the official HoloCa program! (It'll be released later~🥳)\nBelieve it or not, I'm taking on Fubu-chan in a serious HoloCa battle✨\nIf I get stuck while playing, I'll be asking for advice on HoloPlus,\nso please help me out in the chat!✨🚑"
+        },
+        "id": {
+          "title": "Sekarang aku mau rekaman untuk program r...",
+          "body": "Sekarang aku mau rekaman untuk program resmi HoloCa! (Akan dirilis nanti ya~🥳)\nNggak nyangka, aku bakal menantang Fubu-chan dalam duel serius HoloCa✨\nKalau aku kesulitan saat main, aku bakal minta saran di HoloPlus,\njadi tolong bantu aku di chat ya!✨🚑"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BA5D48E5-AC15-47F9-BF10-4543C057B5F2",
     "channel_name": "ムーナ・ホシノヴァ",
     "thread_id": "38ce8db7-bec6-4821-8908-18a1c8865126",
