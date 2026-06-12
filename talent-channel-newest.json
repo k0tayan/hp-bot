@@ -1,5 +1,107 @@
 [
   {
+    "channel_id": "8585223A-AFE4-4F14-BC76-18A2EBACAE70",
+    "channel_name": "大空スバル",
+    "thread_id": "dde4c950-63ce-4259-b80f-bf0c39886bc8",
+    "thread": {
+      "id": "dde4c950-63ce-4259-b80f-bf0c39886bc8",
+      "created_at": 1781254168,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/dde4c950-63ce-4259-b80f-bf0c39886bc8/original_1781254168_1.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "25299e77-c314-4fcf-a9fe-13debe52ec53",
+          "name": "大空スバル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png",
+          "key_name": "oozora_subaru"
+        }
+      ],
+      "user": {
+        "id": "c0606e9e-2c06-4d83-92b3-ea8987f71ab2",
+        "name": "大空スバル",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "無事にデスホロカをおわたぞー！🎉",
+      "body": "無事にデスホロカをおわたぞー！🎉\n今日の動画は7月中旬に\nホロカ公式YouTubeにて配信予定だよ！\n二人が過酷な激ヤバ罰ゲームに耐えて\n過激なホロカを楽しんでいるのでぜひチェックしてね👀✨️",
+      "translations": {
+        "ja": {
+          "title": "無事にデスホロカをおわたぞー！🎉",
+          "body": "無事にデスホロカをおわたぞー！🎉\n今日の動画は7月中旬に\nホロカ公式YouTubeにて配信予定だよ！\n二人が過酷な激ヤバ罰ゲームに耐えて\n過激なホロカを楽しんでいるのでぜひチェックしてね👀✨️"
+        },
+        "en": {
+          "title": "Successfully finished Death HoloCa! 🎉",
+          "body": "Successfully finished Death HoloCa! 🎉\nToday's video is scheduled to be released on the official HoloCa YouTube channel in mid-July!\nThe two of them endured some super intense, crazy punishments and had a wild time playing HoloCa, so be sure to check it out! 👀✨️"
+        },
+        "id": {
+          "title": "Selesai juga Death HoloCa dengan selamat...",
+          "body": "Selesai juga Death HoloCa dengan selamat! 🎉\nVideo hari ini dijadwalkan tayang di YouTube resmi HoloCa pada pertengahan Juli nanti!\nMereka berdua bertahan melewati hukuman yang sangat kejam dan gila, serta menikmati permainan HoloCa yang seru, jadi jangan lupa ditonton ya! 👀✨️"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "b6e2c699-a398-4d02-a0c6-af2f14fd73d4",
+    "thread": {
+      "id": "b6e2c699-a398-4d02-a0c6-af2f14fd73d4",
+      "created_at": 1781254086,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/b6e2c699-a398-4d02-a0c6-af2f14fd73d4/original_1781254086_1.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "25299e77-c314-4fcf-a9fe-13debe52ec53",
+          "name": "大空スバル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png",
+          "key_name": "oozora_subaru"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "スバルとの対決内容は7月に公開予定なので...",
+      "body": "スバルとの対決内容は7月に公開予定なのでおたのしみにー！！\n罰ゲームが……ヤバすぎた＼(^o^)／\n大爆笑ꉂ🤣𐤔",
+      "translations": {
+        "ja": {
+          "title": "スバルとの対決内容は7月に公開予定なので...",
+          "body": "スバルとの対決内容は7月に公開予定なのでおたのしみにー！！\n罰ゲームが……ヤバすぎた＼(^o^)／\n大爆笑ꉂ🤣𐤔"
+        },
+        "en": {
+          "title": "The details of my showdown with Subaru w...",
+          "body": "The details of my showdown with Subaru will be revealed in July, so look forward to it!!\nThe punishment game was... absolutely insane＼(^o^)／\nSo hilariousꉂ🤣𐤔"
+        },
+        "id": {
+          "title": "Detail pertandinganku dengan Subaru akan...",
+          "body": "Detail pertandinganku dengan Subaru akan diungkap bulan Juli nanti, jadi nantikan ya!!\nHukumannya... benar-benar gila＼(^o^)／\nNgakak bangetꉂ🤣𐤔"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "3850d3ce-4ff1-4c48-9c8a-ffcb6b380922",
