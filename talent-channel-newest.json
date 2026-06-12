@@ -1,5 +1,51 @@
 [
   {
+    "channel_id": "8585223A-AFE4-4F14-BC76-18A2EBACAE70",
+    "channel_name": "大空スバル",
+    "thread_id": "570f8aa4-3537-498b-8d04-79b31aa2fb6d",
+    "thread": {
+      "id": "570f8aa4-3537-498b-8d04-79b31aa2fb6d",
+      "created_at": 1781248273,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/570f8aa4-3537-498b-8d04-79b31aa2fb6d/original_1781248433_1.jpeg",
+        "https://asset.holoplus.com/threads/570f8aa4-3537-498b-8d04-79b31aa2fb6d/original_1781248433_2.png"
+      ],
+      "talents": [
+        {
+          "id": "25299e77-c314-4fcf-a9fe-13debe52ec53",
+          "name": "大空スバル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png",
+          "key_name": "oozora_subaru"
+        }
+      ],
+      "user": {
+        "id": "c0606e9e-2c06-4d83-92b3-ea8987f71ab2",
+        "name": "大空スバル",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/oozora_subaru/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【急募】ここから勝つ方法【助けて】",
+      "body": "【急募】ここから勝つ方法【助けて】",
+      "translations": {
+        "ja": {
+          "title": "【急募】ここから勝つ方法【助けて】",
+          "body": "【急募】ここから勝つ方法【助けて】"
+        },
+        "en": {
+          "title": "[Urgent] How to win from here [Help me]",
+          "body": "[Urgent] How to win from here [Help me]"
+        },
+        "id": {
+          "title": "[Butuh bantuan segera] Cara menang dari ...",
+          "body": "[Butuh bantuan segera] Cara menang dari posisi ini [Tolong]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "4bd10e37-394f-470a-bd0e-967229753bb2",
