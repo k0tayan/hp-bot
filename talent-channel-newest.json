@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "be007e7c-b14d-413b-b99e-9ef0d18f39ab",
+    "thread": {
+      "id": "be007e7c-b14d-413b-b99e-9ef0d18f39ab",
+      "created_at": 1781340938,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/be007e7c-b14d-413b-b99e-9ef0d18f39ab/original_1781340938_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png",
+          "key_name": "mizumiya_su"
+        },
+        {
+          "id": "B4445442-9784-B0D6-AFA0-ADF01359D1DB",
+          "name": "輪堂千速",
+          "img_url": "https://asset.holoplus.com/talents/hololive/rindo_chihaya/icon_20260311.png",
+          "key_name": "rindo_chihaya"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ちは教習所🚗³₃！ちはとの切り抜きがあが...",
+      "body": "ちは教習所🚗³₃！ちはとの切り抜きがあがりました〜❕感想はYouTubeにまってます⬇️\nhttps://youtube.com/shorts/jy_HQMUlNLE?feature=share",
+      "translations": {
+        "ja": {
+          "title": "ちは教習所🚗³₃！ちはとの切り抜きがあが...",
+          "body": "ちは教習所🚗³₃！ちはとの切り抜きがあがりました〜❕感想はYouTubeにまってます⬇️\nhttps://youtube.com/shorts/jy_HQMUlNLE?feature=share"
+        },
+        "en": {
+          "title": "Chiha Driving School🚗³₃! A clip of Ch...",
+          "body": "Chiha Driving School🚗³₃! A clip of Chiha and me is up now〜❕ I'm waiting for your thoughts on YouTube⬇️\nhttps://youtube.com/shorts/jy_HQMUlNLE?feature=share"
+        },
+        "id": {
+          "title": "Sekolah Mengemudi Chiha🚗³₃! Klip Chih...",
+          "body": "Sekolah Mengemudi Chiha🚗³₃! Klip Chiha dan aku sudah tayang〜❕ Aku tunggu kesan-kesan kalian di YouTube ya⬇️\nhttps://youtube.com/shorts/jy_HQMUlNLE?feature=share"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "8585223A-AFE4-4F14-BC76-18A2EBACAE70",
     "channel_name": "大空スバル",
     "thread_id": "dde4c950-63ce-4259-b80f-bf0c39886bc8",
