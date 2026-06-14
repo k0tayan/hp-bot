@@ -1,5 +1,92 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "8aa4fff7-9de6-4cf3-afbe-4b66867d5483",
+    "thread": {
+      "id": "8aa4fff7-9de6-4cf3-afbe-4b66867d5483",
+      "created_at": 1781434647,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/8aa4fff7-9de6-4cf3-afbe-4b66867d5483/original_1781434647_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "de54958d-3ba2-4539-9cb1-39fd392cf82a",
+          "name": "さくらみこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/sakura_miko/icon_20260311.png",
+          "key_name": "sakura_miko"
+        },
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "063d07d8-ac40-4e31-bfaa-5c47cb8a8cae",
+          "name": "夏色まつり",
+          "img_url": "https://asset.holoplus.com/talents/hololive/natsuiro_matsuri/icon_20260311.png",
+          "key_name": "natsuiro_matsuri"
+        },
+        {
+          "id": "da1b223c-f3d5-4bea-8e4c-63521a6c1dce",
+          "name": "癒月ちょこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/yuzuki_choco/icon.png",
+          "key_name": "yuzuki_choco"
+        },
+        {
+          "id": "cc9eb596-fd8f-4344-bb42-b7282dbc1e7a",
+          "name": "猫又おかゆ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/nekomata_okayu/icon_20260311.png",
+          "key_name": "nekomata_okayu"
+        },
+        {
+          "id": "79482e2b-585e-41a5-af0a-8daf33ca5264",
+          "name": "不知火フレア",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiranui_flare/icon_20260311.png",
+          "key_name": "shiranui_flare"
+        },
+        {
+          "id": "08a03c6e-3b1a-4948-aa97-4e5ea7988907",
+          "name": "ラプラス・ダークネス",
+          "img_url": "https://asset.holoplus.com/talents/hololive/la%2B_darknesss/icon_20260311.png",
+          "key_name": "la+_darknesss"
+        },
+        {
+          "id": "c90c0a49-4a54-4f00-a742-0682fe4b6220",
+          "name": "音乃瀬奏",
+          "img_url": "https://asset.holoplus.com/talents/hololive/otonose_kanade/icon_20260311.png",
+          "key_name": "otonose_kanade"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "🎮💥 #ホロドリゲーム企画 💥🎮",
+      "body": "🎮💥 #ホロドリゲーム企画 💥🎮\n\n✨️✨️✨️✨️ついに明日開催✨️✨️✨️✨️\n#ホロドリ エンジョイゲーム大会‼️\n\n⏰6月15日21:00 START\n⏬️待機⏬️\nhttps://youtube.com/live/QpYSkEMJeTM?feature=share\n\n💋お姉さんチーム\n白上フブキ 癒月ちょこ 猫又おかゆ 不知火フレア \n🍼お子さまチーム\nさくらみこ 夏色まつり ラプラス・ダークネス 音乃瀬奏\n\n果たしてどちらのチームが勝利を手にする！？👑",
+      "translations": {
+        "ja": {
+          "title": "🎮💥 #ホロドリゲーム企画 💥🎮",
+          "body": "🎮💥 #ホロドリゲーム企画 💥🎮\n\n✨️✨️✨️✨️ついに明日開催✨️✨️✨️✨️\n#ホロドリ エンジョイゲーム大会‼️\n\n⏰6月15日21:00 START\n⏬️待機⏬️\nhttps://youtube.com/live/QpYSkEMJeTM?feature=share\n\n💋お姉さんチーム\n白上フブキ 癒月ちょこ 猫又おかゆ 不知火フレア \n🍼お子さまチーム\nさくらみこ 夏色まつり ラプラス・ダークネス 音乃瀬奏\n\n果たしてどちらのチームが勝利を手にする！？👑"
+        },
+        "en": {
+          "title": "🎮💥 #HoloDoriGameProject 💥🎮",
+          "body": "🎮💥 #HoloDoriGameProject 💥🎮\n\n✨️✨️✨️✨️Finally happening tomorrow!✨️✨️✨️✨️\n#HoloDori Enjoy Game Tournament‼️\n\n⏰June 15th, 21:00 JST START\n⏬️Waiting Room⏬️\nhttps://youtube.com/live/QpYSkEMJeTM?feature=share\n\n💋Onee-san Team\nShirakami Fubuki, Yuzuki Choco, Nekomata Okayu, Shiranui Flare\n🍼Child Team\nSakura Miko, Natsuiro Matsuri, La+ Darknesss, Otonose Kanade\n\nWhich team will claim victory!?👑"
+        },
+        "id": {
+          "title": "🎮💥 #ProyekGameHoloDori 💥🎮",
+          "body": "🎮💥 #ProyekGameHoloDori 💥🎮\n\n✨️✨️✨️✨️Akhirnya diadakan besok!✨️✨️✨️✨️\n#HoloDori Enjoy Game Tournament‼️\n\n⏰15 Juni, 21:00 JST START\n⏬️Ruang Tunggu⏬️\nhttps://youtube.com/live/QpYSkEMJeTM?feature=share\n\n💋Tim Onee-san\nShirakami Fubuki, Yuzuki Choco, Nekomata Okayu, Shiranui Flare\n🍼Tim Anak-anak\nSakura Miko, Natsuiro Matsuri, La+ Darknesss, Otonose Kanade\n\nKira-kira tim mana yang akan meraih kemenangan!?👑"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "be007e7c-b14d-413b-b99e-9ef0d18f39ab",
