@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "3757a457-2311-4980-8855-e910a4f0edf3",
+    "thread": {
+      "id": "3757a457-2311-4980-8855-e910a4f0edf3",
+      "created_at": 1781492009,
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "6/16朝こよ！#285教えて！こよりチャン募集！✨",
+      "body": "・最近のホロライブについての質問\n・配信者へ、ならではの質問\n・ホロメンにアンケートしてほしいこと（選択肢で答えられる質問でお願いします！）\n・〇〇さんに突撃取材してほしいこと\n\n募集です！次回以降に使う可能性もあります～！",
+      "translations": {
+        "ja": {
+          "title": "6/16朝こよ！#285教えて！こよりチャン募集！✨",
+          "body": "・最近のホロライブについての質問\n・配信者へ、ならではの質問\n・ホロメンにアンケートしてほしいこと（選択肢で答えられる質問でお願いします！）\n・〇〇さんに突撃取材してほしいこと\n\n募集です！次回以降に使う可能性もあります～！"
+        },
+        "en": {
+          "title": "6/16 AsaKoyo! #285 Tell Me! Koyori-chan Recruitment! ✨",
+          "body": "・Questions about recent hololive happenings\n・Questions specifically for streamers\n・Things you want me to poll the holomembers about (please make them questions that can be answered with options!)\n・Things you want me to do a surprise interview with someone about\n\nI'm taking submissions! I might use them in future streams too~!"
+        },
+        "id": {
+          "title": "6/16 AsaKoyo! #285 Beritahu Aku! Rekrutmen Koyori-chan! ✨",
+          "body": "・Pertanyaan seputar hololive akhir-akhir ini\n・Pertanyaan khusus untuk para streamer\n・Hal yang ingin kalian aku tanyakan ke holomember lewat survei (tolong buat pertanyaan yang bisa dijawab dengan pilihan ganda!)\n・Hal yang ingin kalian aku tanyakan saat wawancara mendadak dengan seseorang\n\nAku tunggu kirimannya ya! Mungkin akan aku gunakan di stream mendatang~!"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "8aa4fff7-9de6-4cf3-afbe-4b66867d5483",
