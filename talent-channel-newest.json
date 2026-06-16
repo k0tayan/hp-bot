@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "620a100b-9087-45d0-ad50-6ea445bd2dfa",
+    "thread": {
+      "id": "620a100b-9087-45d0-ad50-6ea445bd2dfa",
+      "created_at": 1781590161,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/620a100b-9087-45d0-ad50-6ea445bd2dfa/original_1781590161_1.png"
+      ],
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "🩵6月16日 21時〜 🩵",
+      "body": "🩵6月16日 21時〜 🩵\n【Step Into Dreams】初生誕3DLIVE❕\nhttps://www.youtube.com/live/h0jykfxgmj0?si=QAkHqvX1RJpVGamN\n#水宮枢生誕祭2026 \n\n💬ゲスト総勢12名\n💬hololiveにきて初のソロ3DLIVEその一歩を見に来てください…✨",
+      "translations": {
+        "ja": {
+          "title": "🩵6月16日 21時〜 🩵",
+          "body": "🩵6月16日 21時〜 🩵\n【Step Into Dreams】初生誕3DLIVE❕\nhttps://www.youtube.com/live/h0jykfxgmj0?si=QAkHqvX1RJpVGamN\n#水宮枢生誕祭2026 \n\n💬ゲスト総勢12名\n💬hololiveにきて初のソロ3DLIVEその一歩を見に来てください…✨"
+        },
+        "en": {
+          "title": "🩵 June 16th, 9:00 PM JST 🩵",
+          "body": "🩵 June 16th, 9:00 PM JST 🩵\n【Step Into Dreams】First Birthday 3D LIVE❕\nhttps://www.youtube.com/live/h0jykfxgmj0?si=QAkHqvX1RJpVGamN\n#MizumiyaKururuBirthday2026\n\n💬 12 guests in total\n💬 Please come and witness this first step of my first solo 3D LIVE since joining hololive...✨"
+        },
+        "id": {
+          "title": "🩵 16 Juni, pukul 21.00 JST 🩵",
+          "body": "🩵 16 Juni, pukul 21.00 JST 🩵\n【Step Into Dreams】3D LIVE Ulang Tahun Pertama❕\nhttps://www.youtube.com/live/h0jykfxgmj0?si=QAkHqvX1RJpVGamN\n#MizumiyaKururuBirthday2026\n\n💬 Total 12 tamu\n💬 Tolong datang dan saksikan langkah pertama dari 3D LIVE solo pertamaku sejak bergabung dengan hololive...✨"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
     "thread_id": "3757a457-2311-4980-8855-e910a4f0edf3",
