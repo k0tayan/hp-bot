@@ -2,6 +2,51 @@
   {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
+    "thread_id": "20c07cf9-306c-4982-ac82-646c9c435864",
+    "thread": {
+      "id": "20c07cf9-306c-4982-ac82-646c9c435864",
+      "created_at": 1781677117,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/20c07cf9-306c-4982-ac82-646c9c435864/original_1781677118_1.png"
+      ],
+      "talents": [
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "初のオリ曲どこがかわいい〜？YouTubeに💬...",
+      "body": "初のオリ曲どこがかわいい〜？YouTubeに💬まってます\nhttps://youtu.be/_tVZp3ufOOs?si=0-jtsGKXoQ1qxHPn",
+      "translations": {
+        "ja": {
+          "title": "初のオリ曲どこがかわいい〜？YouTubeに💬...",
+          "body": "初のオリ曲どこがかわいい〜？YouTubeに💬まってます\nhttps://youtu.be/_tVZp3ufOOs?si=0-jtsGKXoQ1qxHPn"
+        },
+        "en": {
+          "title": "What part of my first original song do y...",
+          "body": "What part of my first original song do you think is cute? I'm waiting for your 💬 on YouTube!\nhttps://youtu.be/_tVZp3ufOOs?si=0-jtsGKXoQ1qxHPn"
+        },
+        "id": {
+          "title": "Bagian mana dari lagu original pertamaku...",
+          "body": "Bagian mana dari lagu original pertamaku yang menurut kalian lucu? Aku tunggu 💬 kalian di YouTube ya!\nhttps://youtu.be/_tVZp3ufOOs?si=0-jtsGKXoQ1qxHPn"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
     "thread_id": "620a100b-9087-45d0-ad50-6ea445bd2dfa",
     "thread": {
       "id": "620a100b-9087-45d0-ad50-6ea445bd2dfa",
