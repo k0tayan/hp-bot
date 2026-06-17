@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
+    "channel_name": "水宮枢",
+    "thread_id": "5734d789-93e4-4619-a368-b35c4ad99bdd",
+    "thread": {
+      "id": "5734d789-93e4-4619-a368-b35c4ad99bdd",
+      "created_at": 1781694516,
+      "talents": [
+        {
+          "id": "21640e19-7c9e-4819-a203-4511f0148972",
+          "name": "白銀ノエル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirogane_noel/icon.png",
+          "key_name": "shirogane_noel"
+        },
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "e35321a4-b180-44d9-be8d-9059b0ad96df",
+        "name": "水宮枢",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "\"けはい\"を感じろ！バウバウ開封対決！！ 勝利予想！",
+      "body": "[[holoplus_survey_start]]\nA. 白銀ノエル\nB. 水宮枢\nC. 引き分け\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "\"けはい\"を感じろ！バウバウ開封対決！！ 勝利予想！",
+          "body": "[[holoplus_survey_start]]\nA. 白銀ノエル\nB. 水宮枢\nC. 引き分け\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Feel the \"Presence\"! Bau Bau Unboxing Showdown!! Who will win?",
+          "body": "[[holoplus_survey_start]]\nA. Shirogane Noel\nB. Mizumiya Su\nC. Draw\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Rasakan \"Kehadirannya\"!Pertarungan Unboxing Bau Bau!! Prediksi Pemenang!",
+          "body": "[[holoplus_survey_start]]\nA. Shirogane Noel\nB. Mizumiya Su\nC. Seri\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "F90393BF-BDAC-4536-94CB-5FB5EA69B10C",
     "channel_name": "白銀ノエル",
     "thread_id": "58c03c54-c818-407f-b1ae-3e45f9b4a543",
