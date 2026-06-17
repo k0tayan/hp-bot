@@ -1,5 +1,53 @@
 [
   {
+    "channel_id": "F90393BF-BDAC-4536-94CB-5FB5EA69B10C",
+    "channel_name": "白銀ノエル",
+    "thread_id": "12b3b4a7-8384-4929-bb0d-6c2ae89b8cb8",
+    "thread": {
+      "id": "12b3b4a7-8384-4929-bb0d-6c2ae89b8cb8",
+      "created_at": 1781697659,
+      "talents": [
+        {
+          "id": "21640e19-7c9e-4819-a203-4511f0148972",
+          "name": "白銀ノエル",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirogane_noel/icon.png",
+          "key_name": "shirogane_noel"
+        },
+        {
+          "id": "E74A61B5-CADC-81E3-BB87-37ACE595DD8A",
+          "name": "水宮枢",
+          "img_url": "https://asset.holoplus.com/talents/hololive/mizumiya_su/icon_20260311.png",
+          "key_name": "mizumiya_su"
+        }
+      ],
+      "user": {
+        "id": "353040a6-72c5-44e0-bdd9-c9f383c1af07",
+        "name": "白銀ノエル",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirogane_noel/icon.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今、欲しいのは牛丼派？身長派？",
+      "body": "[[holoplus_survey_start]]\nA. 牛丼派\nB. 身長派\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "今、欲しいのは牛丼派？身長派？",
+          "body": "[[holoplus_survey_start]]\nA. 牛丼派\nB. 身長派\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Which would you rather have right now: Beef Bowl or Height?",
+          "body": "[[holoplus_survey_start]]\nA. Beef Bowl\nB. Height\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Sekarang, kamu pilih tim Gyudon atau tim Tinggi Badan?",
+          "body": "[[holoplus_survey_start]]\nA. Tim Gyudon\nB. Tim Tinggi Badan\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "358F7485-A9CD-4D39-B0B5-E5990BBD0DA6",
     "channel_name": "水宮枢",
     "thread_id": "5734d789-93e4-4619-a368-b35c4ad99bdd",
