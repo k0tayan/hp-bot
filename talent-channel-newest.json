@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "99FCCAAF-977D-4FFB-AC23-137F82A72C6D",
+    "channel_name": "ベスティア・ゼータ",
+    "thread_id": "cb8e3847-89d4-41df-a619-a19109614887",
+    "thread": {
+      "id": "cb8e3847-89d4-41df-a619-a19109614887",
+      "created_at": 1781771048,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/cb8e3847-89d4-41df-a619-a19109614887/original_1781771049_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "4aef28fc-b18f-4fd8-b08e-5be9be79449a",
+          "name": "ベスティア・ゼータ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20260311.png",
+          "key_name": "vestia_zeta"
+        }
+      ],
+      "user": {
+        "id": "b52e073f-5c0e-4b97-9917-8faa6574e12a",
+        "name": "ベスティア・ゼータ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Zeta Q&A",
+      "body": "Hello!! It’s been awhile since I’ve done a Question & Answer!! Please ask me anything and I will try to answer them on stream. Crazy or serious questions is okay!\n ",
+      "translations": {
+        "ja": {
+          "title": "ZetaのQ&A",
+          "body": "こんゼータ！！久しぶりの質問コーナーだよ！！何でも聞いてね。配信で答えられるように頑張るよ。変な質問でも真面目な質問でもOK！✨ランダムな質問でも大丈夫です！"
+        },
+        "en": {
+          "title": "Zeta Q&A",
+          "body": "Hello!! It’s been awhile since I’ve done a Question & Answer!! Please ask me anything and I will try to answer them on stream. Crazy or serious questions is okay!\n "
+        },
+        "id": {
+          "title": "Q&A Zeta",
+          "body": "Halo!! Udah lama nih sejak terakhir kali aku bikin sesi Tanya Jawab!! Silakan tanya apa aja dan aku akan berusaha buat jawab pas streaming nanti. Pertanyaan random atau serius, semuanya boleh!✨"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
     "thread_id": "4e18d242-8096-4e2a-9c69-d99714a76b79",
