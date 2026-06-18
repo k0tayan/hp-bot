@@ -1,5 +1,65 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "4e18d242-8096-4e2a-9c69-d99714a76b79",
+    "thread": {
+      "id": "4e18d242-8096-4e2a-9c69-d99714a76b79",
+      "created_at": 1781765907,
+      "talents": [
+        {
+          "id": "4e124b33-cad3-4d03-b3b9-97011986ef21",
+          "name": "アユンダ・リス",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ayunda_risu/icon.png",
+          "key_name": "ayunda_risu"
+        },
+        {
+          "id": "228bf208-18f4-498b-8b74-ab7398a94ab2",
+          "name": "ムーナ・ホシノヴァ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/moona_hoshinova/icon.png",
+          "key_name": "moona_hoshinova"
+        },
+        {
+          "id": "ad45e403-1566-49da-b590-fa95fca334ad",
+          "name": "アイラニ・イオフィフティーン",
+          "img_url": "https://asset.holoplus.com/talents/hololive/airani_iofifteen/icon.png",
+          "key_name": "airani_iofifteen"
+        },
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "OFFICIAL FIRST EPISODE: SURVEY PLUS with AREA15 as guests!!",
+      "body": "I'm not sure if anyone remembers but on my last anniversary I released an episode 0 of a new holoplus gameshow program called PLUS SURVEY!! ✨️✨️\n\nIt's a gameshow where holomembers will have to do their best and dive into the minds of the viewers by answering a question with what the viewers would agree with the most!! 😍😍💕\n\nOur guests this time will be Ayunda Risu, Moona Hoshinova and Airani Iofifteen, all from hololive Indonesia first generation- AREA15 👏👏\n\nWe will be doing LIVE survey polls on stream, so please look forward to it!!💃\n\nPLUS SURVEY will be streamed in Ollie's channel, 19th June 2026 at 21:00 JST\nhttps://www.youtube.com/live/1YmpbSWWDaI?si=wRWxqgu4H5Ern5bM\n\nSEE YOU THEN 👯‍♀️👋",
+      "translations": {
+        "ja": {
+          "title": "公式第1回：AREA15をゲストに迎えた「SURVEY PLUS」！！",
+          "body": "覚えている人がいるかわからないけど、前回の周年記念で「PLUS SURVEY!!」という新しいホロプラスのゲーム番組の第0回を公開したの✨️✨️\n\nこれはホロメンが視聴者の心を読み取って、みんなが一番納得しそうな答えを当てるゲーム番組だよ！😍😍💕\n\n今回のゲストは、ホロライブインドネシア1期生「AREA15」から、アユンダ・リス、ムーナ・ホシノヴァ、アイラニ・イオフィフティーンの3人が来てくれるよ👏👏\n\n配信中にライブアンケートを行うから、楽しみにしててね！！💃\n\n「PLUS SURVEY」は、2026年6月19日 21:00 JSTからオリーのチャンネルで配信されるよ！\nhttps://www.youtube.com/live/1YmpbSWWDaI?si=wRWxqgu4H5Ern5bM\n\nそれじゃ、またね👯‍♀️👋"
+        },
+        "en": {
+          "title": "OFFICIAL FIRST EPISODE: SURVEY PLUS with AREA15 as guests!!",
+          "body": "I'm not sure if anyone remembers but on my last anniversary I released an episode 0 of a new holoplus gameshow program called PLUS SURVEY!! ✨️✨️\n\nIt's a gameshow where holomembers will have to do their best and dive into the minds of the viewers by answering a question with what the viewers would agree with the most!! 😍😍💕\n\nOur guests this time will be Ayunda Risu, Moona Hoshinova and Airani Iofifteen, all from hololive Indonesia first generation- AREA15 👏👏\n\nWe will be doing LIVE survey polls on stream, so please look forward to it!!💃\n\nPLUS SURVEY will be streamed in Ollie's channel, 19th June 2026 at 21:00 JST\nhttps://www.youtube.com/live/1YmpbSWWDaI?si=wRWxqgu4H5Ern5bM\n\nSEE YOU THEN 👯‍♀️👋"
+        },
+        "id": {
+          "title": "EPISODE PERDANA RESMI: SURVEY PLUS dengan bintang tamu AREA15!!",
+          "body": "Aku nggak tahu ada yang ingat atau nggak, tapi di anniversary terakhirku, aku merilis episode 0 dari program gameshow holoplus baru bernama PLUS SURVEY!! ✨️✨️\n\nIni adalah gameshow di mana para holomember harus berusaha sebaik mungkin untuk menyelami pikiran penonton dengan menjawab pertanyaan berdasarkan apa yang paling disetujui oleh penonton!! 😍😍💕\n\nBintang tamu kita kali ini adalah Ayunda Risu, Moona Hoshinova, dan Airani Iofifteen, semuanya dari generasi pertama hololive Indonesia - AREA15 👏👏\n\nKita akan melakukan polling survei LANGSUNG saat stream, jadi nantikan ya!!💃\n\nPLUS SURVEY akan disiarkan di channel Ollie, 19 Juni 2026 pukul 21:00 JST\nhttps://www.youtube.com/live/1YmpbSWWDaI?si=wRWxqgu4H5Ern5bM\n\nSAMPAI JUMPA NANTI 👯‍♀️👋"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "F90393BF-BDAC-4536-94CB-5FB5EA69B10C",
     "channel_name": "白銀ノエル",
     "thread_id": "12b3b4a7-8384-4929-bb0d-6c2ae89b8cb8",
