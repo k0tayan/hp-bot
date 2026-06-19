@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "51cc4eba-ef07-447a-8aef-565e4964eb92",
+    "thread": {
+      "id": "51cc4eba-ef07-447a-8aef-565e4964eb92",
+      "created_at": 1781836818,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "└(･∀･)┐ｽﾞﾝｽﾞﾝ┌(･∀･)┘ﾁｬｯﾁ...",
+      "body": "└(･∀･)┐ｽﾞﾝｽﾞﾝ┌(･∀･)┘ﾁｬｯﾁｬｯ",
+      "translations": {
+        "ja": {
+          "title": "└(･∀･)┐ｽﾞﾝｽﾞﾝ┌(･∀･)┘ﾁｬｯﾁ...",
+          "body": "└(･∀･)┐ｽﾞﾝｽﾞﾝ┌(･∀･)┘ﾁｬｯﾁｬｯ"
+        },
+        "en": {
+          "title": "└(･∀･)┐ｽﾞﾝｽﾞﾝ┌(･∀･)┘ﾁｬｯﾁ...",
+          "body": "└(･∀･)┐ｽﾞﾝｽﾞﾝ┌(･∀･)┘ﾁｬｯﾁｬｯ"
+        },
+        "id": {
+          "title": "└(･∀･)┐ｽﾞﾝｽﾞﾝ┌(･∀･)┘ﾁｬｯﾁ...",
+          "body": "└(･∀･)┐ｽﾞﾝｽﾞﾝ┌(･∀･)┘ﾁｬｯﾁｬｯ"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/da295558-fecb-48a3-81d1-14ee6a352846.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "99FCCAAF-977D-4FFB-AC23-137F82A72C6D",
     "channel_name": "ベスティア・ゼータ",
     "thread_id": "cb8e3847-89d4-41df-a619-a19109614887",
