@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "92EEDE41-7B3C-4D6E-B7AA-E7C189331C9E",
+    "channel_name": "IRyS",
+    "thread_id": "49631938-ee91-4f61-8636-17bbf17b467c",
+    "thread": {
+      "id": "49631938-ee91-4f61-8636-17bbf17b467c",
+      "created_at": 1781891179,
+      "talents": [
+        {
+          "id": "8e711c45-d259-4b4e-9013-0b6f596ddaa3",
+          "name": "IRyS",
+          "img_url": "https://asset.holoplus.com/talents/hololive/irys/icon_20260311.png",
+          "key_name": "irys"
+        }
+      ],
+      "user": {
+        "id": "6b37669e-52e3-4201-b921-0dcd4d739378",
+        "name": "IRyS",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/irys/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "HiRyS!",
+      "body": "Hope has descended😇",
+      "translations": {
+        "ja": {
+          "title": "HiRyS！",
+          "body": "希望が舞い降りまちた😇"
+        },
+        "en": {
+          "title": "HiRyS!",
+          "body": "Hope has descended😇"
+        },
+        "id": {
+          "title": "HiRyS!",
+          "body": "Harapan telah turun😇"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/665d5cde-50f0-47de-af9d-7576733e7d2b.m4a"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "51cc4eba-ef07-447a-8aef-565e4964eb92",
