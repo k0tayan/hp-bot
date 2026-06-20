@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "99FCCAAF-977D-4FFB-AC23-137F82A72C6D",
+    "channel_name": "ベスティア・ゼータ",
+    "thread_id": "4792c987-b73f-4730-94c7-149b8cedd00c",
+    "thread": {
+      "id": "4792c987-b73f-4730-94c7-149b8cedd00c",
+      "created_at": 1781936351,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/4792c987-b73f-4730-94c7-149b8cedd00c/original_1781936351_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "4aef28fc-b18f-4fd8-b08e-5be9be79449a",
+          "name": "ベスティア・ゼータ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20260311.png",
+          "key_name": "vestia_zeta"
+        }
+      ],
+      "user": {
+        "id": "b52e073f-5c0e-4b97-9917-8faa6574e12a",
+        "name": "ベスティア・ゼータ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Kamen Rider ZEZTZ fans!!! Let's watch it...",
+      "body": "Kamen Rider ZEZTZ fans!!! Let's watch it together starting from Case 1!\nhttps://www.youtube.com/live/qKt5gTotDKQ?si=rjVSCOG2rax83l6K",
+      "translations": {
+        "ja": {
+          "title": "仮面ライダーZEZTZファンの皆さん！！！Cas...",
+          "body": "仮面ライダーZEZTZファンの皆さん！！！Case 1から一緒に観ましょう！\nhttps://www.youtube.com/live/qKt5gTotDKQ?si=rjVSCOG2rax83l6K"
+        },
+        "en": {
+          "title": "Kamen Rider ZEZTZ fans!!! Let's watch it...",
+          "body": "Kamen Rider ZEZTZ fans!!! Let's watch it together starting from Case 1!\nhttps://www.youtube.com/live/qKt5gTotDKQ?si=rjVSCOG2rax83l6K"
+        },
+        "id": {
+          "title": "Para penggemar Kamen Rider ZEZTZ!!! Ayo ...",
+          "body": "Para penggemar Kamen Rider ZEZTZ!!! Ayo kita tonton bersama mulai dari Episode 1!\nhttps://www.youtube.com/live/qKt5gTotDKQ?si=rjVSCOG2rax83l6K"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "49386170-C337-437C-AF7F-BB4C87C70FE3",
     "channel_name": "ハコス・ベールズ",
     "thread_id": "b460b397-7d87-4777-8d98-6efb0881cd6e",
