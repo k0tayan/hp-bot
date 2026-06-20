@@ -2,6 +2,48 @@
   {
     "channel_id": "92EEDE41-7B3C-4D6E-B7AA-E7C189331C9E",
     "channel_name": "IRyS",
+    "thread_id": "9021404c-9ad6-4a47-94ee-a27c73e5d409",
+    "thread": {
+      "id": "9021404c-9ad6-4a47-94ee-a27c73e5d409",
+      "created_at": 1781921347,
+      "talents": [
+        {
+          "id": "8e711c45-d259-4b4e-9013-0b6f596ddaa3",
+          "name": "IRyS",
+          "img_url": "https://asset.holoplus.com/talents/hololive/irys/icon_20260311.png",
+          "key_name": "irys"
+        }
+      ],
+      "user": {
+        "id": "6b37669e-52e3-4201-b921-0dcd4d739378",
+        "name": "IRyS",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/irys/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Doing my best to bring a great show! ✨W...",
+      "body": "Doing my best to bring a great show! ✨We are looking forward to seeing fan art and cheer messages for the upcoming serendipity concert! Might go on a replying spree later on 👀 #holoplus Exclusive",
+      "translations": {
+        "ja": {
+          "title": "最高のライブをお届けできるよう頑張ります...",
+          "body": "最高のライブをお届けできるよう頑張ります！✨ 今度の「serendipity」コンサートに向けたファンアートや応援メッセージを楽しみにしています！後で返信しちゃうかも…？👀 #holoplus 限定"
+        },
+        "en": {
+          "title": "Doing my best to bring a great show! ✨W...",
+          "body": "Doing my best to bring a great show! ✨We are looking forward to seeing fan art and cheer messages for the upcoming serendipity concert! Might go on a replying spree later on 👀 #holoplus Exclusive"
+        },
+        "id": {
+          "title": "Aku berusaha sebaik mungkin untuk member...",
+          "body": "Aku berusaha sebaik mungkin untuk memberikan pertunjukan yang hebat! ✨ Kami menantikan fan art dan pesan dukungan untuk konser serendipity mendatang! Mungkin nanti aku akan membalas banyak pesan 👀 #holoplus Eksklusif"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "92EEDE41-7B3C-4D6E-B7AA-E7C189331C9E",
+    "channel_name": "IRyS",
     "thread_id": "49631938-ee91-4f61-8636-17bbf17b467c",
     "thread": {
       "id": "49631938-ee91-4f61-8636-17bbf17b467c",
