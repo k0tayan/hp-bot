@@ -1,5 +1,47 @@
 [
   {
+    "channel_id": "49386170-C337-437C-AF7F-BB4C87C70FE3",
+    "channel_name": "ハコス・ベールズ",
+    "thread_id": "b460b397-7d87-4777-8d98-6efb0881cd6e",
+    "thread": {
+      "id": "b460b397-7d87-4777-8d98-6efb0881cd6e",
+      "created_at": 1781924503,
+      "talents": [
+        {
+          "id": "3722fd96-4ec2-4ae3-b31e-c76ab24b0c31",
+          "name": "ハコス・ベールズ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakos_baelz/icon_20260311.png",
+          "key_name": "hakos_baelz"
+        }
+      ],
+      "user": {
+        "id": "b6a7f3a4-a004-4294-a7eb-563520f1fa24",
+        "name": "ハコス・ベールズ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakos_baelz/custom_icon/uploaded_1781072020.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "😎SERENDIPITY IS NEARLY HERE! 😎",
+      "body": "The concert is nearly here!! \nAre everyone's preparations ready?! 🤩🤩\nWhether you're coming to the venue or watching from home, I wanna know everything that you have prepared for the concert ie SNACKS, MERCHS, HOME SET UP ANYTHING!! \n\nMay be responding to a few!! 😉 \n\n#holoplus Exclusive!",
+      "translations": {
+        "ja": {
+          "title": "😎SERENDIPITYまであと少し！ 😎",
+          "body": "コンサートまであと少しだね！！\nみんな準備はできてる？！ 🤩🤩\n会場に来る人も、お家から見てくれる人も、コンサートのために準備したものを全部教えてほしい!! お菓子とか、グッズとか、お家でのセットアップとか、何でもOK！！\n\nいくつか返信しちゃうかも！！ 😉\n\n#holoplus 限定！"
+        },
+        "en": {
+          "title": "😎SERENDIPITY IS NEARLY HERE! 😎",
+          "body": "The concert is nearly here!! \nAre everyone's preparations ready?! 🤩🤩\nWhether you're coming to the venue or watching from home, I wanna know everything that you have prepared for the concert ie SNACKS, MERCHS, HOME SET UP ANYTHING!! \n\nMay be responding to a few!! 😉 \n\n#holoplus Exclusive!"
+        },
+        "id": {
+          "title": "😎SERENDIPITY SUDAH DEKAT! 😎",
+          "body": "Konsernya sudah dekat banget!!\nApakah persiapan kalian semua sudah siap?! 🤩🤩\nBaik kalian yang datang ke venue atau menonton dari rumah, aku ingin tahu semua yang sudah kalian siapkan untuk konser ini, misalnya CEMILAN, MERCH, SET-UP DI RUMAH, APA SAJA!!\n\nMungkin aku akan membalas beberapa ya!! 😉\n\nEksklusif #holoplus!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "92EEDE41-7B3C-4D6E-B7AA-E7C189331C9E",
     "channel_name": "IRyS",
     "thread_id": "9021404c-9ad6-4a47-94ee-a27c73e5d409",
