@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
+    "thread_id": "af7a0ed8-122d-4b11-8420-7cd0f4e63f82",
+    "thread": {
+      "id": "af7a0ed8-122d-4b11-8420-7cd0f4e63f82",
+      "created_at": 1782052101,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/af7a0ed8-122d-4b11-8420-7cd0f4e63f82/original_1782052101_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "6/23朝こよ！☀教えて！こよりチャン募集！✨",
+      "body": "・最近のホロライブについての質問\n・配信者へ、ならではの質問\n・ホロメンにアンケートしてほしいこと（選択肢で答えられる質問でお願いします！）\n・〇〇さんに突撃取材してほしいこと\n\n募集です！次回以降に使う可能性もあります～！",
+      "translations": {
+        "ja": {
+          "title": "6/23朝こよ！☀教えて！こよりチャン募集！✨",
+          "body": "・最近のホロライブについての質問\n・配信者へ、ならではの質問\n・ホロメンにアンケートしてほしいこと（選択肢で答えられる質問でお願いします！）\n・〇〇さんに突撃取材してほしいこと\n\n募集です！次回以降に使う可能性もあります～！"
+        },
+        "en": {
+          "title": "6/23 AsaKoyo! ☀ Tell me! Calling for 'Koyori-chan' submissions! ✨",
+          "body": "・Questions about recent hololive happenings\n・Questions unique to streamers\n・Things you want me to poll the other holomembers about (Please make them questions that can be answered with multiple-choice options!)\n・Things you want me to do a surprise interview with someone about\n\nI'm taking submissions! I might use them in future streams too~!"
+        },
+        "id": {
+          "title": "6/23 AsaKoyo! ☀ Beritahu aku! Mencari kiriman untuk 'Koyori-chan'! ✨",
+          "body": "・Pertanyaan seputar hololive akhir-akhir ini\n・Pertanyaan yang unik untuk para streamer\n・Hal yang ingin kalian aku tanyakan ke holomem lewat polling (Mohon buat pertanyaan yang bisa dijawab dengan pilihan ganda!)\n・Hal yang ingin kalian aku tanyakan saat melakukan wawancara mendadak ke seseorang\n\nAku tunggu kirimannya ya! Mungkin akan aku gunakan di stream berikutnya juga~!"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "7209BDA9-D1E9-45D5-BFA3-0D4B19451C84",
     "channel_name": "輪堂千速",
     "thread_id": "cf9bd8d4-1b2d-45d9-b3de-22fa06d7b2ac",
