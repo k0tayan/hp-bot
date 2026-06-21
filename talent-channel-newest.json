@@ -2,6 +2,51 @@
   {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
+    "thread_id": "e48719c5-51f8-4098-85a4-628032e34c22",
+    "thread": {
+      "id": "e48719c5-51f8-4098-85a4-628032e34c22",
+      "created_at": 1782052377,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/e48719c5-51f8-4098-85a4-628032e34c22/original_1782052377_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "e5fe9858-b28b-4ab1-abeb-060e4b937bff",
+          "name": "博衣こより",
+          "img_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png",
+          "key_name": "hakui_koyori"
+        }
+      ],
+      "user": {
+        "id": "4e43a9f0-5d86-4a3c-8322-435ec84c0aba",
+        "name": "博衣こより",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/hakui_koyori/icon_20260311.png"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【朝こよ☀】6月の\"めい\"言募集！",
+      "body": "6月のホロライブメンバーの配信の中で、これは「名言」「迷言」だな！と思ったものを教えてください✨\n月末の「朝こよ！」でご紹介します！\n投稿の仕方は以下を参考にしてください🥳\n\n【投稿の仕方】※添付画像を参考にしてください\n\n＜発言した人の名前＞\n「＜発言した台詞を書いてください＞」\n\n〇月〇日　＜何の配信かを簡潔に書いてください＞\n\n＜どんな状況で出た発言なのかを簡潔に書いてください＞",
+      "translations": {
+        "ja": {
+          "title": "【朝こよ☀】6月の\"めい\"言募集！",
+          "body": "6月のホロライブメンバーの配信の中で、これは「名言」「迷言」だな！と思ったものを教えてください✨\n月末の「朝こよ！」でご紹介します！\n投稿の仕方は以下を参考にしてください🥳\n\n【投稿の仕方】※添付画像を参考にしてください\n\n＜発言した人の名前＞\n「＜発言した台詞を書いてください＞」\n\n〇月〇日　＜何の配信かを簡潔に書いてください＞\n\n＜どんな状況で出た発言なのかを簡潔に書いてください＞"
+        },
+        "en": {
+          "title": "[AsaKoyo☀] Calling for June's \"Mei-gen\" (Famous/Funny Quotes)!",
+          "body": "Please tell me any \"famous quotes\" or \"funny/questionable quotes\" you've heard from hololive members' streams during June!✨\nI'll be introducing them in the end-of-month \"AsaKoyo!\"\nPlease refer to the following format for your submissions🥳\n\n[How to submit] *Please refer to the attached image\n\n<Name of the person who said it>\n\"<Please write the quote here>\"\n\nMonth/Day <Please briefly describe the stream>\n\n<Please briefly describe the situation in which the quote was said>"
+        },
+        "id": {
+          "title": "[AsaKoyo☀] Mencari \"Mei-gen\" (Kutipan Terkenal/Lucu) bulan Juni!",
+          "body": "Tolong beri tahu aku \"kutipan terkenal\" atau \"kutipan lucu/aneh\" yang kalian dengar dari stream member hololive selama bulan Juni!✨\nAkan aku perkenalkan di \"AsaKoyo!\" akhir bulan nanti!\nSilakan ikuti format berikut untuk pengiriman kalian🥳\n\n[Cara mengirim] *Silakan lihat gambar terlampir\n\n<Nama orang yang mengucapkannya>\n\"<Tulis kutipannya di sini>\"\n\nBulan/Tanggal <Tulis singkat stream apa itu>\n\n<Tulis singkat situasi saat kutipan itu diucapkan>"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
+    "channel_name": "博衣こより",
     "thread_id": "af7a0ed8-122d-4b11-8420-7cd0f4e63f82",
     "thread": {
       "id": "af7a0ed8-122d-4b11-8420-7cd0f4e63f82",
