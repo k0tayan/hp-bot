@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "2fd27fb7-7a1a-4c4f-967f-c3b73b3e35f8",
+    "thread": {
+      "id": "2fd27fb7-7a1a-4c4f-967f-c3b73b3e35f8",
+      "created_at": 1782136366,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/2fd27fb7-7a1a-4c4f-967f-c3b73b3e35f8/original_1782136366_1.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "✨️狐族密会からのお知らせ✨️",
+      "body": "✨️狐族密会からのお知らせ✨️\n\nついに番組ステッカーが完成‼️\n次回の狐族密会から皆様への配布も開始ぃ!?\nノベルティとして動き始めます(^・ω・^§)ﾉ\nこれからも番組への楽しい投稿をお待ちしております‼️\n募集は匿名投稿可能なホロＱで行いますが\nホロプラス運営さんがしっかりチェックしておりますので配信内にて選ばれたプレゼント対象者の方はご安心を✊\n\n#ホロプラス企画 #狐族密会",
+      "translations": {
+        "ja": {
+          "title": "✨️狐族密会からのお知らせ✨️",
+          "body": "✨️狐族密会からのお知らせ✨️\n\nついに番組ステッカーが完成‼️\n次回の狐族密会から皆様への配布も開始ぃ!?\nノベルティとして動き始めます(^・ω・^§)ﾉ\nこれからも番組への楽しい投稿をお待ちしております‼️\n募集は匿名投稿可能なホロＱで行いますが\nホロプラス運営さんがしっかりチェックしておりますので配信内にて選ばれたプレゼント対象者の方はご安心を✊\n\n#ホロプラス企画 #狐族密会"
+        },
+        "en": {
+          "title": "✨️An announcement from the Kitsune Tribe...",
+          "body": "✨️An announcement from the Kitsune Tribe Secret Meeting✨️\n\nOur program stickers are finally complete‼️\nWe'll start distributing them to everyone starting from the next Kitsune Tribe Secret Meeting!?\nThey're officially becoming a novelty item(^・ω・^§)ﾉ\nWe look forward to your fun submissions to the program‼️\nWe'll be using HoloQ for submissions, which allows for anonymous posting.\nRest assured that the HoloPlus management team is checking them thoroughly, so if you're selected as a gift recipient during the stream, you have nothing to worry about✊\n\n#HoloPlusProject #KitsuneTribeSecretMeeting"
+        },
+        "id": {
+          "title": "✨️Pengumuman dari Pertemuan Rahasia Suku...",
+          "body": "✨️Pengumuman dari Pertemuan Rahasia Suku Rubah✨️\n\nStiker program kita akhirnya selesai‼️\nKita akan mulai membagikannya kepada kalian semua mulai dari Pertemuan Rahasia Suku Rubah berikutnya!?\nStiker ini resmi menjadi barang koleksi(^・ω・^§)ﾉ\nKami menantikan kiriman seru kalian untuk program ini‼️\nKami akan menggunakan HoloQ untuk pengumpulan kiriman, yang memungkinkan posting secara anonim.\nTenang saja, tim manajemen HoloPlus memeriksa semuanya dengan teliti, jadi jika kalian terpilih sebagai penerima hadiah saat siaran, tidak perlu khawatir✊\n\n#ProyekHoloPlus #PertemuanRahasiaSukuRubah"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "F9645C1B-F61D-4818-A66D-EB31D0AD67A3",
     "channel_name": "博衣こより",
     "thread_id": "e48719c5-51f8-4098-85a4-628032e34c22",
