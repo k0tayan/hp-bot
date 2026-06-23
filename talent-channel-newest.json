@@ -2,6 +2,51 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "7304f88b-41aa-4ed3-bd9b-b36b1cf695c7",
+    "thread": {
+      "id": "7304f88b-41aa-4ed3-bd9b-b36b1cf695c7",
+      "created_at": 1782198782,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/7304f88b-41aa-4ed3-bd9b-b36b1cf695c7/original_1782198782_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今日の配信はめちゃカメに決定！！！！！！...",
+      "body": "今日の配信はめちゃカメに決定！！！！！！！！！！！！！！",
+      "translations": {
+        "ja": {
+          "title": "今日の配信はめちゃカメに決定！！！！！！...",
+          "body": "今日の配信はめちゃカメに決定！！！！！！！！！！！！！！"
+        },
+        "en": {
+          "title": "Decided on Mecha-Kame for today's stream...",
+          "body": "Decided on Mecha-Kame for today's stream！！！！！！！！！！！！！！"
+        },
+        "id": {
+          "title": "Streaming hari ini diputuskan main Mecha...",
+          "body": "Streaming hari ini diputuskan main Mecha-Kame！！！！！！！！！！！！！！"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "dee35432-723b-425c-9db9-2c789c38d6dd",
     "thread": {
       "id": "dee35432-723b-425c-9db9-2c789c38d6dd",
