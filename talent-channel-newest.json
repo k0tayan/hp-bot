@@ -1,5 +1,57 @@
 [
   {
+    "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
+    "channel_name": "尾丸ポルカ",
+    "thread_id": "d21aa08b-5bf2-46fa-b19c-6ae13ab37ebc",
+    "thread": {
+      "id": "d21aa08b-5bf2-46fa-b19c-6ae13ab37ebc",
+      "created_at": 1782203047,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/d21aa08b-5bf2-46fa-b19c-6ae13ab37ebc/original_1782203048_1.png",
+        "https://asset.holoplus.com/threads/d21aa08b-5bf2-46fa-b19c-6ae13ab37ebc/original_1782203048_2.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "4a262801-582d-4e92-a3d7-9a7ddb4100ab",
+        "name": "尾丸ポルカ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/custom_icon/uploaded_1771987556.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "❤️狐族密会からのおしらせ❤️",
+      "body": "🎪✨️狐族密会からのお知らせ✨️🎪\n\nついに！ついに！！\n番組ステッカーが完成したってばよーーー‼️🎉\n\n次回の狐族密会から、みんなへの配布もスタート！？\nこれから番組ノベルティとして頑張ってもらうぞ✋\n\nそして今まで通り感想やお便り、ネタ投稿などなど！\nこれからも楽しい投稿をどしどし待ってます✨️\n\n募集は匿名投稿OKなホロＱから📮\nもちろんホロプラス運営さんがチェックしてくださっているので、配信内で選ばれたプレゼント対象者の皆さまはご安心を🙌\n\n君の投稿が番組をもっと面白くする！ビシッ\nたくさんの参加これからも待ってんでー！！💓✨️\n\n#ホロプラス企画 #狐族密会",
+      "translations": {
+        "ja": {
+          "title": "❤️狐族密会からのおしらせ❤️",
+          "body": "🎪✨️狐族密会からのお知らせ✨️🎪\n\nついに！ついに！！\n番組ステッカーが完成したってばよーーー‼️🎉\n\n次回の狐族密会から、みんなへの配布もスタート！？\nこれから番組ノベルティとして頑張ってもらうぞ✋\n\nそして今まで通り感想やお便り、ネタ投稿などなど！\nこれからも楽しい投稿をどしどし待ってます✨️\n\n募集は匿名投稿OKなホロＱから📮\nもちろんホロプラス運営さんがチェックしてくださっているので、配信内で選ばれたプレゼント対象者の皆さまはご安心を🙌\n\n君の投稿が番組をもっと面白くする！ビシッ\nたくさんの参加これからも待ってんでー！！💓✨️\n\n#ホロプラス企画 #狐族密会"
+        },
+        "en": {
+          "title": "❤️Announcement from Kitsune-zoku Mikkai❤️",
+          "body": "🎪✨️Announcement from Kitsune-zoku Mikkai✨️🎪\n\nFinally! Finally!!\nThe show stickers are finished, believe itーーー‼️🎉\n\nDistribution to everyone starts from the next Kitsune-zoku Mikkai!?\nThey'll be working hard as the show's novelty items from now on✋\n\nAnd as always, keep sending in your thoughts, letters, and segment submissions! \nI'm looking forward to all your fun posts✨️\n\nYou can send them anonymously via HoloQ📮\nOf course, the Holoplus management team is checking them, so if you're selected as a gift recipient during the stream, don't worry🙌\n\nYour posts make the show even more fun! *Salute*\nI'm waiting for lots of participation from you all!!💓✨️\n\n#HoloplusProject #KitsuneZokuMikkai"
+        },
+        "id": {
+          "title": "❤️Pengumuman dari Kitsune-zoku Mikkai❤️",
+          "body": "🎪✨️Pengumuman dari Kitsune-zoku Mikkai✨️🎪\n\nAkhirnya! Akhirnya!!\nStiker acaranya sudah selesai, lhoーーー‼️🎉\n\nMulai dari Kitsune-zoku Mikkai berikutnya, pembagian ke kalian semua akan dimulai!?\nStiker ini akan jadi barang resmi acara kita mulai sekarang✋\n\nDan seperti biasa, terus kirimkan kesan, surat, dan kiriman konten kalian ya! \nAku tunggu kiriman seru dari kalian✨️\n\nKirim lewat HoloQ yang bisa anonim ya📮\nTentunya tim manajemen Holoplus juga akan mengeceknya, jadi bagi kalian yang terpilih sebagai penerima hadiah saat siaran, tenang saja🙌\n\nKiriman kalian membuat acara ini jadi makin seru! *Hormat*\nAku tunggu partisipasi kalian semua!!💓✨️\n\n#ProyekHoloplus #KitsuneZokuMikkai"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "163c4e32-2e26-466f-b570-fbafc9e3a609",
