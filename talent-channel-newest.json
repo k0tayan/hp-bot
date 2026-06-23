@@ -2,6 +2,51 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "163c4e32-2e26-466f-b570-fbafc9e3a609",
+    "thread": {
+      "id": "163c4e32-2e26-466f-b570-fbafc9e3a609",
+      "created_at": 1782199745,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/163c4e32-2e26-466f-b570-fbafc9e3a609/original_1782199746_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "ククク…まるでコラボのような並びだ　偽装...",
+      "body": "ククク…まるでコラボのような並びだ　偽装完了",
+      "translations": {
+        "ja": {
+          "title": "ククク…まるでコラボのような並びだ　偽装...",
+          "body": "ククク…まるでコラボのような並びだ　偽装完了"
+        },
+        "en": {
+          "title": "Heh heh heh... It's lined up just like a...",
+          "body": "Heh heh heh... It's lined up just like a collab. Disguise complete."
+        },
+        "id": {
+          "title": "Hehehe... Berjajar seolah-olah sedang ko...",
+          "body": "Hehehe... Berjajar seolah-olah sedang kolaborasi. Penyamaran selesai."
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "7304f88b-41aa-4ed3-bd9b-b36b1cf695c7",
     "thread": {
       "id": "7304f88b-41aa-4ed3-bd9b-b36b1cf695c7",
