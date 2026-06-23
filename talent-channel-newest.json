@@ -1,5 +1,59 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "4e223140-1ed6-4a4d-8cbc-c18fcda8c0cf",
+    "thread": {
+      "id": "4e223140-1ed6-4a4d-8cbc-c18fcda8c0cf",
+      "created_at": 1782212340,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/4e223140-1ed6-4a4d-8cbc-c18fcda8c0cf/original_1782212340_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "＼#狐族密会 ＃ホロプラス企画／",
+      "body": "＼#狐族密会 ＃ホロプラス企画／\n\n狐族密会ステッカーフブポルお写真も🎵\nポルカの投稿ではスマホケースサイズなのも確認できちゃいます！",
+      "translations": {
+        "ja": {
+          "title": "＼#狐族密会 ＃ホロプラス企画／",
+          "body": "＼#狐族密会 ＃ホロプラス企画／\n\n狐族密会ステッカーフブポルお写真も🎵\nポルカの投稿ではスマホケースサイズなのも確認できちゃいます！"
+        },
+        "en": {
+          "title": "＼#FoxClanSecretMeeting #HoloPlusProject...",
+          "body": "＼#FoxClanSecretMeeting #HoloPlusProject／\n\nCheck out the FubuPol photos with the Fox Clan Secret Meeting stickers too🎵\nYou can even see how they fit on a smartphone case in Polka's post!"
+        },
+        "id": {
+          "title": "＼#PertemuanRahasiaKaumRubah #ProyekHolo...",
+          "body": "＼#PertemuanRahasiaKaumRubah #ProyekHoloPlus／\n\nAda juga foto FubuPol dengan stiker Pertemuan Rahasia Kaum Rubah🎵\nDi postingan Polka, kamu juga bisa lihat ukurannya saat ditempel di casing HP!"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/dba2f8d7-dfca-44a8-85ed-4ff905c571c5.mp4"
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "BC721DB0-91C9-4939-B917-9E168D5C522D",
     "channel_name": "尾丸ポルカ",
     "thread_id": "d21aa08b-5bf2-46fa-b19c-6ae13ab37ebc",
