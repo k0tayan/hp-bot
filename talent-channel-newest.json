@@ -2,6 +2,48 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "dee35432-723b-425c-9db9-2c789c38d6dd",
+    "thread": {
+      "id": "dee35432-723b-425c-9db9-2c789c38d6dd",
+      "created_at": 1782184402,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "今日の配信",
+      "body": "🌽to DAY\n\nめちゃカメ🎨参加型\nソロREPO GO level40\nBrotato🥔気になってたやつ\n\nもしかすると別ゲーコラボかも？🤔\n\n[[holoplus_survey_start]]\nA. めっちゃカメレオン\nB. REPO\nC. Brotato\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "今日の配信",
+          "body": "🌽to DAY\n\nめちゃカメ🎨参加型\nソロREPO GO level40\nBrotato🥔気になってたやつ\n\nもしかすると別ゲーコラボかも？🤔\n\n[[holoplus_survey_start]]\nA. めっちゃカメレオン\nB. REPO\nC. Brotato\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "Today's Stream",
+          "body": "🌽to DAY\n\nMetcha Chameleon🎨 Participation Stream\nSolo REPO GO level 40\nBrotato🥔 The one I've been curious about\n\nMaybe a collab with another game too?🤔\n\n[[holoplus_survey_start]]\nA. Metcha Chameleon\nB. REPO\nC. Brotato\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Stream Hari Ini",
+          "body": "🌽to DAY\n\nMetcha Chameleon🎨 Stream partisipasi\nSolo REPO GO level 40\nBrotato🥔 Game yang bikin penasaran\n\nMungkin ada kolaborasi game lain juga?🤔\n\n[[holoplus_survey_start]]\nA. Metcha Chameleon\nB. REPO\nC. Brotato\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "2fd27fb7-7a1a-4c4f-967f-c3b73b3e35f8",
     "thread": {
       "id": "2fd27fb7-7a1a-4c4f-967f-c3b73b3e35f8",
