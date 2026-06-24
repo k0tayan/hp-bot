@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "bb862bdd-7340-49ea-8377-893ee35e0462",
+    "thread": {
+      "id": "bb862bdd-7340-49ea-8377-893ee35e0462",
+      "created_at": 1782279685,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/bb862bdd-7340-49ea-8377-893ee35e0462/original_1782279685_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "4aef28fc-b18f-4fd8-b08e-5be9be79449a",
+          "name": "ベスティア・ゼータ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/vestia_zeta/icon_20260311.png",
+          "key_name": "vestia_zeta"
+        },
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Chibivella rawdogging homework while wit...",
+      "body": "Chibivella rawdogging homework while with Zeta!",
+      "translations": {
+        "ja": {
+          "title": "ゼータと一緒に宿題をガチで片付けるチビヴ...",
+          "body": "チビベラはゼータと一緒に宿題をしています！"
+        },
+        "en": {
+          "title": "Chibivella rawdogging homework while wit...",
+          "body": "Chibivella rawdogging homework while with Zeta!"
+        },
+        "id": {
+          "title": "Chibivella lagi ngebut ngerjain PR baren...",
+          "body": "Chibivella lagi ngebut ngerjain PR bareng Zeta!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "4e223140-1ed6-4a4d-8cbc-c18fcda8c0cf",
