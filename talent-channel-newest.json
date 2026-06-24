@@ -1,5 +1,56 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "17ab6511-1e8d-4ea3-a69f-87e3099fdd5d",
+    "thread": {
+      "id": "17ab6511-1e8d-4ea3-a69f-87e3099fdd5d",
+      "created_at": 1782304428,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/17ab6511-1e8d-4ea3-a69f-87e3099fdd5d/original_1782304428_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "╭━━━━━━╮",
+      "body": "╭━━━━━━╮\n　狐族密会告知\n╰━━━━━━╯\n #狐族密会 です🦊\n6月…梅雨…うねる髪…したたる汗…蒸し暑い夜\n\n＼ ホロプラスにて投稿募集予定 ／\n「自分の地域限定だった事」\n「画像で一言(ホロぐら大喜利)」\n「梅雨を乗り切れ！おすすめ対策」\n📢25日13時頃から募集予定です\n\n🌽6月25日22:00🎪\n✔️https://youtube.com/live/FdsPMD8L_ZA?feature=share\n",
+      "translations": {
+        "ja": {
+          "title": "╭━━━━━━╮",
+          "body": "╭━━━━━━╮\n　狐族密会告知\n╰━━━━━━╯\n #狐族密会 です🦊\n6月…梅雨…うねる髪…したたる汗…蒸し暑い夜\n\n＼ ホロプラスにて投稿募集予定 ／\n「自分の地域限定だった事」\n「画像で一言(ホロぐら大喜利)」\n「梅雨を乗り切れ！おすすめ対策」\n📢25日13時頃から募集予定です\n\n🌽6月25日22:00🎪\n✔️https://youtube.com/live/FdsPMD8L_ZA?feature=share\n"
+        },
+        "en": {
+          "title": "╭━━━━━━╮",
+          "body": "╭━━━━━━╮\n　Fox Clan Secret Meeting Notice\n╰━━━━━━╯\n It's #FoxClanSecretMeeting 🦊\nJune... Rainy season... Frizzy hair... Dripping sweat... Humid nights\n\n＼ Accepting submissions on Holoplus ／\n\"Things that were only in my local area\"\n\"One-liner for this image (HoloGra Comedy)\"\n\"Survive the rainy season! Recommended tips\"\n📢 Accepting submissions from around 13:00 on the 25th\n\n🌽 June 25th 22:00 🎪\n✔️https://youtube.com/live/FdsPMD8L_ZA?feature=share\n"
+        },
+        "id": {
+          "title": "╭━━━━━━╮",
+          "body": "╭━━━━━━╮\n　Pemberitahuan Pertemuan Rahasia Klan Rubah\n╰━━━━━━╯\n Ini #FoxClanSecretMeeting 🦊\nJuni... Musim hujan... Rambut kusut... Keringat bercucuran... Malam yang lembap\n\n＼ Rencana penerimaan kiriman di Holoplus ／\n\"Hal-hal yang cuma ada di daerahku\"\n\"Satu kalimat untuk gambar ini (Komedi HoloGra)\"\n\"Bertahan di musim hujan! Tips yang direkomendasikan\"\n📢 Rencana penerimaan mulai sekitar pukul 13:00 tanggal 25\n\n🌽 25 Juni 22:00 🎪\n✔️https://youtube.com/live/FdsPMD8L_ZA?feature=share\n"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "bb862bdd-7340-49ea-8377-893ee35e0462",
