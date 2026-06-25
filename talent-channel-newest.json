@@ -1,5 +1,158 @@
 [
   {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "4f3dc0ba-902b-40e6-b0b8-3696286f2391",
+    "thread": {
+      "id": "4f3dc0ba-902b-40e6-b0b8-3696286f2391",
+      "created_at": 1782366844,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/4f3dc0ba-902b-40e6-b0b8-3696286f2391/original_1782366844_1.png"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【狐族密会募集】画像で一言お願いします",
+      "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n:arrow_forward:https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎募集内容\nホロぐらのワンシーンに一言台詞をつける大喜利です！\n添付してる画像に一言お願いします",
+      "translations": {
+        "ja": {
+          "title": "【狐族密会募集】画像で一言お願いします",
+          "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n:arrow_forward:https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎募集内容\nホロぐらのワンシーンに一言台詞をつける大喜利です！\n添付してる画像に一言お願いします"
+        },
+        "en": {
+          "title": "Give us a caption for this image!",
+          "body": "I'll be introducing some of your submissions during tonight's radio program, 'Kozoku Mikkai,' starting at 22:00 JST!📻\n▶︎https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎What we're looking for:\nIt's an 'oogiri' (comedy sketch) challenge where you add a one-liner caption to a scene from HoloGra! \nPlease send me your best one-liner for the attached image."
+        },
+        "id": {
+          "title": "Berikan satu kalimat untuk gambar ini!",
+          "body": "Saya akan memperkenalkan beberapa kiriman kalian di program radio 'Kozoku Mikkai' yang dijadwalkan tayang malam ini pukul 22:00 JST!📻\n▶︎https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎Isi partisipasi:\nIni adalah tantangan 'oogiri' (komedi) di mana kalian harus memberikan satu kalimat dialog untuk salah satu adegan di HoloGra!\nTolong berikan satu kalimat untuk gambar yang terlampir ya."
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "acf87e0c-245a-4039-9e7b-b6805342bbe6",
+    "thread": {
+      "id": "acf87e0c-245a-4039-9e7b-b6805342bbe6",
+      "created_at": 1782366806,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/acf87e0c-245a-4039-9e7b-b6805342bbe6/original_1782366806_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【狐族密会募集】梅雨を乗り切れ！おすすめ対策",
+      "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎募集内容\n梅雨を乗り切れるおすすめ対策を募集します！",
+      "translations": {
+        "ja": {
+          "title": "【狐族密会募集】梅雨を乗り切れ！おすすめ対策",
+          "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎募集内容\n梅雨を乗り切れるおすすめ対策を募集します！"
+        },
+        "en": {
+          "title": "Get Through the Rainy Season! Recommended Tips",
+          "body": "I'll be introducing some of your tips during tonight's radio program, 'Kozoku Mikkai,' starting at 22:00 JST! 📻\n▶https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎Call for Submissions\nI'm looking for your best tips on how to get through the rainy season!"
+        },
+        "id": {
+          "title": "Lewati Musim Hujan! Tips Rekomendasi",
+          "body": "Saya akan memperkenalkan beberapa tips kalian di program radio 'Kozoku Mikkai' yang akan tayang malam ini pukul 22:00 JST! 📻\n▶https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎Isi Partisipasi\nSaya mencari tips rekomendasi kalian untuk melewati musim hujan!"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "4d37a13c-1cfc-4421-8247-ae8c970d25e0",
+    "thread": {
+      "id": "4d37a13c-1cfc-4421-8247-ae8c970d25e0",
+      "created_at": 1782366762,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/4d37a13c-1cfc-4421-8247-ae8c970d25e0/original_1782366763_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        },
+        {
+          "id": "bf84f0f0-9076-4bfc-bd33-df3c309017ca",
+          "name": "尾丸ポルカ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/omaru_polka/icon_20260311.png",
+          "key_name": "omaru_polka"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【狐族密会募集】自分の地域限定だった事",
+      "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎募集内容\n自分の地域限定だった物、施設、食べ物、方言等",
+      "translations": {
+        "ja": {
+          "title": "【狐族密会募集】自分の地域限定だった事",
+          "body": "本日22時から配信予定のラジオ番組📻\n狐族密会にていくつかご紹介させていただきます。\n▶https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎募集内容\n自分の地域限定だった物、施設、食べ物、方言等"
+        },
+        "en": {
+          "title": "Things that were exclusive to your region",
+          "body": "For the radio show scheduled for 10:00 PM JST today📻\nI'll be sharing some of your submissions during the Kitsune-zoku Secret Meeting.\n▶https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎What I'm looking for:\nThings that were exclusive to your local area, such as facilities, food, dialects, etc."
+        },
+        "id": {
+          "title": "Hal-hal yang hanya ada di daerahmu",
+          "body": "Untuk acara radio yang dijadwalkan hari ini pukul 22:00 JST📻\nSaya akan membacakan beberapa kiriman kalian di Pertemuan Rahasia Kitsune-zoku.\n▶https://youtube.com/live/FdsPMD8L_ZA?feature=share\n◾︎Topik yang dicari:\nHal-hal yang hanya ada di daerah lokalmu, seperti fasilitas, makanan, dialek, dll."
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
     "thread_id": "3eff0577-ccba-4074-9c71-1a987f4cd45a",
