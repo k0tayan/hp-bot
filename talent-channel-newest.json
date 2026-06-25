@@ -2,6 +2,51 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "a829555b-53a7-4644-a8f0-aa8c247c55b7",
+    "thread": {
+      "id": "a829555b-53a7-4644-a8f0-aa8c247c55b7",
+      "created_at": 1782387911,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "本日２２時からは狐族密会！",
+      "body": "本日２２時からは狐族密会！\n今夜も楽しくお喋りしていきますよ🌽🎪\n▷https://www.youtube.com/live/FdsPMD8L_ZA?si=_A-8bugtbSrqcv7a\n#狐族密会  #ホロプラス企画",
+      "translations": {
+        "ja": {
+          "title": "本日２２時からは狐族密会！",
+          "body": "本日２２時からは狐族密会！\n今夜も楽しくお喋りしていきますよ🌽🎪\n▷https://www.youtube.com/live/FdsPMD8L_ZA?si=_A-8bugtbSrqcv7a\n#狐族密会  #ホロプラス企画"
+        },
+        "en": {
+          "title": "The Fox Clan Secret Meeting starts tonig...",
+          "body": "The Fox Clan Secret Meeting starts tonight at 22:00! \nWe'll be having a fun chat again tonight🌽🎪\n▷https://www.youtube.com/live/FdsPMD8L_ZA?si=_A-8bugtbSrqcv7a\n#FoxClanSecretMeeting #holoPlusProject"
+        },
+        "id": {
+          "title": "Pertemuan Rahasia Klan Rubah dimulai mal...",
+          "body": "Pertemuan Rahasia Klan Rubah dimulai malam ini pukul 22:00! \nKita akan mengobrol seru lagi malam ini🌽🎪\n▷https://www.youtube.com/live/FdsPMD8L_ZA?si=_A-8bugtbSrqcv7a\n#PertemuanRahasiaKlanRubah #ProyekHoloPlus"
+        }
+      },
+      "voice_clip": {
+        "url": "https://asset.holoplus.com/voice-clips/4fc28e33-3d54-4fc5-adfe-32d43be47285.mp4"
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "4f3dc0ba-902b-40e6-b0b8-3696286f2391",
     "thread": {
       "id": "4f3dc0ba-902b-40e6-b0b8-3696286f2391",
