@@ -1,5 +1,50 @@
 [
   {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "3eff0577-ccba-4074-9c71-1a987f4cd45a",
+    "thread": {
+      "id": "3eff0577-ccba-4074-9c71-1a987f4cd45a",
+      "created_at": 1782360356,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/3eff0577-ccba-4074-9c71-1a987f4cd45a/original_1782360356_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "Shiori as a maid!?",
+      "body": "Shiori as a maid!?\n\n⚠️⚠️투니크 X hololive English -Advent- Collaboration Cafe ⚠️",
+      "translations": {
+        "ja": {
+          "title": "メイド姿のしおり！？",
+          "body": "メイド姿のしおり！？\n\n⚠️⚠️Toonique X hololive English -Advent- コラボカフェ ⚠️"
+        },
+        "en": {
+          "title": "Shiori as a maid!?",
+          "body": "Shiori as a maid!?\n\n⚠️⚠️투니크 X hololive English -Advent- Collaboration Cafe ⚠️"
+        },
+        "id": {
+          "title": "Shiori jadi maid!?",
+          "body": "Shiori jadi maid!?\n\n⚠️⚠️Toonique X hololive English -Advent- Collaboration Cafe ⚠️"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
     "thread_id": "17ab6511-1e8d-4ea3-a69f-87e3099fdd5d",
