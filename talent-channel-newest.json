@@ -2,6 +2,48 @@
   {
     "channel_id": "6ACF69D8-97B8-4B11-9375-F7AEF7B1F059",
     "channel_name": "さくらみこ",
+    "thread_id": "b4e51b89-b228-4b76-a170-0ecab2491e42",
+    "thread": {
+      "id": "b4e51b89-b228-4b76-a170-0ecab2491e42",
+      "created_at": 1782657472,
+      "talents": [
+        {
+          "id": "de54958d-3ba2-4539-9cb1-39fd392cf82a",
+          "name": "さくらみこ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/sakura_miko/icon_20260311.png",
+          "key_name": "sakura_miko"
+        }
+      ],
+      "user": {
+        "id": "6f459013-fb93-4c51-b740-c8a01d8dedd6",
+        "name": "さくらみこ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/sakura_miko/custom_icon/uploaded_1773999695.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "A型の人に質問です",
+      "body": "A型の人みこの配信の視聴について\nみこの配信（整理整頓など）のときにあなたは・・\n\n[[holoplus_survey_start]]\nA. みこちの配信でイライラすることが多々ある\nB. みこちの配信で別にイライラはしない\nC. A型だけどみこち諦めている\nD. とくになにもおもわない！\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "A型の人に質問です",
+          "body": "A型の人みこの配信の視聴について\nみこの配信（整理整頓など）のときにあなたは・・\n\n[[holoplus_survey_start]]\nA. みこちの配信でイライラすることが多々ある\nB. みこちの配信で別にイライラはしない\nC. A型だけどみこち諦めている\nD. とくになにもおもわない！\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "A question for those with Blood Type A",
+          "body": "Regarding watching Miko's streams for those with Blood Type A:\nWhen watching Miko's streams (like tidying up, etc.), do you...\n\n[[holoplus_survey_start]]\nA. Often feel frustrated by Mikochi's strea\nB. Don't really feel frustrated by Mikochi'\nC. Have Blood Type A, but have given up on \nD. Don't think anything in particular!\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Pertanyaan untuk pemilik Golongan Darah A",
+          "body": "Terkait menonton stream Miko bagi pemilik Golongan Darah A:\nSaat menonton stream Miko (seperti merapikan barang, dll.), apakah kamu...\n\n[[holoplus_survey_start]]\nA. Sering merasa kesal dengan stream Mikoch\nB. Tidak merasa kesal dengan stream Mikochi\nC. Bergolongan darah A, tapi sudah pasrah d\nD. Tidak merasa apa-apa!\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "6ACF69D8-97B8-4B11-9375-F7AEF7B1F059",
+    "channel_name": "さくらみこ",
     "thread_id": "71f52775-3b04-4f59-8cf3-3cffd468b521",
     "thread": {
       "id": "71f52775-3b04-4f59-8cf3-3cffd468b521",
