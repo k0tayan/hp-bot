@@ -2,6 +2,51 @@
   {
     "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
     "channel_name": "シオリ・ノヴェラ",
+    "thread_id": "d8dba98e-51ee-4c03-9ca4-fd9b91e1d65c",
+    "thread": {
+      "id": "d8dba98e-51ee-4c03-9ca4-fd9b91e1d65c",
+      "created_at": 1782621888,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/d8dba98e-51ee-4c03-9ca4-fd9b91e1d65c/original_1782621889_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "19523a52-2a66-11ee-b89c-f2115885f868",
+          "name": "シオリ・ノヴェラ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png",
+          "key_name": "shiori_novella"
+        }
+      ],
+      "user": {
+        "id": "74205f82-1a85-463e-96d9-b6bd04cc7286",
+        "name": "シオリ・ノヴェラ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shiori_novella/icon_20260311.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "One final picture of Chibivella taken be...",
+      "body": "One final picture of Chibivella taken before sending her back to staff hands!",
+      "translations": {
+        "ja": {
+          "title": "スタッフの手に戻す前に撮った、ちびヴェラ...",
+          "body": "スタッフの手に戻す前に撮った、ちびヴェラちゃんの最後の写真！"
+        },
+        "en": {
+          "title": "One final picture of Chibivella taken be...",
+          "body": "One final picture of Chibivella taken before sending her back to staff hands!"
+        },
+        "id": {
+          "title": "Satu foto terakhir Chibivella yang diamb...",
+          "body": "Satu foto terakhir Chibivella yang diambil sebelum dikembalikan ke tangan staf!"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "3AF89FF0-3B62-4323-9CDE-1E03D47C9121",
+    "channel_name": "シオリ・ノヴェラ",
     "thread_id": "ba91a0f5-5b5a-479b-a332-c2c3f5b7ab01",
     "thread": {
       "id": "ba91a0f5-5b5a-479b-a332-c2c3f5b7ab01",
