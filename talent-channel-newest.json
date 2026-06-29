@@ -1,5 +1,68 @@
 [
   {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "e0737c12-8876-48e6-b071-42f0b445289f",
+    "thread": {
+      "id": "e0737c12-8876-48e6-b071-42f0b445289f",
+      "created_at": 1782745682,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/e0737c12-8876-48e6-b071-42f0b445289f/original_1782745682_1.png"
+      ],
+      "talents": [
+        {
+          "id": "4e124b33-cad3-4d03-b3b9-97011986ef21",
+          "name": "アユンダ・リス",
+          "img_url": "https://asset.holoplus.com/talents/hololive/ayunda_risu/icon_20260622.png",
+          "key_name": "ayunda_risu"
+        },
+        {
+          "id": "228bf208-18f4-498b-8b74-ab7398a94ab2",
+          "name": "ムーナ・ホシノヴァ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/moona_hoshinova/icon.png",
+          "key_name": "moona_hoshinova"
+        },
+        {
+          "id": "ad45e403-1566-49da-b590-fa95fca334ad",
+          "name": "アイラニ・イオフィフティーン",
+          "img_url": "https://asset.holoplus.com/talents/hololive/airani_iofifteen/icon.png",
+          "key_name": "airani_iofifteen"
+        },
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "【PLUS SURVEY / Episode 1】",
+      "body": "\"SURVEY PLUS\" is a gameshow where talents have to answer that caters to the viewers❣️✨\nThink of Family Feud, but with LIVE VOTING 👀\n💙 JOIN OUR SURVEYS LIVE ON THE FIRST EPISODE!!\n🕖 30/6 - 19:00 WIB/21:00 JST\n➡️ https://www.youtube.com/live/1YmpbSWWDaI?si=e1bWj968iCwVqmcO",
+      "translations": {
+        "ja": {
+          "title": "【PLUS SURVEY / 第1回】",
+          "body": "「SURVEY PLUS」は、視聴者の皆さんの回答をもとにタレントがクイズに挑戦するゲーム番組です❣️✨\n『ファミリー・フュード』のような形式ですが、今回はライブ投票機能を使います👀\n💙 第1回放送のライブ投票にぜひ参加してください！！\n🕖 6月30日 19:00 WIB / 21:00 JST\n➡️ https://www.youtube.com/live/1YmpbSWWDaI?si=e1bWj968iCwVqmcO"
+        },
+        "en": {
+          "title": "【PLUS SURVEY / Episode 1】",
+          "body": "\"SURVEY PLUS\" is a gameshow where talents have to answer that caters to the viewers❣️✨\nThink of Family Feud, but with LIVE VOTING 👀\n💙 JOIN OUR SURVEYS LIVE ON THE FIRST EPISODE!!\n🕖 30/6 - 19:00 WIB/21:00 JST\n➡️ https://www.youtube.com/live/1YmpbSWWDaI?si=e1bWj968iCwVqmcO"
+        },
+        "id": {
+          "title": "【PLUS SURVEY / Episode 1】",
+          "body": "\"SURVEY PLUS\" adalah acara permainan di mana para talenta harus menjawab pertanyaan yang disesuaikan dengan penonton❣️✨\nBayangkan seperti Family Feud, tapi dengan LIVE VOTING 👀\n💙 IKUTI SURVEI KAMI SECARA LANGSUNG DI EPISODE PERTAMA!!\n🕖 30/6 - 19:00 WIB/21:00 JST\n➡️ https://www.youtube.com/live/1YmpbSWWDaI?si=e1bWj968iCwVqmcO"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
     "channel_id": "6ACF69D8-97B8-4B11-9375-F7AEF7B1F059",
     "channel_name": "さくらみこ",
     "thread_id": "b4e51b89-b228-4b76-a170-0ecab2491e42",
