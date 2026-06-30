@@ -2,6 +2,132 @@
   {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
+    "thread_id": "74d39e23-7564-4ec8-b228-478e134da978",
+    "thread": {
+      "id": "74d39e23-7564-4ec8-b228-478e134da978",
+      "created_at": 1782818414,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "PLUS+SURVEY - TEST",
+      "body": "test\n\n[[holoplus_survey_start]]\nA. test a\nB. test b\nC. test c\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "PLUS+SURVEY - テスト",
+          "body": "テスト\n\n[[holoplus_survey_start]]\nA. テスト a\nB. テスト b\nC. テスト c\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "PLUS+SURVEY - TEST",
+          "body": "test\n\n[[holoplus_survey_start]]\nA. test a\nB. test b\nC. test c\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "PLUS+SURVEY - UJI COBA",
+          "body": "uji coba\n\n[[holoplus_survey_start]]\nA. uji coba a\nB. uji coba b\nC. uji coba c\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "63486b53-f4e5-4f98-8d13-32b2f5a7b02d",
+    "thread": {
+      "id": "63486b53-f4e5-4f98-8d13-32b2f5a7b02d",
+      "created_at": 1782818283,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【現在配信中アンケート】",
+      "body": "最近グッズって買った？\n\n[[holoplus_survey_start]]\nA. 買った\nB. 買ってない\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "【現在配信中アンケート】",
+          "body": "最近グッズって買った？\n\n[[holoplus_survey_start]]\nA. 買った\nB. 買ってない\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "[Live Survey Now]",
+          "body": "Have you bought any merch lately?\n\n[[holoplus_survey_start]]\nA. Yes, I have\nB. No, I haven't\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "[Survei Sedang Berlangsung]",
+          "body": "Apakah kamu beli merchandise akhir-akhir ini?\n\n[[holoplus_survey_start]]\nA. Sudah beli\nB. Belum beli\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
+    "thread_id": "1ebe9551-876a-45af-bcaa-61a050ec2210",
+    "thread": {
+      "id": "1ebe9551-876a-45af-bcaa-61a050ec2210",
+      "created_at": 1782818085,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "【現在配信中アンケート】",
+      "body": "一蘭って食べたことある？？？\n\n[[holoplus_survey_start]]\nA. 食べたことある\nB. 食べたことない\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "【現在配信中アンケート】",
+          "body": "一蘭って食べたことある？？？\n\n[[holoplus_survey_start]]\nA. 食べたことある\nB. 食べたことない\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "[Current Stream Poll]",
+          "body": "Have you ever eaten at Ichiran???\n\n[[holoplus_survey_start]]\nA. Yes, I have\nB. No, I haven't\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "[Polling Saat Streaming]",
+          "body": "Kalian pernah makan di Ichiran nggak???\n\n[[holoplus_survey_start]]\nA. Pernah\nB. Belum pernah\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
     "thread_id": "e0737c12-8876-48e6-b071-42f0b445289f",
     "thread": {
       "id": "e0737c12-8876-48e6-b071-42f0b445289f",
