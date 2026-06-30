@@ -2,6 +2,48 @@
   {
     "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
     "channel_name": "白上フブキ",
+    "thread_id": "89c5e377-8657-4cf3-9d4b-4a24cc8dbe37",
+    "thread": {
+      "id": "89c5e377-8657-4cf3-9d4b-4a24cc8dbe37",
+      "created_at": 1782819804,
+      "talents": [
+        {
+          "id": "9981f04f-da6c-4d51-b920-89cd53e79b59",
+          "name": "白上フブキ",
+          "img_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/icon_20260311.png",
+          "key_name": "shirakami_fubuki"
+        }
+      ],
+      "user": {
+        "id": "1ba47bd4-94ea-4c2f-8253-0e20a9120eb4",
+        "name": "白上フブキ",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/shirakami_fubuki/custom_icon/uploaded_1771920104.jpg"
+      },
+      "original_language": "ja",
+      "is_translated": true,
+      "title": "フブキングダムで就職するなら？",
+      "body": "[[holoplus_survey_start]]\nA. 文系\nB. 理系\nC. 医療系\nD. サービス業\nE. ニート\nF. 農産業&漁業\nG. 戦闘職\nH. 工業系\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "フブキングダムで就職するなら？",
+          "body": "[[holoplus_survey_start]]\nA. 文系\nB. 理系\nC. 医療系\nD. サービス業\nE. ニート\nF. 農産業&漁業\nG. 戦闘職\nH. 工業系\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "If you were to get a job in Fubuki Kingdom, what would it be?",
+          "body": "[[holoplus_survey_start]]\nA. Humanities\nB. Sciences\nC. Medical\nD. Service Industry\nE. NEET\nF. Agriculture & Fisheries\nG. Combat Role\nH. Industrial\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "Kalau kamu harus bekerja di Kerajaan Fubuki, pilih yang mana?",
+          "body": "[[holoplus_survey_start]]\nA. Humaniora\nB. Sains\nC. Medis\nD. Industri Jasa\nE. NEET\nF. Pertanian & Perikanan\nG. Peran Tempur\nH. Industri\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "13588B9C-099B-443B-AE61-A4ED899377F3",
+    "channel_name": "白上フブキ",
     "thread_id": "7c08cd67-5df6-4133-bafc-0160588c9021",
     "thread": {
       "id": "7c08cd67-5df6-4133-bafc-0160588c9021",
