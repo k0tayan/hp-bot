@@ -2,6 +2,48 @@
   {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
+    "thread_id": "b308339d-834f-4aaa-8bcd-9458ee15121f",
+    "thread": {
+      "id": "b308339d-834f-4aaa-8bcd-9458ee15121f",
+      "created_at": 1782823644,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "PLUS+SURVEY - Q6",
+      "body": "What do fans really want from holoID?\n\n[[holoplus_survey_start]]\nA. getting noticed by oshi\nB. live concert\nC. oshi happiness\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "PLUS+アンケート - Q6",
+          "body": "ファンがholoIDに一番求めていることは？\n\n[[holoplus_survey_start]]\nA. 推しに認知されること\nB. ライブコンサート\nC. 推しの幸せ\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "PLUS+SURVEY - Q6",
+          "body": "What do fans really want from holoID?\n\n[[holoplus_survey_start]]\nA. getting noticed by oshi\nB. live concert\nC. oshi happiness\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "SURVEI PLUS+ - Q6",
+          "body": "Apa yang sebenarnya diinginkan penggemar dari holoID?\n\n[[holoplus_survey_start]]\nA. dinotice oshi\nB. konser langsung\nC. kebahagiaan oshi\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
     "thread_id": "374a9edb-c795-488f-8d9f-bfdb085b40a5",
     "thread": {
       "id": "374a9edb-c795-488f-8d9f-bfdb085b40a5",
