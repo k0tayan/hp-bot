@@ -2,6 +2,48 @@
   {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
+    "thread_id": "562f176c-aee7-44a9-8abd-519ae7ec58ce",
+    "thread": {
+      "id": "562f176c-aee7-44a9-8abd-519ae7ec58ce",
+      "created_at": 1782824210,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "PLUS+SURVEY - Q7",
+      "body": "If we could rename Ollie, what would suit her best?\n\n[[holoplus_survey_start]]\nA. Kureiji Gendheng\nB. Gustu Kanjeng Ratu Lilis Harya Puspa Aditya Karang\nC. Morticia Piaza\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "PLUS+アンケート - Q7",
+          "body": "もしオリーの名前を改名するとしたら、何が一番似合うと思う？\n\n[[holoplus_survey_start]]\nA. Kureiji Gendheng\nB. Gustu Kanjeng Ratu Lilis Harya Puspa Aditya Karang\nC. Morticia Piaza\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "PLUS+SURVEY - Q7",
+          "body": "If we could rename Ollie, what would suit her best?\n\n[[holoplus_survey_start]]\nA. Kureiji Gendheng\nB. Gustu Kanjeng Ratu Lilis Harya Puspa Aditya Karang\nC. Morticia Piaza\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "PLUS+SURVEY - Q7",
+          "body": "Kalau kita bisa mengganti nama Ollie, nama apa yang paling cocok untuknya?\n\n[[holoplus_survey_start]]\nA. Kureiji Gendheng\nB. Gustu Kanjeng Ratu Lilis Harya Puspa Aditya Karang\nC. Morticia Piaza\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
     "thread_id": "b308339d-834f-4aaa-8bcd-9458ee15121f",
     "thread": {
       "id": "b308339d-834f-4aaa-8bcd-9458ee15121f",
