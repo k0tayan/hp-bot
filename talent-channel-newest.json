@@ -2,6 +2,48 @@
   {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
+    "thread_id": "9afa5b51-1d92-4436-9580-2e5e1d6a7d9a",
+    "thread": {
+      "id": "9afa5b51-1d92-4436-9580-2e5e1d6a7d9a",
+      "created_at": 1782824796,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "PLUS+SURVEY - Q8",
+      "body": "if you could pitch a project idea that can be realized, what kind of project would it be?\n\n[[holoplus_survey_start]]\nA. anime based on each lore and then a musical\nB. \"who could spend 1 million yen the fastest\" contest\nC. hololive anime series (ufotable studio)\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "PLUS+アンケート - Q8",
+          "body": "もし実現可能なプロジェクトを提案できるとしたら、どんなプロジェクトがいいですか？\n\n[[holoplus_survey_start]]\nA. 各メンバーの物語をベースにしたアニメ、そしてミュージカル\nB. 「誰が一番早く100万円使い切れるか」選手権\nC. ホロライブのアニメシリーズ（制作：ufotable）\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "PLUS+SURVEY - Q8",
+          "body": "if you could pitch a project idea that can be realized, what kind of project would it be?\n\n[[holoplus_survey_start]]\nA. anime based on each lore and then a musical\nB. \"who could spend 1 million yen the fastest\" contest\nC. hololive anime series (ufotable studio)\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "SURVEI PLUS+ - Q8",
+          "body": "Jika kamu bisa mengajukan ide proyek yang bisa direalisasikan, proyek seperti apa yang ingin kamu buat?\n\n[[holoplus_survey_start]]\nA. Anime berdasarkan lore masing-masing, lalu dilanjutkan dengan musikal\nB. Kontes \"siapa yang paling cepat menghabiskan 1 juta yen\"\nC. Serial anime hololive (studio ufotable)\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
     "thread_id": "562f176c-aee7-44a9-8abd-519ae7ec58ce",
     "thread": {
       "id": "562f176c-aee7-44a9-8abd-519ae7ec58ce",
