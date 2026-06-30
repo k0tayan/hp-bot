@@ -2,6 +2,90 @@
   {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
+    "thread_id": "6a930e8e-46d6-4168-bdcc-c22539019013",
+    "thread": {
+      "id": "6a930e8e-46d6-4168-bdcc-c22539019013",
+      "created_at": 1782821917,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "PLUS+SURVEY - Q2",
+      "body": "What do fans imagine off-stream work is?\n\n[[holoplus_survey_start]]\nA. selling feet picture\nB. upload meme on fanpage\nC. sleep\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "ホロプラスアンケート - 第2四半期",
+          "body": "ファンのみんなは、配信外でどんな仕事をしていると想像する？\n\n[[holoplus_survey_start]]\nA. 足の写真を売る\nB. ファンページにミームを投稿する\nC. 寝る\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "PLUS+SURVEY - Q2",
+          "body": "What do fans imagine off-stream work is?\n\n[[holoplus_survey_start]]\nA. selling feet picture\nB. upload meme on fanpage\nC. sleep\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "SURVEI PLUS+ - Q2",
+          "body": "Menurut penggemar, apa sih pekerjaan di luar streaming itu?\n\n[[holoplus_survey_start]]\nA. menjual foto kaki\nB. mengunggah meme di fanpage\nC. tidur\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "47dba25d-1ab7-4064-ae33-a0aad3696613",
+    "thread": {
+      "id": "47dba25d-1ab7-4064-ae33-a0aad3696613",
+      "created_at": 1782821457,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "PLUS+SURVEY - Q1",
+      "body": "What is something that shouldn't be turned to ice cream?\n\n[[holoplus_survey_start]]\nA. Nasi Lemak\nB. Iofi's Sweat\nC. Jengkol\n[[holoplus_survey_end]]",
+      "translations": {
+        "ja": {
+          "title": "PLUS+アンケート - Q1",
+          "body": "アイスクリームにすべきではないものは何？\n\n[[holoplus_survey_start]]\nA. ナシレマ\nB. イオフィの汗\nC. ジェンコール\n[[holoplus_survey_end]]"
+        },
+        "en": {
+          "title": "PLUS+SURVEY - Q1",
+          "body": "What is something that shouldn't be turned to ice cream?\n\n[[holoplus_survey_start]]\nA. Nasi Lemak\nB. Iofi's Sweat\nC. Jengkol\n[[holoplus_survey_end]]"
+        },
+        "id": {
+          "title": "SURVEI PLUS+ - Q1",
+          "body": "Apa sesuatu yang seharusnya tidak dijadikan es krim?\n\n[[holoplus_survey_start]]\nA. Nasi Lemak\nB. Keringat Iofi\nC. Jengkol\n[[holoplus_survey_end]]"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
     "thread_id": "910d46d2-c000-46bd-8b1b-bc2be24ab93c",
     "thread": {
       "id": "910d46d2-c000-46bd-8b1b-bc2be24ab93c",
