@@ -2,6 +2,93 @@
   {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
+    "thread_id": "7d22cd5b-fbb5-4d0b-8d6e-f0d74df85d1a",
+    "thread": {
+      "id": "7d22cd5b-fbb5-4d0b-8d6e-f0d74df85d1a",
+      "created_at": 1782878200,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "to holoplus staff",
+      "body": "THE MESSAGES ARE MAKING ME CRY TAKE RESPONSIBILITY 😭😭😭😭😭😭😭😭",
+      "translations": {
+        "ja": {
+          "title": "ホロプラス運営スタッフへ",
+          "body": "メッセージを見て泣けてきたんだけど、責任取ってよ😭😭😭😭😭😭😭😭"
+        },
+        "en": {
+          "title": "to holoplus staff",
+          "body": "THE MESSAGES ARE MAKING ME CRY TAKE RESPONSIBILITY 😭😭😭😭😭😭😭😭"
+        },
+        "id": {
+          "title": "untuk staf holoplus",
+          "body": "PESAN-PESAN INI MEMBUATKU MENANGIS, TANGGUNG JAWAB YA 😭😭😭😭😭😭😭😭"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
+    "thread_id": "d5d9e95d-be85-48b3-be2f-ecc5764df73d",
+    "thread": {
+      "id": "d5d9e95d-be85-48b3-be2f-ecc5764df73d",
+      "created_at": 1782878058,
+      "image_urls": [
+        "https://asset.holoplus.com/threads/d5d9e95d-be85-48b3-be2f-ecc5764df73d/original_1782878058_1.jpeg"
+      ],
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "IT'S MY 1st ANNIVERSARY AS AN AMBASSADOR 🎉✨️",
+      "body": "Can't believe it's been a year since holoplus gave me the honors of being the app'a ambassador. Today I wake up to the homepage being ollie-fied 🥹🥹💕\n\nI was reading through the messages left by all the staff and couldn't help but tear up... Even the homepage is decorated with Ollie!! 😭😭\n\nI'm always so grateful to the staff for listening to all of the feedbacks from me and the community, and their resilience in making the app better and better by day! Thank you for all the hardwork 🙇‍♂️✨️\n\nThis app also wouldn't have been successful if it weren't for the fans who actively use it! Even for the fans who never posted or commented on holoplus, the fact that you guys took the time to download holoplus means a lot to us! So thank you so much to everyone for giving holoplus love! 💙💙\n\nI'll keep doing my best and try to actively promote holoplus more! \n\nWhether its to answer comments, holoQs, or do more PLUS+SURVEY!🌷",
+      "translations": {
+        "ja": {
+          "title": "ホロプラスアンバサダー就任1周年！🎉✨️",
+          "body": "ホロプラスのアンバサダーという名誉ある役割をいただいてから、もう1年が経ったなんて信じられません。今日起きたら、ホーム画面がオリー仕様になっていて感動しました🥹🥹💕\n\nスタッフの皆さんからいただいたメッセージを読んでいたら、思わず涙が……。ホーム画面までオリーで飾られているなんて！！😭😭\n\n私やコミュニティからのフィードバックに耳を傾け、日々アプリをより良くするために尽力してくださるスタッフの皆さんには、いつも本当に感謝しています！一生懸命取り組んでくださり、ありがとうございます🙇‍♂️✨️\n\nそして、このアプリが成功しているのは、積極的に使ってくれているファンの皆さんのおかげです！投稿やコメントをしたことがないという方も、ホロプラスをダウンロードしてくださったという事実が、私たちにとって大きな意味を持っています！ホロプラスを愛してくれて、本当にありがとうございます！💙💙\n\nこれからもホロプラスをもっと盛り上げられるよう、全力で頑張ります！\n\nコメントへの返信やホロQ、そしてPLUS+SURVEYにももっと挑戦していきますね！🌷"
+        },
+        "en": {
+          "title": "IT'S MY 1st ANNIVERSARY AS AN AMBASSADOR 🎉✨️",
+          "body": "Can't believe it's been a year since holoplus gave me the honors of being the app'a ambassador. Today I wake up to the homepage being ollie-fied 🥹🥹💕\n\nI was reading through the messages left by all the staff and couldn't help but tear up... Even the homepage is decorated with Ollie!! 😭😭\n\nI'm always so grateful to the staff for listening to all of the feedbacks from me and the community, and their resilience in making the app better and better by day! Thank you for all the hardwork 🙇‍♂️✨️\n\nThis app also wouldn't have been successful if it weren't for the fans who actively use it! Even for the fans who never posted or commented on holoplus, the fact that you guys took the time to download holoplus means a lot to us! So thank you so much to everyone for giving holoplus love! 💙💙\n\nI'll keep doing my best and try to actively promote holoplus more! \n\nWhether its to answer comments, holoQs, or do more PLUS+SURVEY!🌷"
+        },
+        "id": {
+          "title": "INI ANNIVERSARY KE-1 KU SEBAGAI AMBASSADOR 🎉✨️",
+          "body": "Nggak percaya sudah setahun sejak holoplus memberiku kehormatan menjadi ambassador aplikasi ini. Hari ini aku bangun dan melihat halaman utama sudah di-Ollie-fikasi 🥹🥹💕\n\nAku membaca pesan-pesan dari para staf dan tidak bisa menahan air mata... Bahkan halaman utamanya didekorasi dengan Ollie!! 😭😭\n\nAku selalu sangat berterima kasih kepada staf karena telah mendengarkan semua masukan dariku dan komunitas, serta ketangguhan mereka dalam membuat aplikasi ini menjadi lebih baik dari hari ke hari! Terima kasih atas semua kerja kerasnya 🙇‍♂️✨️\n\nAplikasi ini juga tidak akan sukses jika bukan karena para penggemar yang aktif menggunakannya! Bahkan bagi penggemar yang belum pernah memposting atau berkomentar di holoplus, fakta bahwa kalian meluangkan waktu untuk mengunduh holoplus sangat berarti bagi kami! Jadi, terima kasih banyak kepada semuanya karena telah memberikan cinta untuk holoplus! 💙💙\n\nAku akan terus melakukan yang terbaik dan mencoba untuk lebih aktif mempromosikan holoplus!\n\nBaik itu menjawab komentar, holoQ, atau melakukan lebih banyak PLUS+SURVEY!🌷"
+        }
+      },
+      "type": "normal"
+    }
+  },
+  {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
     "thread_id": "f9f16810-d5b5-454f-b469-e21ac2378103",
     "thread": {
       "id": "f9f16810-d5b5-454f-b469-e21ac2378103",
