@@ -2,6 +2,48 @@
   {
     "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
     "channel_name": "クレイジー・オリー",
+    "thread_id": "dc7776f7-97f0-4bc6-b5ff-b34f8436f451",
+    "thread": {
+      "id": "dc7776f7-97f0-4bc6-b5ff-b34f8436f451",
+      "created_at": 1782918697,
+      "talents": [
+        {
+          "id": "17492aaf-a9bc-48e1-b00c-eeaeefa6b5b0",
+          "name": "クレイジー・オリー",
+          "img_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/icon_20260311.png",
+          "key_name": "kureiji_ollie"
+        }
+      ],
+      "user": {
+        "id": "3545fcfd-e768-452b-b3f1-de25dd5e4264",
+        "name": "クレイジー・オリー",
+        "role": "talent",
+        "icon_url": "https://asset.holoplus.com/talents/hololive/kureiji_ollie/custom_icon/uploaded_1772612793.png"
+      },
+      "original_language": "en",
+      "is_translated": true,
+      "title": "IT WAS MY 1st ANNIVERSARY AS AMBASSADOR!! 🥳🥳",
+      "body": "I'll be answering questions!! Anything regarding holoplus? My activities? Or even personal concerns?\n\nI'll be collecting holoQ💙",
+      "translations": {
+        "ja": {
+          "title": "アンバサダー就任1周年でした！！🥳🥳",
+          "body": "質問に答えていくよ！！ホロプラスに関すること？私の活動について？それとも個人的な悩み相談でもなんでも！\n\nholoQ💙を募集します"
+        },
+        "en": {
+          "title": "IT WAS MY 1st ANNIVERSARY AS AMBASSADOR!! 🥳🥳",
+          "body": "I'll be answering questions!! Anything regarding holoplus? My activities? Or even personal concerns?\n\nI'll be collecting holoQ💙"
+        },
+        "id": {
+          "title": "INI ADALAH ANNIVERSARY KE-1 KU SEBAGAI AMBASSADOR!! 🥳🥳",
+          "body": "Aku akan menjawab pertanyaan-pertanyaan kalian!! Ada yang ingin ditanyakan soal holoplus? Tentang kegiatanku? Atau bahkan masalah pribadi?\n\nAku akan mengumpulkan holoQ💙"
+        }
+      },
+      "type": "question_box"
+    }
+  },
+  {
+    "channel_id": "7f237193-e0f7-4127-af78-9f5c255069ac",
+    "channel_name": "クレイジー・オリー",
     "thread_id": "7d22cd5b-fbb5-4d0b-8d6e-f0d74df85d1a",
     "thread": {
       "id": "7d22cd5b-fbb5-4d0b-8d6e-f0d74df85d1a",
